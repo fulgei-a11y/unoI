@@ -203,6 +203,110 @@
    "solo_titolo": true,
    "categoria": "Laboratori",
    "id": "a73"
+  },
+  "u1a1": {
+   "titolo": "AgentGrid.io",
+   "link": "https://www.producthunt.com/products/agentgrid-io",
+   "sito": "https://www.producthunt.com/r/p/1291942?app_id=339",
+   "data": "2026-10-24T22:39:16-07:00",
+   "testo": "Shared workspace for humans and agents",
+   "fonte": "Product Hunt (AI)",
+   "tipo": "vetrina",
+   "solo_titolo": false,
+   "categoria": "Strumenti",
+   "id": "u1a1"
+  },
+  "u1a3": {
+   "titolo": "Llama Windows",
+   "link": "https://www.producthunt.com/products/llama-windows",
+   "sito": "https://www.producthunt.com/r/p/1290875?app_id=339",
+   "data": "2026-10-23T19:40:27-07:00",
+   "testo": "One local AI server for all your Windows apps",
+   "fonte": "Product Hunt (AI)",
+   "tipo": "vetrina",
+   "solo_titolo": false,
+   "categoria": "Strumenti",
+   "id": "u1a3"
+  },
+  "u1a19": {
+   "titolo": "Arriva Julia 3.0 : la nuova app dell'IA di Roma Capitale",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBMdUZFUTh4MHNhODlGYjg5OUpRSHpHUW13R2xjUjFmMU9hUnBfSDZ3Q1F6Z2VSRlhGYmY0SkZhYi1Uem5NTE1FejdRb3lUb09Xd2t6a3hqb3llS0VTNzUwSlNiWEU4dzg?oc=5",
+   "data": "2026-10-25T09:19:38+00:00",
+   "testo": "",
+   "fonte": "Sky TG24",
+   "tipo": "testata",
+   "solo_titolo": true,
+   "categoria": "Strumenti",
+   "id": "u1a19"
+  },
+  "u1a21": {
+   "titolo": "Julia 3.0, come funziona l'intelligenza artificiale di Roma Capitale: certificati in 30 secondi e servizi in chat",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQb2pzSEJfZmJBaU0zdGNWdkFXbkZoTkJ4NDdaWEctdWZaYkx1RGgtaWtCanliMGtTYzVUeGZtc3p0U21JUkUtazQxOVI0ZFljTGtiUU4ta09aZmdmZlU2VFlhRU1MZE5HNm81QWNpQVpVTW5wSjJ0bm91U1R5RFhSYnRDNGQ5Ny1PVkhsWnpZcEphYTVFZjloWEs4OUlwZ0pwSVpRSWllVkFLd3hUTmN2OFNKd0tHSUtZQWtFbHNPWEpPRmhxTFdTTG4tMG9rM1Znd2ExdDlR?oc=5",
+   "data": "2026-10-25T16:13:37+00:00",
+   "testo": "",
+   "fonte": "Fanpage",
+   "tipo": "minore",
+   "solo_titolo": true,
+   "categoria": "Strumenti",
+   "id": "u1a21"
+  },
+  "u1a2": {
+   "titolo": "Yourcast 2.0",
+   "link": "https://www.producthunt.com/products/yourcast",
+   "sito": "https://www.producthunt.com/r/p/1291438?app_id=339",
+   "data": "2026-10-24T07:42:59-07:00",
+   "testo": "AI summaries with tap-to-jump timestamps, right in Telegram",
+   "fonte": "Product Hunt (AI)",
+   "tipo": "vetrina",
+   "solo_titolo": false,
+   "categoria": "Strumenti",
+   "id": "u1a2"
+  },
+  "u1a47": {
+   "titolo": "TREK 5.0: the only travel app you will ever need to self-host. Plan the trip, route the hike, split the costs, print the photo book, and more",
+   "link": "https://www.reddit.com/r/selfhosted/comments/1xf0g6j/trek_50_the_only_travel_app_you_will_ever_need_to/",
+   "sito": "",
+   "data": "2026-10-25T11:55:09+00:00",
+   "testo": "TREK 5.0 is out, and it is the biggest release so far. What TREK is: a self-hosted trip planner. You plan a trip day by day together with the people you travel with, live, on your own server, and none of it leaves your box. Places, routes, bookings, costs, packing lists, documents, a travel journal and a map of everywhere you have been, all in one app. What is new in 5.0 Tours. Plan the outdoor d…",
+   "fonte": "Reddit r/selfhosted",
+   "tipo": "community",
+   "solo_titolo": false,
+   "categoria": "Gemme",
+   "id": "u1a47"
+  },
+  "u1a119": {
+   "titolo": "Nuovi modelli AI di OpenAI anche su Google Cloud",
+   "link": "https://www.punto-informatico.it/nuovi-modelli-ai-openai-google-cloud/",
+   "data": "2026-10-25T09:53:19+00:00",
+   "testo": "OpenAI ha deciso di seguire l’esempio di Anthropic per ridurre la dipendenza da un singolo provider. Dopo aver sottoscritto un accordo con Amazon Web Services a fine aprile, l’azienda californiana ha annunciato che i modelli AI più recenti saranno disponibili anche su Google Cloud. Come è noto, Microsoft rimane il partner cloud principale, ma non ha più l’esclusiva. Prosegue intanto la raccolta di fondi in vista della quotazione in Borsa nel 2027. GPT-6 Astra, GPT-6.1 Sol e GPT-6 Luna su Google Cloud Google Cloud è il terzo servizio di cloud computing in termini di market share (i primi due sono Amazon Web Services e Microsoft Azure), ma è uno dei preferiti dalle aziende, in quanto offre un’ottima combinazione tra prestazioni, sicurezza e prezzo. I clienti dell’azienda di Mountain View potranno accedere anche ai recenti modelli di OpenAI: GPT-6 Astra, GPT-6.1 Sol e GPT-6 Luna. Saranno disponibili nel Model Garden di Google Cloud, insieme a Gemini, Claude e altri 200 modelli, inclusi quelli open-weight. I clienti potranno selezionare dinamicamente il modello ottimale per qualsiasi utilizzo in base a prestazioni, latenza e costi senza vincoli architetturali o contratti separati con i fornitori. I modelli di OpenAI vengono offerti direttamente tramite Google Cloud Marketplace, quindi l’utilizzo appare in un’unica fattura Google Cloud. Inizialmente, GPT-6 Astra, GPT-6.1 Sol e GPT-6 Luna sono disponibili in anteprima privata per alcuni clienti. L’accesso è possibile tramite API e collegando i flussi di lavoro locali, basati su Codex CLI e desktop, direttamente alla piattaforma Gemini per l’inferenza. Successivamente saranno disponibili in Google Antigravity e Gemini Agent. Il nuovo accordo potrebbe avere un impatto positivo sulla futura quotazione in Borsa. Secondo CNBC, Op…",
+   "fonte": "Punto Informatico",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Italia",
+   "id": "u1a119",
+   "testo_completo": true
+  },
+  "u1a20": {
+   "titolo": "Roma, arriva Julia 3.0: l’intelligenza artificiale che permette di accedere ai servizi comunali direttamente dallo smartphone",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSk5MYkZYT0dZUzgtVEpUNkJDZ2dLMEVaWWZBX0FZdUl4cjEycXRFbHZ3eld3M1R3dk1yQXppRTdhTEtwVmh6QzRZdFdKS3VCcUNGQ3J0ZDJxdmxpY004N0RCQTU4dnZha3NabHhhT1lGMVI1MnlVSG15amQxanFUMGc1Mnlkdw?oc=5",
+   "data": "2026-10-25T07:01:27+00:00",
+   "testo": "",
+   "fonte": "https://citynext.it/",
+   "tipo": "minore",
+   "solo_titolo": true,
+   "categoria": "Strumenti",
+   "id": "u1a20"
+  },
+  "u1a18": {
+   "titolo": "Arriva Julia 3.0, l’AI di Roma Capitale diventa un’app",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbzBybVBHclFra0N1TzRlQWxYSlZyUFZ4QUgxbTFROGxEbVVIQ2dPXzFBSkRpOHFaa3dpVDBNWWJKQ1V0MVBCS1VNZXE2T1ZheXpJTlFsYTRBc2laRGNQdVdrbm5aMV95aFhZZXhIVjJLUnprVDU2Y1poYkVMRC1IOHJUZ2o5bkRqVHh3bTk4NkFKUk40?oc=5",
+   "data": "2026-10-25T12:06:33+00:00",
+   "testo": "",
+   "fonte": "Il Sole 24 ORE",
+   "tipo": "testata",
+   "solo_titolo": true,
+   "categoria": "Strumenti",
+   "id": "u1a18"
   }
  },
  "fonti": [
@@ -546,8 +650,281 @@
   "tiktokandinstagram",
   "tiktokcomments",
   "isagaiaidcompletelyuselessinbig2026",
-  "howtolocatescotlandcourtrolls"
+  "howtolocatescotlandcourtrolls",
+  "agentgridio",
+  "yourcast20",
+  "llamawindows",
+  "metaspriciercamerafreeraybanswontmakesensetotechies",
+  "moroccossmesareenteringanaitoolsprawlphase",
+  "getmanyaiopinionswiththismultiaitoollifetimeaccessisonsaleforjust2997",
+  "immersivephysicalactivationsandaipoweredexperienceslastweeksmostreadretailtechno",
+  "aisexbestsexaiappin2026adultorientedaicreationplatformswithsafetyfocusedcomparis",
+  "yourfirstaiappworksinthedemothenrealusersarrive",
+  "meituanwaimaioffersrestaurantsafreeaistoremanagerfordiagnosisstorechecksandmenus",
+  "googlemapsisgettinggeminiaiincarplay",
+  "johnshopkinsbayviewwarns3182patientsafterstafferfeddatatoaitool",
+  "demdparealestateaiassistanta01ok",
+  "arrivajulia30laidiromacapitalediventaunapp",
+  "arrivajulia30lanuovaappdelliadiromacapitale",
+  "romaarrivajulia30lintelligenzaartificialechepermettediaccedereaiservizicomunalid",
+  "julia30comefunzionalintelligenzaartificialediromacapitalecertificatiin30secondie",
+  "arrivajulia30certificatisegnalazionieserviziinchatquotidianolavoce",
+  "cisaràsemprechihaunamarciainpiùlassillodistarealpasso",
+  "xmoneyarrivasulliketenendolopremutosimanda1dollaro",
+  "protezionetruffecongeminiingooglemessaggicomeattivarelaprotezioneavanzata",
+  "surfacelaptopultrareviewithasimpressivelocalaichops",
+  "iplayedminecraftwitha125blocalllmonanrtxsparklaptopandthegamestillheld120fps",
+  "nvidiakoreaconfirmsrtxsparkwillnotreplacex86gamingpcs",
+  "rtxsparknonsostituisceipcx86loconfermanvidiacorea",
+  "fotopedopornografichenelpcexricercatorerischiailprocesso",
+  "quickshareandroidwindowstrasferirefilefradispositivisenzaproblemi",
+  "trek50theonlytravelappyouwilleverneedtoselfhostplanthetriproutethehikesplittheco",
+  "matrixserverwhichoneisitforyou",
+  "whatareyourselfhostinggems",
+  "isselfsignedcertsufficient",
+  "sentryjustgaveamilliondollarstoopensourcemaintainers",
+  "notprotonmaintainerconfrontsinfluencerbackedforkbridgeplayovermacoswinesustainab",
+  "openpolydevisacompletelyfreeopensourcebrowserbasedcadtoolnosignupandlocallyrunna",
+  "projectswithstrictmaintainers",
+  "ifyourbusinessmakesmoneyfromopensourceshouldyougiveback",
+  "5dockercontainersyoushouldtryselfhostingthisweekend",
+  "a29lifetimeanalyticstoolandafreeoneshowedupwithinhoursofeachother",
+  "myselfhostedaimodelsresearchcodeandgenerateimagesandalltheycostisagpuialreadyown",
+  "anthropicmet15faithgroupsonclaudesethics2026techinsiderorg",
+  "whysomanyaiproductsarefailing",
+  "googlelauncheschromeosflexusbstickwithrefurbedforwindows10",
+  "370booksamillionsalesandnoregretsmeetsouthafricasaiauthorcoralhart",
+  "anthropiclaunchesossscannerafreeaivulnerabilityscanner",
+  "kaggleaudited65aibenchmarksandfoundmodelsgradingthemselvesmostpublicevalsarebrok",
+  "ukestablishesworldsfirstaibiosecuritylaboratory",
+  "claudecodepricingvscodexvsgeminicli2026httpstechinsiderorg",
+  "claudeopus55blockssmarttvreverseengineeringusersreport",
+  "mediasasmedicalplancostslimitsandhowitcompares",
+  "anthropicinvestigateselevatederrorsacrossfiveclaudemodels",
+  "claudeenterprisewillcombinechatandcoworkbydefaultonnovember16",
+  "elvispresleyrightsholderssueaicompanyanthropicoverallegedcopyrightinfringementof",
+  "anthropicunveilsclaudeduetitsanswertoaiagentslikedots",
+  "deepseekvsclaude030vs2inputtokens2026",
+  "claudeopus55andthebubblequestionwhata40costclaimreallysays",
+  "swedensgovernmentblockschatgptandclaudekeepscopilot",
+  "swedengovernmentfavorscopilotblockschatgptandclaude",
+  "bigtechearningsoct2829copilotat50musers2026httpstechinsiderorg",
+  "aswisstrainmakerisputtingllmsinfrontofitsutahforemen",
+  "whatisgrokaiwhoownsitwhatitdoesandwhatitcosts2026",
+  "4raybanmetaprivacysettingsyoushouldchangebeforewearingthem",
+  "grokbotcannowmakephonecallsforyouhereshowitworksbasenor",
+  "xmoneyarrivesonthelikebuttonlongpresssends1",
+  "grokalternativeslatestandroidrelease",
+  "bestfreeaichatbotin2026nomessagelimitpicks",
+  "ropensourcejustbannedainonenglishspeakersandmore",
+  "googlesaisearchchangesupendedonlinepublishing",
+  "thehottestaiwearablesandgadgetsyoushouldknowabout",
+  "nvidiaopensourcesfloratomakerobotvideolabeling125xcheaperthangpt6astra",
+  "anthropiccofounderjackclarkmoveshispredictionforselfimprovingaiforwardto2027",
+  "anthropicsaysoneaiagentbeatsmanysubagentsnowthatmodelscanhandlecomplexityalone",
+  "exgoogleceoericschmidtcallsopenaiandanthropicmoderncolonialtradingcompanies",
+  "openaioffersdiscountsupto90percenttopoachanthropicsbiggestcustomers",
+  "openmobile2provesopensourcesmartphoneagentscanrivalproprietarymodels",
+  "lucianofloridilaqualitàdellademocraziadipendedallaqualitàdellinformazione",
+  "presenzetriplicateperorizzontidigitaliilforumsulliainumbria",
+  "notiziarioansamed",
+  "openairicercatorilicenziatiperaverusatosignal",
+  "openaihamentitosullasicurezzadichatgptdenunciaintexas",
+  "nuovimodelliaidiopenaianchesugooglecloud",
+  "7domandedellaipercambiareprospettiva",
+  "seemslikeanthropicenabledsafeguardsaroundreverseengineringatv",
+  "chatgptfoundmylostearbud",
+  "maybeweactuallyshouldstarttoworry",
+  "samsungdecidedtocutmywashingmachinefromtheinternetclaudedecidedotherwise",
+  "luckybstards",
+  "ibuiltalaserdryfireshootinggamewithclaudecodeawebcamwatchesyourmonitorandscoresl",
+  "cmp170hxinspirationunlocks30x40xalsoupto2xprefillspeedupnvidiartx30rtx40gpusgeti",
+  "toogoodtobetrueistasgsqrco2bitdeepseekv41flashscoringthesameasthebasemodel",
+  "madearhythmgamewhere4smallneuralnetslistentoyoursongrightinthebrowsertabopensour",
+  "डपलरनग",
+  "factcheckimageofsoniagandhimeetingjeffreyepsteinisaialtered",
+  "ukrainestrikesrussianplantsupplyingbatteriesforballisticmissilesandglidebombswit",
+  "russianplantproducingiskandermissilecomponentshitinyelets250kmfromukraineosint",
+  "russoukrainianwarday1704starlinkisupandrunningagain",
+  "monitorpetsales"
  ],
  "audio": "audio/2026-10-25.mp3",
- "durata": 92.7
+ "durata": 161.0,
+ "aggiornamenti": [
+  {
+   "generato": "2026-10-25T17:00:52+00:00",
+   "modello": "gemini-3.5-flash-lite",
+   "testi_completi": 7,
+   "riassunto": {
+    "titolo_giorno": "Arriva Julia 3.0, l'intelligenza artificiale di Roma Capitale diventa un'app",
+    "in_breve": "Roma Capitale lancia Julia 3.0, una nuova applicazione mobile che permette ai cittadini di accedere ai servizi comunali e richiedere certificati in pochi secondi direttamente tramite chat dallo smartphone. Nel frattempo, su Product Hunt debutta AgentGrid.io, uno spazio di lavoro condiviso per umani e agenti.",
+    "citati": [
+     "Julia 3.0",
+     "AgentGrid.io"
+    ],
+    "da_provare": [
+     {
+      "cosa": "AgentGrid.io",
+      "a_cosa_serve": "Offre uno spazio di lavoro condiviso per la collaborazione tra esseri umani e agenti di intelligenza artificiale.",
+      "per_chi": "Lavoro",
+      "ambito": "Organizzazione",
+      "come_iniziare": [],
+      "costo": "Non indicato",
+      "piattaforme": [
+       "Browser"
+      ],
+      "sul_dispositivo": false,
+      "come_sfruttarla": "Gestire progetti coordinando attività svolte da persone e assistenti automatici in un unico spazio.",
+      "italiano": "Non indicato",
+      "difficolta": "Facile",
+      "fonti": [
+       "u1a1"
+      ],
+      "affidabilita": "Appena lanciato",
+      "prova": "https://www.producthunt.com/products/agentgrid-io",
+      "temi": [
+       "Agenti AI",
+       "Lavoro e produttività"
+      ]
+     },
+     {
+      "cosa": "Yourcast 2.0",
+      "a_cosa_serve": "Genera riassunti con intelligenza artificiale e timestamp cliccabili direttamente all'interno di Telegram.",
+      "per_chi": "Tutti i giorni",
+      "ambito": "Voce e audio",
+      "come_iniziare": [],
+      "costo": "Non indicato",
+      "piattaforme": [
+       "Browser",
+       "Android",
+       "iPhone"
+      ],
+      "sul_dispositivo": false,
+      "come_sfruttarla": "Ottenere in un attimo i punti chiave dei messaggi audio lunghi senza doverli ascoltare per intero.",
+      "italiano": "Non indicato",
+      "difficolta": "Facile",
+      "fonti": [
+       "u1a2"
+      ],
+      "affidabilita": "Appena lanciato",
+      "prova": "https://www.producthunt.com/products/yourcast",
+      "temi": [
+       "Scrittura e documenti",
+       "Voce e audio"
+      ]
+     },
+     {
+      "cosa": "Llama Windows",
+      "a_cosa_serve": "Mette a disposizione un server di intelligenza artificiale locale pensato per collegare tutte le applicazioni Windows.",
+      "per_chi": "Lavoro e tutti i giorni",
+      "ambito": "AI sul dispositivo",
+      "come_iniziare": [],
+      "costo": "Non indicato",
+      "piattaforme": [
+       "Windows"
+      ],
+      "sul_dispositivo": true,
+      "come_sfruttarla": "Eseguire modelli AI in locale sul PC per far interagire i programmi senza inviare dati sul web.",
+      "italiano": "Non indicato",
+      "difficolta": "Media",
+      "fonti": [
+       "u1a3"
+      ],
+      "affidabilita": "Appena lanciato",
+      "prova": "https://www.producthunt.com/products/llama-windows",
+      "temi": [
+       "AI sul dispositivo"
+      ]
+     }
+    ],
+    "osint": [],
+    "gemme": [
+     {
+      "cosa": "TREK 5.0",
+      "a_cosa_serve": "Un'applicazione self-hosted per pianificare viaggi giorno per giorno insieme ad altre persone, gestendo tappe, costi, mappe e diari di viaggio.",
+      "perche_gemma": "Permette di organizzare interamente i viaggi in autonomia sul proprio server senza condividere i dati personali con servizi di terze parti.",
+      "con_ai": "",
+      "piattaforme": [],
+      "self_hosted": true,
+      "costo": "Gratis",
+      "difficolta": "Media",
+      "temi": [
+       "Open source e self-hosting"
+      ],
+      "fonti": [
+       "u1a47"
+      ],
+      "affidabilita": "Da verificare",
+      "come_iniziare": [],
+      "sul_dispositivo": false,
+      "come_sfruttarla": "",
+      "prova": ""
+     }
+    ],
+    "sezioni": [
+     {
+      "titolo": "Novità negli strumenti che già usi",
+      "notizie": [
+       {
+        "titolo": "Arriva Julia 3.0, l'AI di Roma Capitale diventa un'app mobile",
+        "strumento": "Julia 3.0",
+        "riassunto": "L'assistente virtuale di Roma Capitale si aggiorna alla versione 3.0 e diventa un'applicazione autonoma per smartphone. Permette ai cittadini di richiedere certificati in pochi secondi, inviare segnalazioni e usufruire dei servizi comunali direttamente tramite una conversazione in chat.",
+        "come_provarla": "",
+        "disponibilita": "Disponibile ora in Italia",
+        "fonti": [
+         "u1a18",
+         "u1a19",
+         "u1a20",
+         "u1a21"
+        ],
+        "temi": [
+         "Assistenti e chatbot"
+        ],
+        "affidabilita": "Confermata",
+        "solo_titoli": true
+       }
+      ]
+     },
+     {
+      "titolo": "In breve",
+      "breve": true,
+      "notizie": [
+       {
+        "titolo": "OpenAI porta i suoi modelli su Google Cloud",
+        "riassunto": "OpenAI ha siglato un accordo per rendere disponibili i suoi modelli recenti anche nel Model Garden di Google Cloud, affiancando così Microsoft e Amazon.",
+        "fonti": [
+         "u1a119"
+        ],
+        "temi": [],
+        "affidabilita": "Una fonte",
+        "solo_titoli": false
+       }
+      ]
+     }
+    ],
+    "formato": 2,
+    "controllo_siti": [
+     {
+      "cosa": "TREK 5.0",
+      "esito": "nessun sito da aprire"
+     },
+     {
+      "cosa": "Llama Windows",
+      "sito": "https://www.producthunt.com/r/p/1290875?app_id=339",
+      "esito": "errore: HTTP Error 403: Forbidden"
+     },
+     {
+      "cosa": "Yourcast 2.0",
+      "sito": "https://www.producthunt.com/r/p/1291438?app_id=339",
+      "esito": "errore: HTTP Error 403: Forbidden"
+     },
+     {
+      "cosa": "AgentGrid.io",
+      "sito": "https://www.producthunt.com/r/p/1291942?app_id=339",
+      "esito": "errore: HTTP Error 403: Forbidden"
+     }
+    ]
+   }
+  }
+ ]
 }
