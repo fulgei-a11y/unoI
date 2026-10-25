@@ -88,26 +88,43 @@ _ultimo_accesso = {}
 _vuole_browser = set()
 
 
+# Siti che limitano molto le richieste dai server di GitHub: più distanza tra due richieste.
+_PAUSA_SITO = {"www.reddit.com": 20, "old.reddit.com": 20}
+
+
+def _attesa_suggerita(e, base):
+    """Secondi da aspettare dopo un 429/503: usa 'Retry-After' se il sito lo indica."""
+    try:
+        return min(max(int(e.headers.get("Retry-After", "")), base), 120)
+    except (TypeError, ValueError, AttributeError):
+        return base
+
+
 def scarica(url: str, timeout: int = 25) -> bytes:
     """Scarica un feed. Aspetta tra due richieste allo stesso sito e riprova se il sito
-    risponde 'troppe richieste' (429) o è temporaneamente non disponibile."""
-    host = urllib.parse.urlparse(url).netloc
-    for tentativo in range(3):
-        attesa = 6 - (time.time() - _ultimo_accesso.get(host, 0))
+    risponde 'troppe richieste' (429) o è temporaneamente non disponibile.
+    Per Reddit, all'ultimo tentativo passa da old.reddit.com (stesso feed, altro accesso)."""
+    tentativi = 4 if "reddit.com" in url else 3
+    for tentativo in range(tentativi):
+        indirizzo = url
+        if tentativo == tentativi - 1 and "://www.reddit.com/" in url:
+            indirizzo = url.replace("://www.reddit.com/", "://old.reddit.com/")
+        host = urllib.parse.urlparse(indirizzo).netloc
+        attesa = _PAUSA_SITO.get(host, 6) - (time.time() - _ultimo_accesso.get(host, 0))
         if attesa > 0:
             time.sleep(attesa)
         _ultimo_accesso[host] = time.time()
         ua = UA_BROWSER if tentativo and url in _vuole_browser else UA
-        req = urllib.request.Request(url, headers={"User-Agent": ua, "Accept": "*/*"})
+        req = urllib.request.Request(indirizzo, headers={"User-Agent": ua, "Accept": "*/*"})
         try:
             with urllib.request.urlopen(req, timeout=timeout + 15 * tentativo) as r:
                 return r.read()
         except urllib.error.HTTPError as e:
-            if e.code == 403 and url not in _vuole_browser and tentativo < 2:
+            if e.code == 403 and url not in _vuole_browser and tentativo < tentativi - 1:
                 _vuole_browser.add(url)    # alcuni siti (es. GIJN) rifiutano i programmi automatici
                 continue
-            if e.code in (429, 502, 503) and tentativo < 2:
-                time.sleep(15 * (tentativo + 1))
+            if e.code in (429, 502, 503) and tentativo < tentativi - 1:
+                time.sleep(_attesa_suggerita(e, 20 * (tentativo + 1)))
                 continue
             raise
         except (TimeoutError, urllib.error.URLError) as e:
