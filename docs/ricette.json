@@ -56,5 +56,60 @@
   "giorno": "2026-10-21",
   "generato": "2026-10-21T06:00:11+00:00",
   "modello": "gemini-3.6-flash"
+ },
+ {
+  "titolo": "Verificare se una foto virale è vera, riciclata o creata con l'AI",
+  "obiettivo": "Scoprire in pochi minuti se un'immagine apparsa sui social è autentica, se proviene dal passato o se è stata generata con l'AI.",
+  "ambito": "OSINT e verifica",
+  "ingredienti": [
+   {
+    "nome": "Hive – rilevatore di immagini AI",
+    "descrizione": "Stima se un'immagine o un testo sono stati creati con l'AI.",
+    "piattaforme": [
+     "Browser"
+    ],
+    "costo": "Gratis con limiti",
+    "url": "https://hivemoderation.com/ai-generated-content-detection",
+    "locale": false,
+    "ruolo": "Scansiona l'immagine per stimare se è stata generata artificialmente"
+   },
+   {
+    "nome": "TinEye",
+    "descrizione": "Cerca copie esatte di un'immagine e mostra la più vecchia: utile per capire se una foto 'nuova' è in realtà riciclata.",
+    "piattaforme": [
+     "Browser"
+    ],
+    "costo": "Gratis con limiti",
+    "url": "https://tineye.com/",
+    "locale": false,
+    "ruolo": "Rintraccia la versione più vecchia della foto per capire se è un contenuto riciclato"
+   },
+   {
+    "nome": "Picarta",
+    "descrizione": "L'AI stima dove è stata scattata una foto guardando paesaggio, edifici e segnaletica, anche senza dati GPS.",
+    "piattaforme": [
+     "Browser"
+    ],
+    "costo": "Gratis con limiti",
+    "url": "https://picarta.ai/",
+    "locale": false,
+    "ruolo": "Analizza il paesaggio e gli edifici per stimare dove è stata scattata davvero la foto"
+   }
+  ],
+  "passi": [
+   "Carica la foto sospetta su Hive – rilevatore di immagini AI per verificare subito la probabilità che sia un'opera sintetica.",
+   "Trascina l'immagine su TinEye e ordina i risultati partendo dalla data più remota per individuare la sua prima apparizione sul web.",
+   "Se la foto risulta reale ma associata a un evento dubbio, inviala a Picarta per far identificare all'AI il paese o la città effettiva in base a dettagli visivi e architettura.",
+   "Confronta la data originale trovata da TinEye e la località stimata da Picarta con le affermazioni del post virale per confermare o smentire la notizia."
+  ],
+  "tempo": "10 minuti la prima volta",
+  "livello": "Facile",
+  "costo": "Gratis con limiti",
+  "perche_conviene": "Evita di farsi ingannare da notizie false o immagini manipolate usando tre controlli incrociati veloci accessibili dal browser.",
+  "tutto_in_locale": false,
+  "id": "r2",
+  "giorno": "2026-10-25",
+  "generato": "2026-10-25T05:47:49+00:00",
+  "modello": "gemini-3.8-flash"
  }
 ]
