@@ -15,6 +15,7 @@ on:
 permissions:
   contents: write
   issues: write
+  pages: read        # per sapere da quale ramo è pubblicato il sito
 
 concurrency:
   group: digest
@@ -28,6 +29,18 @@ jobs:
       AVVISI_FILE: ${{ github.workspace }}/../avvisi.txt
     steps:
       - uses: actions/checkout@v5
+
+      # Gli MP3 vivono nel ramo gh-pages (ricostruito da zero a ogni pubblicazione, senza storia),
+      # così la storia di main non cresce di ~1 MB al giorno.
+      - name: Recupera l'audio già pubblicato
+        run: |
+          if git fetch -q --depth=1 origin gh-pages 2>/dev/null; then
+            mkdir -p docs/audio
+            git archive FETCH_HEAD audio 2>/dev/null | tar -x -C docs --wildcards 'audio/*.mp3' 2>/dev/null || true
+            echo "Audio recuperati: $(ls docs/audio/*.mp3 2>/dev/null | wc -l)"
+          else
+            echo "Ramo gh-pages non ancora creato: si usano gli audio presenti in main."
+          fi
 
       - uses: actions/setup-python@v6
         with:
@@ -67,14 +80,43 @@ jobs:
         run: python digest.py --pagine
 
       - name: Pubblica
+        env:
+          GH_TOKEN: ${{ github.token }}
         run: |
-          git config user.name "ai-news-bot"
-          git config user.email "ai-news-bot@users.noreply.github.com"
+          git config --global user.name "ai-news-bot"
+          git config --global user.email "ai-news-bot@users.noreply.github.com"
+
+          # 0) fotografia del sito completo (con gli MP3) prima di toccare main
+          SITE=$(mktemp -d)
+          cp -a docs/. "$SITE"/
+          touch "$SITE/.nojekyll"
+          echo "Fotografia del sito: $(ls "$SITE"/audio/*.mp3 2>/dev/null | wc -l) audio"
+
+          # 1) ramo main: pagine e dati. Gli MP3 restano in main solo finché
+          #    il sito non è servito dal ramo gh-pages (Settings > Pages).
+          SOURCE=$(gh api "repos/$GITHUB_REPOSITORY/pages" --jq '.source.branch' 2>/dev/null || echo "?")
+          echo "Il sito è pubblicato dal ramo: $SOURCE"
+          if [ "$SOURCE" = "gh-pages" ]; then
+            grep -qx 'docs/audio/\*.mp3' .gitignore 2>/dev/null || echo 'docs/audio/*.mp3' >> .gitignore
+            git rm -r -q --cached --ignore-unmatch 'docs/audio/*.mp3'
+            git add .gitignore
+          fi
           git add docs
-          git diff --cached --quiet && echo "Nessuna novità" && exit 0
-          git commit -m "Riassunto del $(TZ=Europe/Rome date '+%Y-%m-%d %H:%M')"
-          git pull --rebase
-          git push
+          if git diff --cached --quiet; then
+            echo "Nessuna novità in main."
+          else
+            git commit -m "Riassunto del $(TZ=Europe/Rome date '+%Y-%m-%d %H:%M')"
+            git pull --rebase
+            git push
+          fi
+
+          # 2) ramo gh-pages: il sito completo con gli MP3, in un solo commit senza storia
+          cd "$SITE"
+          git init -q -b gh-pages
+          git add -A -f
+          git commit -q -m "Sito pubblicato $(TZ=Europe/Rome date '+%Y-%m-%d %H:%M')"
+          git push -q --force "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" gh-pages
+          echo "✅ Sito pubblicato su gh-pages ($(du -sh . | cut -f1))"
 
       - name: Notifica sul telefono (ntfy)
         continue-on-error: true
