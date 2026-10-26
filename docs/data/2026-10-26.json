@@ -158,6 +158,97 @@
    "solo_titolo": true,
    "categoria": "Strumenti",
    "id": "a32"
+  },
+  "u1a26": {
+   "titolo": "Gemini ora conosce le tue abitudini e le sfrutta quando guidi",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBEOEtTVVBoVi1ZR0FwQTZTNGc4LTBIMUVMQnNWQkJxb1k4LUJRb0hoMVBpZDAyaHRIdm1PcFotNUwzcUFQMmVjWVVTYmx2d0p1VjI4YVFqWjlRbDVjTExDNGZlWlpNaFBQQTRyQ040UFozQQ?oc=5",
+   "data": "2026-10-26T10:47:21+00:00",
+   "testo": "",
+   "fonte": "Motor1.com Italia",
+   "tipo": "minore",
+   "solo_titolo": true,
+   "categoria": "Strumenti",
+   "id": "u1a26"
+  },
+  "u1a24": {
+   "titolo": "Julia 3.0 Roma: certificati anagrafici in chat e nuova app",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQY0o0VUVhbjcwTk5LWEVZUmpGclI1RmxfSnFYYzhHNzlIWHlfRnh3SlhGeDZpNmRvdUY0RHh2bzgyT0RJRE1Hc0pFU0NVczVpbWt5YzYwSDliMU55ZnVCNnEtTEtmUmNLZjNlelVpOWwxRHdCTUoyYy1FYXd6QkZnX2tVQmJDMTFRLS14VUVZN1BOMkk1YU9EcW12bVE5eGtwSmdlZGRB?oc=5",
+   "data": "2026-10-26T08:23:00+00:00",
+   "testo": "",
+   "fonte": "Vivere Roma",
+   "tipo": "minore",
+   "solo_titolo": true,
+   "categoria": "Strumenti",
+   "id": "u1a24"
+  },
+  "u1a78": {
+   "titolo": "Google Gemini Enhances the Connected Driving Experience in the All-New Mazda CX-5 PR Newswire",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOZ3VCa3BkNFBpTjBVemk4R2gySUlDS3ZYZTVmTzJ3U0xZUU0za21fWWxMaWN3ZkNleHdtTnEybkN5eG9LemNNZVlrdXA1eFEwdzBpRXpsZ2U2Q1AzWVdZcWg3S1hwbmJWM1pUZmphamRXN2szalBwcFc4T0RVeWxjUmdfNzE2c01WbE5BU3dDcXBia2JWelVIZnlxVlkwZi16ZVBwOEY5NW4tODRzN2FuYXk1aG5sMGdkRWsxc0U0TWlqdTBmdVJ2Wk4xOG5SZm1LN1ZfSExWS0pFR3FWNVE?oc=5",
+   "data": "2026-10-26T08:58:31+00:00",
+   "testo": "",
+   "fonte": "Chinook Observer",
+   "tipo": "minore",
+   "solo_titolo": true,
+   "categoria": "Laboratori",
+   "id": "u1a78"
+  },
+  "u1a4": {
+   "titolo": "Loqui",
+   "link": "https://www.producthunt.com/products/loqui-2",
+   "sito": "https://www.producthunt.com/r/p/1291345?app_id=339",
+   "data": "2026-10-24T05:53:55-07:00",
+   "testo": "Turns your voice into ready-to-send text in any Mac app",
+   "fonte": "Product Hunt (AI)",
+   "tipo": "vetrina",
+   "solo_titolo": false,
+   "categoria": "Strumenti",
+   "id": "u1a4"
+  },
+  "u1a50": {
+   "titolo": "My €200 used mini PC has become one of my favorite hobbies. Here’s my little Dashboard.",
+   "link": "https://www.reddit.com/r/selfhosted/comments/1xfse94/my_200_used_mini_pc_has_become_one_of_my_favorite/",
+   "sito": "",
+   "data": "2026-10-26T09:48:12+00:00",
+   "testo": "Behind this dashboard is an HP ProDesk that I bought used for €200. It has an Intel Core i5-9500T, 16 GB RAM, and 512 GB storage, running Proxmox. I use it for music, movies, smart home, notes, passwords managment, finances and AI Agent. Glance brings everything together on one page, with a few server stats underneath. If you’re thinking about getting into self-hosting, my advice is to start with…",
+   "fonte": "Reddit r/selfhosted",
+   "tipo": "community",
+   "solo_titolo": false,
+   "categoria": "Gemme",
+   "id": "u1a50"
+  },
+  "u1a21": {
+   "titolo": "Roma, arriva Julia 3.0: certificati, segnalazioni e servizi direttamente in chat",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNlJyUWYwclBNWG02R3V4QjlzdFpGdlB5Y2QxVXprRTRXM3Zjc2dUWk1BbXpoQnBoQUc2V2xDOVFwZHhQei1SVGFwcGJrOERRaFQtT1VSRXFlbmp6MnFka0RHUXFRNWhvbUZXWm9NQ1VicEdFS2dmWkVaMkxlU19rLXpPOVMyeTV2WVhtbENHZFhEV19pSlRvbEVHS2JGaHJCU19CZQ?oc=5",
+   "data": "2026-10-26T15:46:32+00:00",
+   "testo": "",
+   "fonte": "VignaClaraBlog.it",
+   "tipo": "minore",
+   "solo_titolo": true,
+   "categoria": "Strumenti",
+   "id": "u1a21"
+  },
+  "u1a1": {
+   "titolo": "Kiwi",
+   "link": "https://www.producthunt.com/products/kiwi-7",
+   "sito": "https://www.producthunt.com/r/p/1291790?app_id=339",
+   "data": "2026-10-24T16:19:29-07:00",
+   "testo": "A proactive AI assistant that texts you before you ask",
+   "fonte": "Product Hunt (AI)",
+   "tipo": "vetrina",
+   "solo_titolo": false,
+   "categoria": "Strumenti",
+   "id": "u1a1"
+  },
+  "u1a77": {
+   "titolo": "Gemini Moves Into Mazda’s Best-Selling Crossover: Here’s What It Does",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBfMy1mXzRrdkJkVGo2ajZvRndSTmlfbXlidnNMRnRlclZOcGd0UHlzSVg3bmtHcGNia05qcV94YklJMV9LSklvVjRTV1c5X2tlRVlUd1ZtVHhwaGpXVm12dktmNEV5Yl9wRWVSeFZyb2hWNl9zcF9r0gF8QVVfeXFMTXlnRWVIeGV4VEZQN3BKNERaZGpod0tpeFBTblBxbXg5d0RfOGdBYVVacUR4V3BrZFBaX0ZZRmdfaEJOdXBmSUE2c2NvelZRYk1pTTZPY21sd1NWSXd5eG90Q2FUa3loeVNKLXFDTkVIWGlQU2VMUnYwbTZDVw?oc=5",
+   "data": "2026-10-26T14:40:48+00:00",
+   "testo": "",
+   "fonte": "Motor Illustrated",
+   "tipo": "minore",
+   "solo_titolo": true,
+   "categoria": "Laboratori",
+   "id": "u1a77"
   }
  },
  "fonti": [
@@ -498,8 +589,305 @@
   "tiktokandinstagram",
   "monitorpetsales",
   "isagaiaidcompletelyuselessinbig2026",
-  "howtolocatescotlandcourtrolls"
+  "howtolocatescotlandcourtrolls",
+  "kiwi",
+  "2g",
+  "manyagents",
+  "loqui",
+  "vibeide",
+  "allmodels",
+  "adrsforaideliberationrecordsforhumanaiworkversionedingit",
+  "baltimorejohnshopkinsbayviewwarns3kpatientsafteraitooluploadexposedrecordswbaltv",
+  "nortonlaunchessafeaitohelpyouuseaiwithoutgivingupcontrol",
+  "hsbclaunchesaitoolforcorporatebankingclients",
+  "wokefreehomermusksaitakesontheodyssey",
+  "usersturnmetasmuseaiassistantintoaromanticcompanion",
+  "youcannowwhatsappanaiassistantforpyramidsvisitinfofaqs",
+  "pinetworkreleasespidesktop064foreasieraiappaccess",
+  "webexbyciscoreviewdependablevideomeetingswithrobustcollaborationtools",
+  "sicurezzasullavoroarrivalalleanzaantiinfortuniincampoanchelintelligenzaartificia",
+  "romaarrivajulia30certificatisegnalazionieservizidirettamenteinchat",
+  "seoleaderlanuovasfidaèfarsisceglieredallintelligenzaartificiale",
+  "julia30romacertificatianagraficiinchatenuovaapp",
+  "geminioraconosceletueabitudinielesfruttaquandoguidi",
+  "comeusaremicrosoftcopilotsumac",
+  "thetopaiandsoftwarecompaniestowatchbeforetheygopublic",
+  "nvidiaunveilsrtxsparksoftwarepushforaigames",
+  "chinasiflyteklaunchessparkautospace30cockpitclaimsondeviceaimodelworkswithoutint",
+  "privateaichatbot5privacymodels6apps2026httpstechinsiderorg",
+  "lattepandalauncheslattepandasigma2theembeddableaisingleboardserver",
+  "asusproartatpier59creatorpcsandlocalai",
+  "ilcomputerfunzionamaperwindowsèobsoletoeseasalvarlofossegoogle",
+  "lappusatanelleprotestedipiazzaèbitchatperchéfunzionaofflinemovimentinontracciabi",
+  "googlecollegailtuonumeroatuttigliaccountandroideccocomebloccarlo",
+  "corsairhs55wirelessinoffertaa7990eurowwwtuttoappandroidcom",
+  "titleartmaketextlikeits1997",
+  "atrulymodularkeyboard",
+  "my200usedminipchasbecomeoneofmyfavoritehobbiesheresmylittledashboard",
+  "rebuiltmymediaserverfromscratch",
+  "emudhracrisiswhatselfhostersshouldcheckontheirreverseproxiesandcontainers",
+  "intherabbitholeigo",
+  "myproxmoxhomelabcaddywasthehardestpartandipv6routeradvertisementsweretoblame",
+  "projectswithstrictmaintainers",
+  "fakeemailssentfromofficialdomainsaftercl",
+  "denmarksbidtoditchmicrosoftofficeforopensourcealternativecollaboracollapsesinund",
+  "gheistusesstolengithubtokenstostealprivaterepositorysecretsviaactionslogs",
+  "howfanaticsandopenaistreamlinethefanexperience",
+  "ournewestaiquestmappingthehumanbrain",
+  "15collegestudentssharetheirfavoritegeminifeatures",
+  "werehelpingfarmersaroundtheworldconnecttoessentialservicesonline",
+  "adpluglaunchesgoogleadsmcpforclaudeandchatgptbuiltbyamarketerwhooncespent300000i",
+  "openailaunchesaiservicesoutsourcingcompany05122026",
+  "googlelaunchesaiquestsneurosciencemoduleforstudents",
+  "wishboneadvisorylaunchesthewishbonemediaengineamanagedprogrambuilttoturnearnedme",
+  "narmilaunchesmicrosoft365copilotconnectorbringingcustomerfinancialdatasecurelyin",
+  "keyslaunchesinchatgptturningimlockedoutintoalocksmithrequest",
+  "geminimovesintomazdasbestsellingcrossoverhereswhatitdoes",
+  "googlegeminienhancestheconnecteddrivingexperienceintheallnewmazdacx5prnewswire",
+  "googlelauncheslookerdataappstobuildsecuretools",
+  "instagramappnowavailableonappletvletsuserswatchreelsontv",
+  "mazdaintroducesgooglegeminito2026cx5",
+  "anthropicpbcs1q2",
+  "anthropicsclaudeaimodelaccessedgeorgiavoterdatainus",
+  "aigiantanthropicfilesforanipothatcouldbreakrecords",
+  "anthropicsipoacloselookataifrontrunnersrapidgrowthspiralingcosts",
+  "ipoanthropicsettomakestockmarketdebutasquestionsswirlaboutsafetyofai",
+  "anthropicfilesforipotobecomefirstfrontierailabtolist",
+  "mobilezoneredefinesproductivitywithmicrosoftcopilotstudioagents",
+  "microsoftcopilotaipredictsasevenfigurerallyforbitcoin",
+  "microsoftoffersbuyoutsto60000workersbutsayslayoffsremainanoption",
+  "microsoftchairmanandceosatyanadellatellsshareholdersaiagentswillmakemicrosoftapp",
+  "windows11snewspeedtestskipsthebrowserhereshowitworks",
+  "dhsorderbarringdeepseekaiusebyfederalgovernmentagencies",
+  "applejustreleasedios182withappleintelligencehereiseverythingnew",
+  "metaaireviewfeaturespricingandhowitcompareswithchatgpt",
+  "raybanmetahowtostopyourglassesfromtrainingai",
+  "grokimaginegenerates7minuteodysseyepisode",
+  "microsoftoffersbuyoutsto60000employees",
+  "kevinrooseisagipilledwhyarentyou",
+  "anthropicsipofilinglaysoutaplantorevolutionizeeveryareaofhumanendeavorwithai",
+  "canaihelpsolvethecobolcodecrisis",
+  "anthropicsipofilingrevealsitsstrategyforkeepingenterprisecustomershooked",
+  "spacexlocksin40bgpufinancingdealwithapollo",
+  "anthropicofficiallyfilesforitspublicdebut",
+  "teslagaveuptheevcrownnowitwantstowintheautonomyrace",
+  "thefocusonaisafetydisastersignoreseverydayharms",
+  "metaplansupto95billioninstocksalestofunditsaibuildout",
+  "wallstreetsfastesttradersarebuildingdatacentersandbackingchipstartupstostayahead",
+  "toyotaisbetting64billionayearonhumanoidrobotsandfactoryautomation",
+  "apples20bmodelkimik31problockdessafrontiertrainingsecurity",
+  "cosarestaumanonelletàdellaiunalectioallacattolicaaffrontailtema",
+  "innovazionedallavalledaostaottostartupasmau2026",
+  "glieredidielvispresleycontroanthropichausato274canzoniperaddestrareia",
+  "mattarellalefakenewsmanipolanogiàoggilinformazione",
+  "musksfidanolanepubblicailprimocortosullodisseageneratodalliagrok",
+  "uncodiceeticopossibilesolodallacompetizionetradiverseai",
+  "usarelainellaricercadilavorocosafareecosaevitare",
+  "claudebloccalemodificheallasmarttvilcasoopus55",
+  "anthropicannuncialosbarcoalnasdaqil16novembre",
+  "anthropichausatolecanzonidielvispresleysenzapermesso",
+  "halloweenilgaranteprivacyaigenitoriocchioallefotodeifigli",
+  "microsoftoffreincentiviallesodoper60000dipendenti",
+  "migliorioffertetechdioggi26ottobreapplewatchultra3boseeroborockaiminimi",
+  "giochivideoequizperinsegnareaibambinilaprivacyonlinelanovitàeuropea",
+  "googlerispondeegliutentinoncliccanopiùcosìlaistacambiandointernet",
+  "ibuiltanopensourceskycamerathatclaudecodecanactuallyrunsaturdaynightitcaught17me",
+  "15yearsinsoftwareexgoogleandtiredoftheantiairhetoric",
+  "limitsgotatleasthalved",
+  "seniordevsareintheirkasparovera",
+  "anthropicfiless1withthesecforproposedinitialpublicoffering",
+  "afteranothermassivecyberattackgmoisurgingthegovernmenttointervenetheinternetitse",
+  "smhseriouslynvidiaeyessoftwarerevenuewitha2000pergpuyearlyfigurefromhuang",
+  "qwen3827bderivativeona12gbrtx3060upto44tokenssvisiontoolsand128kcontextfullyinvr",
+  "everyonewhobecameleadersoftheglobalinvestigativejournalismmovementwasincopenhage",
+  "verifyhowtospotafakehalloweendealonsocialmedia",
+  "areiphoneduoscreensreallycrackingfakephotoscloudcrackgateasrealcasesemerge",
+  "unrelatedvideooftukarammundhefalselysharedtoshowhimatanticecprotest",
+  "oldvideoofamockdrillinkarnatakafalselysharedasanindiachinaconfrontationinarunach",
+  "strengtheningnewsroomsinsolomonislands",
+  "ukraineisexpandingitsfortificationsreducingrussiaschancesofarapidbreakthroughosi",
+  "dronesslamvoronezhbusinesscentersparkingblazesvideo"
  ],
  "audio": "audio/2026-10-26.mp3",
- "durata": 78.9
+ "durata": 139.5,
+ "aggiornamenti": [
+  {
+   "generato": "2026-10-26T17:12:58+00:00",
+   "modello": "gemini-3.5-flash-lite",
+   "testi_completi": 20,
+   "riassunto": {
+    "titolo_giorno": "Arriva Julia 3.0: i servizi di Roma Capitale sbarcano in chat",
+    "in_breve": "Roma Capitale lancia Julia 3.0, l'assistente virtuale che permette di richiedere certificati e inviare segnalazioni direttamente tramite chat. Nel frattempo, Google integra Gemini nelle auto Mazda CX-5 per una guida sempre più vocale e connessa.",
+    "citati": [
+     "Julia 3.0",
+     "Gemini"
+    ],
+    "da_provare": [
+     {
+      "cosa": "Kiwi",
+      "a_cosa_serve": "Un assistente AI proattivo che invia messaggi di testo prima che tu debba fargli una domanda.",
+      "per_chi": "Lavoro e tutti i giorni",
+      "ambito": "Organizzazione",
+      "come_iniziare": [
+       "Visita la pagina Product Hunt di Kiwi",
+       "Collega l'assistente ai tuoi flussi di lavoro"
+      ],
+      "costo": "Non indicato",
+      "piattaforme": [
+       "Browser"
+      ],
+      "sul_dispositivo": false,
+      "come_sfruttarla": "Anticipare promemoria e avvisi utili basati sulle proprie abitudini quotidiane.",
+      "italiano": "No",
+      "difficolta": "Facile",
+      "fonti": [
+       "u1a1"
+      ],
+      "affidabilita": "Appena lanciato",
+      "prova": "https://www.producthunt.com/products/kiwi-7",
+      "temi": [
+       "Assistenti e chatbot"
+      ]
+     },
+     {
+      "cosa": "Julia 3.0",
+      "a_cosa_serve": "Un assistente virtuale per i cittadini di Roma che permette di richiedere certificati anagrafici e inviare segnalazioni direttamente tramite chat e tramite un'app mobile.",
+      "per_chi": "Tutti i giorni",
+      "ambito": "Burocrazia",
+      "come_iniziare": [],
+      "costo": "Non indicato",
+      "piattaforme": [],
+      "sul_dispositivo": false,
+      "come_sfruttarla": "Richiedere un certificato anagrafico o inviare una segnalazione comunale direttamente dallo smartphone senza fare file.",
+      "italiano": "Non indicato",
+      "difficolta": "Facile",
+      "fonti": [
+       "u1a21",
+       "u1a24"
+      ],
+      "affidabilita": "Da verificare",
+      "solo_titoli": true,
+      "prova": "",
+      "temi": [
+       "Assistenti e chatbot"
+      ]
+     },
+     {
+      "cosa": "Loqui",
+      "a_cosa_serve": "Uno strumento per Mac che trasforma la tua voce in testo pronto per essere inviato in qualsiasi applicazione.",
+      "per_chi": "Lavoro",
+      "ambito": "Voce e audio",
+      "come_iniziare": [
+       "Scarica l'applicazione per Mac",
+       "Attiva la dettatura vocale all'interno delle tue app preferite"
+      ],
+      "costo": "Non indicato",
+      "piattaforme": [
+       "Mac"
+      ],
+      "sul_dispositivo": false,
+      "come_sfruttarla": "Dettare email e documenti lunghi su Mac con trascrizione istantanea.",
+      "italiano": "Non indicato",
+      "difficolta": "Facile",
+      "fonti": [
+       "u1a4"
+      ],
+      "affidabilita": "Appena lanciato",
+      "prova": "https://www.producthunt.com/products/loqui-2",
+      "temi": [
+       "Voce e audio"
+      ]
+     }
+    ],
+    "osint": [],
+    "gemme": [
+     {
+      "cosa": "Glance (Mini PC Dashboard)",
+      "a_cosa_serve": "Un pannello di controllo unico per raccogliere musica, film, smart home, appunti, password e finanza personale ospitato su un mini PC economico con Proxmox.",
+      "perche_gemma": "Permette di centralizzare decine di servizi personali in un'unica schermata leggera, sfruttando hardware economico di recupero.",
+      "con_ai": "Può essere integrato con agenti AI locali per monitorare lo stato dei servizi e ricevere riassunti sullo schermo.",
+      "piattaforme": [
+       "Browser"
+      ],
+      "self_hosted": true,
+      "costo": "Gratis",
+      "difficolta": "Media",
+      "temi": [
+       "Open source e self-hosting",
+       "Scrittura e documenti",
+       "Voce e audio"
+      ],
+      "fonti": [
+       "u1a50"
+      ],
+      "affidabilita": "Da verificare",
+      "come_iniziare": [],
+      "sul_dispositivo": false,
+      "come_sfruttarla": "",
+      "prova": ""
+     }
+    ],
+    "sezioni": [
+     {
+      "titolo": "Novità negli strumenti che già usi",
+      "notizie": [
+       {
+        "titolo": "Gemini arriva sui nuovi modelli Mazda CX-5",
+        "strumento": "Gemini",
+        "riassunto": "Google porta il suo assistente Gemini all'interno del sistema di infotainment della nuova Mazda CX-5, migliorando l'esperienza di guida connessa e il controllo vocale delle funzioni dell'auto.",
+        "come_provarla": "",
+        "disponibilita": "Disponibile ora",
+        "fonti": [
+         "u1a77",
+         "u1a78"
+        ],
+        "temi": [
+         "Assistenti e chatbot",
+         "Voce e audio"
+        ],
+        "affidabilita": "Da verificare",
+        "solo_titoli": true
+       },
+       {
+        "titolo": "Gemini impara le abitudini di guida",
+        "strumento": "Gemini",
+        "riassunto": "L'assistente Google memorizza le abitudini dell'utente per sfruttarle e fornire supporto contestuale durante la guida.",
+        "come_provarla": "",
+        "disponibilita": "Disponibile ora",
+        "fonti": [
+         "u1a26"
+        ],
+        "temi": [
+         "Assistenti e chatbot"
+        ],
+        "affidabilita": "Da verificare",
+        "solo_titoli": true
+       }
+      ]
+     }
+    ],
+    "formato": 2,
+    "controllo_siti": [
+     {
+      "cosa": "Julia 3.0",
+      "esito": "nessun sito da aprire"
+     },
+     {
+      "cosa": "Glance (Mini PC Dashboard)",
+      "esito": "nessun sito da aprire"
+     },
+     {
+      "cosa": "Kiwi",
+      "sito": "https://www.producthunt.com/r/p/1291790?app_id=339",
+      "esito": "errore: HTTP Error 403: Forbidden"
+     },
+     {
+      "cosa": "Loqui",
+      "sito": "https://www.producthunt.com/r/p/1291345?app_id=339",
+      "esito": "errore: HTTP Error 403: Forbidden"
+     }
+    ]
+   }
+  }
+ ]
 }
