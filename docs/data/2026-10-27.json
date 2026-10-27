@@ -234,6 +234,136 @@
    "solo_titolo": false,
    "categoria": "Strumenti",
    "id": "a7"
+  },
+  "u1a37": {
+   "titolo": "Opera Launches WebAI, Bringing Local AI Models to Its Browsers",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWkxRNDhGbnprXzJxOUtxTTZxbFZvSWNFQk1yR2tDdmNTOU5ZOENrV09zQnl0M3MxN043U25xblU5V0poZGFsRTIxd1BUOW5QWHkyOWpVUUJadFJUMnVCNjU3LW55MmFOcjBGeW4xZ1I4X1B6b0o3ZmNodWpLTlpKTzRkZ0dvQlRwMEJJ?oc=5",
+   "data": "2026-10-27T13:44:10+00:00",
+   "testo": "",
+   "fonte": "Unite.AI",
+   "tipo": "minore",
+   "solo_titolo": true,
+   "categoria": "Strumenti",
+   "id": "u1a37"
+  },
+  "u1a46": {
+   "titolo": "Opera presenta WebAI: l'intelligenza artificiale gira sul PC",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxON1FCRV9vSzIyamg5Um9rRzBCcmN4c0hkTlFvWkhtTFBJM1lXVVFxUkV6NTdkOFByMDZjanFHLUdWYjNiZUFDMEhPR2JzZy1rblNsN2xINW03VVBiUGRUeWtXakF0QlNFMXBJcTdzdHBmdFI2T0s2WEtFZm80X0J4VHBqTjZxaXVQS2VaMFNROE4tY0hhLTZQaUszRkVfWHdDaF9Sa2xR?oc=5",
+   "data": "2026-10-27T15:51:11+00:00",
+   "testo": "",
+   "fonte": "HDblog.it",
+   "tipo": "testata",
+   "solo_titolo": true,
+   "categoria": "Strumenti",
+   "id": "u1a46"
+  },
+  "u1a111": {
+   "titolo": "Apple is adding an AI chatbot to Pages, Keynote, and Numbers",
+   "link": "https://www.theverge.com/tech/1019373/apple-pages-keynote-numbers-ai-chatbot-update",
+   "sito": "",
+   "data": "2026-10-27T09:50:51-04:00",
+   "testo": "Apple is bringing an AI assistant to its suite of productivity apps, including Keynote, Pages, and Numbers. The assistant, which is built on AI models from Apple and OpenAI, can understand a document's context to perform tasks like designing, animating, and refining slides in Keynote. In Pages, Apple says the AI assistant can draft, restructure, […]",
+   "fonte": "The Verge",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Testate tech",
+   "id": "u1a111"
+  },
+  "u1a54": {
+   "titolo": "GameVault 2 is here: Linux support and a completely rebuilt, responsive UI",
+   "link": "https://www.reddit.com/r/selfhosted/comments/1xgn565/gamevault_2_is_here_linux_support_and_a/",
+   "sito": "",
+   "data": "2026-10-27T08:42:07+00:00",
+   "testo": "Hey r/selfhosted , When I last posted here , we had just released the Web UI and talked about using it as the foundation for a cross-platform desktop client. Today I finally get to follow up on that: GameVault 2 is available to everyone as a public beta , with desktop clients for Windows, Linux and macOS! If you're new to GameVault, it's a self-hosted home for your DRM-free game collection, with …",
+   "fonte": "Reddit r/selfhosted",
+   "tipo": "community",
+   "solo_titolo": false,
+   "categoria": "Gemme",
+   "id": "u1a54"
+  },
+  "u1a3": {
+   "titolo": "Off Grid AI",
+   "link": "https://www.producthunt.com/products/off-grid-ai",
+   "sito": "https://www.producthunt.com/r/p/1293302?app_id=339",
+   "data": "2026-10-26T05:12:10-07:00",
+   "testo": "Private AI on your phone and computer.",
+   "fonte": "Product Hunt (AI)",
+   "tipo": "vetrina",
+   "solo_titolo": false,
+   "categoria": "Strumenti",
+   "id": "u1a3"
+  },
+  "u1a122": {
+   "titolo": "Opera introduces a new web standard to let users deploy AI locally in their browser",
+   "link": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/",
+   "data": "2026-10-27T13:00:00+00:00",
+   "testo": "Browser maker Opera has introduced a new web standard that lets users to run AI models directly in its browser, without relying on the cloud. The new standard, WebAI, is designed to work with a variety of AI models. Opera name drops Google’s Gemma — an open-weight model that Google first introduced two years ago — as one example. On Macs, WebAI also supports Apple’s on-device foundation model, the company says. But Opera says WebAI isn’t tied to any particular model and is built to support a wide range of open-weight AI systems. WebAI grew out of previous work by Opera to bring locally run models into its browsers. Opera is making the new AI features available as an early preview in its flagship Opera One browser. The company says Opera GX, its browser built for gamers and streamers, and Opera Neon, its browser that uses AI agents to perform tasks, will soon get the same treatment. Users have to choose to opt into the feature, according to the company. Open-weight models offer a number of benefits to users. For one, they are typically free to download and use. Their underlying model weights are also publicly available, which gives developers more freedom to customize how they work. Although unlike fully open-source software, open-weight models still come with some restrictions. There’s the additional advantage of privacy, the company said. Users can tap into AI features without having to send their personal information to a company’s servers or pay for a cloud-based AI subscription. “Developers can add AI features without running AI infrastructure or paying for every request,” the company said in its announcement. “Users don’t need AI subscriptions, the information the local AI handles stays on their own device, and they stay in control of the AI on their computer.” Th…",
+   "fonte": "TechCrunch",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Testate tech",
+   "id": "u1a122",
+   "testo_completo": true
+  },
+  "u1a161": {
+   "titolo": "Opera WebAI: nuovo standard per i modelli AI nel browser",
+   "link": "https://www.punto-informatico.it/opera-webai-nuovo-standard-modelli-ai-browser/",
+   "data": "2026-10-27T16:19:47+00:00",
+   "testo": "Opera One è stato il primo browser con l’accesso integrato ai modelli AI locali nel 2024 (versione sperimentale per gli sviluppatori). La software house norvegese ha annunciato oggi WebAI, uno standard che permette a estensioni e siti di utilizzare i modelli ospitati dal browser. È ancora una proposta, ma ha ricevuto già il supporto di Google e Microsoft. Su Mac è possibile usare i modelli di Apple. Funzionalità in Opera One, Opera GX e Opera Neon Opera spiega che gli sviluppatori aggiungere l’AI a siti ed estensioni senza dover inviare ogni richiesta al cloud, pagare per ogni token o vincolare i propri utenti al modello di un singolo fornitore. Utilizzando i modelli open-weight, gli utenti non devono sottoscrivere abbonamenti e le informazioni più riservate rimangono sul dispositivo. Questi modelli gratuiti diventano sempre più potenti e occupano meno spazio rispetto a quelli a pagamento, quindi possono essere eseguiti localmente tramite browser. WebAI è una proposta di standard web, sostenuta da Google e Microsoft, che consente ai siti e alle estensioni del browser di utilizzare l’AI ospitata all’interno del browser stesso. L’implementazione di Opera è indipendente dal modello specifico e si basa su modelli aperti, offrendo agli utenti la possibilità di scegliere tra diversi provider AI. Inizialmente è disponibile in Opera One e successivamente arriverà in Opera GX e Opera Neon. Attivando la relativa voce nelle impostazioni verrà scaricato un modello compatibile, tra cui Gemma di Google su Windows e un modello di Apple su macOS (solo con chip Arm). L’esecuzione locale avviene tramite il motore di inferenza di Opera. Gli sviluppatori possono testare WebAI, installando le sei estensioni di esempio offerte da Opera. Tutta la documentazione è disponibile in questa pagina…",
+   "fonte": "Punto Informatico",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Italia",
+   "id": "u1a161",
+   "testo_completo": true
+  },
+  "u1a159": {
+   "titolo": "Apple lancia assistente AI su Pages, Keynote e Numbers",
+   "link": "https://www.punto-informatico.it/apple-assistente-ai-pages-keynote-numbers/",
+   "data": "2026-10-27T16:49:16+00:00",
+   "testo": "Per anni Keynote ha permesso di creare presentazioni curate dal punto di vista grafico, ma spesso troppo lunghe e poco coinvolgenti. Ora Apple punta sull’intelligenza artificiale per semplificare il lavoro e aiutare gli utenti a sviluppare nuove idee. L’assistente sarà integrato su Keynote, Pages e Numbers. Assistente AI per Keynote, Pages e Numbers: come funziona Dietro le quinte lavorano modelli di Apple e di OpenAI. L’assistente non si limita a rispondere a comandi buttati lì, capisce il contesto del documento su cui si sta sudando. Su Keynote può disegnare, animare e rifinire le slide, cioè fare quel lavoro di cesello che di solito si rimanda alle undici di sera prima della riunione. Su Pages si occupa della scrittura. Abbozza, riorganizza, ritocca. Numbers riceve forse il regalo più pratico. L’assistente calcola, visualizza e ordina i dati, suggerisce che tipo di grafico usare e costruisce tabelle su misura. La porta lasciata socchiusa agli agenti esterni Su macOS 27 e versioni successive le tre app parlano anche il Model Context Protocol. Detto in modo meno solenne, gli agenti AI di terze parti possono collegarsi e frugare dentro. L’assistente arriva in beta sui dispositivi compatibili con Apple Intelligence, con iOS 27, iPadOS 27 o macOS 27 e successivi. Pixelmator Pro impara a riempire i vuoti Il resto della famiglia creativa non se ne sta a guardare. Pixelmator Pro introduce Generate Fill: si descrive a parole la modifica che si vuole, e lo strumento interviene su una parte dell’immagine. Secondo Apple abbina in automatico luce, prospettiva e texture dell’ambiente circostante, in modo che il ritocco si fonda con il resto. Il fotomontaggio mal riuscito, quello con l’ombra che punta dalla parte sbagliata, dovrebbe diventare una specie in via d’estinzione. Logic …",
+   "fonte": "Punto Informatico",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Italia",
+   "id": "u1a159",
+   "testo_completo": true
+  },
+  "u1a5": {
+   "titolo": "OpenRadView",
+   "link": "https://www.producthunt.com/products/openradview",
+   "sito": "https://www.producthunt.com/r/p/1293677?app_id=339",
+   "data": "2026-10-26T10:57:31-07:00",
+   "testo": "Free, open-source viewer for your own CT, MRI and X-rays",
+   "fonte": "Product Hunt (AI)",
+   "tipo": "vetrina",
+   "solo_titolo": false,
+   "categoria": "Strumenti",
+   "id": "u1a5"
+  },
+  "u1a23": {
+   "titolo": "Rifiuti, basta una foto per registrarli e il formulario si firma dal telefono: Rifiutoo presenta la nuova app",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRDZSSGFHbV8xTmp3ZmRVU1ZlSXlOZndqbTZOenFiSmMyT0FmWXdhdHUycjZUa3hHUWVXUGZfeEY5dWZ2bFJLdGt3RkZBQ01iWTlvS091VC1ISktoR3ZpQS1RN0lFX29PM01fT2Jha0g4X2FjTTJtYWIxcUtnYUlEV21MbzQzYU9zM1Vpa3RTbzBDNjB1el9BLWtNNHV1UQ?oc=5",
+   "data": "2026-10-27T16:32:44+00:00",
+   "testo": "",
+   "fonte": "PadovaOggi",
+   "tipo": "minore",
+   "solo_titolo": true,
+   "categoria": "Strumenti",
+   "id": "u1a23"
+  },
+  "u1a109": {
+   "titolo": "Firefox’s Smart Window adds AI form filling and webpage monitoring",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1019551/firefox-smart-window-ai-fill-forms",
+   "sito": "",
+   "data": "2026-10-27T12:14:18-04:00",
+   "testo": "Mozilla is updating Smart Window — Firefox’s AI-powered browsing experience — with a new feature that can help you fill out online forms based on your open tabs. As an example, Mozilla says Smart Window can pull information from your online portfolio or LinkedIn page to paste your work history into a job application. Firefox’s Smart Window adds AI form filling and webpage monitoring An update to Firefox’s AI browsing experience can draw from your open tabs to help you fill out forms. You can try out this feature by clicking into a form with at least four text fields. From there, you’ll see an option to “Fill from sources,” which will show all of the tabs Firefox will draw from. You can then select or deselect tabs that you want Firefox to use, and the browser will generate suggestions based on the information in them. This feature currently supports text fields on web forms, but Mozilla is working to add support for dropdown menus and PDFs. Mozilla notes that data from your source pages is shared with Google’s Gemini 3.1 Flash Lite, the AI model that generates the text suggestions. Along with this update, you can now ask Firefox’s Smart Window to watch a certain webpage for sales, new job listings, and other updates. You can set up a task by typing “/watch” in the Smart Window chat, describing what you’re looking for, and adding the webpages you want to watch. Firefox can then check for updates on a daily or weekly basis, but only when the browser is open. When Firefox detects the change you’re looking for, it will send you a notification through the Tasks button on the toolbar, or on your desktop (if you have desktop notifications enabled). Firefox will pause watching for updates if it doesn’t detect a change after 60 days, before stopping them completely after 90 day…",
+   "fonte": "The Verge",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Testate tech",
+   "id": "u1a109",
+   "testo_completo": true
   }
  },
  "fonti": [
@@ -608,8 +738,332 @@
   "osintcontrolapropagandaestremistacomesmascherarefakenewsemanipolazionionline",
   "tiktokandinstagram",
   "monitorpetsales",
-  "isagaiaidcompletelyuselessinbig2026"
+  "isagaiaidcompletelyuselessinbig2026",
+  "contextgem10",
+  "revixai",
+  "offgridai",
+  "gpt61terra",
+  "openradview",
+  "pulsedev",
+  "nuvio50",
+  "tandemslaunchesnewhamiltonaiassistantforadvisors",
+  "whoreallybenefitsfromwomencentricaibots",
+  "appleputsabetaaiassistantinsideitsdocumentappsforpayingsubscribers",
+  "delllettingsysadmschatwithpowerprotect",
+  "antlauncheslingguang20aiassistantforongoingpersonaltasks",
+  "slotsuplaunchesaiassistanttopowerintelligentsearchacrossitsigamingplatform",
+  "chainguardlaunchesaitooltofindexploitablebugs",
+  "ieeexploredigitallibraryaddsaiassistant",
+  "dnsfilterlaunchesoneplatformtosecureeveryconnectioneveryuserandeveryaitool",
+  "rifiutibastaunafotoperregistrarlieilformulariosifirmadaltelefonorifiutoopresenta",
+  "liainventalefotodeipiattiecombinaundisastrolappdiconsegnefamarciaindietro",
+  "venetonascezucchettiinfinity50cosìlintelligenzaartificialeentraneiprocessiaziend",
+  "applerilasciaios272lanuovasirinonarrivainitaliacosacambiaequaliiphonesiaggiornan",
+  "lintelligenzaartificialecisostituiràalesaarrivalacommediacheprendeingirolarivolu",
+  "googlegeminisparkcomeusarelaipercompiereazioniproattivealtuoposto",
+  "pradaarrivasuchatgptillussoentranelleradelcommercioconversazionale",
+  "applelaunchesm6macbookproandimacpitchesfasterondeviceai",
+  "operalauncheswebaibringinglocalaimodelstoitsbrowsers",
+  "asuslaunchesintelarcprob70workstationgpuforlocalaiworkloads",
+  "idzlaunchesenterpriseworkspaceforgovernedprivateai",
+  "oneplus15oppofindx9ultragetmajorondeviceaimodelupdateswhatsnew",
+  "ethiopialaunchesofflineaiteacherassistantinnationalpushbackedbyworldbank",
+  "aineipcaziendalilenuovepropostelgpernotebookmonitorecloud",
+  "appiainlocalepiùsicurediquelleincloudunostudiorecuperalechatcancellatesuandroid",
+  "operapresentawebailintelligenzaartificialegirasulpc",
+  "hobportachatgpteclaudeinlocaleaiopensourcechefunzionaancheoffline",
+  "msixpertstationws300arrivainitalia748gbdimemoriaperlailocale",
+  "whatshouldiusefluxargocdor",
+  "tailscalewarnsofsshflawsallowingrootprivilegeescalation",
+  "gamevault2isherelinuxsupportandacompletelyrebuiltresponsiveui",
+  "versioncontrolfordockercomposeenvironment",
+  "istoppedusingairdropandquickshareafterdiscoveringthisfreeopensourcealternative",
+  "sekoiaintroducesselfhosteddeploymentfororganizationswithstrictdatacontrols",
+  "sekoiabringsmodernsecurityoperationstogovernmentdefenseandcriticalinfrastructure",
+  "12securefilesharingsolutionsthe2026buyersverdictguide",
+  "openaiexpandspartnershipwithoracletobringitsappstochatgpt",
+  "8examplesofgemini4argoninaction",
+  "geminiroboticsembodiedreasoning2isnowavailableongooglecloud",
+  "financialcentslaunchesmcpservertoconnectaccountingdatawithclaudechatgptandgemini",
+  "jumprollsoutnewclaudeskillsforfinancialadvisors",
+  "dealgroundlaunchesclaudeconnectorandexpandedbrowserextensiontosupportoffmarketco",
+  "formermetaaidirectorrohitpatellaunchesndoctochallengemicrosoftofficeandgooglewor",
+  "mazdarollsoutgooglegeminitonewcx5ineurope",
+  "linksquareslaunchesmcpconnectorbringingagenticcontractworktoanthropicsclaude",
+  "openailaunchesgpt61terraforprecisecomputeruse",
+  "anroklaunchesainativetaxinfrastructureconnectionforchatgptandclaude",
+  "gpt61terralauncheswithcheapercomputerusebutclaudeandopenaisowntopmodelsstilllead",
+  "exmetaaidirectorlaunchesndocanainative",
+  "claudesaysanthropicsipoisabuychatgptdisagrees",
+  "fourtakeawaysfromanthropicspotentiallyrecordbreakingstockmarketfiling",
+  "frombioweaponstoblackmailhereswhatsinanthropicsnearly100pagelistofrisksincluding",
+  "anthropicipofilingwarnsinvestorsofmajoraisafetyrisks",
+  "asanthropicsipoapproachescfokrishnaraofacesadefiningtest",
+  "anthropicsclaudetookgeorgiavotecountswithoutevenasking",
+  "theplatformapproachtobecomingfrontier",
+  "microsoftpushedcopilothardinedgenowsomeuserscantaccessitinthesidebar",
+  "globalfinancialnewsfrommtnewswiresnowliveinmicrosoftcopilot",
+  "copilotnotebooksprojectdraftsandwhattocheck",
+  "swedenblockschatgptandclaudebutkeepscopilot",
+  "dontusemusemetasaiagentcanstillaccessyourprivatemessageshereshow",
+  "elonmuskactuallyfollowsthroughongrokaiadaptationoftheodyssey",
+  "deepseekapipricingvshaiku55vsterra2026httpstechinsiderorg",
+  "applelaunchesits14inchm6macbookprofor1999",
+  "deepseekjumps801aschineseaimodelsroute4xtheusonopenrouter",
+  "musepasses10millionusersmetaagenticshoppingtrends",
+  "anthropicselaborateplantokeepwallstreetatbay",
+  "firefoxssmartwindowaddsaiformfillingandwebpagemonitoring",
+  "googlesnextgenieaimodelgeneratesmorerealisticexperiences",
+  "appleisaddinganaichatbottopageskeynoteandnumbers",
+  "datacenterbacklashisunitingamerica",
+  "frontierailabssaytheirmodelsrefutedtheexponentialtimehypothesiswhatdoesthatmean",
+  "googlesgenie4worldmodeladdsaudiomorerealisticworldsandrealtimesteering",
+  "metaaidirectorrohitpatelleavestotakeonmicrosoftofficeandgoogleworkspace",
+  "japaninternetgiantgmosayshackerspostedstolencustomerdata",
+  "operaintroducesanewwebstandardtoletusersdeployailocallyintheirbrowser",
+  "generalcomputeraises100millionseriesacounteringtheneoclouddisasternarrative",
+  "nvidiabacksindianstartuphelpingcompaniesrunaimodelswithfewergpus",
+  "deepmindunveilsgenie4worldmodelpromisingmorerealisticphysicsandhumans",
+  "industrialintelligencethenextgrowthopportunityformanufacturing",
+  "googledeepmindsgenie4putsamodernspinonagentdesignsthatpredatellms",
+  "formerdeepmindresearcherthinksalphagosplaybookcancureaihallucinations",
+  "openaiasksoutsideexpertsincludinganobellaureatetocheckproofsitsaiproducedinmathc",
+  "openaispartnercontentarrivesinchatgptpresummarizedwhiletherestofthewebgetsrawscr",
+  "anthropicusesitsipolettertorenewitspledgethatclaudewillnevershowads",
+  "openaistedsanderssharesaruleofthumbforpickingtherightgptmodel",
+  "metagets3billionfromnvidiaandplanstospendmoreonnvidiachips",
+  "gpt61terraanthropicipofilingagentnativegit",
+  "giustiziaeialectiodelpresidentedellacortecostituzionaleacatanzaro",
+  "genie4digoogleportasuoniefotorealismonellesimulazioni",
+  "applelanciaassistenteaisupageskeynoteenumbers",
+  "5plugindichatgptperdifendersidalletruffe",
+  "operawebainuovostandardperimodelliainelbrowser",
+  "claudemythos5attaccosupplychaincontrogithub",
+  "applesvelailnuovoimacconchipm6esiriai",
+  "lappchetrasformaiphoneduoindiecipiccolicomputer",
+  "eccocomehafattosonyachiuderelafalladellhypervisorbypasssups5",
+  "switchbotaiartframe2arrivainitaliatuttelenovitàeiprezzi",
+  "openaiweareannouncingthreenewdiscoveriesinmathematicscomputerscienceandphysicsab",
+  "theyneedtoknowhowitallhappened",
+  "brogotthepremiumboyfriendexperienceforfree",
+  "incredibleaccomplishment",
+  "sincethescreencrackedclaudehelpsfitthewindowintothenormalarea",
+  "claudeopus55isinsaneincreatingcreating3dmovies",
+  "anastonishinglygooddescriptionconsideringitwasmadein66yearsago",
+  "hasanybodyherenoticedthatthehitpiecefromcohereonopenmodelscameoutthesamedaythata",
+  "125tokenspersecondonanrtx4070tisuperhowigotalocalllmworkingasafullfledgedcodinga",
+  "investigatingwhosbehindfakenewsnataliaviana",
+  "footageofplaneexplodingisanaifabrication",
+  "deepfakesunrelatedvisualslinkedtorecentindiachinaclashesinarunachalboom",
+  "verifiedthisvideoofpalestinianflagatopeiffeltowerisaigenerated",
+  "factcheckimageofsaudiministerkissingpezeshkianshandisaiedited",
+  "ukrainesaysithitdronehangarsatcrimeashvardiiskenowanosintchannelspots20bermedshe",
+  "achineseimagingsatelliteandanobjectfromthismonths63satelliteridesharepassedabout"
  ],
  "audio": "audio/2026-10-27.mp3",
- "durata": 86.8
+ "durata": 189.9,
+ "aggiornamenti": [
+  {
+   "generato": "2026-10-27T17:39:28+00:00",
+   "modello": "gemini-3.6-flash",
+   "testi_completi": 23,
+   "riassunto": {
+    "titolo_giorno": "Opera porta l'AI locale nel browser e Apple integra l'assistente AI in Pages e Keynote",
+    "in_breve": "L'aggiornamento di oggi mostra l'evoluzione dell'intelligenza artificiale verso l'elaborazione locale e la produttività quotidiana. Opera introduce la tecnologia WebAI per eseguire modelli direttamente sul computer senza inviare dati online, mentre Apple integra assistenti generativi nella sua suite iWork per semplificare documenti e presentazioni.",
+    "citati": [
+     "Opera",
+     "Pages",
+     "Keynote"
+    ],
+    "da_provare": [
+     {
+      "cosa": "Off Grid AI",
+      "a_cosa_serve": "Permette di utilizzare l'intelligenza artificiale direttamente sul proprio telefono o computer in totale riservatezza, elaborando i dati in locale senza inviare informazioni a server esterni.",
+      "per_chi": "Tutti i giorni",
+      "ambito": "Privacy e produttività",
+      "come_iniziare": [],
+      "costo": "Non indicato",
+      "piattaforme": [
+       "Android",
+       "Windows",
+       "iPhone",
+       "Mac"
+      ],
+      "sul_dispositivo": true,
+      "come_sfruttarla": "Analizzare ed elaborare documenti riservati sul proprio dispositivo senza trasmettere dati su Internet.",
+      "italiano": "Non indicato",
+      "difficolta": "Facile",
+      "temi": [
+       "AI sul dispositivo",
+       "Privacy e sicurezza"
+      ],
+      "fonti": [
+       "u1a3"
+      ],
+      "affidabilita": "Appena lanciato",
+      "prova": "https://www.producthunt.com/products/off-grid-ai"
+     },
+     {
+      "cosa": "OpenRadView",
+      "a_cosa_serve": "Un visualizzatore gratuito e open source per aprire ed esaminare direttamente nel browser i file di TAC, radiografie e risonanze magnetiche.",
+      "per_chi": "Tutti i giorni",
+      "ambito": "Salute e visione file",
+      "come_iniziare": [],
+      "costo": "Gratis",
+      "piattaforme": [
+       "Browser"
+      ],
+      "sul_dispositivo": false,
+      "come_sfruttarla": "Consultare autonomamente sul computer i propri esami medici radiologici salvati su CD o memoria USB.",
+      "italiano": "Non indicato",
+      "difficolta": "Facile",
+      "temi": [
+       "Open source e self-hosting",
+       "Ricerca e informazioni"
+      ],
+      "fonti": [
+       "u1a5"
+      ],
+      "affidabilita": "Appena lanciato",
+      "prova": "https://www.producthunt.com/products/openradview"
+     },
+     {
+      "cosa": "Rifiutoo",
+      "a_cosa_serve": "Un'applicazione italiana rivolta alla gestione dei rifiuti aziendali che consente di registrarli tramite fotocamera e firmare i formulari di smaltimento dal telefono.",
+      "per_chi": "Lavoro",
+      "ambito": "Organizzazione e lavoro",
+      "come_iniziare": [],
+      "costo": "Non indicato",
+      "piattaforme": [],
+      "sul_dispositivo": false,
+      "come_sfruttarla": "Compilare e convalidare la documentazione di smaltimento sul luogo di lavoro scattando una semplice foto.",
+      "italiano": "Non indicato",
+      "difficolta": "Facile",
+      "temi": [
+       "Lavoro e produttività",
+       "Foto e immagini"
+      ],
+      "fonti": [
+       "u1a23"
+      ],
+      "affidabilita": "Da verificare",
+      "solo_titoli": true,
+      "prova": ""
+     }
+    ],
+    "osint": [],
+    "gemme": [
+     {
+      "cosa": "GameVault 2",
+      "a_cosa_serve": "Una piattaforma gestibile in autonomia per organizzare la propria libreria di videogiochi senza protezioni digitali (DRM-free).",
+      "perche_gemma": "È gratuita e open source, con un'interfaccia web e client desktop per Windows, Linux e Mac.",
+      "con_ai": "",
+      "piattaforme": [
+       "Browser",
+       "Windows",
+       "Mac",
+       "Linux"
+      ],
+      "self_hosted": true,
+      "costo": "Gratis",
+      "difficolta": "Media",
+      "temi": [
+       "Open source e self-hosting",
+       "Video",
+       "Privacy e sicurezza"
+      ],
+      "fonti": [
+       "u1a54"
+      ],
+      "affidabilita": "Da verificare",
+      "come_iniziare": [],
+      "sul_dispositivo": false,
+      "come_sfruttarla": "",
+      "prova": ""
+     }
+    ],
+    "sezioni": [
+     {
+      "titolo": "Novità negli strumenti che già usi",
+      "notizie": [
+       {
+        "titolo": "Arriva lo standard WebAI per eseguire modelli AI in locale nel browser",
+        "strumento": "Opera",
+        "riassunto": "Opera ha presentato WebAI, uno standard integrato nella versione di prova di Opera One che consente di usare modelli AI (come Gemma di Google) direttamente sul proprio computer. Questo permette di elaborare le richieste senza inviare i dati in cloud e senza costi di abbonamento.",
+        "come_provarla": "Disponibile abilitando la funzione nelle impostazioni della versione di anteprima di Opera One.",
+        "disponibilita": "Disponibile ora",
+        "fonti": [
+         "u1a46",
+         "u1a122",
+         "u1a161",
+         "u1a37"
+        ],
+        "temi": [
+         "AI sul dispositivo",
+         "Privacy e sicurezza"
+        ],
+        "affidabilita": "Confermata",
+        "solo_titoli": false
+       },
+       {
+        "titolo": "Compilazione automatica dei moduli dalle schede e monitoraggio pagine con Smart Window",
+        "strumento": "Firefox",
+        "riassunto": "L'esperienza Smart Window di Firefox si aggiorna con una funzione che compila i moduli online estraendo i dati dalle schede aperte (ad esempio incollando la storia lavorativa da LinkedIn in una domanda d'impiego). Inoltre, inserendo il comando /watch è possibile monitorare pagine web per ricevere avvisi su sconti o nuovi annunci.",
+        "come_provarla": "In un modulo web con almeno quattro campi, seleziona l'opzione 'Fill from sources' o digita /watch nella chat di Smart Window.",
+        "disponibilita": "Disponibile ora",
+        "fonti": [
+         "u1a109"
+        ],
+        "temi": [
+         "Lavoro e produttività",
+         "Assistenti e chatbot"
+        ],
+        "affidabilita": "Una fonte",
+        "solo_titoli": false
+       },
+       {
+        "titolo": "Assistente AI integrato per creare diapositive, testi e tabelle",
+        "strumento": "Apple iWork (Pages, Keynote, Numbers)",
+        "riassunto": "Apple introduce un assistente basato sui modelli Apple e OpenAI all'interno di Keynote, Pages e Numbers. L'integrazione permette di generare e ritoccare diapositive, riorganizzare testi e costruire tabelle o grafici direttamente nei documenti di lavoro.",
+        "come_provarla": "",
+        "disponibilita": "In arrivo",
+        "fonti": [
+         "u1a111",
+         "u1a159"
+        ],
+        "temi": [
+         "Scrittura e documenti",
+         "Lavoro e produttività",
+         "Assistenti e chatbot"
+        ],
+        "affidabilita": "Confermata",
+        "solo_titoli": false
+       }
+      ]
+     }
+    ],
+    "formato": 2,
+    "controllo_siti": [
+     {
+      "cosa": "Rifiutoo",
+      "esito": "nessun sito da aprire"
+     },
+     {
+      "cosa": "GameVault 2",
+      "esito": "nessun sito da aprire"
+     },
+     {
+      "cosa": "OpenRadView",
+      "sito": "https://www.producthunt.com/r/p/1293677?app_id=339",
+      "esito": "errore: HTTP Error 403: Forbidden"
+     },
+     {
+      "cosa": "Off Grid AI",
+      "sito": "https://www.producthunt.com/r/p/1293302?app_id=339",
+      "esito": "errore: HTTP Error 403: Forbidden"
+     }
+    ]
+   }
+  }
+ ]
 }
