@@ -376,6 +376,53 @@
    "solo_titolo": false,
    "categoria": "Gemme",
    "id": "a51"
+  },
+  "u1a73": {
+   "titolo": "Gemini 4 Carbon: our next frontier model",
+   "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+   "data": "2026-10-28T17:00:00+00:00",
+   "testo": "Gemini 4 Carbon: our next frontier model Today, we’re announcing the next frontier model: Gemini 4 Carbon, our strongest model with state-of-the-art cybersecurity and long horizon capabilities. Carbon ranks #1 on the recently updated v5.0 of Artificial Analysis Intelligence Index at 59. It shows significant gains across coding and agentic tasks as well as across key capabilities critical for cybersecurity defense, landing a firm lead in SEC-bench Pro (88.2%) for finding vulnerabilities, ExploitGym (54.8%) for exploitation, and CWE-bench (71.0%) for patching. On internal benchmarks, Carbon drives a strong uplift in generating secure code, and in live coding environments with our own teams it shows reduced misalignment and fabrication rates. Building on Gemini 4 Argon, which was launched two weeks ago, Carbon illustrates the pace at which we’re pushing the frontier forward. Our researchers and models are working hand in hand to advance capabilities faster, while strengthening our safeguards in tandem. We're taking a deliberate approach to rollout and are actively engaged in the U.S. government’s voluntary process for pre-release model testing. Starting this week, we will make Carbon available to a subset of cyber defenders and will gradually phase access to additional trusted partners through our Fairwind Program. We’re continuing to gather feedback and iterate on guardrails before making Carbon available to developers, businesses, and consumers via our product surfaces as soon as possible. Gemini 4 Carbon will launch at the same introductory price 1 as Argon at $2 per million input tokens and $10 per million output tokens, with cached input tokens priced at 95% off input token price. Improving coding and reasoning for challenging, long-horizon tasks Designed to take on …",
+   "fonte": "Google (blog ufficiale)",
+   "tipo": "ufficiale",
+   "solo_titolo": false,
+   "categoria": "Laboratori",
+   "id": "u1a73",
+   "testo_completo": true
+  },
+  "u1a119": {
+   "titolo": "Chrome’s AI-powered Autofill can now dig through your Gmail to fill out forms",
+   "link": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/",
+   "data": "2026-10-28T17:00:00+00:00",
+   "testo": "Google’s Chrome browser is getting an update that will improve its autofill capabilities using AI. On Wednesday, the company said that Chrome will get an advanced version of autofill that will help users fill out online forms with suggestions pulled from their Gmail. That means Chrome could suggest things you might need to know, like a flight confirmation number, membership ID, tracking information, order number, an address, phone number, or credit card number by referencing your email. The update is an expansion of Google’s Personal Intelligence, which already allows users to connect their Google Apps to its AI assistant, Gemini, to retrieve certain details and then use them to answer complex questions. Though seemingly minor, the update could make Chrome easier to use, which could give users another reason to continue to use Google’s browser and stay in its AI ecosystem. It’s reminiscent of one of Apple’s most appreciated features: the ability to automatically detect verification codes sent via text and display them above the keyboard, allowing users to enter them with a single tap. As with other Personalized Intelligence features, users can decide whether or not to enable enhanced autofill from their Chrome settings. Sensitive data is encrypted, Google notes. The feature is rolling out to U.S. users on the desktop, and in the iOS and Android apps for Gemini in Chrome.",
+   "fonte": "TechCrunch",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Testate tech",
+   "id": "u1a119",
+   "testo_completo": true
+  },
+  "u1a75": {
+   "titolo": "Chrome’s enhanced autofill helps you fill out forms with suggestions pulled from Gmail.",
+   "link": "https://blog.google/products-and-platforms/products/chrome/enhanced-autofill-gmail/",
+   "data": "2026-10-28T17:00:00+00:00",
+   "testo": "Chrome’s enhanced autofill helps you fill out forms with suggestions pulled from Gmail. Filling out online forms can be tedious, especially when you have to switch between tabs or search through your inbox to track down information. While autofill has always handled the basics — like your name, address, and credit card number — now it’s handling even more. Starting today, Chrome’s enhanced autofill feature can automatically suggest information pulled directly from Gmail as you fill out online forms. Powered by Gemini with Personal Intelligence, it can surface details like order numbers, tracking information, and flight bookings, right when you need them. Soon, we’ll be extending these capabilities to let enhanced autofill securely access information from the images stored in your Google Photos library. As always, sensitive data is encrypted and you remain in control. You can manage whether enhanced autofill is enabled and what it can access via your Chrome settings. These capabilities are beginning to roll out in the U.S. on desktop, Android and iOS for Gemini in Chrome users with Personal Intelligence enabled.",
+   "fonte": "Google (blog ufficiale)",
+   "tipo": "ufficiale",
+   "solo_titolo": false,
+   "categoria": "Laboratori",
+   "id": "u1a75",
+   "testo_completo": true
+  },
+  "u1a163": {
+   "titolo": "Unalternativa europea alle AI americane e cinesi? La proposta svizzera si chiama Euria",
+   "link": "https://www.hdblog.it/tecnologia/articoli/n674401/unalternativa-europea-alle-ai-americane-e-cinesi-la-proposta-svizzera-si-chiama-euria/",
+   "data": "2026-10-28T13:31:00+02:00",
+   "testo": "Infomaniak propone unAI che non usa i contenuti degli utenti per addestrarsi, gira su infrastrutture proprie e si può provare senza account. Ecco come funziona e dove sono i limiti.",
+   "fonte": "HDblog",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Italia",
+   "id": "u1a163"
   }
  },
  "fonti": [
@@ -756,8 +803,215 @@
   "tiktokandinstagram",
   "achineseimagingsatelliteandanobjectfromthismonths63satelliteridesharepassedabout",
   "monitorpetsales",
-  "isagaiaidcompletelyuselessinbig2026"
+  "isagaiaidcompletelyuselessinbig2026",
+  "throxy",
+  "oursillygames",
+  "openllm",
+  "lfm3byliquidai",
+  "openforsales",
+  "genie4",
+  "boltbar",
+  "webaibyopera",
+  "agenthandshakebyfini",
+  "dotverse",
+  "redeyelaunchesaitooltohelpmissourivotersunderstandballotmeasuresthemissouritimes",
+  "macpawlauncheseneyaiassistantformacandiphone",
+  "afreeaitoolspeedsupthesearchfornewantibiotics",
+  "onpointesoftwarelaunchesottoanaiassistantandportfoliooptimizerbuiltintoonpointer",
+  "anaiassistantandemergencylibrarythatrunsonyourowncomputer",
+  "cantolaunchesitsaiassistantendingtheeraofthepassivedam",
+  "twosonsofdoctorsbuiltverahealthafreemedicalaitoolayearafterreachingjustafewthous",
+  "easollaunchesaitoolforfestivalpromotersfollowing30mraise",
+  "stirlingstartuplaunchesprivacyfirstaitooltoprotectbusinesses",
+  "metalaunchesaiappwaddleworldinthephilippinesengadget",
+  "rifiutooportailrentriintascaaecomondo2026lanuovaappconintelligenzaartificiale",
+  "thetravelerscompaniesinclanciatravisuploadgolostrumentodiquotazionebasatosullint",
+  "arrivaariannailnuovoassistentedigitalealserviziodeicittadini",
+  "unannodihostingwordpressgratisconionosincludeanchelintelligenzaartificiale",
+  "ariannalinpslanciailsuoassistentedigitaleconintelligenzaartificialegenerativa",
+  "inpslanciaariannalassistenteiaperorientareicittadinitraservizieprestazioni",
+  "aièonlineparliamentragpernavigareneilavoridelparlamento",
+  "generareilfilmsullodisseaconlaigrokdimusksfidanolan",
+  "10comandichatgptpermigliorareletuefotoconlintelligenzaartificiale",
+  "switchbotaiartframe2arrivainitaliatuttelenovitàeiprezzi",
+  "geminipersonalintelligencesuandroidautoperchémancainitalia",
+  "rtxsparklocalaicodingfailsivehadmorethanafew",
+  "ilportatilepanasonicfc7offremobilitàdurabilitàeprestazionipremiumperiprofessioni",
+  "ezvizrinnovaletelecamerewifiabatteriaregistrazione247ailocaleezoomfinoa12x",
+  "ohimhavingalotoffunlately",
+  "sablier4yearslaterstartyourappsondemandnowwithpodmanproxmoxlxcnomadecsandmore",
+  "cheveretov458releasedsecurityupdate",
+  "bookmanagerfollowupmetadatapreservationfixesandxmlcompatibilityimprovementsforth",
+  "idoalmosteveryannoyingpdfjoblocallyinmybrowsernow",
+  "tailscalepatchessshflawsthatcouldlethackeddevicesgainrootaccessonotherservers",
+  "legoraisbuildingtheagenticoperatingsystemforlegalwork",
+  "gemini4carbonournextfrontiermodel",
+  "xrealaurawiredxrglassestowatchworkandplay",
+  "chromesenhancedautofillhelpsyoufilloutformswithsuggestionspulledfromgmail",
+  "buildandmanageconnectedappsinoneplace",
+  "exclusiveprophecylaunchesdatagpttorundataworkflowsinsidechatgptclaudeandcopilot",
+  "prophecylaunchesdatagptbringingenterprisedataworkflowstoclaudechatgptandcopilot",
+  "googlelaunchesconnectedappsplatformforgemini",
+  "goodwinlaunchesaigovernancebenchmarkinclaudeforlegal",
+  "claudeopus55takestopspotasartificialanalysislaunchesintelligenceindexv5",
+  "pradalauncheschatgpttooltohelpshoppersdiscoverluxuryproducts",
+  "formermetaaidirectorrohitpatellaunchesndoctochallengemicrosoftofficegoogleworksp",
+  "anthropicunveilsadditionalclaudetoolsforlawyers",
+  "anthropicreleasesclaudeforlegalartifactsasetofnewinteractivetoolsforlegalusers",
+  "anthropicsuedforallegedlytrainingclaudeonelvispresleysmusic",
+  "phdatalandsanthropicbackedfundingtoscaleitsclaudeenterpriseservices",
+  "trumpordersusgovernmenttocuttieswithanthropichegsethdeclaressupplychainriskabcne",
+  "microsofttoendcopilotsupportonsmarttvsbyendofyear",
+  "intermountainhealthchoosespowerscribeonetoadvanceradiologyreporting",
+  "microsoftiskillingoffcopilotonsmarttvs",
+  "veriskaddsamazonquickandmicrosoftcopilotintegrations",
+  "veriskbringsitsproprietaryinsuranceintelligencetoamazonandmicrosoftaiplatformsex",
+  "spacexlaunchesgrokaipartnerprogramhereswhattoknow",
+  "perplexityupgradesmacappwithchatgptpoweredvoicemode",
+  "freightrightmcpnowavailableingrokbotandcursor",
+  "openmausbotisanopensourcegrokbotalternativewithavirtualmachinethatbotscanuse",
+  "thedescribeashortcutfeaturemightbethebestuseofappleintelligenceinios27",
+  "deepseekv41flashupdateoverviewandguidetodeepseekharness",
+  "xaiisbuyingouthomeownerswhopromisenottosueoverdatacenternoise",
+  "votersintexasagreetheyhatedatacenters",
+  "metaquietlylaunchedanaipetjournalapp",
+  "chromesaipoweredautofillcannowdigthroughyourgmailtofilloutforms",
+  "aiexecsmaybetoooutoftouchtobuildforthegeneralpublic",
+  "southkoreasfinancialindustryhitbyfreshwaveofcyberattacks",
+  "voiceaiinvoguenvidiareleasesnewopentranscriptionmodel",
+  "7daysuntiltechcrunchfoundersummitsaveupto100onyourpassbeforedoorsopen",
+  "pairingindustrialaiautonomyandhumancontrol",
+  "googleopensandroiddevelopmenttothirdpartyaiagentsandunveilsnewgeminiapis",
+  "openaiteasesdotsforeuropebutitsberlindevdaywasreallyaboutbuildingaplatform",
+  "claudeforlegalnowverifiessourcesautomaticallythenhandsthefiletoalawyer",
+  "nvidiasopennemotron35transcribecombinestranscriptiontranslationandspeakerrecogni",
+  "newartificialanalysisindexwidensthegapbetweenopenandclosedmodels",
+  "withaiwritingthecodeentrepreneurialthinkingisnowwhatcountsmostfornewcomersatanth",
+  "aiagentshackedanthropicmakerofarguablythemostcapableaimodelsforcyberdefense",
+  "genie4worldsfrontiercode2aidrugdiscovery",
+  "dialoghisullintelligenzaartificialelapropostadellachiesadiroma",
+  "cameronisullintelligenzaartificialelasfidapartedallecompetenze",
+  "griddynamicslancialostudiodiconsulenzaperiprocessiaziendalivoltoacolmareildivari",
+  "ritornailfascinodelfaidateeleultimeinvenzionirealizzateconarduino",
+  "altmanalleaziendeprimalasicurezzaaioracleportaincasaichipdiintelligenzaartificia",
+  "chatgptfaperderetempo3erroridaevitareperlavoraremeglio",
+  "smarttvsamsungcispianocosahascopertounhacker",
+  "addioacopilotsullesmarttvnonmancheràanessuno",
+  "chipamdepycenvidiaverarubinpermetamuse",
+  "copilotnellabarralateralediedgenonfunzionaperché",
+  "unalternativaeuropeaalleaiamericaneecinesilapropostasvizzerasichiamaeuria",
+  "lowoncyand",
+  "crazyrealisticnowwerecooked",
+  "ithappenedmyprojectmanagerjustmadeaprwithclaude",
+  "memeorreality",
+  "psaforvibecodersstoppromptingtweaksmakeclaudebuildyouaremotecontrol",
+  "someonebuilta32bitriscvcpudirectlyinsideqwensmodelweightssoitcanexecuteinstructi",
+  "aaisgettingridiculousnowzeroopenweightsinthemostattractivequadrant",
+  "deepseekv41flash1017at41toksonone3090",
+  "itvendorlistsmassive60millionaisupercomputeronebaywith9600nvidiaa100gpusand4200a",
+  "changingthejournalismcommunityandbeyondpartiihowgijnsreportingtrainingandresourc",
+  "investigativejournalismweek2026resources",
+  "openaireleasesunreviewedaimathproofssparkingaccountabilitydebate",
+  "viralvideoofisraelissinginghanumanchalisaintelavivisaigenerated",
+  "howtousekrassomalabelapptoidentifycounterfeitproducts",
+  "misleadingvideoofmassdefectiontoapcinkanonotrecent",
+  "newframeworkunifiesscatteredosintdataintosinglecyberintelligenceprofiles",
+  "cognitiveerosionhasbecomeanewtargetofdisinformationexpert",
+  "russiabuildsnewgeran5attackdronelaunchsitenearmillerovomilitaryairfieldukrainesi",
+  "amacomerlunicatappainsardegnadilinuxdaylunionesardait"
  ],
  "audio": "audio/2026-10-28.mp3",
- "durata": 114.9
+ "durata": 155.1,
+ "aggiornamenti": [
+  {
+   "generato": "2026-10-28T17:22:18+00:00",
+   "modello": "gemini-3.5-flash-lite",
+   "testi_completi": 21,
+   "riassunto": {
+    "titolo_giorno": "Arriva Google Gemini 4 Carbon, il nuovo modello di punta per ragionamento e sicurezza informatica",
+    "in_breve": "Google ha svelato Gemini 4 Carbon, il suo modello più avanzato per compiti complessi e cybersecurity, mentre Chrome introduce la compilazione automatica intelligente integrata con Gmail. Sul fronte degli strumenti, l'app Euria dalla Svizzera offre un'alternativa europea orientata alla privacy.",
+    "citati": [
+     "Gemini 4 Carbon",
+     "Chrome",
+     "Euria"
+    ],
+    "da_provare": [
+     {
+      "cosa": "Euria",
+      "a_cosa_serve": "Un assistente AI di sviluppo svizzero che non utilizza i dati personali per l'addestramento, gira su infrastrutture proprie e si può provare senza account.",
+      "per_chi": "Tutti i giorni",
+      "ambito": "Scrittura",
+      "come_iniziare": [],
+      "costo": "Non indicato",
+      "piattaforme": [
+       "Browser"
+      ],
+      "sul_dispositivo": false,
+      "come_sfruttarla": "Chiedere testi o risposte in sicurezza senza condividere i propri dati aziendali o personali.",
+      "italiano": "Non indicato",
+      "difficolta": "Facile",
+      "fonti": [
+       "u1a163"
+      ],
+      "temi": [
+       "Privacy e sicurezza",
+       "Assistenti e chatbot"
+      ],
+      "affidabilita": "Una fonte",
+      "prova": ""
+     }
+    ],
+    "osint": [],
+    "gemme": [],
+    "sezioni": [
+     {
+      "titolo": "Novità negli strumenti che già usi",
+      "notizie": [
+       {
+        "titolo": "Google annuncia Gemini 4 Carbon",
+        "strumento": "Gemini",
+        "riassunto": "Arriva Gemini 4 Carbon, il nuovo modello di punta di Google con capacità di ragionamento estese e focalizzato sulla sicurezza informatica. Verrà integrato gradualmente nei prodotti per sviluppatori e consumatori.",
+        "come_provarla": "Accesso iniziale per difensori informatici e partner tramite il programma Fairwind.",
+        "disponibilita": "In arrivo",
+        "fonti": [
+         "u1a73"
+        ],
+        "temi": [
+         "Agenti AI",
+         "Privacy e sicurezza",
+         "Assistenti e chatbot"
+        ],
+        "affidabilita": "Fonte ufficiale",
+        "solo_titoli": false
+       },
+       {
+        "titolo": "Compilazione automatica potenziata da Gmail",
+        "strumento": "Chrome",
+        "riassunto": "Il browser Chrome usa l'AI per estrarre informazioni da Gmail (come numeri d'ordine, codici di tracciamento o voli) e suggerirle automaticamente mentre compili i moduli online.",
+        "come_provarla": "Abilita la funzione nelle impostazioni di Chrome se usi Gemini con Personal Intelligence negli Stati Uniti.",
+        "disponibilita": "Disponibile ora",
+        "fonti": [
+         "u1a75",
+         "u1a119"
+        ],
+        "temi": [
+         "Ricerca e informazioni",
+         "Lavoro e produttività"
+        ],
+        "affidabilita": "Fonte ufficiale",
+        "solo_titoli": false
+       }
+      ]
+     }
+    ],
+    "formato": 2,
+    "controllo_siti": [
+     {
+      "cosa": "Euria",
+      "esito": "nessun sito da aprire"
+     }
+    ]
+   }
+  }
+ ]
 }
