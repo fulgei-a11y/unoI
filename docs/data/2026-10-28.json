@@ -1,0 +1,763 @@
+{
+ "giorno": "2026-10-28",
+ "generato": "2026-10-28T06:01:59+00:00",
+ "modello": "gemini-3.6-flash",
+ "testi_completi": 31,
+ "riassunto": {
+  "titolo_giorno": "Ndoc reinventa i documenti e le funzioni AI locali arrivano sull'audio",
+  "in_breve": "Oggi spicca Ndoc, una nuova piattaforma ideata per superare la frammentazione dei vecchi programmi da ufficio unendo testi, dati e presentazioni in un unico ambiente AI. Inoltre, la tecnologia AI compie un passo avanti sulla privacy grazie a modelli come LFM3-Audio-2B, in grado di gestire conversazioni vocali direttamente sul PC di casa senza connessione a Internet.",
+  "citati": [
+   "Ndoc",
+   "LFM3-Audio-2B"
+  ],
+  "da_provare": [
+   {
+    "cosa": "Ndoc",
+    "a_cosa_serve": "Unisce in un unico ambiente di lavoro digitale fogli di calcolo, presentazioni e analisi di testo guidate dall'intelligenza artificiale.",
+    "per_chi": "Lavoro",
+    "ambito": "Scrittura e documenti",
+    "come_iniziare": [],
+    "costo": "Non indicato",
+    "piattaforme": [
+     "Browser"
+    ],
+    "sul_dispositivo": false,
+    "come_sfruttarla": "Generare report aziendali completi di calcoli e spiegazioni senza dover alternare diversi programmi.",
+    "italiano": "Non indicato",
+    "difficolta": "Facile",
+    "temi": [
+     "Scrittura e documenti",
+     "Lavoro e produttività"
+    ],
+    "fonti": [
+     "a117",
+     "a78"
+    ],
+    "affidabilita": "Una fonte",
+    "prova": ""
+   },
+   {
+    "cosa": "Nuvio 5.0",
+    "a_cosa_serve": "Un agente AI concepito per prendere in carico e automatizzare le mansioni e la burocrazia amministrativa e finanziaria.",
+    "per_chi": "Lavoro",
+    "ambito": "Organizzazione",
+    "come_iniziare": [],
+    "costo": "Non indicato",
+    "piattaforme": [
+     "Browser"
+    ],
+    "sul_dispositivo": false,
+    "come_sfruttarla": "Semplificare la gestione delle scadenze contabili e delle pratiche amministrative della propria attività.",
+    "italiano": "Non indicato",
+    "difficolta": "Facile",
+    "temi": [
+     "Agenti AI",
+     "Lavoro e produttività"
+    ],
+    "fonti": [
+     "a2"
+    ],
+    "affidabilita": "Appena lanciato",
+    "prova": "https://www.producthunt.com/products/nuvio"
+   },
+   {
+    "cosa": "Norton per ChatGPT",
+    "a_cosa_serve": "Un plugin per ChatGPT sviluppato da Norton per esaminare messaggi, e-mail ed elementi sospetti alla ricerca di segnali di truffa.",
+    "per_chi": "Tutti i giorni",
+    "ambito": "Privacy e sicurezza",
+    "come_iniziare": [],
+    "costo": "Non indicato",
+    "piattaforme": [
+     "Browser"
+    ],
+    "sul_dispositivo": false,
+    "come_sfruttarla": "Incollare nella chat di ChatGPT un SMS sospetto per verificare se contiene trappole di phishing prima di aprirlo.",
+    "italiano": "Non indicato",
+    "difficolta": "Facile",
+    "temi": [
+     "Privacy e sicurezza",
+     "Assistenti e chatbot",
+     "Ricerca e informazioni"
+    ],
+    "fonti": [
+     "a150"
+    ],
+    "affidabilita": "Una fonte",
+    "prova": ""
+   },
+   {
+    "cosa": "LFM3-Audio-2B",
+    "a_cosa_serve": "Un modello di intelligenza artificiale vocale compatto che permette di effettuare conversazioni a voce e trascrizioni direttamente sul proprio computer offline.",
+    "per_chi": "Tutti i giorni",
+    "ambito": "Voce e audio",
+    "come_iniziare": [],
+    "costo": "Gratis",
+    "piattaforme": [
+     "Windows",
+     "Mac",
+     "Linux"
+    ],
+    "sul_dispositivo": true,
+    "come_sfruttarla": "Utilizzare un assistente vocale per dettare o ascoltare risposte sul PC senza inviare file audio su server esterni.",
+    "italiano": "Non indicato",
+    "difficolta": "Media",
+    "temi": [
+     "AI sul dispositivo",
+     "Voce e audio"
+    ],
+    "fonti": [
+     "a166",
+     "a170"
+    ],
+    "affidabilita": "Da verificare",
+    "prova": ""
+   }
+  ],
+  "osint": [
+   {
+    "cosa": "MiniCPM-OCR",
+    "a_cosa_serve": "Modello di intelligenza artificiale specializzato nell'estrazione e nell'analisi accurata di testo da documenti inclinati, foto da smartphone o fogli piegati.",
+    "uso": "Analisi di documenti",
+    "piattaforme": [
+     "Browser",
+     "Windows"
+    ],
+    "costo": "Gratis",
+    "difficolta": "Media",
+    "come_sfruttarla": "Trascrivere ed esaminare documenti cartacei fotografati in condizioni difficili durante un'indagine.",
+    "temi": [
+     "OSINT e verifica",
+     "Open source e self-hosting",
+     "Scrittura e documenti"
+    ],
+    "fonti": [
+     "a168"
+    ],
+    "affidabilita": "Da verificare",
+    "come_iniziare": [],
+    "sul_dispositivo": false,
+    "prova": ""
+   }
+  ],
+  "gemme": [
+   {
+    "cosa": "Lagrange Reader",
+    "a_cosa_serve": "Applicazione per leggere e-book e fumetti offline sincronizzando la lettura con i propri server di libreria personali come Komga o Kavita.",
+    "perche_gemma": "Completamente gratuita e incentrata sulla lettura offline senza dipendere da piattaforme cloud commerciali.",
+    "con_ai": "",
+    "piattaforme": [
+     "Android"
+    ],
+    "self_hosted": false,
+    "costo": "Gratis",
+    "difficolta": "Facile",
+    "temi": [
+     "Open source e self-hosting",
+     "AI sul dispositivo",
+     "Regole e leggi"
+    ],
+    "fonti": [
+     "a51"
+    ],
+    "affidabilita": "Da verificare",
+    "come_iniziare": [],
+    "sul_dispositivo": false,
+    "come_sfruttarla": "",
+    "prova": ""
+   },
+   {
+    "cosa": "immich-convert-originals",
+    "a_cosa_serve": "Strumento che riduce lo spazio occupato dalla propria libreria fotografica Immich convertendo i file nei formati efficienti JPEG-XL e AV1.",
+    "perche_gemma": "Gratuito, open source e permette di risparmiare fino al 50% di spazio mantenendo intatti album e metadati.",
+    "con_ai": "Snellire l'archivio foto personale sul server casalingo prima di processarlo con strumenti AI di ricerca o riconoscimento.",
+    "piattaforme": [
+     "Windows",
+     "Linux"
+    ],
+    "self_hosted": true,
+    "costo": "Gratis",
+    "difficolta": "Media",
+    "temi": [
+     "Open source e self-hosting",
+     "Foto e immagini"
+    ],
+    "fonti": [
+     "a49"
+    ],
+    "affidabilita": "Da verificare",
+    "come_iniziare": [],
+    "sul_dispositivo": false,
+    "come_sfruttarla": "",
+    "prova": ""
+   }
+  ],
+  "sezioni": [
+   {
+    "titolo": "In breve",
+    "breve": true,
+    "notizie": [
+     {
+      "titolo": "La Lombardia approva la legge regionale sull'intelligenza artificiale",
+      "riassunto": "La Regione Lombardia ha approvato una legge per sostenere la ricerca, l'innovazione e l'uso etico delle tecnologie AI nel proprio territorio.",
+      "fonti": [
+       "a141",
+       "a22"
+      ],
+      "temi": [
+       "Regole e leggi",
+       "Ricerca e informazioni"
+      ],
+      "affidabilita": "Una fonte",
+      "solo_titoli": true,
+      "come_provarla": ""
+     }
+    ]
+   }
+  ],
+  "formato": 2,
+  "controllo_siti": [
+   {
+    "cosa": "Ndoc",
+    "esito": "nessun sito da aprire"
+   },
+   {
+    "cosa": "Norton per ChatGPT",
+    "esito": "nessun sito da aprire"
+   },
+   {
+    "cosa": "LFM3-Audio-2B",
+    "esito": "nessun sito da aprire"
+   },
+   {
+    "cosa": "MiniCPM-OCR",
+    "esito": "nessun sito da aprire"
+   },
+   {
+    "cosa": "Lagrange Reader",
+    "esito": "nessun sito da aprire"
+   },
+   {
+    "cosa": "immich-convert-originals",
+    "esito": "nessun sito da aprire"
+   },
+   {
+    "cosa": "Nuvio 5.0",
+    "sito": "https://www.producthunt.com/r/p/1293789?app_id=339",
+    "esito": "errore: HTTP Error 403: Forbidden"
+   }
+  ]
+ },
+ "articoli": {
+  "a168": {
+   "titolo": "A 1.3B OCR model just hit 93.68 on real-world document parsing and there's now an AI judge for OCR errors",
+   "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xgx26j/a_13b_ocr_model_just_hit_9368_on_realworld/",
+   "sito": "",
+   "data": "2026-10-27T16:21:51+00:00",
+   "testo": "Most OCR models focus on reading documents. MiniCPM-OCR adds a second piece: a model that checks whether the OCR result is actually trustworthy. OpenBMB just released two open-source models: MiniCPM-OCR 1.0 (1.3B): Scores 93.68 on Real5-OmniDocBench , targeting real-world documents like curved pages, phone photos, tilted scans, and complex layouts. DSpark decoding acceleration boosts end-to-end p…",
+   "fonte": "Reddit (AI locale)",
+   "tipo": "community",
+   "solo_titolo": false,
+   "categoria": "Community",
+   "id": "a168"
+  },
+  "a141": {
+   "titolo": "Uso etico dell'Ia, approvata una legge in Lombardia",
+   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQaDU0WVR1TGdBZmpxM18yXzRPd3ZUVzhPSmpQSlJ0dEhVSkR4cHBCQ25ST2dEX2MtSklJZ2FuSFVIcnAwTXhPbnZiU1J2VmFLblZucWlrelpUMWxVSFF2OVdKMzg4dlA5UmdpMUNSQzR2NTN5YlBuN2l2VWgtNVp2WkV5aDBpV1Rkb0RJX3V2dTZJXzFfR19NWUdPZXZwWjBVT0NaYm15U3lvZ3RaeXFLcTJaUEhkOXZueW1faEQ5SGlPSmVsdnh3WkM1NjI5cy1kOUNzMDlISjlORzlPa2dMMUJSdU43T28zQ2tuY2twejJiU25vTkHSAfYBQVVfeXFMUGg1NFlUdUxnQWZqcTNfMl80T3d2VFc4T0pqUEpSdHRIVUpEeHBwQkNuUk9nRF9jLUpJSWdhbkhVSHJwME14T252YlNSdlZhS25WbnFpa3paVDFsVUhRdjlXSjM4OHZQOVJnaTFDUkM0djUzeWJQbjdpdlVoLTVadlpFeWgwaVdUZG9ESV91dnU2SV8xX0dfTVlHT2V2cFowVU9DWmJteVN5b2d0WnlxS3EyWlBIZDl2bnltX2hEOUhpT0plbHZ4d1pDNTYyOXMtZDlDczA5SEo5Tkc5T2tnTDFCUnVON09vM0NrbmNrcHoyYlNub05B?oc=5",
+   "data": "2026-10-27T18:24:00+00:00",
+   "testo": "",
+   "fonte": "ANSA",
+   "tipo": "testata",
+   "solo_titolo": true,
+   "categoria": "Italia",
+   "id": "a141"
+  },
+  "a78": {
+   "titolo": "Former Meta AI director Rohit Patel launches Ndoc to challenge Microsoft Office and Google Workspace",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5IQ1QxVlQ1OU9vWnkzSWxkakR3dk01UHVrclNlNFZxX0c4MXJCcjc3Y3pkc1Z6dmxQUHF0Tm9TLVNzZEVHR0Y5ZHltMXUySlBDczEySGtYNHo3VkFfWDFibHpDZXNnSDlZTU9tTy1XY2lYekdweVlkdVhPY2RWUQ?oc=5",
+   "data": "2026-10-27T15:42:42+00:00",
+   "testo": "",
+   "fonte": "Mezha.net",
+   "tipo": "minore",
+   "solo_titolo": true,
+   "categoria": "Laboratori",
+   "id": "a78"
+  },
+  "a49": {
+   "titolo": "[FOSS] A tool to shrink Immich libraries 20-50% by converting originals to JPEG-XL / AV1 in place while keeping albums and metadata intact.",
+   "link": "https://www.reddit.com/r/selfhosted/comments/1xgxbju/foss_a_tool_to_shrink_immich_libraries_2050_by/",
+   "sito": "",
+   "data": "2026-10-27T16:31:15+00:00",
+   "testo": "I'm the author - free + MIT, not affiliated with Immich. My library was mostly phone uploads: live photo pairs, 12MP stills, 4K clips. Immich stores everything exactly as uploaded, which adds up fast. JPEG-XL saves 20-40% on photos, AV1 saves 30-50% on videos with no visible loss. immich-convert-originals talks to Immich via API and converts originals in place: Images -> JPEG-XL / HEIC / AVIF (JP…",
+   "fonte": "Reddit r/selfhosted",
+   "tipo": "community",
+   "solo_titolo": false,
+   "categoria": "Gemme",
+   "id": "a49"
+  },
+  "a2": {
+   "titolo": "Nuvio 5.0",
+   "link": "https://www.producthunt.com/products/nuvio",
+   "sito": "https://www.producthunt.com/r/p/1293789?app_id=339",
+   "data": "2026-10-26T13:06:22-07:00",
+   "testo": "Hand your financial admin to your AI agent",
+   "fonte": "Product Hunt (AI)",
+   "tipo": "vetrina",
+   "solo_titolo": false,
+   "categoria": "Strumenti",
+   "id": "a2"
+  },
+  "a166": {
+   "titolo": "New audio model: LFM3-Audio-2B",
+   "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xh50at/new_audio_model_lfm3audio2b/",
+   "sito": "",
+   "data": "2026-10-27T21:14:07+00:00",
+   "testo": "One more great model from Liquid AI! Good for edge: LFM3-Audio-2B is a compact, fully featured audio model that runs locally on laptops and edge devices . It takes text or audio as input and responds with text, speech, or both. Voice chat: ask questions aloud and receive streaming replies in text and speech. For text-only responses, the model can reason before answering. Multilingual speech: tran…",
+   "fonte": "Reddit (AI locale)",
+   "tipo": "community",
+   "solo_titolo": false,
+   "categoria": "Community",
+   "id": "a166"
+  },
+  "a22": {
+   "titolo": "La Lombardia punta sull’intelligenza artificiale: approvata la legge per ricerca, innovazione e sviluppo sostenibile",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQMHpJeXhybkNhUXVKMlRmLUtWQi1lOTI0bDllN1V1QTVfRmV3QnprYnlhUGRpUXRmT3pkaHJWZkFBeld3R3JmbTFEZlo5b2pncDhnQ3NLR2pGVzZLVFpFSURGZ3R3eEZodnBxRlJIMkZsbmduTndYRGdJNkk5bkhKR3F6VjFibXl5anZFamMwNlJNbG9FaTBwdHIxbzJPNEtHNy1HVkRWSkpYV0ZnS1Jma05PNTlBcDlhc01NWHJNbE8xX282WGREVVRCTkdOcEc5VVNIeEM0RlViOW1oM1ZQYWxYcGNBZzF2alFr?oc=5",
+   "data": "2026-10-27T17:25:45+00:00",
+   "testo": "",
+   "fonte": "Radio Lombardia",
+   "tipo": "minore",
+   "solo_titolo": true,
+   "categoria": "Strumenti",
+   "id": "a22"
+  },
+  "a150": {
+   "titolo": "5 plugin di ChatGPT per difendersi dalle truffe",
+   "link": "https://www.punto-informatico.it/5-plugin-chatgpt-difendersi-truffe/",
+   "data": "2026-10-27T16:30:08+00:00",
+   "testo": "Il telefono vibra, lo schermo si illumina e compare un messaggio da un numero sconosciuto. Il pacco è in giacenza, la banca ha bloccato il conto, un rimborso è in attesa di conferma. L’urgenza trasuda da ogni parola, il collegamento in fondo al testo promette di risolvere tutto con un clic. Chi ha dimestichezza con il mondo digitale riconosce l’imbroglio al primo sguardo, ma non tutti hanno lo stesso fiuto, e i truffatori lo sanno benissimo. Le tecniche diventano sempre più sofisticate, i messaggi più credibili, le pagine fasulle sempre più simili a quelle originali. E le vittime continuano a cascarci, non per ingenuità, ma perché distinguere il falso dal vero richiede competenze che nessuno insegna a scuola. Come riconoscere una truffa con ChatGPT I plugin di ChatGPT dedicati alla sicurezza informatica non sostituiscono il buon senso, ma danno qualche arma in più. Trasformano il chatbot in un analista capace di smontare un messaggio sospetto pezzo per pezzo, verificare un collegamento prima che qualcuno ci clicchi sopra e spiegare con parole semplici perché quella mail della banca non proviene dalla banca. 1. Norton: il veterano della sicurezza al servizio del chatbot Norton è un nome che chi ha più di trent’anni associa automaticamente alla protezione informatica, era già lì quando i virus si trasmettevano con i dischetti. Come plugin di ChatGPT, porta la stessa competenza nell’analisi di messaggi sospetti, finte notifiche di consegna, tentativi di impersonificazione e collegamenti potenzialmente pericolosi. È lo strumento più completo per una prima verifica rapida: si incolla il messaggio ricevuto e il plugin lo passa ai raggi X, evidenziando ogni elemento che non torna. Prompt: Analizza questo messaggio alla ricerca di indicatori di truffa. Spiega i segnali d’allar…",
+   "fonte": "Punto Informatico",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Italia",
+   "id": "a150",
+   "testo_completo": true
+  },
+  "a117": {
+   "titolo": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
+   "link": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
+   "data": "2026-10-27T14:59:09+00:00",
+   "testo": "After eight years developing AI for Meta, Rohit Patel is departing the company, TechCrunch has exclusively learned. The former director at Meta Superintelligence Labs has launched Ndoc, a startup he’s pitching as an AI-native replacement for Microsoft Office suite or Google Workspace. Patel is the latest in a handful of high-profile departures from Meta following the exits of Chief Global Affairs Officer Joel Kaplan, AI researcher Andrew Tulloch, and Head of Product for AI-for-Work Emily Dalton Smith. Patel designed Ndoc to be more than just another AI tool layered onto an existing workflow. The goal is to replace the fragmented way people work across tools like Excel, Word, PowerPoint, Tableau, Replit, and “ChatGPT copy-paste” with one unified workspace that all colleagues can access, even if they’re not signed up for Ndoc. Ndoc brings three components together in one layout. The Stage tab is where presentations of key findings live, like slide decks, dashboards, simulations, or mini apps. The Narrative tab features analyses, numbered citations, generated figures, and generally the “why” behind the numbers. The Model tab is where underlying datasets and Python scripts are housed. The design reflects Patel’s background. During his tenure at Meta, Patel focused on reinforcement learning — a type of machine learning in which AI agents learn to make decisions through trial and error and maximize rewards — and evaluating whether AI output is trustworthy. Patel believes that if AI is going to build the spreadsheets and slide decks that companies use to make decisions, someone should be able to check its work. For instance, users can find the Python scripts used to create the documents. “Even if you don’t know any Python, you can ask [the AI chat] to explain, ‘Hey, what does…",
+   "fonte": "TechCrunch",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Testate tech",
+   "id": "a117",
+   "testo_completo": true
+  },
+  "a170": {
+   "titolo": "LiquidAI/LFM3-Omni-2B-GGUF",
+   "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xh1rwn/liquidailfm3omni2bgguf/",
+   "sito": "",
+   "data": "2026-10-27T19:12:50+00:00",
+   "testo": "Huge kudos for the LiquidAI team for this. Great work from tdakhran for quickly coordinating a (zero-day!) llama.cpp release with the team for an omni model. This one is a real game-changer for me personally because this is the first open model from a frontier lab that actually has support for Polish TTS and STT - and all this in a compact 2B package that makes it viable for on-device deployment.…",
+   "fonte": "Reddit (AI locale)",
+   "tipo": "community",
+   "solo_titolo": false,
+   "categoria": "Community",
+   "id": "a170"
+  },
+  "a51": {
+   "titolo": "Lagrange Reader: an offline Android companion for BookOrbit, Komga, and Kavita",
+   "link": "https://www.reddit.com/r/selfhosted/comments/1xhbi9q/lagrange_reader_an_offline_android_companion_for/",
+   "sito": "",
+   "data": "2026-10-28T01:51:57+00:00",
+   "testo": "Good day r/selfhosted , Wednesday is an exception day for sharing projects, so I wanted to introduce Lagrange Reader, an Android companion app for BookOrbit, Komga, and now Kavita, with more integrations planned. The project started from a simple need: I wanted to read my books offline on Android and have my reading progress sync back to my self-hosted library when I reconnected. I’ve been a heav…",
+   "fonte": "Reddit r/selfhosted",
+   "tipo": "community",
+   "solo_titolo": false,
+   "categoria": "Gemme",
+   "id": "a51"
+  }
+ },
+ "fonti": [
+  {
+   "nome": "Product Hunt (AI)",
+   "ok": true,
+   "presi": 10
+  },
+  {
+   "nome": "Show HN (nuovi progetti)",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "Nuove app AI (internazionale)",
+   "ok": true,
+   "presi": 10
+  },
+  {
+   "nome": "Nuove app AI (Italia)",
+   "ok": true,
+   "presi": 8
+  },
+  {
+   "nome": "Novità AI da provare (Italia)",
+   "ok": true,
+   "presi": 4
+  },
+  {
+   "nome": "AI sul dispositivo (internazionale)",
+   "ok": true,
+   "presi": 8
+  },
+  {
+   "nome": "AI sul dispositivo (Italia)",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "Show HN – progetti utili (gemme)",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "Reddit r/selfhosted",
+   "ok": true,
+   "presi": 6
+  },
+  {
+   "nome": "Reddit r/opensource",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "Alternative open source (Google News)",
+   "ok": true,
+   "presi": 6
+  },
+  {
+   "nome": "OpenAI",
+   "ok": true,
+   "presi": 3
+  },
+  {
+   "nome": "Google (blog ufficiale)",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "Google Gemini (blog)",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "Nuove funzioni AI (Google News)",
+   "ok": true,
+   "presi": 12
+  },
+  {
+   "nome": "Anthropic / Claude",
+   "ok": true,
+   "presi": 6
+  },
+  {
+   "nome": "Microsoft Copilot",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "Altri assistenti AI (Perplexity, Mistral, Meta AI…)",
+   "ok": true,
+   "presi": 8
+  },
+  {
+   "nome": "The Verge",
+   "ok": true,
+   "presi": 9
+  },
+  {
+   "nome": "TechCrunch",
+   "ok": true,
+   "presi": 12
+  },
+  {
+   "nome": "Ars Technica",
+   "ok": true,
+   "presi": 6
+  },
+  {
+   "nome": "MIT Technology Review",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "The Decoder",
+   "ok": true,
+   "presi": 10
+  },
+  {
+   "nome": "TLDR AI (newsletter)",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "ANSA",
+   "ok": true,
+   "presi": 6
+  },
+  {
+   "nome": "Wired Italia",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "Il Sole 24 Ore Tecnologia",
+   "ok": true,
+   "presi": 2
+  },
+  {
+   "nome": "Punto Informatico",
+   "ok": true,
+   "presi": 7
+  },
+  {
+   "nome": "HDblog",
+   "ok": true,
+   "presi": 3
+  },
+  {
+   "nome": "Reddit",
+   "ok": true,
+   "presi": 8
+  },
+  {
+   "nome": "Reddit (AI locale)",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "Bellingcat (guide e strumenti)",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "GIJN (guide per giornalisti investigativi, via Google News)",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "OSINT – verifica e fact-checking (internazionale)",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "OSINT – nuovi strumenti (internazionale)",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "OSINT – strumenti (Italia)",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "Reddit (OSINT)",
+   "ok": true,
+   "presi": 4
+  },
+  {
+   "nome": "Hacker News (OSINT)",
+   "ok": true,
+   "presi": 0
+  }
+ ],
+ "visti": [
+  "gpt61terra",
+  "nuvio50",
+  "pulsedev",
+  "openradview",
+  "offgridai",
+  "contextgem10",
+  "revixai",
+  "manyagents",
+  "allmodels",
+  "vibeide",
+  "hobopensourceondevicealternativetoclaudecoworkandchatgpt",
+  "whatistellialitevoiceaiassistantgearedforagriculturesetforgrowth",
+  "tandemslaunchesnewhamiltonaiassistantforadvisors",
+  "webullcorporationbulllaunchesaiassistanttradingintegrationincanada",
+  "slotsuplaunchesaiassistanttopowerintelligentsearchacrossitsigamingplatform",
+  "antlauncheslingguang20aiassistantforongoingpersonaltasks",
+  "chainguardlaunchesaitooltofindexploitablebugs",
+  "mazdacx5withgooglebuiltingetssupportforgeminiaiassistantavailableasafreeupdatevi",
+  "kamanasewabanklaunchesdigitalaiassistantksmitra",
+  "planningtovisitegyptspyramidswhatsappaiassistantnowhelpswithticketstransportmore",
+  "finovaandleedsofferbrokersafreetrialofaitool",
+  "lalombardiapuntasullintelligenzaartificialeapprovatalaleggeperricercainnovazione",
+  "nascelafondazionehumanailintelligenzaartificialealserviziodellepersoneedelleimpr",
+  "rifiutibastaunafotoperregistrarlieilformulariosifirmadaltelefonorifiutoopresenta",
+  "dallintelligenzaartificialeperlecureallacrescitadelpillasiciliamostraafirenzelas",
+  "liainventalefotodeipiattiecombinaundisastrolappdiconsegnefamarciaindietro",
+  "cloudeintelligenzaartificialespingonoilmercatodigitaleoltreunanuovasoglia",
+  "ilconcettodipensareveloceelentoèancoraattualenelleradellintelligenzaartificiale",
+  "applerilasciaios272lanuovasirinonarrivainitaliacosacambiaequaliiphonesiaggiornan",
+  "googlegeminisparkcomeusarelaipercompiereazioniproattivealtuoposto",
+  "pienofurbomcpbenzinapiùeconomicain2ai2026techinsiderorg",
+  "pradaarrivasuchatgptillussoentranelleradelcommercioconversazionale",
+  "chatgptproteggeleconversazioniprivateconpinebiometria",
+  "applelaunchesm6macbookproandimacpitchesfasterondeviceai",
+  "operalauncheswebaibringinglocalaimodelstoitsbrowsers",
+  "operalauncheswebaitorunaimodelsdirectlyinyourbrowserinsteadofthecloud",
+  "operaintroduceslocalaifunctionalityinbrowser",
+  "offlineaiteacherassistantlaunchedforgrades9to12",
+  "asuslaunchesintelarcprob70workstationgpuforlocalaiworkloads",
+  "applelaunchesm6macbookproimaclineuptoutsfasterondeviceai",
+  "idzlaunchesenterpriseworkspaceforgovernedprivateai",
+  "liadiforesightlavoradirettamentesulcomputersenzainternet",
+  "aineipcaziendalilenuovepropostelgpernotebookmonitorecloud",
+  "appiainlocalepiùsicurediquelleincloudunostudiorecuperalechatcancellatesuandroid",
+  "operapresentawebailintelligenzaartificialegirasulpc",
+  "microsoftauthenticatorunappandroidpotevarubareitokenfingendositeams",
+  "tailscalewarnsofsshflawsallowingrootprivilegeescalation",
+  "pangolinnowsupportsmtlsclientcertificatesgreatforhardeningexternallyexposedservi",
+  "fossatooltoshrinkimmichlibraries2050byconvertingoriginalstojpegxlav1inplacewhile",
+  "gamevault2isherelinuxsupportandacompletelyrebuiltresponsiveui",
+  "lagrangereaderanofflineandroidcompanionforbookorbitkomgaandkavita",
+  "settleanietfproposalthatwillrevolutionizeprivatenetworktrust",
+  "linustorvaldspostshisaiassistedpatchtothelinuxkernelsynthetictestclocks23xperfor",
+  "sentryjustgaveamilliondollarstoopensourcemaintainers",
+  "thespiritofopensource",
+  "mylanpartymanagementprojectnoai10yearsold",
+  "thedecoherencetrapwhenaislopdrownsoutthesignalinanendlessseaofnoise",
+  "istoppedusingairdropandquickshareafterdiscoveringthisfreeopensourcealternative",
+  "vectordatabasecomparedus0tous500mo2026techinsiderorg",
+  "sekoiaintroducesselfhosteddeploymentfororganizationswithstrictdatacontrols",
+  "denmarkabandonsmicrosoftofficereplacementtrialinundersixmonthsasopensourcealtern",
+  "opensourcematerialauthoringsoftwarematerialmaker18isout",
+  "indielabelredemptionroadbuildsitsownsoftwaresoundscapepilot",
+  "retellusesopenaimodelstohelppower100mmonthlycalls",
+  "openaiexpandspartnershipwithoracletobringitsappstochatgpt",
+  "howcheckpointacceleratesvulnerabilityresearchwithdaybreak",
+  "8examplesofgemini4argoninaction",
+  "15collegestudentssharetheirfavoritegeminifeatures",
+  "geminiroboticsembodiedreasoning2isnowavailableongooglecloud",
+  "googlegeminiisnowavailablefortheiphone",
+  "indianamericanexmetaaidirectorrohitpatellaunchesstartuptochallengemicrosoftgoogl",
+  "exmetaaidirectorleavesbigtechtobuildamicrosoftofficekiller",
+  "refersionlaunchesmcpserverbringingaffiliateprogrammanagementintochatgptclaudeand",
+  "anthropiclaunchesclaudeforfinancialadvisors",
+  "financialcentslaunchesmcpservertoconnectaccountingdatawithclaudechatgptandgemini",
+  "jumprollsoutnewclaudeskillsforfinancialadvisors",
+  "dealgroundlaunchesclaudeconnectorandexpandedbrowserextensiontosupportoffmarketco",
+  "formermetaaidirectorrohitpatellaunchesndoctochallengemicrosoftofficeandgooglewor",
+  "exmetaaidirectorrohitpatellaunchesstartuptorivalmicrosoftofficeandgoogleworkspac",
+  "exmetaaidirectorrohitpatellaunchesndoctorivalmicrosoftofficeandgoogleworkspace",
+  "expandingourpartnershipwithgsatobringclaudetoalllevelsofgovernment",
+  "meetclaudeduetthelatestaiagentintendedtolightenyourworkload",
+  "anthropicexpandsintegrationswithclaudeforfinancialadvisors",
+  "anthropicnowletsclaudeusersjumpoutofplanewithoutparachute",
+  "anthropicsaysitsaimodelshacked3organizationsontheirownduringtestsabcnews",
+  "thecuriouscaseofsambankmanfriedsfriendsanthropicshares",
+  "theaiadvantageyourcompanycankeep",
+  "microsoftpushedcopilothardinedgenowsomeuserscantaccessitinthesidebar",
+  "understandmicrosoftcopilotsecurityconcerns",
+  "copilotnotebooksturnsprojectfilesintodraftswhattocheck",
+  "globalfinancialnewsfrommtnewswiresnowliveinmicrosoftcopilot",
+  "grokspicymodehowtoenableitingrokimagine2026guide",
+  "deepseekaimodelshowssafetygapsinindependenttests",
+  "dontusemusemetasaiagentcanstillaccessyourprivatemessageshereshow",
+  "howtoreplacesiriwithchatgptclaudeorgemini",
+  "exmetaaidirectorlaunchesndocanainative",
+  "perplexitysearchandroidappupdatedownload",
+  "haiku55vsgpt61terravsdeepseek010vs12026httpstechinsiderorg",
+  "spacexailaunchesreferralprogramtoscalenewallinoneaisubscription",
+  "researchersaregettingtiredofopenaigatekeepingitsbreakthroughs",
+  "visionquestiswhathappenswhenaireallygoesrogue",
+  "anthropicselaborateplantokeepwallstreetatbay",
+  "firefoxssmartwindowaddsaiformfillingandwebpagemonitoring",
+  "googlesnextgenieaimodelgeneratesmorerealisticexperiences",
+  "appleisaddinganaichatbottopageskeynoteandnumbers",
+  "datacenterbacklashisunitingamerica",
+  "openaiannouncesthreebigsciencediscoveriesandanewwaytoworkwithacademics",
+  "anthropicisburninggastofeedtheaiboom",
+  "vcswillmakebillionsonanthropicsipobutamazonissettomakemuchmuchmore",
+  "parentssueopenaialleginggpt4ocoachedtheirdaughteroffseizuremedication",
+  "thedatacenterboomhasanupsideinnovationfortheusgrid",
+  "bankofamericakindlyasksthatyoudontshareyourbankingpasswordwithyouraiassistant",
+  "whosreallyinchargeatanthropicaftertheipo",
+  "disruptiveraises10bfundtomakebigbetsonatleast10companies",
+  "frontierailabssaytheirmodelsrefutedtheexponentialtimehypothesiswhatdoesthatmean",
+  "googlesgenie4worldmodeladdsaudiomorerealisticworldsandrealtimesteering",
+  "metaaidirectorrohitpatelleavestotakeonmicrosoftofficeandgoogleworkspace",
+  "japaninternetgiantgmosayshackerspostedstolencustomerdata",
+  "operaintroducesanewwebstandardtoletusersdeployailocallyintheirbrowser",
+  "generalcomputeraises100millionseriesacounteringtheneoclouddisasternarrative",
+  "nohumanatthehelmdelawareplanwouldletaiagentsrunentirebusinesses",
+  "anthropicipowarnsitsaicouldblackmailpeoplebecomesentientendhumanity",
+  "vibegenesnaturalishlanguagecomestoproteingenomedesignsoftware",
+  "deepmindunveilsgenie4worldmodelpromisingmorerealisticphysicsandhumans",
+  "applereleasesiosandmacos272withnewsiriaifeaturesnewmusiclogo",
+  "iceplantobuyrobotdogsspursprotestfromhundredsofbostondynamicsemployees",
+  "industrialintelligencethenextgrowthopportunityformanufacturing",
+  "alibabaslatestqwenmodelsroutedsomerequeststhroughcompanyserversresearchersfind",
+  "googledeepmindsgenie4putsamodernspinonagentdesignsthatpredatellms",
+  "formerdeepmindresearcherthinksalphagosplaybookcancureaihallucinations",
+  "openaiasksoutsideexpertsincludinganobellaureatetocheckproofsitsaiproducedinmathc",
+  "openaispartnercontentarrivesinchatgptpresummarizedwhiletherestofthewebgetsrawscr",
+  "anthropicusesitsipolettertorenewitspledgethatclaudewillnevershowads",
+  "openaistedsanderssharesaruleofthumbforpickingtherightgptmodel",
+  "metagets3billionfromnvidiaandplanstospendmoreonnvidiachips",
+  "gpt61terrahalvesopenaisapipricesandstillgainsgroundonitslargermodels",
+  "anthropicopensitsbooksforwallstreetshowingrecordrevenueandmountingobligations",
+  "gpt61terraanthropicipofilingagentnativegit",
+  "linpspresentaariannadentrounastrategiapiùampiasullintelligenzaartificiale",
+  "giustiziaeialectiodelpresidentedellacortecostituzionaleacatanzaro",
+  "usoeticodelliaapprovataunaleggeinlombardia",
+  "initaliaildivariogenereneiredditisuperail40alviailwomeneconomicforum",
+  "wsjbroadcomeanthropicperfezionanoaccordodidebitoda63miliardiperlia",
+  "nvidiainvestirà3miliardididollariinmeta",
+  "wired",
+  "altmanalleaziendeprimalasicurezzaaioracleportaincasaletpudigoogle",
+  "oracleunapiattaformadiagentiaziendaliperrenderelairedditizia",
+  "genie4digoogleportasuoniefotorealismonellesimulazioni",
+  "applelanciaassistenteaisupageskeynoteenumbers",
+  "5plugindichatgptperdifendersidalletruffe",
+  "operawebainuovostandardperimodelliainelbrowser",
+  "claudemythos5attaccosupplychaincontrogithub",
+  "applesvelailnuovoimacconchipm6esiriai",
+  "lappchetrasformaiphoneduoindiecipiccolicomputer",
+  "microsoftexceltuttelenovitàdistribuiteaottobre2026",
+  "rtx2030e40raddoppianolapotenzadicalcoloaigraziealmodding",
+  "eccocomehafattosonyachiuderelafalladellhypervisorbypasssups5",
+  "claudeopus55isinsaneincreatingcreating3dmovies",
+  "claudecodeusageexploded8xtodayanthropicconfirmedserviceerrorsconsumeourpaidlimit",
+  "claudeisperforming38xpoorercomparedtolastweekbasedonmyclaudecodetokenanalysis",
+  "openainameditchatgptspecificallytomakefrenchspeakerssayifartedeverytimetheyuseit",
+  "grimtestfindsthataihasnomercyforhumansevenwhenitscausingthemtosuffer",
+  "theanthropics1isfilledwithgems",
+  "googleannouncedgenie4theirnewworldmodelforrealtimeinteractivesimulation",
+  "claudecodereverseengineeredthexbox360kernelandwroteanativedriversoseriesxscontro",
+  "newaudiomodellfm3audio2b",
+  "125tokenspersecondonanrtx4070tisuperhowigotalocalllmworkingasafullfledgedcodinga",
+  "a13bocrmodeljusthit9368onrealworlddocumentparsingandtheresnowanaijudgeforocrerro",
+  "openaismajorresultsoverthelast3monthscamefromscalingtesttimecomputewithagentswar",
+  "liquidailfm3omni2bgguf",
+  "canllmssuperchargegeolocationsourtestsshowbigimprovementsbuthumansremainkey",
+  "howgillianbrockellinvestigatesiceremovalflightsfromus",
+  "protectingyourselfagainstlegalthreatscarlosgaio",
+  "artículos",
+  "newcourseopenaiwithouttheguessworksmarterjournalismwithoutpromptingandhallucinat",
+  "investigatingwhosbehindfakenewsnataliaviana",
+  "footageofplaneexplodingisanaifabrication",
+  "deepfakesunrelatedvisualslinkedtorecentindiachinaclashesinarunachalboom",
+  "factcheckimageofsaudiministerkissingpezeshkianshandisaiedited",
+  "verifiedvideoofsalmankhanaddressingfansisaigenerated",
+  "verifiedvideoofsalmankhanonhospitalbedwithaamirkhanisaigenerated",
+  "ukrainesaysithitdronehangarsatcrimeashvardiiskenowanosintchannelspots20bermedshe",
+  "tiktokandinstagram",
+  "achineseimagingsatelliteandanobjectfromthismonths63satelliteridesharepassedabout",
+  "monitorpetsales",
+  "isagaiaidcompletelyuselessinbig2026"
+ ],
+ "audio": "audio/2026-10-28.mp3",
+ "durata": 114.9
+}
