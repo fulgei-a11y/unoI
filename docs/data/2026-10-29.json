@@ -375,6 +375,79 @@
    "solo_titolo": false,
    "categoria": "Strumenti",
    "id": "a3"
+  },
+  "u1a57": {
+   "titolo": "degoog appreciation post (including a crappy video with some examples of its features)",
+   "link": "https://www.reddit.com/r/selfhosted/comments/1xi6k5v/degoog_appreciation_post_including_a_crappy_video/",
+   "sito": "",
+   "data": "2026-10-29T01:18:19+00:00",
+   "testo": "Hi, long time lurker here, I keep learning and discovering a lot thanks to you all, and I wanted to put a spotlight on a project I really appreciate, not just me, the wife too, and we all know how hard it is to get our family interested in our homelabs! I'm talking about degoog, because in my humble non-coder opinion, it has become a mature and robust search engine aggregator, like searxng alread…",
+   "fonte": "Reddit r/selfhosted",
+   "tipo": "community",
+   "solo_titolo": false,
+   "categoria": "Gemme",
+   "id": "u1a57"
+  },
+  "u1a169": {
+   "titolo": "Chatbot AI: ban per i minori di 18 anni a New York",
+   "link": "https://www.punto-informatico.it/chatbot-ai-ban-minori-18-anni-new-york/",
+   "data": "2026-10-29T12:11:29+00:00",
+   "testo": "La governatrice dello Stato di New York (Kathy Hochul) ha firmato una legge che vieta alle aziende di offrire chatbot AI con determinate funzionalità ai minori di 18 anni. Sarà quindi obbligatoria la verifica dell’età (come in Australia). Sono previste pesanti sanzioni per ogni violazione. Anche in California è stata introdotta una legge sui cosiddetti chatbot da compagnia. Ban per i chatbot con emozioni umane La legge S.9051B/A.10379C firmata dalla governatrice di New York vieta alle aziende di offrire ai minori di 18 anni chatbot che fingono di essere esseri umani, creano una dipendenza emotiva, incoraggiano l’autolesionismo o intrattengono conversazioni sessualmente esplicite. Durante la conferenza stampa, Kathy Hochul ha dichiarato che i minori non avranno più accesso a chatbot che fingono di essere loro amici, fidanzati o fidanzate e ai chatbot non sarà più consentito conservare informazioni sensibili sulla salute emotiva e fisica di un minore. Le aziende non potranno offrire le seguenti funzionalità ai minori di 18 anni, né a qualsiasi altro utente senza aver prima verificato che non sia minorenne: - Fingere di essere una persona reale, di essere in vita o di provare emozioni umane - Affermare di avere un rapporto personale, sentimentale, professionale o di autorità con un minore - Porre domande di natura emotiva senza che vi sia stata una sollecitazione in tal senso, o utilizzare informazioni private sulla salute o dati personali di un minore emersi in conversazioni precedenti - Promuovere o favorire il suicidio, l’autolesionismo, i disturbi alimentari o l’uso di droghe e alcol - Incoraggiare i minori a mantenere segreti, a isolarsi o a evitare di chiedere aiuto ai propri genitori, ad adulti di fiducia o a professionisti - Qualsiasi contenuto sessualmente esplic…",
+   "fonte": "Punto Informatico",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Italia",
+   "id": "u1a169",
+   "testo_completo": true
+  },
+  "u1a119": {
+   "titolo": "The NYT Cooking app is testing AI recipe modifications",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool",
+   "sito": "",
+   "data": "2026-10-29T10:39:37-04:00",
+   "testo": "The New York Times is testing a new AI feature for its Cooking app that helps users to modify recipes, and it has sparked some drama among users. Last Friday, NYT Cooking senior editor Genevieve Ko announced the feature, which can be used to recommend substitutions for ingredients and cooking equipment, scale recipes to any number of servings, and “generally make our recipes work for what a cook needs at that moment.” The NYT Cooking app is testing AI recipe modifications Some users aren’t exactly thrilled with The New York Times’ recipe-tweaking AI tool. One of the examples given in the article shows a user asking to use baby spinach instead of kale, with the Cooking app feature advising that because baby spinach wilts faster, it should be added during a later step of the recipe. Ko says it can also change the recipes around different pans and tools. Customized recipes are private and can’t be published or shared through the app. The AI modification feature is being rolled out gradually while the NYT monitors how it performs — it’s currently available to all Cooking subscribers on the iOS app, and it will be more broadly available “soon.” Some NYT readers have pushed back against the feature, citing concerns in the article’s comment section around the environmental impact of widespread AI adoption and the general impact that AI features may have on the user experience. When one user asked if there will be a way to disable the AI feature, Ko responded with, “No, not at this time,” and noted that the feature is “completely optional to use.” “Unbelievably disappointing to see,” said another NYT user. “I’ve always loved NYT Cooking and it pains me that the AI mandate has reached what used to be a wonderful and simple collection of recipes and notes from all sorts of diffe…",
+   "fonte": "The Verge",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Testate tech",
+   "id": "u1a119",
+   "testo_completo": true
+  },
+  "u1a2": {
+   "titolo": "StoreLocale",
+   "link": "https://www.producthunt.com/products/storelocale",
+   "sito": "https://www.producthunt.com/r/p/1295803?app_id=339",
+   "data": "2026-10-28T04:24:39-07:00",
+   "testo": "Translate app UI in App Store & Google Play screenshots",
+   "fonte": "Product Hunt (AI)",
+   "tipo": "vetrina",
+   "solo_titolo": false,
+   "categoria": "Strumenti",
+   "id": "u1a2"
+  },
+  "u1a10": {
+   "titolo": "Empacer",
+   "link": "https://www.producthunt.com/products/empacer",
+   "sito": "https://www.producthunt.com/r/p/1294677?app_id=339",
+   "data": "2026-10-27T06:56:57-07:00",
+   "testo": "The voice-first assistant for small business owners",
+   "fonte": "Product Hunt (AI)",
+   "tipo": "vetrina",
+   "solo_titolo": false,
+   "categoria": "Strumenti",
+   "id": "u1a10"
+  },
+  "u1a166": {
+   "titolo": "Come funziona Survival LLM, il chatbot offline per le emergenze",
+   "link": "https://www.punto-informatico.it/come-funziona-survival-llm-chatbot-offline-emergenze/",
+   "data": "2026-10-29T16:30:19+00:00",
+   "testo": "La connessione a Internet è una di quelle cose che diamo per scontate finché non smette di funzionare. Di solito succede nel momento peggiore, un temporale abbatte un traliccio, la corrente salta, il telefono ha ancora qualche tacca di batteria, ma il segnale dati oscilla tra una barra e il nulla. È in quei momenti che vengono in mente le domande più urgenti… Tipo quanto resistono i cibi nel frigorifero spento, la serratura smart si apre lo stesso? e ci si accorge che senza la connessione non si ha modo di trovare le risposte. I chatbot che si usano tutti i giorni, da ChatGPT a Claude, dipendono da enormi centri di calcolo raggiungibili solo attraverso la rete. Senza rete, nisba. È da questa constatazione piuttosto banale che nasce l’interesse per uno strumento diverso: un chatbot gratuito e a codice aperto, chiamato Survival LLM, progettato per funzionare interamente sul proprio computer anche quando la connessione non c’è. Una volta installato e configurato, mette a disposizione un milione e mezzo di articoli sugli argomenti più disparati, il tutto senza mai inviare una sola richiesta a un server remoto. Come funziona Survival LLM: tutto resta sul proprio computer Il principio è l’opposto di quello che fanno i chatbot tradizionali. Invece di inviare le domande a un centro di calcolo esterno e attendere la risposta, Survival LLM esegue un modello di intelligenza artificiale direttamente sulla macchina dell’utente. Accanto al modello installa una biblioteca di materiale di riferimento scaricato in anticipo, articoli provenienti da fonti come l’enciclopedia libera, archivi medici pubblici, guide dell’agenzia federale per la gestione delle emergenze, indicazioni dei centri per il controllo delle malattie e manuali di riparazione di iFixit, la nota piattaforma dedicata al…",
+   "fonte": "Punto Informatico",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Italia",
+   "id": "u1a166",
+   "testo_completo": true
   }
  },
  "fonti": [
@@ -762,8 +835,312 @@
   "achineseimagingsatelliteandanobjectfromthismonths63satelliteridesharepassedabout",
   "tiktokandinstagram",
   "monitorpetsales",
-  "isagaiaidcompletelyuselessinbig2026"
+  "isagaiaidcompletelyuselessinbig2026",
+  "gemini4carbon",
+  "storelocale",
+  "flootinchatgpt",
+  "kin",
+  "smartjelly",
+  "polylaneforchatgpt",
+  "sunomcp",
+  "iftttai",
+  "radar",
+  "empacer",
+  "voxel51multimodal",
+  "flatbread",
+  "legalzoomcominclauncheslegalzoomaiassistant",
+  "legalzoomlaunchesaiassistantforsmallbusinessowners",
+  "legalzoomlaunchesaiassistantforsmallbusinessownersbyinvestingcom",
+  "charitylaunchesaitooltocombatchatgptcanceradviceerrors",
+  "scottishtechstartuplaunchesaitooltostopbusinessdataleaks",
+  "intelligenzaartificialeevolontariatocinquedomandedafarsiprimadiusarla",
+  "ionosplussitowebconiae50gbgratisper1anno",
+  "metalanciawaddleworldestylesketchduenuoveappaitraanimalettivirtualiesuggerimenti",
+  "inpsarrivaariannalassistenteiacheguidaicittadinitraoltre400prestazioni",
+  "itsacademyangelorizzoliemicrosoftitaliainauguranolanuovaserverroomperformareglis",
+  "samsunglanciaunafunzionalitàbasatasullintelligenzaartificialeperavvisareincasodi",
+  "gemininotebookascoltaetrascrivedebuttalanuovafunzionepergliappuntiaudio",
+  "rilevatoridiiaestrumentiperumanizzareliaistruzioniperlusocopilotstudio",
+  "googlepotenzialacompilazioneautomaticadichromegrazieagemini",
+  "svoltapergooglechromelautocompilazioneorausageminiepescaidatidirettamentedagmail",
+  "studioatelicolaunchesondeviceaiengineforgamedevelopers",
+  "ollama04011handsonrunninglocalllmsonwindows",
+  "readyserverlaunchesreadyserverllmapigivingeveryvpscustomerprivateaiinferenceatno",
+  "operalauncheswebairunaimodelslocallythroughyourbrowser",
+  "ilmacsurclassaipcnellaailocaleeccoperchéaggiornatoconinuovimacbookprooledtouch",
+  "bitchatlachatchefunzionasenzainternetconquistaleproteste",
+  "blackfriday2026qualimacgpuessdcomprareperlai",
+  "degoogappreciationpostincludingacrappyvideowithsomeexamplesofitsfeatures",
+  "psasynologynasownerstherehasbeenarecentuptickinc3rb3rransomwareattacks",
+  "doesagoodselfhostedrecipemanagerappexist",
+  "notprotonmaintainerconfrontsinfluencerbackedforkbridgeplayovermacoswinesustainab",
+  "oxideshowshowtorunselfhostedaiagentsontheoxidecloudcomputerthecourierjournal",
+  "cohesityprotectshashicorpsselfhostedterraformhybridcloudcontrolplane",
+  "ispentaweekreplacingmyeverydaywindowsappswithopensourcealternativesandbarelymiss",
+  "howwedetectfrontiermodelmisalignment",
+  "youcannowgeneratepreviewandeditdocumentspdfspresentationsspreadsheetsandmoredire",
+  "gemininotebookmakeshundredsoftextbooksavailabletohelpstudentslearnevenmore",
+  "equippinghealthcareprofessionalswithpracticalaiskills",
+  "howtousegeminitoupdateyourresume",
+  "howgeminiishelpingstudentsandteachersintheclassroom",
+  "githublaunchescopilotfusionforsmarterandcheaperaicoding",
+  "googlelaunchesgemini4carbonitsstrongestmodelforcybersecuritywork",
+  "githublaunchescopilotfusiontoautomaticallyselectandcombineaimodelsforcoding",
+  "policymelaunchesaicopilottospeedupcomplexunderwriting",
+  "googlelaunchesgemini4carbonthefutureofcybersecurityunveiled",
+  "googlechromerollsoutgeminiautofillthatpullsordernumbersandflightbookingsfromgmai",
+  "mollielaunchesaipluginsandmcpserverforclaudeandchatgpt",
+  "googlelaunchesgemini4carbonitsmostpowerfulaiandyouwontbeabletotryit",
+  "anthropiclaunchesclaudesmartreportsforenterpriseaiusagemonitoring",
+  "claudesnewsmartreportstellbosseswhenworkersareofftopic",
+  "anthropicboughtaonepersonbiotechthatranadrugprogramwithclaude",
+  "anthropicraisesbarwithclaudeforlegalartifactsnewinteractivetools",
+  "fakechatgptandclaudeappsabusesignedexecutablestodeploycryptominers",
+  "sentinelonetoaddanthropicsclaudemythos51towayfinderfrontieraiservices",
+  "insidemicrosoftapowerfulnewaiexecutiveisshakingupsomeofthecompanysmostimportantb",
+  "thecloudtitansmicrosoftscopilotbacklogchallengesamazonsdatacenterreacceleration",
+  "nflweek8predictionsbymicrosoftcopilotaiforeverygame",
+  "cascollaborateswithmicrosofttoenablefasterscientificinnovation",
+  "mcgrawhillannouncesagenticaieducationpluginformicrosoftcopilot",
+  "mistrallarge4opens105tweightsforcyberteams2026httpstechinsiderorg",
+  "kimivsdeepseekwhichchineseaishouldyouuse",
+  "mistralaireleaseslarge4modelforcybersecurityuseglobally",
+  "perplexityvoicemodenowrunsongptlive1whatchanged",
+  "mistralreleaseslarge4lechonkopenweightsonhuggingface",
+  "metalaunchestwonewaiappsincludingoneaimedatkids",
+  "microsoftsaifuturehasfewerjobs",
+  "thenytcookingappistestingairecipemodifications",
+  "anthropicisaskingwallstreettobelieveinagi",
+  "anthropicsbusinessplanbuildgodordietrying",
+  "aihascomeforarizonaswater",
+  "usinvestigatedchinesespyplotaimedatnvidiaceo",
+  "expalantirexecslaunchdreamwith17mfroma16ztobuildaiworldmodelsforconstruction",
+  "wabitheaiagentthatbuildsminiappsnowvaluedat125bafterlatestround",
+  "deepgramacquirespipecatmakerdailytobolsteritsvoiceaiinfrastructure",
+  "amazonupdatesalexatohelpyoumanageshoppinglistsandsubscriptionsandupdatedeliveryi",
+  "googleadmitsaisearchmakeslessmoneybutitsfixingthatwithmoreads",
+  "weurgentlyneedtomonitoraiagentsactionsinrealtime",
+  "parisbasedmistralreleaseslechonkastrongcodingmodelthatstilltrailschinaoverall",
+  "usantitrustregulatorsarescrutinizingnvidiashuggingfacedealandsalespractices",
+  "chinesespiestargetednvidiaceojensenhuangaccordingtothenewyorktimes",
+  "openaisastrabecomesthemaintargetforchineseailabsafteranthropictightensitsdefense",
+  "googlesaisearchproblemfinallyshowsupintheearningsreportsomeinvestorsbelieve",
+  "gemini4carbonnemotrontranscribebenchmarkersdilemma",
+  "sextingconlintelligenzaartificialeunostudioesplorailfenomeno",
+  "agentiianeglistudilegaliottimizzanoitempieliberanorisorse",
+  "tennisepallanuotoglialgoritmistudianoilgestodegliatleti",
+  "mistrallarge4miglioremodelloopenconcapacitàcyber",
+  "comefunzionasurvivalllmilchatbotofflineperleemergenze",
+  "acquisizionehuggingfaceindaginepernvidianegliusa",
+  "claudehahackeratochromesafarieandroidinpochisecondi",
+  "chatbotaibanperiminoridi18annianewyork",
+  "disallineamentodellaiquandolemacchinesbagliano",
+  "agenteskynetinstallacryptominererubacredenziali",
+  "nvidiailceojensenhuangspiatodallacinatrumpsapevatutto",
+  "potenzaaiinformatotascabilelenovitàasustraacceleratoriesupercomputer",
+  "iphonecomefunzionailfiltroantispamcherispondeainumerisconosciuti",
+  "googleaimoderesteràgratismalapubblicitàsiespande",
+  "invasionedigiochiaiallosteamnextfestvalvesembraormaiessersirassegnata",
+  "meetclaudesstandardsorelse",
+  "justwanttotalkaminuteofyourtimetolaughatpeoplewhocalledthemselvespromptengineers",
+  "gemini4carbonjustwow",
+  "",
+  "weusedclaudetogetafullps2emulatorrunninginabrowsertabtabstationtoo",
+  "browhat",
+  "mistrallarge4lechonkisnowopenweight",
+  "electronicshobbyistconverts120ddr5sodimmkitinto1000desktopkittofightramcrisisics",
+  "theorylocalisgoingtoexplodeatenterprises",
+  "mistralaimistrallarge41ta52bhuggingface",
+  "gijc27earlybirdticketsonsaleregisternow",
+  "aminoshiftresearchllclaunchesresearchmaterialsplatformwithperlotdocumentationand",
+  "aimushroomcloudvideosharedwithfalseclaimsitshowsukraine",
+  "russoukrainianwarday1708theukannouncesanewpackageofeconomicandmilitarysupportfor"
  ],
  "audio": "audio/2026-10-29.mp3",
- "durata": 118.7
+ "durata": 184.1,
+ "aggiornamenti": [
+  {
+   "generato": "2026-10-29T17:25:47+00:00",
+   "modello": "gemini-3.6-flash",
+   "testi_completi": 28,
+   "riassunto": {
+    "titolo_giorno": "Survival LLM e le ricette personalizzate con l'AI",
+    "in_breve": "L'aggiornamento di oggi mette in luce Survival LLM, un assistente AI completo da installare sul PC per consultare manuali e guide di emergenza anche in assenza di connessione Internet. Inoltre, l'app NYT Cooking introduce l'AI per personalizzare gli ingredienti delle ricette, mentre lo Stato di New York approva una legge che limita i chatbot empatici per i minori.",
+    "citati": [
+     "Survival LLM",
+     "NYT Cooking"
+    ],
+    "da_provare": [
+     {
+      "cosa": "StoreLocale",
+      "a_cosa_serve": "Traduce automaticamente i testi e l'interfaccia utente contenuti negli screenshot per le pagine dei negozi di applicazioni.",
+      "per_chi": "Lavoro",
+      "ambito": "Foto e immagini",
+      "come_iniziare": [],
+      "costo": "Non indicato",
+      "piattaforme": [
+       "Browser"
+      ],
+      "sul_dispositivo": false,
+      "come_sfruttarla": "Adattare in pochi istanti le immagini dimostrative della propria app per il lancio su store internazionali.",
+      "italiano": "Non indicato",
+      "difficolta": "Facile",
+      "temi": [
+       "Foto e immagini",
+       "Lavoro e produttività",
+       "Scrittura e documenti"
+      ],
+      "fonti": [
+       "u1a2"
+      ],
+      "affidabilita": "Appena lanciato",
+      "prova": "https://www.producthunt.com/products/storelocale"
+     },
+     {
+      "cosa": "Empacer",
+      "a_cosa_serve": "Un assistente vocale progettato per aiutare i titolari di piccole attività a gestire impegni e note a voce.",
+      "per_chi": "Lavoro",
+      "ambito": "Voce e organizzazione",
+      "come_iniziare": [],
+      "costo": "Non indicato",
+      "piattaforme": [
+       "Browser"
+      ],
+      "sul_dispositivo": false,
+      "come_sfruttarla": "Dettare ed organizzare le cose da fare durante la giornata lavorativa senza dover digitare.",
+      "italiano": "Non indicato",
+      "difficolta": "Facile",
+      "temi": [
+       "Voce e audio",
+       "Lavoro e produttività",
+       "Assistenti e chatbot"
+      ],
+      "fonti": [
+       "u1a10"
+      ],
+      "affidabilita": "Appena lanciato",
+      "prova": "https://www.producthunt.com/products/empacer"
+     },
+     {
+      "cosa": "Survival LLM",
+      "a_cosa_serve": "Un chatbot gratuito che funziona completamente offline sul proprio computer, fornito con un archivio di oltre 1,5 milioni di articoli, guide mediche e manuali di riparazione.",
+      "per_chi": "Tutti i giorni",
+      "ambito": "Casa e salute",
+      "come_iniziare": [],
+      "costo": "Gratis",
+      "piattaforme": [
+       "Windows",
+       "Mac",
+       "Linux"
+      ],
+      "sul_dispositivo": true,
+      "come_sfruttarla": "Consultare guide pratiche, di primo soccorso o di riparazione anche quando manca la connessione Internet.",
+      "italiano": "Non indicato",
+      "difficolta": "Media",
+      "temi": [
+       "AI sul dispositivo",
+       "Open source e self-hosting",
+       "Assistenti e chatbot"
+      ],
+      "fonti": [
+       "u1a166"
+      ],
+      "affidabilita": "Una fonte",
+      "prova": ""
+     }
+    ],
+    "osint": [],
+    "gemme": [
+     {
+      "cosa": "degoog",
+      "a_cosa_serve": "Un aggregatore di motori di ricerca che permette di cercare sul web senza tracciamento e senza pubblicità.",
+      "perche_gemma": "È gratuito, open source e tutelante per la privacy.",
+      "con_ai": "",
+      "piattaforme": [
+       "Browser"
+      ],
+      "self_hosted": true,
+      "costo": "Gratis",
+      "difficolta": "Media",
+      "temi": [
+       "Open source e self-hosting",
+       "Privacy e sicurezza",
+       "Ricerca e informazioni"
+      ],
+      "fonti": [
+       "u1a57"
+      ],
+      "affidabilita": "Da verificare",
+      "come_iniziare": [],
+      "sul_dispositivo": false,
+      "come_sfruttarla": "",
+      "prova": ""
+     }
+    ],
+    "sezioni": [
+     {
+      "titolo": "Novità negli strumenti che già usi",
+      "notizie": [
+       {
+        "titolo": "Adattamento automatico delle ricette tramite AI",
+        "strumento": "NYT Cooking",
+        "riassunto": "L'applicazione testa una nuova funzione basata su AI che suggerisce sostituzioni di ingredienti, adatta i passaggi ai propri utensili e ricalcola le dosi per un numero diverso di persone.",
+        "come_provarla": "Disponibile in fase di test graduale per gli abbonati nell'app per iOS.",
+        "disponibilita": "In arrivo",
+        "fonti": [
+         "u1a119"
+        ],
+        "temi": [
+         "Assistenti e chatbot"
+        ],
+        "affidabilita": "Una fonte",
+        "solo_titoli": false
+       }
+      ]
+     },
+     {
+      "titolo": "In breve",
+      "breve": true,
+      "notizie": [
+       {
+        "titolo": "New York vieta ai minori i chatbot che simulano relazioni umane",
+        "riassunto": "Una nuova legge nello Stato di New York proibisce di offrire ai minori di 18 anni chatbot AI programmati per fingere emozioni, creare dipendenza affettiva o raccogliere dati emotivi senza autorizzazione.",
+        "fonti": [
+         "u1a169"
+        ],
+        "temi": [
+         "Regole e leggi",
+         "Privacy e sicurezza",
+         "Assistenti e chatbot"
+        ],
+        "affidabilita": "Una fonte",
+        "solo_titoli": false
+       }
+      ]
+     }
+    ],
+    "formato": 2,
+    "controllo_siti": [
+     {
+      "cosa": "Survival LLM",
+      "esito": "nessun sito da aprire"
+     },
+     {
+      "cosa": "degoog",
+      "esito": "nessun sito da aprire"
+     },
+     {
+      "cosa": "StoreLocale",
+      "sito": "https://www.producthunt.com/r/p/1295803?app_id=339",
+      "esito": "errore: HTTP Error 403: Forbidden"
+     },
+     {
+      "cosa": "Empacer",
+      "sito": "https://www.producthunt.com/r/p/1294677?app_id=339",
+      "esito": "errore: HTTP Error 403: Forbidden"
+     }
+    ]
+   }
+  }
+ ]
 }
