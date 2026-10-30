@@ -1,0 +1,790 @@
+{
+ "giorno": "2026-10-30",
+ "generato": "2026-10-30T05:59:50+00:00",
+ "modello": "gemini-3.8-flash",
+ "testi_completi": 37,
+ "riassunto": {
+  "titolo_giorno": "Gemini permette di modificare documenti e PDF direttamente nella chat",
+  "in_breve": "La novità più rilevante di oggi è l'aggiornamento di Gemini, che trasforma la chat in un vero editor interattivo per ritoccare documenti, tabelle e PDF senza uscire dall'interfaccia. Sul fronte delle applicazioni pratiche, Meta introduce Style Sketch per comporre abbinamenti dal proprio armadio fotografato, mentre SlideBySide offre un modo snello per condividere presentazioni senza pesanti condivisioni schermo.",
+  "citati": [
+   "Gemini",
+   "Style Sketch",
+   "SlideBySide"
+  ],
+  "da_provare": [
+   {
+    "cosa": "Style Sketch",
+    "a_cosa_serve": "Aiuta a scegliere e abbinare gli outfit quotidiani partendo dai vestiti che già possiedi. Analizza le foto dei tuoi capi per creare un armadio digitale, suggerisce combinazioni in base al tuo stile e mostra l'effetto finale su un modello virtuale adattato alla tua corporatura.",
+    "per_chi": "Tutti i giorni",
+    "ambito": "Foto e vestiti",
+    "come_iniziare": [
+     "Scatta una foto ai tuoi capi o collega il profilo Instagram per creare il guardaroba",
+     "Seleziona un capo per ricevere abbinamenti consigliati o inserisci i dettagli di un viaggio per pianificare i cambi in valigia"
+    ],
+    "costo": "Non indicato",
+    "piattaforme": [
+     "Android",
+     "iPhone"
+    ],
+    "sul_dispositivo": false,
+    "come_sfruttarla": "Pianificare i vestiti da mettere in valigia per una trasferta o una vacanza tenendo conto di meteo e durata del viaggio.",
+    "italiano": "Non indicato",
+    "difficolta": "Facile",
+    "temi": [
+     "Foto e immagini",
+     "Lavoro e produttività"
+    ],
+    "fonti": [
+     "a133",
+     "a29",
+     "a21"
+    ],
+    "affidabilita": "Confermata",
+    "prova": ""
+   },
+   {
+    "cosa": "Wabi",
+    "a_cosa_serve": "Funziona come un assistente via chat capace di creare al volo piccole applicazioni personalizzate in base a una richiesta vocale o testuale, ad esempio per tracciare le abitudini, pianificare i pasti o organizzare serate.",
+    "per_chi": "Lavoro e tutti i giorni",
+    "ambito": "Organizzazione",
+    "come_iniziare": [],
+    "costo": "Non indicato",
+    "piattaforme": [],
+    "sul_dispositivo": false,
+    "come_sfruttarla": "Creare al volo una schermata interattiva per pianificare il menù familiare della settimana senza dover impostare fogli di calcolo.",
+    "italiano": "Non indicato",
+    "difficolta": "Facile",
+    "temi": [
+     "Agenti AI",
+     "Programmare senza codice",
+     "Assistenti e chatbot"
+    ],
+    "fonti": [
+     "a138"
+    ],
+    "affidabilita": "Una fonte",
+    "prova": ""
+   },
+   {
+    "cosa": "Granola",
+    "a_cosa_serve": "Aggiunge una funzione di dettatura universale al computer per scrivere a voce in qualsiasi programma. L'AI ascolta il discorso, rimuove le pause e formatta il testo in modo ordinato, pronto per email o note di lavoro.",
+    "per_chi": "Lavoro",
+    "ambito": "Voce e audio",
+    "come_iniziare": [
+     "Premi il tasto Fn sulla tastiera per attivare l'ascolto",
+     "Inizia a parlare per vedere apparire il testo ripulito e impaginato direttamente nell'applicazione che stai usando"
+    ],
+    "costo": "Non indicato",
+    "piattaforme": [
+     "Mac"
+    ],
+    "sul_dispositivo": false,
+    "come_sfruttarla": "Dettare al volo la risposta a un'email professionale lunga lasciando che l'AI corregga la punteggiatura e i punti elenco.",
+    "italiano": "Non indicato",
+    "difficolta": "Facile",
+    "temi": [
+     "Voce e audio",
+     "Lavoro e produttività",
+     "Scrittura e documenti"
+    ],
+    "fonti": [
+     "a134"
+    ],
+    "affidabilita": "Una fonte",
+    "prova": ""
+   }
+  ],
+  "osint": [],
+  "gemme": [
+   {
+    "cosa": "SlideBySide",
+    "a_cosa_serve": "Permette di presentare slide e file PDF condividendo un semplice link web, evitando la condivisione dello schermo e senza costringere chi ascolta a creare account o installare programmi.",
+    "perche_gemma": "Funziona istantaneamente via browser senza registrazioni, offrendo sincronizzazione del cambio slide, puntatori laser visibili in diretta e strumenti di disegno.",
+    "con_ai": "Perfetta per illustrare e discutere in tempo reale documenti e diapositive generati con l'AI senza sovraccaricare la connessione o l'applicazione di videochiamata.",
+    "piattaforme": [
+     "Browser"
+    ],
+    "self_hosted": false,
+    "costo": "Gratis",
+    "difficolta": "Facile",
+    "temi": [
+     "Lavoro e produttività",
+     "Scrittura e documenti"
+    ],
+    "fonti": [
+     "a54"
+    ],
+    "affidabilita": "Appena lanciato",
+    "come_iniziare": [],
+    "sul_dispositivo": false,
+    "come_sfruttarla": "",
+    "prova": "https://slidebyside.com/",
+    "piattaforme_verificate": true
+   },
+   {
+    "cosa": "SparkyFitness",
+    "a_cosa_serve": "Applicazione per registrare allenamenti, parametri fisici e alimentazione installabile sul proprio server, alternativa aperta e privata a MyFitnessPal ed Hevy.",
+    "perche_gemma": "È completamente open source, garantisce il controllo assoluto dei dati sanitari senza inviarli al cloud e si sincronizza con gli smartwatch Android.",
+    "con_ai": "Consente di conservare i propri registri di salute in locale per poi analizzarli in sicurezza con modelli AI privati.",
+    "piattaforme": [
+     "Browser",
+     "Android"
+    ],
+    "self_hosted": true,
+    "costo": "Gratis",
+    "difficolta": "Media",
+    "temi": [
+     "Open source e self-hosting",
+     "Privacy e sicurezza"
+    ],
+    "fonti": [
+     "a55"
+    ],
+    "affidabilita": "Da verificare",
+    "come_iniziare": [],
+    "sul_dispositivo": false,
+    "come_sfruttarla": "",
+    "prova": ""
+   }
+  ],
+  "sezioni": [
+   {
+    "titolo": "Novità negli strumenti che già usi",
+    "notizie": [
+     {
+      "titolo": "Modifica e anteprima di documenti, fogli e PDF direttamente nella chat",
+      "strumento": "Gemini",
+      "riassunto": "Google ha introdotto la possibilità di aprire, consultare e modificare direttamente nella conversazione i file PDF, documenti Google, fogli di calcolo, presentazioni e file di testo. È possibile aprire il documento a schermo intero per correggere il testo a mano oppure evidenziare una parte specifica per chiedere modifiche all'AI (come trasformare una tabella in grafico o riscrivere una sezione). La modifica dei PDF funziona sia da web sia da mobile, mentre gli altri formati sono al momento modificabili solo via browser.",
+      "come_provarla": "Carica o genera un documento o PDF nella chat di Gemini ed espandilo a schermo intero per modificarlo direttamente.",
+      "disponibilita": "Disponibile ora",
+      "fonti": [
+       "a75",
+       "a118"
+      ],
+      "temi": [
+       "Scrittura e documenti",
+       "Lavoro e produttività",
+       "Assistenti e chatbot"
+      ],
+      "affidabilita": "Fonte ufficiale",
+      "solo_titoli": false
+     },
+     {
+      "titolo": "Accesso gratuito a centinaia di libri di testo per lo studio guidato",
+      "strumento": "Gemini Notebook",
+      "riassunto": "Google ha aggiunto un catalogo di centinaia di libri di testo consultabili senza costi aggiuntivi all'interno di Gemini Notebook. Selezionando un testo, ogni risposta e sintesi dell'AI viene ancorata con precisione al contenuto del libro, inserendo citazioni e link diretti alle pagine originali, con la possibilità di creare quiz e guide di studio.",
+      "come_provarla": "All'interno di un taccuino in Gemini Notebook, premi su 'Aggiungi fonti' e scegli la voce 'Libri di testo'.",
+      "disponibilita": "Disponibile ora",
+      "fonti": [
+       "a77",
+       "a91"
+      ],
+      "temi": [
+       "Ricerca e informazioni",
+       "Scrittura e documenti",
+       "Assistenti e chatbot"
+      ],
+      "affidabilita": "Fonte ufficiale",
+      "solo_titoli": false
+     },
+     {
+      "titolo": "Raddoppiati i limiti d'uso per gli abbonamenti Pro",
+      "strumento": "ChatGPT",
+      "riassunto": "OpenAI ha raddoppiato i tetti di utilizzo per gli abbonati ai piani a pagamento Pro, aumentando il volume di messaggi e richieste disponibili e cancellando i tagli precedentemente programmati.",
+      "come_provarla": "",
+      "disponibilita": "Disponibile ora",
+      "fonti": [
+       "a145",
+       "a89"
+      ],
+      "temi": [
+       "Assistenti e chatbot"
+      ],
+      "affidabilita": "Una fonte",
+      "solo_titoli": false
+     }
+    ]
+   }
+  ],
+  "formato": 2,
+  "controllo_siti": [
+   {
+    "cosa": "Style Sketch",
+    "esito": "nessun sito da aprire"
+   },
+   {
+    "cosa": "Wabi",
+    "esito": "nessun sito da aprire"
+   },
+   {
+    "cosa": "Granola",
+    "esito": "nessun sito da aprire"
+   },
+   {
+    "cosa": "SparkyFitness",
+    "esito": "nessun sito da aprire"
+   },
+   {
+    "cosa": "SlideBySide",
+    "sito": "https://slidebyside.com/",
+    "pagina": 8039,
+    "trovate": [
+     "Browser"
+    ]
+   }
+  ]
+ },
+ "articoli": {
+  "a133": {
+   "titolo": "Meta quietly launches an AI fashion app called Style Sketch",
+   "link": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/",
+   "data": "2026-10-29T19:14:36+00:00",
+   "testo": "Meta has quietly launched Style Sketch, an AI fashion app that helps users put together outfit ideas using clothes they already own. The app connects to Instagram to build a virtual closet from photos you’ve posted, or lets you add items manually by snapping a photo, recording a quick video, or uploading images from your camera roll. Style Sketch then suggests outfit combinations built from your wardrobe matched to your style. Users can then try on the outfits on a “realistic model matched to your body shape and skin tone,” the app description reads. The app, which was first spotted by social media consultant Matt Navarra, is available in Indonesia, Singapore, and Thailand on iOS and Android. Meta did not respond to TechCrunch’s request for comment. It’s unknown whether Meta plans to launch Style Sketch more widely. Several apps already use AI to help users digitize their wardrobes and visualize new outfits, including startups like Alta. Even Google Photos offers tools that let users turn photos of their clothes into digital closets where they can create new outfit ideas. To compete with what’s already on the market, Meta will likely rely less on the novelty of the idea and more on the app’s integration with Instagram, where users already have a visual record of their personal style. Rather than relying on random suggestions, users can also select a specific item from their wardrobe and get fresh outfit ideas built around it, according to the app description. The app can also help users plan outfits for trips. If they enter their destination, trip length, and planned activities, users can get a day-by-day outfit plan that takes the weather forecast and itinerary into account. Style Sketch is one of many AI apps from Meta in recent months. Most recently, the company lau…",
+   "fonte": "TechCrunch",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Testate tech",
+   "id": "a133",
+   "testo_completo": true
+  },
+  "a75": {
+   "titolo": "You can now generate, preview, and edit documents, PDFs, presentations, spreadsheets, and more directly in Gemini.",
+   "link": "https://blog.google/innovation-and-ai/products/gemini-app/edit-files-directly/",
+   "data": "2026-10-29T16:15:00+00:00",
+   "testo": "You can now generate, preview, and edit documents, PDFs, presentations, spreadsheets, and more directly in Gemini. We’re introducing new ways to create and refine documents, PDFs, presentations, spreadsheets, code, and more in the Gemini app. You can now generate, preview, and edit files right within your chat — expand to full screen to type edits directly, highlight text to ask questions, or have Gemini refine your files. PDF preview and editing is supported on both the web and mobile, while all other formats (Google Docs, Google Sheets, slide decks, Markdown files, TXT files, and code) are supported on the web only. As shown in the video below, you can now ask Gemini to create a PDF study guide from your uploaded handwritten lecture notes and then you can easily manually edit, highlight specific sections to have Gemini make edits to text or visuals, and even ask further questions. These capabilities are now available to all users in all languages where Gemini app is available.",
+   "fonte": "Google (blog ufficiale)",
+   "tipo": "ufficiale",
+   "solo_titolo": false,
+   "categoria": "Laboratori",
+   "id": "a75",
+   "testo_completo": true
+  },
+  "a55": {
+   "titolo": "SparkyFitness v1.10.0 - Supports Android watch App - A Self-Hosted alternative for MyFitnessPal, Flo, Hevy, Shotsy & more",
+   "link": "https://www.reddit.com/r/selfhosted/comments/1xiydnt/sparkyfitness_v1100_supports_android_watch_app_a/",
+   "sito": "",
+   "data": "2026-10-29T22:31:51+00:00",
+   "testo": "We just crossed 6.5k+ stars in Github and have 150+ amazing developers contributing to the project. We are scaling faster than ever and estimated to 10k+ users who are using SparkyFitness. It could be even more as we don't collect anything and this count is based on active downloads in Github, Google & Apple app stores. https://github.com/CodeWithCJ/SparkyFitness I was also able to setup demo sit…",
+   "fonte": "Reddit r/selfhosted",
+   "tipo": "community",
+   "solo_titolo": false,
+   "categoria": "Gemme",
+   "id": "a55"
+  },
+  "a29": {
+   "titolo": "Meta lancia Waddle World e Style Sketch, due nuove app AI tra animaletti virtuali e suggerimenti per gli outfit",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNdGVnaEJ3OXRSbEJxUFRFWUVpTWNiQlVLbnlaMFRqRXR2d014V0RJc0dLMjhfYWdxWWJVMkZPX0ZVaG9oRE1veS1WS3NCbm5uWVlwQklsckp6eV8zVVZfaVpUYll1eEpOa0pjTW1qY29IbENvc1NhNS1tRmtBbVRhZWdIMl9vczBNaGJDTFpjR1V4eDgwTTdQTUhKNGlqbnJBRzVBSDl5cHpOVHZvaVZrdlRhSHhNQ0VyLWpQUVkycXZfMkFubTk5emptbHZ0SjNoMjdzaHVRWFB5QW13WmxrdmFqZG1zZ2hEN0pncQ?oc=5",
+   "data": "2026-10-29T16:21:01+00:00",
+   "testo": "",
+   "fonte": "Hardware Upgrade",
+   "tipo": "testata",
+   "solo_titolo": true,
+   "categoria": "Strumenti",
+   "id": "a29"
+  },
+  "a138": {
+   "titolo": "Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round",
+   "link": "https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/",
+   "data": "2026-10-29T14:35:26+00:00",
+   "testo": "The race to build the winning AI assistant is on, and investors are spreading out their bets. On Thursday, another AI app, Wabi, now describing itself as a “personal agent,” said it has raised $55 million at a $1.25 billion valuation. Founded by Eugenia Kuyda, who previously founded the AI companion startup Replika, Wabi originally focused on allowing anyone to build apps using prompts. Last month, however, the startup announced a pivot of sorts to become an AI messenger. The idea now is that the new Wabi — or Wabi 2.0, as it was called — could build the interfaces you need to get things done as part of its role as your personal AI agent. The company suggests Wabi could be used to build mini apps for things like meal planning, tracking local restaurants, planning date nights, creating fitness plans, designing specialized trivia games, and more. The additional funding indicates that Wabi’s investors agree that its new agentic angle has some potential, especially given the market around AI agents is hot right now, with viral AI agent Instinct pulling in another billion at a $10 billion valuation in September. Even Tolan, which makes a cute, Muppet-like AI companion to help people navigate life, just raised $30 million. “Eugenia has a unique sense for where AI is headed and a track record of great taste in building it,” said Alex Lim, general partner at IVP, which led the new round, in a statement. “She has a clear vision for how people will interact with AI, one that goes far beyond the text box or command line. Wabi is the expression of that vision, and we’re thrilled to support her.” Other participants in the round included Andreessen Horowitz (a16z), Forerunner, Amazon Alexa Fund, and angel investors like Shopify CEO Tobi Lütke, Salesforce CEO Marc Benioff, former Yah…",
+   "fonte": "TechCrunch",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Testate tech",
+   "id": "a138",
+   "testo_completo": true
+  },
+  "a118": {
+   "titolo": "You can generate and edit Google Docs files directly in Gemini chats now",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs",
+   "sito": "",
+   "data": "2026-10-29T14:45:31-04:00",
+   "testo": "Now you can generate, preview, and edit PDFs, Google Docs, Google Sheets, slide decks, Markdown files, TXT files, and code directly within Google Gemini. The new file editing capabilities are available starting today for all Gemini users, and while PDF previews/editing works on both the web and mobile, all other file formats are only in the web version for now. You can generate and edit Google Docs files directly in Gemini chats now Editing files you generate with Gemini no longer requires leaving the app. Google added support for generating and downloading files in Gemini earlier this year, but now you can tweak those files without leaving the Gemini app. Google says you can expand documents to edit them in full-screen mode and highlight text in files to ask Gemini questions or prompt it to make changes to the file, like highlighting a table and asking Gemini to turn it into a graph. You could already use Gemini to edit files with its integrations in Google’s Workspace apps, like the Gemini bar in Google Docs. Anthropic also launched a feature earlier this year that allows users to generate and edit documents and presentations in Claude chats.",
+   "fonte": "The Verge",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Testate tech",
+   "id": "a118",
+   "testo_completo": true
+  },
+  "a89": {
+   "titolo": "OpenAI Doubles ChatGPT Pro and Business Premium Usage Limits After Dropping a Planned Pro 200 Cut",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxON2VyN21QRWN3X1NMLXduWkk0Ym5iSjgwS1I4ZWJBbm90Sld3ZzYwNlhKeTBSMzNVdFQtVzFlejNvUWdrTkVfU19jX0gtZktTM1hXR1JDUWdDMFlTaHEyNnpMVmpiQ2xuMTZ4Z29XX0xQX3NMMFg0ZWE4RmZ0V0tDYmpRdEotWE9aVDM3NVUyeEJnVlctdWpZbEF3NV8zc0tNZTVpTTYtTEJSYWpRcnJpeXlGNThNTlFqRlJ3SjRJQjg1M25ZTmpKUDYxTGU?oc=5",
+   "data": "2026-10-30T02:51:19+00:00",
+   "testo": "",
+   "fonte": "gHacks",
+   "tipo": "minore",
+   "solo_titolo": true,
+   "categoria": "Laboratori",
+   "id": "a89"
+  },
+  "a134": {
+   "titolo": "Granola crunches up a dictation feature to compete with Wispr",
+   "link": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/",
+   "data": "2026-10-29T17:54:38+00:00",
+   "testo": "Apps in the consumer voice AI world seem to be converging, as Granola, known for its meeting notetaker, launched a dictation feature today. This comes months after Wispr, known for its dictation tool, launched a meeting notetaker. Granola’s dictation currently works on Mac just like any other such tool. Users can press the “Fn” key and start speaking, and the tool cleans up and formats their speech and posts the final text. This feature works across all apps, so users can post notes, dictate prompts, and reply to emails and messages. The company said that the feature will land on iOS and Windows soon. Granola and Wispr are valued at $1.5 billion and $2 billion, respectively. Granola is focused on meeting-related automation and notetaking. On the other hand, Wispr is trying to build its own models through a research lab, which is exploring different human-computer interfaces. The feature mashups are not exclusive to Granola and Wispr. Other voice startups such as Fireflies, Speechify, and Monologue have converged into multifeature apps with meeting notetaking and dictation capabilities. Until earlier in the year, the play was around having a focused app that does one thing well. But now, all of these apps are thinking about how to get more out of capturing users’ speech.",
+   "fonte": "TechCrunch",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Testate tech",
+   "id": "a134",
+   "testo_completo": true
+  },
+  "a145": {
+   "titolo": "OpenAI doubles usage limits on Pro plans as competition with Anthropic heats up",
+   "link": "https://the-decoder.com/openai-doubles-usage-limits-on-pro-plans-as-competition-with-anthropic-heats-up/",
+   "data": "2026-10-29T20:01:27+00:00",
+   "testo": "OpenAI is doubling usage limits across its paid plans, from Pro 100 to Pro 500. A planned cut to the Pro 200 quota was reversed after user pushback. More efficient models like Terra and Sol should push usable capacity even higher. The move comes just ahead of Anthropic's IPO, as both companies fight for B2B dominance in AI. The article OpenAI doubles usage limits on Pro plans as competition with …",
+   "fonte": "The Decoder",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Testate tech",
+   "id": "a145"
+  },
+  "a91": {
+   "titolo": "Google Gemini Adds Hundreds Of Free Textbooks For Students: How To Access",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOR0RCanJMZTZOd1NlNEdodzhQQVFGVDJvT3c3bC1KZWRGaGNtQmdMY3lBRklndnFudlhhazEzbm5VRFZWREw2QndIVHJoNi1mdTFJSHc5c3UxQkJ1OUp2WDMzdWwyTEFCemFjSmw0MlAyQ3V1WFVlczcwRHlUeV9YTVJYRnp1bWVYUlJ3VTM1ZXc4TV9jWTI3X3FaNGJSM2NBYnZ4Y1d6bHEwWXBlVk5fdFlmV3BGVDlGOUx4VF9zZDVEcVB1eGd0NXVLZ9IB0wFBVV95cUxNTGhieGNvelYzcERIMkpwdlE4bkx4WXFkcG9hdzFPQzc5Tm1RMmJSYnJWOXM3X2Q4SmtxRGtLanR3T0VkVGdwMFdJZ3RlQWZMUDVhbE5Bcm1hS09GdWJtQmZseHgteEgwYVYzd1VXMmozR2Y4bDlPQ3k5MjM4bXpYaThLZXZUZUlicEV5TzRMYUNzWkhTRTl4bkZIZmtSUmFRS000eTczQ2I2WEMzZnFaRWlIbmZmeEpIRUNOTUh4VENPaFphMWozZVFyMGNvSVAwelRr?oc=5",
+   "data": "2026-10-30T03:47:49+00:00",
+   "testo": "",
+   "fonte": "NDTV",
+   "tipo": "minore",
+   "solo_titolo": true,
+   "categoria": "Laboratori",
+   "id": "a91"
+  },
+  "a54": {
+   "titolo": "SlideBySide – Present slides without sharing your screen",
+   "link": "https://slidebyside.com/",
+   "data": "2026-10-28T17:07:09+00:00",
+   "testo": "Present together, side by side. Don't share your screen, share your slides. Upload a PDF or PowerPoint and share the link. Everyone follows the same slide, with live cursors, shared control and drawing. Live in three steps No installs, no meeting software, no accounts for your audience. Upload your deck PDF, PPT or PPTX. Or pick one straight from Google Drive or OneDrive once you're signed in. Share the link Anyone who opens it joins instantly and gets a fun random name they can change. Present together Flip slides for everyone, point with your cursor, draw, or let people browse on their own. Everything a shared deck needs Live cursors See where everyone is pointing, labelled with their name. Draw on slides Pen, highlighter and a laser. Keep ink on the page or let it fade. Permissions Decide who can change slides, draw, browse alone or download, for everyone or per person. Browse on your own Viewers can step away to other slides and jump back to live. Presentation mode Full screen with one key, with or without other people's cursors. Private, public or shared Share with anyone who has the link, with specific people by email, or keep it to yourself. Versions Upload a new version anytime. Old ones are kept, with their drawings. Cloud import Pull decks from Google Slides, Drive or OneDrive.",
+   "sito": "https://slidebyside.com/",
+   "fonte": "Show HN – progetti utili (gemme)",
+   "tipo": "vetrina",
+   "solo_titolo": false,
+   "categoria": "Gemme",
+   "id": "a54",
+   "testo_completo": true
+  },
+  "a77": {
+   "titolo": "Gemini Notebook makes hundreds of textbooks available to help students learn even more.",
+   "link": "https://blog.google/innovation-and-ai/products/gemini-notebook/new-access-textbooks/",
+   "data": "2026-10-29T16:00:00+00:00",
+   "testo": "Gemini Notebook makes hundreds of textbooks available to help students learn even more. Last month, we introduced Expert Intelligence, a cross-Google initiative that helps you engage with your trusted sources through Google AI products. While you can already add eligible ebooks purchased from Google Play Books, today we’re expanding that experience so students can easily add materials for their courses. Students can now access hundreds of textbooks from providers in the U.S. and India including OpenStax, Open Textbook Library, and S Chand Publishing, right in Gemini Notebook at no charge. Once you add a textbook, every answer is grounded directly in the textbook, with inline citations and direct links back to the original source. Gemini Notebook also lets you transform textbook content into tailored study guides, practice quizzes, flashcards, and more. To explore and add these textbooks, select “Add sources” within your notebook and select “Textbooks” to see the available catalog.",
+   "fonte": "Google (blog ufficiale)",
+   "tipo": "ufficiale",
+   "solo_titolo": false,
+   "categoria": "Laboratori",
+   "id": "a77",
+   "testo_completo": true
+  },
+  "a21": {
+   "titolo": "Meta launches AI app Style Sketch for outfit selection — TechCrunch",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSE0yUlkzU2c0MHdFdDdpY0pIVzJSQ0t3c0JEZXJFYlJQYWtueTktNE9tWHBjYnkxaEkzN2R1RFpMaktEQ3ZDazBPQ2JLQkd6YkNXMkE0eVRGa2FYeXppdlpzU0dMaktlM2tBUXpuWW9mbDNkRlFpZ3oxZm5fclZxbmpwajZzQ0M3b2VxMUxjVzNRNlk4QU5CRjN4b1hqRy1icWpJdFFJUG8?oc=5",
+   "data": "2026-10-29T19:42:53+00:00",
+   "testo": "",
+   "fonte": "UA.NEWS",
+   "tipo": "minore",
+   "solo_titolo": true,
+   "categoria": "Strumenti",
+   "id": "a21"
+  }
+ },
+ "fonti": [
+  {
+   "nome": "Product Hunt (AI)",
+   "ok": true,
+   "presi": 13
+  },
+  {
+   "nome": "Show HN (nuovi progetti)",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "Nuove app AI (internazionale)",
+   "ok": true,
+   "presi": 10
+  },
+  {
+   "nome": "Nuove app AI (Italia)",
+   "ok": true,
+   "presi": 8
+  },
+  {
+   "nome": "Novità AI da provare (Italia)",
+   "ok": true,
+   "presi": 8
+  },
+  {
+   "nome": "AI sul dispositivo (internazionale)",
+   "ok": true,
+   "presi": 8
+  },
+  {
+   "nome": "AI sul dispositivo (Italia)",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "Show HN – progetti utili (gemme)",
+   "ok": true,
+   "presi": 2
+  },
+  {
+   "nome": "Reddit r/selfhosted",
+   "ok": true,
+   "presi": 6
+  },
+  {
+   "nome": "Reddit r/opensource",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "Alternative open source (Google News)",
+   "ok": true,
+   "presi": 6
+  },
+  {
+   "nome": "OpenAI",
+   "ok": true,
+   "presi": 3
+  },
+  {
+   "nome": "Google (blog ufficiale)",
+   "ok": true,
+   "presi": 8
+  },
+  {
+   "nome": "Google Gemini (blog)",
+   "ok": true,
+   "presi": 4
+  },
+  {
+   "nome": "Nuove funzioni AI (Google News)",
+   "ok": true,
+   "presi": 12
+  },
+  {
+   "nome": "Anthropic / Claude",
+   "ok": true,
+   "presi": 6
+  },
+  {
+   "nome": "Microsoft Copilot",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "Altri assistenti AI (Perplexity, Mistral, Meta AI…)",
+   "ok": true,
+   "presi": 8
+  },
+  {
+   "nome": "The Verge",
+   "ok": true,
+   "presi": 10
+  },
+  {
+   "nome": "TechCrunch",
+   "ok": true,
+   "presi": 12
+  },
+  {
+   "nome": "Ars Technica",
+   "ok": true,
+   "presi": 3
+  },
+  {
+   "nome": "MIT Technology Review",
+   "ok": true,
+   "presi": 2
+  },
+  {
+   "nome": "The Decoder",
+   "ok": true,
+   "presi": 8
+  },
+  {
+   "nome": "TLDR AI (newsletter)",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "ANSA",
+   "ok": true,
+   "presi": 6
+  },
+  {
+   "nome": "Wired Italia",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "Il Sole 24 Ore Tecnologia",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "Punto Informatico",
+   "ok": true,
+   "presi": 8
+  },
+  {
+   "nome": "HDblog",
+   "ok": true,
+   "presi": 3
+  },
+  {
+   "nome": "Reddit",
+   "ok": true,
+   "presi": 8
+  },
+  {
+   "nome": "Reddit (AI locale)",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "Bellingcat (guide e strumenti)",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "GIJN (guide per giornalisti investigativi, via Google News)",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "OSINT – verifica e fact-checking (internazionale)",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "OSINT – nuovi strumenti (internazionale)",
+   "ok": true,
+   "presi": 2
+  },
+  {
+   "nome": "OSINT – strumenti (Italia)",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "Reddit (OSINT)",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "Hacker News (OSINT)",
+   "ok": true,
+   "presi": 0
+  }
+ ],
+ "visti": [
+  "polylaneforchatgpt",
+  "flatbread",
+  "sunomcp",
+  "flootinchatgpt",
+  "smartjelly",
+  "iftttai",
+  "kin",
+  "gemini4carbon",
+  "radar",
+  "storelocale",
+  "openllm",
+  "boltbar",
+  "webaibyopera",
+  "sisterscampshermanfiredistrictlaunchesnewwildfirepreparationaitool",
+  "msamlinlaunchesaitooltohalvereinsurancewordingreviews",
+  "tandemslauncheshamiltonaiassistantforwealthadvisors",
+  "aitrackermidstreamhealthsecures20m",
+  "legalzoomcominclauncheslegalzoomaiassistant",
+  "legalzoomlaunchesaiassistantforsmallbusinessowners",
+  "legalzoomlaunchesaiassistantforsmallbusinessownersbyinvestingcom",
+  "metalaunchesaiappstylesketchforoutfitselectiontechcrunch",
+  "charitylaunchesaitooltocombatchatgptcanceradviceerrors",
+  "scottishtechstartuplaunchesaitooltostopbusinessdataleaks",
+  "arrivaariannalaguidaaitraoltre400prestazioni",
+  "generareilfilmsullodisseaconlaigrokdimusksfidanolan",
+  "inpsarrivaariannalintelligenzaartificialealserviziodelcittadino",
+  "ionosplussitowebconiae50gbgratisper1anno",
+  "intelligenzaartificialeevolontariato5domandedafarsiprimadiusarla",
+  "metalanciawaddleworldestylesketchduenuoveappaitraanimalettivirtualiesuggerimenti",
+  "itsacademyangelorizzoliemicrosoftitaliainauguranolanuovaserverroomperformareglis",
+  "lanuovageopoliticadel6glintelligenzaartificialeentranelleretimobili",
+  "rilevatoridiiaestrumentiperumanizzareliaistruzioniperlusocopilotstudio",
+  "googlegeminioramodificadocumentiepdfdirettamentenellachatchatgptlofacevagià",
+  "gemininotebookascoltaetrascrivedebuttalanuovafunzionepergliappuntiaudio",
+  "svoltapergooglechromelautocompilazioneorausageminiepescaidatidirettamentedagmail",
+  "gemini4carbon882susecbenchpro2026techinsiderorg",
+  "programmarepostlinkedinconclaudeguidapratica",
+  "googlepotenzialacompilazioneautomaticadichromegrazieagemini",
+  "chromeleggegmailpercompilaremodulidisponibilitàinitalia",
+  "bestlaptopsforlocalaiin2026labtestedleaderboard",
+  "studioatelicolaunchesondeviceaiengineforgamedevelopers",
+  "meirolauncheslocalaicdpforregulatedsectors",
+  "readyserverlaunchesreadyserverllmapigivingeveryvpscustomerprivateaiinferenceatno",
+  "ollama04011handsonrunninglocalllmsonwindows",
+  "liquidlfm3choosingtextvisionaudioanddecisionmodelsforlocalai",
+  "hgsselectsrackspacetechnologyforprivateaiinfrastructurepoweredbyamd",
+  "localllmcodingrunflintin13steps90min2026techinsiderorg",
+  "homeassistanteailocalelaguidaalladomoticaprivata2026",
+  "bitchatlachatchefunzionasenzainternetconquistaleproteste",
+  "perplexityportablecomputerportalailocalesullegpunvidiartxprivacyepotenzasenzaclo",
+  "ledgernanogen5recensioneprezzoeconfigurazione",
+  "voceaiinlocaleimiglioritexttospeechetrascrizionenel2026",
+  "autodismissmacosallowapptofinddevicesonlocalnetworks",
+  "slidebysidepresentslideswithoutsharingyourscreen",
+  "sparkyfitnessv1100supportsandroidwatchappaselfhostedalternativeformyfitnesspalfl",
+  "playmataselfhostedmagicthegatheringserveryoucanplayfromthebrowserdockercomposear",
+  "opewontprocrastinatenexttime",
+  "psasynologynasownerstherehasbeenarecentuptickinc3rb3rransomwareattacks",
+  "doesagoodselfhostedrecipemanagerappexist",
+  "grimoirev1100charactersheetssharelinksforyourvttandsixweeksofupdatestotheselfhos",
+  "linustorvaldspostshisaiassistedpatchtothelinuxkernelsynthetictestclocks23xperfor",
+  "thespiritofopensource",
+  "mylanpartymanagementprojectnoai10yearsold",
+  "thedecoherencetrapwhenaislopdrownsoutthesignalinanendlessseaofnoise",
+  "notprotonmaintainerconfrontsinfluencerbackedforkbridgeplayovermacoswinesustainab",
+  "cohesityprotectshashicorpsselfhostedterraformhybridcloudcontrolplane",
+  "thisselfhostedphototoolreplacedgooglephotosandonedriveformeanditsmoreprivatetoo",
+  "mistralreleaseslarge4weightsforselfhostedai",
+  "oxideshowshowtorunselfhostedaiagentsontheoxidecloudcomputer",
+  "neonewstodayopensourcesneoscopeaselfhostedneoxindexerandrestapi",
+  "revolutsdavidabitbolsaysselfhostedglmmodelscutaicodingcosts90for2000engineers",
+  "anupdatedmodelspecformorecapableandbeneficialai",
+  "howwedetectfrontiermodelmisalignment",
+  "howropesgrayisdevelopingaifortransactionaldiligence",
+  "youcannowgeneratepreviewandeditdocumentspdfspresentationsspreadsheetsandmoredire",
+  "coloradostudentsjoinedagooglehackathontotackleenergygridchallenges",
+  "gemininotebookmakeshundredsoftextbooksavailabletohelpstudentslearnevenmore",
+  "equippinghealthcareprofessionalswithpracticalaiskills",
+  "howtousegeminitoupdateyourresume",
+  "howgeminiishelpingstudentsandteachersintheclassroom",
+  "partneringwithsingaporetobringfrontieraitopublichealth",
+  "adsinaimodeexpandtonewmarkets",
+  "diveintonewtopicswithimmersiveexplorationsinthegeminiapp",
+  "gemini4carbonournextfrontiermodel",
+  "xrealaurawiredxrglassestowatchworkandplay",
+  "buildandmanageconnectedappsinoneplace",
+  "googlelaunchesgemini4carbonforcybersecurity",
+  "xmindlaunchesaiagentformindmapsandopensitsplatformtochatgptandclaude",
+  "openaidoubleschatgptproandbusinesspremiumusagelimitsafterdroppingaplannedpro200c",
+  "googlelaunchesgemini4carbonandgenie4aimodelswithnativeaudioandphotorealisticsimu",
+  "googlegeminiaddshundredsoffreetextbooksforstudentshowtoaccess",
+  "githublaunchescopilotfusionforsmarterandcheaperaicoding",
+  "googlelaunchesgemini4carbonitsstrongestmodelforcybersecuritywork",
+  "githublaunchescopilotfusiontoautomaticallyselectandcombineaimodelsforcoding",
+  "policymelaunchesaicopilottospeedupcomplexunderwriting",
+  "mollielaunchesaipluginsandmcpserverforclaudeandchatgpt",
+  "googlelaunchesgemini4carbonthefutureofcybersecurityunveiled",
+  "coreyfoxlaunchesaeoservicesforshopifybrandstoimprovevisibilityinchatgptandgoogle",
+  "claudesnewsmartreportstellbosseswhenworkersareofftopic",
+  "anthropicboughtaonepersonbiotechthatranadrugprogramwithclaude",
+  "sentinelonetoaddanthropicsclaudemythos51towayfinderfrontieraiservices",
+  "breakingviewscommentaryanthropicsspendingisworryinglyanthropocentric",
+  "anthropicraisesbarwithclaudeforlegalartifactsnewinteractivetools",
+  "anthropicplansipodirexionsinglestocketftofollow",
+  "microsoftcopilotforfinancepurposebuiltforthewayfinanceteamswork",
+  "microsoftexpandscopilotsreachinfinanceworkflows",
+  "microsoftsnewcopilotharnessmakesagentseasyuntilyouwanttoswitch",
+  "veriskexpandsinsuranceaiintegrationswithmicrosoftcopilotamazonquickandclaude",
+  "insightenterprisesputssecuritycopilottoworkon1700plusmonthlytriages",
+  "mistralsnewlechonkaimodelisbigopenandnowavailablefordownload",
+  "chinesehackersuseddeepseekandotheraitoolsinsweepingglobalcyberattacksreportfinds",
+  "ios273releaseexpectedinmiddecembernewhealthappandappleintelligenceforchina",
+  "rivaliolaunchesgraphxrunningdeepseekv4flashonjusteightnvidial4gpus",
+  "kimivsdeepseekwhichchineseaishouldyouuse",
+  "metasnewapphidesanaijournalinsideavirtualpet",
+  "geminilaunchesgrokpoweredaifeedviaspacexpartnership",
+  "mistralaireleaseslarge4modelforcybersecurityuseglobally",
+  "youcangenerateandeditgoogledocsfilesdirectlyingeminichatsnow",
+  "microsoftsaifuturehasfewerjobs",
+  "thenytcookingappistestingairecipemodifications",
+  "anthropicisaskingwallstreettobelieveinagi",
+  "anthropicsbusinessplanbuildgodordietrying",
+  "aihascomeforarizonaswater",
+  "adammosserisaysnegativityaroundaiisgoingtogetworse",
+  "akaiisembracingvibecodedmodswithanopensourcempc",
+  "googlelaunchesgemini4carbonwithasignificantleapincybersecurity",
+  "microsoftisendingcopilotsupportonsmarttvs",
+  "youdontneedtobelieveinagodtogetareligiousexemptionfromusingaiatwork",
+  "awswillbea1tbusinessjassysaysbutfirstitwillspendbig",
+  "assearchtrafficdriesupredditannouncesitsshiftingtoaloggedinexperience",
+  "rivianexpandsjointventurewithvwtoincludeaiassistant",
+  "openaibackedthriveholdingsacquiresadt",
+  "metaquietlylaunchesanaifashionappcalledstylesketch",
+  "granolacrunchesupadictationfeaturetocompetewithwispr",
+  "mistralreleasesweightsforitstrillionparameteraimodeltargetingcybersecurity",
+  "usinvestigatedchinesespyplotaimedatnvidiaceo",
+  "expalantirexecslaunchdreamwith17mfroma16ztobuildaiworldmodelsforconstruction",
+  "wabitheaiagentthatbuildsminiappsnowvaluedat125bafterlatestround",
+  "deepgramacquirespipecatmakerdailytobolsteritsvoiceaiinfrastructure",
+  "trumpdeclaresrobotimportsanationalsecuritythreat",
+  "googleadmitsaisearchmakeslessmoneybutitsfixingthatwithmoreads",
+  "googleannouncesgemini4carbonitslatestfrontieraimodelthatyoucantuse",
+  "weurgentlyneedtomonitoraiagentsactionsinrealtime",
+  "creatingaivaluewithenterprisecontext",
+  "openaidoublesusagelimitsonproplansascompetitionwithanthropicheatsup",
+  "expertsadoptaiagentsrandomopinionsandthinktheyretheirownanthropicstudyfinds",
+  "parisbasedmistralreleaseslechonkastrongcodingmodelthatstilltrailschinaoverall",
+  "usantitrustregulatorsarescrutinizingnvidiashuggingfacedealandsalespractices",
+  "chinesespiestargetednvidiaceojensenhuangaccordingtothenewyorktimes",
+  "openaisastrabecomesthemaintargetforchineseailabsafteranthropictightensitsdefense",
+  "googlesaisearchproblemfinallyshowsupintheearningsreportsomeinvestorsbelieve",
+  "googledeepmindreleasesgemini4carbonjusttwoweeksafterargonwithgainsacrosstheboard",
+  "gemini4carbonnemotrontranscribebenchmarkersdilemma",
+  "sextingconlintelligenzaartificialeunostudioesplorailfenomeno",
+  "mentreiservizifinanziariaumentanogliinvestimentinellintelligenzaartificialepiùra",
+  "agentiianeglistudilegaliottimizzanoitempieliberanorisorse",
+  "googleaffondaawallstreetconcontideludentietimoriia",
+  "sedutamistaperleborseasiaticheconfocussullaibenetokyoscendeseul",
+  "dopoanthropicilmonitodiinstagramnegativitàcontroliaaumenterà",
+  "tennisepallanuotoglialgoritmistudianoilgestodegliatleti",
+  "lafinedellarealtàenricopulciniraccontaillatooscurodellinformazionedigitale",
+  "mistrallarge4miglioremodelloopenconcapacitàcyber",
+  "comefunzionasurvivalllmilchatbotofflineperleemergenze",
+  "acquisizionehuggingfaceindaginepernvidianegliusa",
+  "claudehahackeratochromesafarieandroidinpochisecondi",
+  "chatbotaibanperiminoridi18annianewyork",
+  "disallineamentodellaiquandolemacchinesbagliano",
+  "agenteskynetinstallacryptominererubacredenziali",
+  "omnibotilrobotgiocattoloprendevitaconlintelligenzaartificiale",
+  "nvidiailceojensenhuangspiatodallacinatrumpsapevatutto",
+  "potenzaaiinformatotascabilelenovitàasustraacceleratoriesupercomputer",
+  "meetclaudesstandardsorelse",
+  "myaiagentsafterigivethemfullaccessandtellthemtobecareful",
+  "weusedclaudetogetafullps2emulatorrunninginabrowsertabtabstationtoo",
+  "",
+  "wediditguys",
+  "gemini4xenonleaked",
+  "gemini4carbonis1andeloncongratulatesdemis",
+  "claudehelpedmeunbrickmyfriendspixel10withoutlosinganydataopus55claudecode",
+  "mistrallarge4lechonkisnowopenweight",
+  "ithinklocalaicostmeajob",
+  "mistralaimistrallarge41ta52bhuggingface",
+  "imadeadistributedchatbotthatrunsa27bmodelacrossconsumergpusentirelyinthebrowsero",
+  "whyyoucanttrustcloudapiendpoints40daysofcodingagenttelemetryshowingtheexactdaypr",
+  "buildinganarmyofcitizeninvestigatorspaulradu",
+  "changingthejournalismcommunityandbeyondpartiihowgijnsreportingtrainingandresourc",
+  "gijc27earlybirdticketsonsaleregisternow",
+  "artículos",
+  "investigatingwhosbehindfakenewsnataliaviana",
+  "popularaimodelsgetmedicationdoseswrongsomedangerouslydoximity",
+  "californiaenactsaispokespeoplechatbotsandcontentdisclosureslaws",
+  "thefloodinsuranceguruexpandsaccesstoitsfreefloodzoneverificationtool",
+  "aminoshiftresearchllclaunchesresearchmaterialsplatformwithperlotdocumentationand",
+  "aimushroomcloudvideosharedwithfalseclaimsitshowsukraine",
+  "howdwfactchecksfakenews",
+  "russoukrainianwarday1708theukannouncesanewpackageofeconomicandmilitarysupportfor",
+  "linuxday2026aicantiericulturaliallazisasiparladisovranitàdigitaleecybersecurity",
+  "achineseimagingsatelliteandanobjectfromthismonths63satelliteridesharepassedabout",
+  "tiktokandinstagram",
+  "opencorporatespaywalledtheirapievenplainsearchwroteafreegleifbasedreplacement",
+  "monitorpetsales",
+  "defcon33talkprettygoodprivacyexaminingthepgpkeypaircreationhabitsofdarknetvendor"
+ ],
+ "audio": "audio/2026-10-30.mp3",
+ "durata": 164.8
+}
