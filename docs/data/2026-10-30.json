@@ -387,6 +387,112 @@
    "solo_titolo": true,
    "categoria": "Strumenti",
    "id": "a21"
+  },
+  "u1a169": {
+   "titolo": "Social media: stop alle leggi nazionali sui divieti per i minori",
+   "link": "https://www.punto-informatico.it/social-media-stop-leggi-nazionali-divieti-minori/",
+   "data": "2026-10-30T10:36:44+00:00",
+   "testo": "La Commissione europea ha deciso di bloccare ogni disegno di legge nazionale che riguarda il divieto di accesso ai social media per i minori. Il portavoce Thomas Regnier ha dichiarato che la sospensione durerà 12 mesi. Questo stop permetterà di evitare soluzioni troppo discordanti dal KIDS Act e quindi la frammentazione normativa. Ci sono però alcune eccezioni. Nessuno stop per Grecia e Francia La decisione della Commissione europea è arrivata ieri, ovvero nel giorno in cui scadevano i termini per rispondere alla richiesta dell’Austria in merito alla compatibilità della sua proposta di legge (divieto di accesso ai social media per i minori di 14 anni) con le regole europee. L’Austria è quindi il primo paese soggetto allo stop di 12 mesi. Il portavoce Thomas Regnier ha dichiarato che la sospensione è necessaria per evitare sovrapposizioni con le future regole armonizzate, ovvero al KIDS Act presentato a metà settembre. Il rischio è quello di avere diverse leggi che introducono diversi limiti di età, rendendo praticamente impossibile l’applicazione delle norme europee. Diversi paesi, tra cui Austria e Danimarca, non vogliono però attendere l’approvazione definitiva del KIDS Act che potrebbe richiedere oltre un anno (occorre il via libera di Parlamento e Consiglio europeo), quindi non verrebbe applicata prima del 2028. Lo stop di un anno riguarda le proposte di legge notificate alla Commissione europeo dopo la presentazione del KIDS Act. Oltre a Danimarca e Austria, i paesi interessati sono Germania, Portogallo, Belgio, Slovenia e Italia. Gli ultimi tre sono stati citati dal portavoce. La proposta di legge italiana è il ddl Mennuni-Madia, in discussione al Senato, che vieta l’accesso ai minori di 14 anni (15 anni nella versione originale del testo). Le eccezioni riguardan…",
+   "fonte": "Punto Informatico",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Italia",
+   "id": "u1a169",
+   "testo_completo": true
+  },
+  "u1a168": {
+   "titolo": "Facebook segnala ai genitori le ricerche dei figli sull’autolesionismo",
+   "link": "https://www.punto-informatico.it/facebook-segnala-genitori-ricerche-figli-autolesionismo/",
+   "data": "2026-10-30T14:11:18+00:00",
+   "testo": "Le notifiche per i genitori erano già comparse su Instagram all’inizio dell’anno. Ora Meta le porta anche su Facebook, per gli adolescenti con un account supervisionato da un adulto. E aggiunge un terreno nuovo, le conversazioni con Meta AI, l’assistente che l’azienda ha infilato un po’ ovunque, come il prezzemolo. Account teen su Facebook: come funzionano le notifiche ai genitori su ricerche e chat con Meta AI I casi sono due. Se un ragazzo cerca contenuti legati ad autolesionismo e suicidio ripetutamente in un lasso di tempo breve, il genitore riceve un avviso. Succede lo stesso se parla con Meta AI in un modo che lasci pensare a un rischio di suicidio o autolesionismo. Ripetutamente, quanto? Mistero. Qui la trasparenza di Meta va in vacanza. I criteri esatti restano volutamente sfocati, e le parole “ripetutamente” e “breve periodo” fanno il lavoro di un’etichetta senza ingredienti. L’azienda aveva spiegato in passato di aver scelto una soglia che richiede alcune ricerche ravvicinate, peccando semmai di prudenza, ma cercando anche di non inondare le famiglie di falsi allarmi. È un equilibrio difficile. Una notifica di troppo trasforma un sistema di protezione in un rumore di fondo che si impara a ignorare. Una di meno può costare molto di più. Difficile capire dov’è il confine. Cosa riceve il genitore, e cosa no Superata la soglia, l’avviso arriva per SMS, email o WhatsApp, più una notifica push nell’app del genitore. Non è un dossier. Niente parole cercate, niente stralci di conversazione con il chatbot, il messaggio non svela i dettagli. Quello che offre è un invito a parlare con il figlio, insieme a risorse e contatti di linee di aiuto. Il resto tocca a chi sta dall’altra parte dello schermo, cioè a un adulto che deve trovare le parole giuste senza avere nemmeno u…",
+   "fonte": "Punto Informatico",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Italia",
+   "id": "u1a168",
+   "testo_completo": true
+  },
+  "u1a37": {
+   "titolo": "Strava si integra con Google Gemini: l’AI analizza allenamenti, progressi e prestazioni sportive",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOck1LeEVMT3k4ZTN1ZnluaEtFcUR5MFYxX2NkU0Nyamk3OGF0MW5QSDZBd2xYQ0VtX2FyWEdLN2ZsTEtFNVRRdDg0eHdMTVRvQ2psN3FyQWRqUER3UEZFMnFIYTdMUWlaODY0eFJYb2R1UHZBNjd2Nk91emR4MGE4d3dReEtsdnpnRE5iTEhMY1BvdXpxLUpMejRlOEZ4ODc3M2hsYl9GTjczRkplNUZJVUxSMGd0Wm03VmFkMGlBWG5QR1FHRG5N?oc=5",
+   "data": "2026-10-30T13:49:52+00:00",
+   "testo": "",
+   "fonte": "Cellulare Magazine",
+   "tipo": "minore",
+   "solo_titolo": true,
+   "categoria": "Strumenti",
+   "id": "u1a37"
+  },
+  "u1a16": {
+   "titolo": "Arsaze – Cursor for video editing (Tab-complete and agent edits)",
+   "link": "https://www.arsaze.com",
+   "data": "2026-10-30T06:55:33+00:00",
+   "testo": "Edit from the AI you already use - Claude - ChatGPT - Gemini - Grok - Codex - Cursor Make one cut. Press Tab for the rest. Arsaze shows your next edit on the timeline, done the way you just did it. Tab takes it, Esc leaves it. Edit video like a document. Delete a word and it's cut from the video. Every cut stays a tracked change you can put back. Client notes on the exact frame. Send a link. Clients watch, draw on the frame and leave notes your AI can act on. Built in India. Used in 64 countries. People in 64 countries and regions have made an Arsaze account. Each lit place has someone editing with it. - and 1 more Arsaze is Cursor for video editing: an AI-native video editor for agents and humans. It is a real multi-track timeline that you edit by hand, or that an AI agent edits for you while you watch. It is built for video editors, creators and the teams they cut for. Yes. The demos on arsaze.com are the real editor, Agent view, Rewrite and client review page running on sample footage. The AI in the demo plays four sample edits; exporting, adding your own footage and AI generation need an account, and nothing you do in a demo is saved. Everything a cut needs, by hand or by asking. Captions are transcribed with word timing and styled with reusable presets. Silences and filler words come out of a talking head in one pass, and Tab suggests your next edit as you work. Colour has wheels, curves, HSL secondaries, LUTs and shot matching. Audio has voice isolation, noise reduction, loudness and automatic ducking under speech. Images, video, voiceover, music and sound effects are generated straight onto the timeline. Export an MP4 with no watermark, or hand off to DaVinci Resolve and Premiere Pro as FCPXML. Arsaze also has background removal, motion tracking, Animate Studio …",
+   "sito": "https://www.arsaze.com",
+   "fonte": "Show HN (nuovi progetti)",
+   "tipo": "vetrina",
+   "solo_titolo": false,
+   "categoria": "Strumenti",
+   "id": "u1a16",
+   "testo_completo": true
+  },
+  "u1a42": {
+   "titolo": "Strava Gemini non compare in Italia: requisiti e disponibilità",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBnc1ZNQTU0OTN3cmpFTkI3a2M3b0xETVhLdkdqbGhSWWhFamIyUWwtTk1pN3Y5bDBtQXJKSHk1VTc1ZnZON1ZGLVE2QkNaVm9JWTlmcHc4dnAzSXdoZGhXYVRPR0dXaTBhYVF0aA?oc=5",
+   "data": "2026-10-30T15:10:00+00:00",
+   "testo": "",
+   "fonte": "tech.icrewplay.com",
+   "tipo": "minore",
+   "solo_titolo": true,
+   "categoria": "Strumenti",
+   "id": "u1a42"
+  },
+  "u1a51": {
+   "titolo": "Bitchat, cos'è la nuova app per chattare (senza internet) che spopola tra i manifestanti. «Aggira la censura e i controlli». Ecco come...",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQN1FqQllxVWFNSzFFRXBkc0N4MEs4WXVWQTMtVVI4YzRWUFJPNzBSVXBiV1lpclQ1ZmE5OHBPbzhHR1E5UGNqSXBicDVzS00zRG9UMFVnMmZBck5ObXJNV1Fzd2JiQnIwN2FkdDl0M3NjNVNsbUIyWkZkdm12Q2ZsM3ZTY09HODJLcmlvN0RR0gGTAUFVX3lxTE1pX1o2dkRUT2Y1TjF3WWdMSkZUZk1TN0RJRjNSTWJOMExyZXJCQnlhVHd3T0RTUDdxcjBKTmJQc0w0cXMzUFViM3E3UHd3UWN3Sm5BUGkwS0x5UmdlcEJpZnZzcDVlQVRJaWt4bllRb2FUa2lsSWY4NlphOGpRWTM3SjNmUUZRdkRXX1Z5bWVseXNRSQ?oc=5",
+   "data": "2026-10-30T16:10:23+00:00",
+   "testo": "",
+   "fonte": "Il Messaggero",
+   "tipo": "testata",
+   "solo_titolo": true,
+   "categoria": "Strumenti",
+   "id": "u1a51"
+  },
+  "u1a3": {
+   "titolo": "fastbrowse",
+   "link": "https://www.producthunt.com/products/fastbrowse",
+   "sito": "https://www.producthunt.com/r/p/1296613?app_id=339",
+   "data": "2026-10-28T20:25:09-07:00",
+   "testo": "Fastest open source browser agent",
+   "fonte": "Product Hunt (AI)",
+   "tipo": "vetrina",
+   "solo_titolo": false,
+   "categoria": "Strumenti",
+   "id": "u1a3"
+  },
+  "u1a170": {
+   "titolo": "WhatsApp, quattro novità per le chat di gruppo: cosa cambia",
+   "link": "https://www.punto-informatico.it/whatsapp-quattro-novita-chat-gruppo/",
+   "data": "2026-10-30T10:11:33+00:00",
+   "testo": "Nonostante gli oltre tre miliardi di utenti attivi in tutto il mondo, WhatsApp rimane un cantiere aperto. Lo dimostra la continua integrazione di nuove funzionalità da parte del team di Meta al lavoro sulla piattaforma. Oggi ce ne sono da segnalare ben quattro dedicate nello specifico alle chat di gruppo e alla loro gestione. Quattro novità per le chat di gruppo su WhatsApp L’obiettivo principale è quello di consentire a tutti di non perdere i contenuti importanti, anche a chi non rimane tutto il giorno incollato allo schermo del telefono. La prima riguarda il filtro per menzioni e risposte. È integrato nella parte alta della schermata principale che raccoglie tutte le conversazioni, insieme a quelli già esistenti, predefiniti (Da leggere, Preferiti, Gruppi) o personalizzati. Ha il compito di mettere in evidenza le menzioni e le risposte dirette ricevute in una chat collettiva. C’è poi la possibilità di fissare i messaggi importanti per più tempo, anche in modo permanente. Fino a oggi è stato possibile farlo scegliendo obbligatoriamente tra 24 ore, 7 giorni e 30 giorni. Ancora, si può inviare a qualcuno i messaggi recenti in modo retroattivo, dopo che il contatto è entrato nel gruppo, basta toccare il suo nome nella chat. Fa seguito a un’altra novità introdotta all’inizio di quest’anno. Infine, WhatsApp ora permette di condividere uno stato con i soli membri del gruppo a cui si partecipa. Tutti coloro che ne fanno parte lo possono visualizzare, reagire e aggiungere il proprio, con la cancellazione automatica dopo 24 ore dalla pubblicazione. Condividi i momenti giusti con le persone giuste, perché ciò che viene detto nella chat del club di corsa potrebbe non essere adatto alla chat di famiglia. Come sempre, le novità sono in fase di rollout e potrebbe trascorrere divers…",
+   "fonte": "Punto Informatico",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Italia",
+   "id": "u1a170",
+   "testo_completo": true
+  },
+  "u1a1": {
+   "titolo": "Canva Brush",
+   "link": "https://www.producthunt.com/products/canva",
+   "sito": "https://www.producthunt.com/r/p/1297603?app_id=339",
+   "data": "2026-10-29T12:23:23-07:00",
+   "testo": "Canva Brush: a vision-language model that edits your designs",
+   "fonte": "Product Hunt (AI)",
+   "tipo": "vetrina",
+   "solo_titolo": false,
+   "categoria": "Strumenti",
+   "id": "u1a1"
   }
  },
  "fonti": [
@@ -783,8 +889,352 @@
   "tiktokandinstagram",
   "opencorporatespaywalledtheirapievenplainsearchwroteafreegleifbasedreplacement",
   "monitorpetsales",
-  "defcon33talkprettygoodprivacyexaminingthepgpkeypaircreationhabitsofdarknetvendor"
+  "defcon33talkprettygoodprivacyexaminingthepgpkeypaircreationhabitsofdarknetvendor",
+  "canvabrush",
+  "chopstick",
+  "fastbrowse",
+  "axonnic",
+  "speakonagent",
+  "faylee",
+  "vaanideveloperplatform",
+  "ilse",
+  "arsazecursorforvideoeditingtabcompleteandagentedits",
+  "localcodelaunchesasfreeprivateaiassistanttoolformac",
+  "harksfreeaiassistantarrivesonmactotackletheerrandsyouvebeenputtingoff",
+  "wwdlaunchesasktailoranairesearchtoolpoweredby50plusyearsoffashioninsight",
+  "agodaaiassistantnowavailableinmalaysiaforendtoendtripplanningandbooking",
+  "tencentmarvislaunchescodingbutlerremotelyinvokingdesktopaitools",
+  "igordamedaunanuovaintelligenzaartificialealserviziodelleimprese",
+  "intelligenzaartificialeeinclusionelagrandesfidadellascuolapersonalizzaresenzasep",
+  "annunziatacontroiltumorealsenoarrivailmammografo3dconintelligenzaartificiale",
+  "gratisesenzalimitidiparolegranolalapppergliappuntidelleriunionioradettatestoinog",
+  "geminisirinnovaarrivailnuovodesignneuralexpressiveedebuttalintegrazioneconstrava",
+  "ituoidocumentinondevonofinirenelcloudlanuovaaidiopera",
+  "metalanciastylesketchlaiscegliecomevestirti",
+  "geminiliveofflineeccocomepotrebbefunzionareanchesenzaconnessioneinternet",
+  "geminilancialeesplorazioniimmersivestudiareesplodendogliargomentifinoagliatomima",
+  "stravasiintegracongooglegeminilaianalizzaallenamentiprogressieprestazionisportiv",
+  "stravagemininoncompareinitaliarequisitiedisponibilità",
+  "nvidialaunchesrtxsparklaptopswithlocalaipush",
+  "ollamaandlmstudiohowtomakesureyourlocalaistaysoffline",
+  "lattepandalauncheslattepandasigma2theembeddableaisingleboardserver",
+  "altmanslamslocalaiasawasteofscarcedram",
+  "nvidiaceojensenhuangreportedlytargetedbychinesespydailysabah",
+  "imagedeeplaunchessolarpoweredaicameraforremotesites",
+  "bitchatcosèlanuovaappperchattaresenzainternetchespopolatraimanifestantiaggiralac",
+  "altmanboccialailocaleasuodiresprecaladramdeipc",
+  "colleferroalcunezonedelquartierealivkmsenzainternetdagiornicittadiniesasperatigu",
+  "oradjiromo2puòpulirecasasenzainternetesenzainviareinostridatialcloud",
+  "iturneddoomintoatransformer",
+  "aproofofconceptformalizationoftheirsfederaltaxforms",
+  "whathappenstoyourselfhosteddatawhenyouregone",
+  "beforeiputemailinmyhomelabwhathappenstoincomingmailwhenthehousegoesoffline",
+  "10gbeminirackworksetup",
+  "derivopensourcesitsselfhostedenterpriseaiplatformderivone",
+  "bitwardenselfhostedsetup13steps60min2026httpstechinsiderorg",
+  "abilityaiappliedailabbusinessagentautomationselfhostedoperations",
+  "ispentaweekreplacingmyeverydaywindowsappswithopensourcealternativesandbarelymiss",
+  "communitysafetyreportandnewprotectionsforteens",
+  "wevereceivedourfirstresponsefromtheprojectsuncatcherprototypesatellite",
+  "vivenuopensticketingoperationstochatgptclaudewithnewmcpserver",
+  "claudesnewfeatureletsemployersanalyzeworkersaichats",
+  "githublaunchescopilotfusionasagentsstart40ofpullrequests",
+  "openaischatgptgetswideradsmultiimageadsexpandsexpansionmore",
+  "geminiactingfunnygoogleshugesmarthomepatchoffersaid",
+  "geminisnewfeatureletsyoueditfilesdirectlyinchat",
+  "trialaunchesagentictradingallowingaiagentstoexecutecryptotradeswithoutgivingupco",
+  "trojanizedclaudecodeextensiondeliveredpersistentsshbackdoortodevelopermachines",
+  "cursorsaysupto5000usersaffectedbytamperedclaudecodeextension",
+  "meetclaudeduetthelatestaiagentintendedtolightenyourworkload",
+  "officialclaudecodeextensiononcursormarketplacetrojanizedwithpersistentsshbackdoo",
+  "claudecodeextensionpoisonedwithpersistentsshbackdoor",
+  "maliciousclaudecodeextensiondistributedthroughcursormarketplace",
+  "fromsyntheticenterprisedataevaluationstorealmicrosoftcopilotaiconfidence",
+  "ransomwarelogsandcopilotmemoryputaiagentrecordsontheediscoveryagenda",
+  "microsoftpullscopilotfromsmarttvsfollowingcontroversialrollout",
+  "fy27q1pressreleasesinvestorrelations",
+  "howmuchdoesaicostin2026thecompletepricingcomparison",
+  "museaivsgrokbotwhichaiagentfitsphysiciansbest",
+  "riskfactorsidentifiedinongoingstudyofgeminiandgrok",
+  "teslarobotaxinowoperates20hoursperday",
+  "rivaliolaunchesgraphxrunningdeepseekv4flashonjust8nvidial4gpus",
+  "popeleocallsforthedisarmamentofaimachinesaretoolsnotpersons",
+  "siliconvalleywantsyoutoinvestinmiracles",
+  "samaltmansympathizeswithmathematiciansbutsaysopenaismathonslaughtwontstop",
+  "mainesdatacenterrevoltwilldecidewhocontrolsthesenate",
+  "wikipediasoperatorsaysabadaicopyrightrulingcouldthreatentheopenweb",
+  "theranoswhistleblowertylershultzwarnsthattheaiboomisagreatopportunitytogodeceive",
+  "skipthesmalltalkmakegamechangingconnectionsattechcrunchfoundersummitwithbraindat",
+  "doordashsaiditsonlyreceivedseveralhundredordersfromaiagents",
+  "5daysleftyourlastchancetoconnectscaleandsaveattechcrunchfoundersummit2026",
+  "canaidatacentersbemassproducedlikecarsthisstartupaimstofindout",
+  "dojexposesghoststudentsusingaitocompletecoursesstealstudentloans",
+  "openweightmodelglm53builtfullfirefoxexploitchainswithzerohumaninputinunder48hour",
+  "mistrallarge4ossagentswarmbehaviorsamaltmaninterviewf",
+  "intelligenzaartificialeelibertàdisceltail7novembreaianthropocosmic",
+  "borsalasiachiudeincaloconitimoriperlintelligenzaartificiale",
+  "provinciacollaboraconunibzperlintelligenzaartificiale",
+  "studilegalilapartitadellaisigiocasullagovernance",
+  "datacenterglioperatoriitalianichiedonotempicerti",
+  "datacenterilmercatotriplicaindieciannisullealidellai",
+  "googleperde500miliardididollaripercolpadiaimode",
+  "chatgptmente3tecnichepercostringerloadirelaverità",
+  "facebooksegnalaaigenitorilericerchedeifiglisullautolesionismo",
+  "socialmediastopallelegginazionalisuidivietiperiminori",
+  "whatsappquattronovitàperlechatdigruppocosacambia",
+  "quandolaisbagliaesbagliadichièlacolpa",
+  "android17qpr3googlerilascialaterzabetaaidevicecompatibili",
+  "stravaintegragooglegeminianalisieconsiglipersonalizzaticonai",
+  "appleinvesteancoranellaiaccordoconascendiopertecnologiaebrevetti",
+  "whatifeverythingleakedeveryphotoeverytext",
+  "ahmwhat",
+  "usingclaudetoputallgloballawintogit",
+  "aiagentsrunbyclaudesonnet5didbrainsurgeryonamousespoilersitrecovered",
+  "breakingopenaiconfirmedtomergechatandworklimits",
+  "anthropicgave50analystsclaudecodewithahiddencoinflipbiastheyfollowedtheagentslea",
+  "officialclaudecodevscodeextensioncompromisedtoinstallpersistentsshbackdoor",
+  "introducingdeepseekv41flash1017dynamicv31unslothggufs",
+  "thertx5080hasbeenremovedfromnvidiasofficialmarketplace",
+  "selfcontained3uinferenceserverorchestratingallofmywork",
+  "decembercourseaiwithouttheguessworksmarterjournalismwithoutpromptingandhallucina",
+  "videoofnewlymarriedwomanreportingfordutyaslocopilotisaigenerated",
+  "topplayersintheopensourceintelligencemarketfmiforecastsusd1117billionby2036",
+  "eusatelliteimagerydelayedovergazaandpartsofwestbankby24hours"
  ],
  "audio": "audio/2026-10-30.mp3",
- "durata": 164.8
+ "durata": 268.4,
+ "aggiornamenti": [
+  {
+   "generato": "2026-10-30T17:15:32+00:00",
+   "modello": "gemini-3.6-flash",
+   "testi_completi": 20,
+   "riassunto": {
+    "titolo_giorno": "Arsaze porta l'editing video conversazionale, le novità per i gruppi di WhatsApp e Gemini su Strava",
+    "in_breve": "L'aggiornamento di oggi mette in luce Arsaze, uno strumento che semplifica il montaggio video consentendo di modificare i filmati come un documento di testo. Inoltre, WhatsApp aggiorna la gestione delle chat di gruppo e Gemini si integra con Strava per analizzare gli allenamenti.",
+    "citati": [
+     "Arsaze",
+     "WhatsApp",
+     "Gemini",
+     "Strava"
+    ],
+    "da_provare": [
+     {
+      "cosa": "Arsaze",
+      "a_cosa_serve": "Un editor video guidato dall'AI che permette di montare filmati modificando direttamente il testo della trascrizione, rimuovendo i silenzi e suggerendo i tagli automatici.",
+      "per_chi": "Lavoro e tutti i giorni",
+      "ambito": "Foto e video",
+      "come_iniziare": [
+       "Accedi al sito web del servizio",
+       "Carica il filmato per generare la trascrizione e iniziare la modifica con l'AI"
+      ],
+      "costo": "Gratis con limiti",
+      "piattaforme": [
+       "Browser",
+       "Windows"
+      ],
+      "sul_dispositivo": false,
+      "come_sfruttarla": "Eliminare in automatico i tempi morti e le parole di troppo dalle videoregistrazioni di riunioni o presentazioni.",
+      "italiano": "Non indicato",
+      "difficolta": "Facile",
+      "temi": [
+       "Video",
+       "Agenti AI",
+       "Foto e immagini"
+      ],
+      "fonti": [
+       "u1a16"
+      ],
+      "affidabilita": "Appena lanciato",
+      "prova": "https://www.arsaze.com",
+      "piattaforme_verificate": true
+     },
+     {
+      "cosa": "Canva Brush",
+      "a_cosa_serve": "Un modello di intelligenza artificiale visiva per modificare e ritoccare elementi di un progetto grafico descrivendo i cambiamenti a parole.",
+      "per_chi": "Lavoro e tutti i giorni",
+      "ambito": "Foto e video",
+      "come_iniziare": [
+       "Apri lo strumento nel browser",
+       "Seleziona la parte dell'immagine da modificare e descrivi il cambiamento"
+      ],
+      "costo": "Non indicato",
+      "piattaforme": [
+       "Browser"
+      ],
+      "sul_dispositivo": false,
+      "come_sfruttarla": "Modificare al volo dettagli di locandine e grafiche per i social senza usare complessi programmi di fotoritocco.",
+      "italiano": "Non indicato",
+      "difficolta": "Facile",
+      "temi": [
+       "Foto e immagini",
+       "Lavoro e produttività",
+       "Scrittura e documenti"
+      ],
+      "fonti": [
+       "u1a1"
+      ],
+      "affidabilita": "Appena lanciato",
+      "prova": "https://www.producthunt.com/products/canva"
+     },
+     {
+      "cosa": "fastbrowse",
+      "a_cosa_serve": "Un agente AI open source per la navigazione web capace di eseguire ricerche e compilazioni sui siti in modo autonomo.",
+      "per_chi": "Lavoro e tutti i giorni",
+      "ambito": "Organizzazione",
+      "come_iniziare": [
+       "Accedi al progetto sul browser",
+       "Imposta la richiesta di navigazione automatica per il bot"
+      ],
+      "costo": "Gratis",
+      "piattaforme": [
+       "Browser"
+      ],
+      "sul_dispositivo": false,
+      "come_sfruttarla": "Delegare all'agente la raccolta di dati o la compilazione di moduli ripetitivi durante la navigazione sul web.",
+      "italiano": "Non indicato",
+      "difficolta": "Media",
+      "temi": [
+       "Agenti AI",
+       "Lavoro e produttività",
+       "Open source e self-hosting"
+      ],
+      "fonti": [
+       "u1a3"
+      ],
+      "affidabilita": "Appena lanciato",
+      "prova": "https://www.producthunt.com/products/fastbrowse"
+     }
+    ],
+    "osint": [],
+    "gemme": [
+     {
+      "cosa": "Bitchat",
+      "a_cosa_serve": "Un'applicazione di messaggistica per comunicare direttamente tra dispositivi vicini senza connessione a Internet o rete cellulare.",
+      "perche_gemma": "Funziona completamente offline e permette di scambiare messaggi anche in assenza di copertura di rete.",
+      "con_ai": "Utile per scambiare appunti elaborati in locale tramite AI senza farli passare da server esterni.",
+      "piattaforme": [],
+      "self_hosted": false,
+      "costo": "Non indicato",
+      "difficolta": "Facile",
+      "temi": [
+       "Privacy e sicurezza",
+       "Open source e self-hosting"
+      ],
+      "fonti": [
+       "u1a51"
+      ],
+      "affidabilita": "Una fonte",
+      "solo_titoli": true,
+      "italiano": "Non indicato",
+      "sul_dispositivo": false,
+      "come_iniziare": [],
+      "come_sfruttarla": "",
+      "prova": ""
+     }
+    ],
+    "sezioni": [
+     {
+      "titolo": "Novità negli strumenti che già usi",
+      "notizie": [
+       {
+        "titolo": "Quattro nuove funzioni per organizzare e seguire le chat di gruppo",
+        "strumento": "WhatsApp",
+        "riassunto": "WhatsApp introduce un filtro per raccogliere al volo menzioni e risposte dirette nei gruppi, consente di fissare i messaggi importanti senza limiti di tempo e permette di inviare ai nuovi membri i messaggi recenti della chat. Arriva anche la possibilità di condividere gli Aggiornamenti allo Stato con i soli membri di un gruppo specifico.",
+        "come_provarla": "In fase di rilascio graduale nell'applicazione per Android e iPhone.",
+        "disponibilita": "Disponibile ora",
+        "fonti": [
+         "u1a170"
+        ],
+        "temi": [
+         "Lavoro e produttività",
+         "Assistenti e chatbot"
+        ],
+        "affidabilita": "Una fonte",
+        "solo_titoli": false
+       },
+       {
+        "titolo": "Integrazione con Strava per l'analisi delle prestazioni sportive",
+        "strumento": "Gemini",
+        "riassunto": "Google sta integrando Gemini con la piattaforma Strava per consentire all'assistente di analizzare i dati degli allenamenti, monitorare i progressi fisici e rispondere a domande sulle prestazioni atletiche dell'utente.",
+        "come_provarla": "",
+        "disponibilita": "In arrivo",
+        "fonti": [
+         "u1a37",
+         "u1a42"
+        ],
+        "temi": [
+         "Assistenti e chatbot",
+         "Ricerca e informazioni"
+        ],
+        "affidabilita": "Da verificare",
+        "solo_titoli": true
+       },
+       {
+        "titolo": "Avvisi ai genitori per ricerche sensibili e chat con Meta AI",
+        "strumento": "Facebook",
+        "riassunto": "Meta ha attivato la notifica automatica per i genitori nel caso in cui un adolescente con account supervisionato effettui ricerche ripetute o parli con l'assistente Meta AI di temi legati all'autolesionismo.",
+        "come_provarla": "",
+        "disponibilita": "Disponibile ora",
+        "fonti": [
+         "u1a168"
+        ],
+        "temi": [
+         "Privacy e sicurezza",
+         "Assistenti e chatbot"
+        ],
+        "affidabilita": "Una fonte",
+        "solo_titoli": false
+       }
+      ]
+     },
+     {
+      "titolo": "In breve",
+      "breve": true,
+      "notizie": [
+       {
+        "titolo": "L'Unione Europea blocca per 12 mesi le leggi nazionali sui minori nei social",
+        "riassunto": "La Commissione europea ha sospeso per un anno i disegni di legge nazionali che limitano l'accesso ai social ai minori, inclusa la proposta in discussione in Italia, per favorire una normativa europea unica.",
+        "fonti": [
+         "u1a169"
+        ],
+        "temi": [
+         "Regole e leggi",
+         "Privacy e sicurezza",
+         "Foto e immagini"
+        ],
+        "affidabilita": "Una fonte",
+        "solo_titoli": false
+       }
+      ]
+     }
+    ],
+    "formato": 2,
+    "controllo_siti": [
+     {
+      "cosa": "Bitchat",
+      "esito": "nessun sito da aprire"
+     },
+     {
+      "cosa": "Canva Brush",
+      "sito": "https://www.producthunt.com/r/p/1297603?app_id=339",
+      "esito": "errore: HTTP Error 403: Forbidden"
+     },
+     {
+      "cosa": "fastbrowse",
+      "sito": "https://www.producthunt.com/r/p/1296613?app_id=339",
+      "esito": "errore: HTTP Error 403: Forbidden"
+     },
+     {
+      "cosa": "Arsaze",
+      "sito": "https://www.arsaze.com",
+      "pagina": 105328,
+      "trovate": [
+       "Browser",
+       "Windows"
+      ]
+     }
+    ]
+   }
+  }
+ ]
 }
