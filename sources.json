@@ -152,6 +152,22 @@
       "escludi": "stock|shares|earnings|funding|raises|valuation|IPO|lawsuit"
     },
     {
+      "nome": "Hugging Face (modelli e strumenti aperti)",
+      "tipo": "ufficiale",
+      "categoria": "Laboratori",
+      "url": "https://huggingface.co/blog/feed.xml",
+      "max": 3,
+      "ore": 72
+    },
+    {
+      "nome": "Mistral AI",
+      "tipo": "ufficiale",
+      "categoria": "Laboratori",
+      "url": "https://mistral.ai/news/rss",
+      "max": 3,
+      "ore": 96
+    },
+    {
       "nome": "The Verge",
       "tipo": "testata",
       "categoria": "Testate tech",
@@ -205,7 +221,7 @@
       "nome": "Wired Italia",
       "tipo": "testata",
       "categoria": "Italia",
-      "url": "https://news.google.com/rss/search?q=site:wired.it+%22intelligenza+artificiale%22+OR+AI+when:2d&hl=it&gl=IT&ceid=IT:it",
+      "url": "https://news.google.com/rss/search?q=site:wired.it+(%22intelligenza+artificiale%22+OR+AI)+when:2d&hl=it&gl=IT&ceid=IT:it",
       "max": 6
     },
     {
@@ -233,6 +249,25 @@
       "filtro_ai": true
     },
     {
+      "nome": "AI4Business",
+      "tipo": "testata",
+      "categoria": "Italia",
+      "url": "https://news.google.com/rss/search?q=site:ai4business.it+when:3d&hl=it&gl=IT&ceid=IT:it",
+      "max": 4,
+      "ore": 72,
+      "filtro_ai": true,
+      "escludi": "webinar|evento|convegno|whitepaper|white paper|offerta di lavoro"
+    },
+    {
+      "nome": "Agenda Digitale (AI)",
+      "tipo": "testata",
+      "categoria": "Italia",
+      "url": "https://news.google.com/rss/search?q=site:agendadigitale.eu+(%22intelligenza+artificiale%22+OR+AI)+when:3d&hl=it&gl=IT&ceid=IT:it",
+      "max": 3,
+      "ore": 72,
+      "escludi": "webinar|evento|convegno|offerta di lavoro"
+    },
+    {
       "nome": "Reddit",
       "tipo": "community",
       "categoria": "Community",
@@ -246,6 +281,14 @@
       "url": "https://www.reddit.com/r/LocalLLaMA+LocalLLM/top/.rss?t=day&limit=25",
       "max": 5,
       "filtro_ai": true
+    },
+    {
+      "nome": "Simon Willison (prove pratiche di strumenti AI)",
+      "tipo": "community",
+      "categoria": "Community",
+      "url": "https://simonwillison.net/tags/llms.atom",
+      "max": 4,
+      "ore": 48
     },
     {
       "nome": "Bellingcat (guide e strumenti)",
@@ -290,6 +333,22 @@
       "escludi": "corso|master|evento|convegno|webinar|seminario|workshop|certificazion|offerta di lavoro"
     },
     {
+      "nome": "Facta (fact-checking, contenuti falsi e AI)",
+      "tipo": "testata",
+      "categoria": "OSINT",
+      "url": "https://news.google.com/rss/search?q=site:facta.news+when:7d&hl=it&gl=IT&ceid=IT:it",
+      "max": 3,
+      "ore": 168
+    },
+    {
+      "nome": "Week in OSINT (Sector035)",
+      "tipo": "community",
+      "categoria": "OSINT",
+      "url": "https://news.google.com/rss/search?q=%22Week+in+OSINT%22+when:14d&hl=en-US&gl=US&ceid=US:en",
+      "max": 2,
+      "ore": 336
+    },
+    {
       "nome": "Reddit (OSINT)",
       "tipo": "community",
       "categoria": "OSINT",
@@ -301,9 +360,9 @@
       "nome": "Hacker News (OSINT)",
       "tipo": "community",
       "categoria": "OSINT",
-      "url": "https://hnrss.org/newest?q=OSINT&points=15",
+      "url": "https://hnrss.org/newest?q=OSINT&points=5",
       "max": 4,
-      "ore": 72
+      "ore": 168
     }
   ]
 }

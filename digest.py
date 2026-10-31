@@ -174,7 +174,9 @@ def analizza_feed(contenuto: bytes):
     for it in items:
         articoli.append({
             "titolo": testo_di(it, "title", "{http://purl.org/rss/1.0/}title"),
-            "link": testo_di(it, "link", "{http://purl.org/rss/1.0/}link"),
+            # alcuni feed (es. Hugging Face) non hanno <link>: si usa il <guid> se è un indirizzo
+            "link": testo_di(it, "link", "{http://purl.org/rss/1.0/}link")
+                    or (lambda g: g if g.startswith("http") else "")(testo_di(it, "guid")),
             "data": leggi_data(testo_di(it, "pubDate", "dc:date")),
             "testo": pulisci_testo(testo_di(it, "description", "content:encoded",
                                             "{http://purl.org/rss/1.0/}description")),
