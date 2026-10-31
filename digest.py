@@ -272,6 +272,9 @@ def raccogli(fonti, limite_tempo, editori_esclusi=()):
                 continue
             if escludi and escludi.search(a["titolo"]):
                 continue
+            if f["url"].endswith("/releases.atom"):
+                # nuove versioni da GitHub: il titolo è solo "v1.2.0", ci mettiamo davanti il nome del programma
+                a["titolo"] = f'{f["nome"].split(" (")[0]} {a["titolo"]}'
             tipo = f.get("tipo", "testata")
             fonte = f["nome"]
             if "news.google.com" in f["url"]:

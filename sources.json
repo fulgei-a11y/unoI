@@ -67,6 +67,42 @@
       "max": 5
     },
     {
+      "nome": "Android Police (AI su Android)",
+      "tipo": "testata",
+      "categoria": "Strumenti",
+      "url": "https://news.google.com/rss/search?q=site:androidpolice.com+(AI+OR+Gemini+OR+%22on-device%22)+when:2d&hl=en-US&gl=US&ceid=US:en",
+      "max": 4,
+      "filtro_ai": true,
+      "escludi": "deal|sale|discount|price drop|% off|giveaway"
+    },
+    {
+      "nome": "Windows Central (AI su Windows)",
+      "tipo": "testata",
+      "categoria": "Strumenti",
+      "url": "https://news.google.com/rss/search?q=site:windowscentral.com+(AI+OR+Copilot)+when:2d&hl=en-US&gl=US&ceid=US:en",
+      "max": 4,
+      "filtro_ai": true,
+      "escludi": "deal|sale|discount|price drop|% off|xbox|game pass"
+    },
+    {
+      "nome": "Ollama (nuove versioni)",
+      "tipo": "ufficiale",
+      "categoria": "Strumenti",
+      "url": "https://github.com/ollama/ollama/releases.atom",
+      "max": 1,
+      "ore": 336,
+      "escludi": "rc|beta|alpha|nightly|preview|\\.\\d+\\.[1-9]\\d*"
+    },
+    {
+      "nome": "Open WebUI (nuove versioni)",
+      "tipo": "ufficiale",
+      "categoria": "Strumenti",
+      "url": "https://github.com/open-webui/open-webui/releases.atom",
+      "max": 1,
+      "ore": 336,
+      "escludi": "rc|beta|alpha|nightly|preview|\\.\\d+\\.[1-9]\\d*"
+    },
+    {
       "nome": "Show HN – progetti utili (gemme)",
       "tipo": "vetrina",
       "categoria": "Gemme",
@@ -97,6 +133,24 @@
       "url": "https://news.google.com/rss/search?q=(%22open+source+alternative%22+OR+%22self-hosted%22+OR+%22privacy-friendly+alternative%22)+(app+OR+tool+OR+released+OR+launches)+when:3d&hl=en-US&gl=US&ceid=US:en",
       "max": 6,
       "escludi": "stock|shares|earnings|funding|raises|valuation|IPO|acquires|lawsuit"
+    },
+    {
+      "nome": "n8n (nuove versioni)",
+      "tipo": "ufficiale",
+      "categoria": "Gemme",
+      "url": "https://github.com/n8n-io/n8n/releases.atom",
+      "max": 1,
+      "ore": 336,
+      "escludi": "rc|beta|alpha|nightly|preview|\\.\\d+\\.[1-9]\\d*"
+    },
+    {
+      "nome": "Immich (nuove versioni)",
+      "tipo": "ufficiale",
+      "categoria": "Gemme",
+      "url": "https://github.com/immich-app/immich/releases.atom",
+      "max": 1,
+      "ore": 336,
+      "escludi": "rc|beta|alpha|nightly|preview|\\.\\d+\\.[1-9]\\d*"
     },
     {
       "nome": "OpenAI",
@@ -268,6 +322,23 @@
       "escludi": "webinar|evento|convegno|offerta di lavoro"
     },
     {
+      "nome": "Garante Privacy e AI",
+      "tipo": "aggregatore",
+      "categoria": "Italia",
+      "url": "https://news.google.com/rss/search?q=%22Garante+privacy%22+(%22intelligenza+artificiale%22+OR+AI+OR+chatbot+OR+app)+when:3d&hl=it&gl=IT&ceid=IT:it",
+      "max": 3,
+      "ore": 72
+    },
+    {
+      "nome": "Malwarebytes (app e truffe AI)",
+      "tipo": "testata",
+      "categoria": "Italia",
+      "url": "https://news.google.com/rss/search?q=site:malwarebytes.com+(AI+OR+ChatGPT+OR+deepfake+OR+chatbot)+when:7d&hl=en-US&gl=US&ceid=US:en",
+      "max": 2,
+      "ore": 168,
+      "filtro_ai": true
+    },
+    {
       "nome": "Reddit",
       "tipo": "community",
       "categoria": "Community",
@@ -347,6 +418,31 @@
       "url": "https://news.google.com/rss/search?q=%22Week+in+OSINT%22+when:14d&hl=en-US&gl=US&ceid=US:en",
       "max": 2,
       "ore": 336
+    },
+    {
+      "nome": "The OSINT Newsletter",
+      "tipo": "community",
+      "categoria": "OSINT",
+      "url": "https://osintnewsletter.com/feed",
+      "max": 2,
+      "ore": 336
+    },
+    {
+      "nome": "IDMO (osservatorio italiano sulla disinformazione)",
+      "tipo": "testata",
+      "categoria": "OSINT",
+      "url": "https://news.google.com/rss/search?q=(IDMO+OR+%22Italian+Digital+Media+Observatory%22)+when:14d&hl=it&gl=IT&ceid=IT:it",
+      "max": 2,
+      "ore": 336
+    },
+    {
+      "nome": "EU DisinfoLab",
+      "tipo": "testata",
+      "categoria": "OSINT",
+      "url": "https://news.google.com/rss/search?q=site:disinfo.eu+when:14d&hl=en-US&gl=US&ceid=US:en",
+      "max": 2,
+      "ore": 336,
+      "escludi": "conference|webinar|vacancy|internship|job"
     },
     {
       "nome": "Reddit (OSINT)",
