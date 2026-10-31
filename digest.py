@@ -1411,6 +1411,8 @@ def testa(titolo, descrizione, url_pagina, prefisso):
             f'<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">'
             f"<title>{e(titolo)}</title>"
             f'<meta name="description" content="{e(descrizione)}">'
+            # niente motori di ricerca: il sito lo trova solo chi ha il link
+            f'<meta name="robots" content="noindex, nofollow, noarchive, nosnippet, noimageindex">'
             f'<meta name="theme-color" content="#c2410c">'
             f'<link rel="manifest" href="{prefisso}manifest.webmanifest">'
             f'<link rel="icon" type="image/png" href="{prefisso}icona-192.png">'
