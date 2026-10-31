@@ -343,6 +343,54 @@
    "solo_titolo": false,
    "categoria": "Testate tech",
    "id": "a139"
+  },
+  "u1a166": {
+   "titolo": "ChatGPT: OpenAI annuncia nuove protezioni per minori",
+   "link": "https://www.punto-informatico.it/chatgpt-openai-annuncia-nuove-protezioni-minori/",
+   "data": "2026-10-31T12:09:05+00:00",
+   "testo": "OpenAI ha annunciato nuove protezioni per i minori che usano ChatGPT. Verranno in particolare ridotte le informazioni sulle armi, anche quando la richiesta sembra innocua. Previsti inoltre miglioramenti per la verifica dell’età e i controlli parentali. Questa è la risposta dell’azienda californiana alle denunce ricevute negli Stati Uniti e alle critiche di Common Sense Media sul funzionamento di ChatGPT for Teens. Maggiori protezioni peri minori OpenAI ribadisce che ChatGPT for Teens offre maggiori protezioni e limiti aggiuntivi per ridurre l’esposizione a contenuti sensibili (all’inizio del mese erano stati pubblicati alcuni dati positivi). L’azienda californiana ha ora deciso di limitare le informazioni sull’uso di armi e altri mezzi che potrebbero essere utilizzati in modo improprio, anche in assenza di segnali di intenti violenti. OpenAI ha inoltre potenziato il sistema di verifica dell’età, in modo da valutare ulteriori segnali comportamentali durante l’uso di ChatGPT. Se il sistema stimata un’età inferiore a 18 anni, gli adolescenti verranno trasferiti nell’esperienza dedicata ai minori. In caso di errore è possibile confermare di essere maggiorenni tramite la procedura gestita da Persona. OpenAI migliorerà infine i controlli parentali. I genitori riceveranno notifiche nel caso in cui l’account del figlio adolescente venga sospeso a causa di ripetute discussioni su temi legati alla violenza. Gli account dei genitori collegati a quelli dei figli ricevono inoltre avvisi di sicurezza quando i revisori dell’azienda individuano un serio rischio di autolesionismo o comportamenti potenzialmente associati a disturbi alimentari. OpenAI rafforzerà anche le restrizioni per gli utenti maggiorenni. ChatGPT non fornisce istruzioni che possano aiutare qualcuno a pianificare o c…",
+   "fonte": "Punto Informatico",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Italia",
+   "id": "u1a166",
+   "testo_completo": true
+  },
+  "u1a65": {
+   "titolo": "Loomkeep: one self-hosted library for everything you watch, read, play and listen to",
+   "link": "https://www.reddit.com/r/selfhosted/comments/1xjtxmo/loomkeep_one_selfhosted_library_for_everything/",
+   "sito": "",
+   "data": "2026-10-30T22:52:22+00:00",
+   "testo": "Processing img 42t933vbqoyh1... My series and movies lived in TV Time, my books in Goodreads, my games in Infinite Backlog. When TV Time shut down I decided to build a replacement I'd own, and it grew into Loomkeep : one library for everything you watch, read, play and listen to, that you can run on your own server. What it tracks Series, films and anime (TMDB, AniList) Games (IGDB), books (Open …",
+   "fonte": "Reddit r/selfhosted",
+   "tipo": "community",
+   "solo_titolo": false,
+   "categoria": "Gemme",
+   "id": "u1a65"
+  },
+  "u1a6": {
+   "titolo": "Godwit",
+   "link": "https://www.producthunt.com/products/godwit",
+   "sito": "https://www.producthunt.com/r/p/1299137?app_id=339",
+   "data": "2026-10-30T20:45:26-07:00",
+   "testo": "An open-source, AI-native email client",
+   "fonte": "Product Hunt (AI)",
+   "tipo": "vetrina",
+   "solo_titolo": false,
+   "categoria": "Strumenti",
+   "id": "u1a6"
+  },
+  "u1a64": {
+   "titolo": "Foldergram v1.3.0: self-hosted photo/video gallery, now with carousels and folder sharing",
+   "link": "https://www.reddit.com/r/selfhosted/comments/1xk3q86/foldergram_v130_selfhosted_photovideo_gallery_now/",
+   "sito": "",
+   "data": "2026-10-31T07:17:18+00:00",
+   "testo": "Hey everyone, I posted Foldergram here before and wanted to share the latest update, v1.3.0. For anyone new to it, I originally built Foldergram for my old backup photos. I wanted to browse them like my own personal Instagram feed and actually spend time revisiting them. It scans your existing photo/video folders and gives you a feed, folder pages, and a post viewer. The bigger additions this tim…",
+   "fonte": "Reddit r/selfhosted",
+   "tipo": "community",
+   "solo_titolo": false,
+   "categoria": "Gemme",
+   "id": "u1a64"
   }
  },
  "fonti": [
@@ -731,8 +779,242 @@
   "eusatelliteimagerydelayedovergazaandpartsofwestbankby24hours",
   "opencorporatespaywalledtheirapievenplainsearchwroteafreegleifbasedreplacement",
   "monitorpetsales",
-  "defcon33talkprettygoodprivacyexaminingthepgpkeypaircreationhabitsofdarknetvendor"
+  "defcon33talkprettygoodprivacyexaminingthepgpkeypaircreationhabitsofdarknetvendor",
+  "plutodoor",
+  "agnos",
+  "acbridge",
+  "ski",
+  "githubcopilotfusion",
+  "godwit",
+  "ideavomakesfullstackaiappbuilderfreeforevereliminatingcreditmarkups",
+  "aipoweredcoffeerunsandservicevisitsarecomingtoriviansnextyearsoftwarechiefsays",
+  "agodarollsoutaitravelassistantinindiaintegratestripplanningwithlivebookinginvent",
+  "theaitoolyourfirmneedstonavigateaccountingsfuture",
+  "fdaclearsneuroxtsaitoolthatsizesupalzheimersrisk",
+  "lintelligenzaartificialeescedalloschermoedentrainfabbrica",
+  "argolanciailvotopaleseonlinepergliorganicollegialielintegrazioneconlailenovitàpe",
+  "caniegattiilcuorepuòammalarsiinsilenzioisegnalidariconoscereeicontrollidafare",
+  "lintelligenzaartificialecisostituiràalesaarrivalacommediacheprendeingirolarivolu",
+  "lanuovageopoliticadel6glintelligenzaartificialeentranelleretimobili",
+  "eneycosèecomefunzionalassistenteaipermac",
+  "claudecodeegiochiesistenti1regolaanthropic2026techinsiderorg",
+  "macchinedabullshittingquandolaisembrasaperemanonsa",
+  "vitalikbuterinsayslocalaicouldreducerelianceoncryptowebapps",
+  "samaltmancontrolaramneinostricomputermeglioneidatacenter",
+  "iregretpayingforthese10appsandroidandgeminireplacedthemforfree",
+  "thelatestgooglehomeupdategoeswaybeyondgeminiandfixesyournestgeartoo",
+  "googlescheapestgeminiplanislosingamajorperknowicantrecommendittoanyone",
+  "gemininowletsyoucreatepreviewandeditpdfsandfilesdirectlyinyourchat",
+  "plmailupdatepgpsmimejmappop3carddavcontactsandmore",
+  "ubuntukernelcve202698432cvss98nofixedkernelyetfor220424042604whatareyoudoinginth",
+  "localllmhostingharness",
+  "foldergramv130selfhostedphotovideogallerynowwithcarouselsandfoldersharing",
+  "loomkeeponeselfhostedlibraryforeverythingyouwatchreadplayandlistento",
+  "ireplacedgooglemapswiththisopensourcealternativeandibarelymissit",
+  "thereasonikeepcomingbacktogooglephotosaftertryingeverymajoralternative",
+  "n8nstable",
+  "googlelaunchesgemini4carbonforcyberdefendersfirstwithapipricingfrom2permillionto",
+  "googlegeminiupgradesarerollingouttoallsupportedandroiddevices",
+  "googlelaunchesgemini4carbonwithstateoftheartcybersecuritycapabilities",
+  "googlelaunchesandroidmcpinbetasoappscantalktoaiagents",
+  "googlerollsoutnanobanana2afterviralsuccessofaiimagegenerationtool",
+  "formerroyalmarinescommandojacobmilnerlauncheshvacseoforaisearch",
+  "interactivemetanowalertsparentswhenteenssearchforselfharmcontent",
+  "anthropicsclaudeaiblocksvideogamecloningandreverseengineeringsweepingnewrestrict",
+  "anthropictakesstepstoblockclaudefromreverseengineeringvideogames",
+  "insideamaliciousclaudecodebrandedextensionanditspersistentsshbackdoor",
+  "microsofts60000buyoutoffersshadowitscopilotproductivitypitch",
+  "howtoturnoffcopilotinwordexceloutlookwindows",
+  "workmanagementnewsoctobersaigiantshavetoshowtheirwork",
+  "appleintelligencefinallycomingtochinaindecemberwithios273",
+  "bestaiforresearch30freelabseatsvs202026httpstechinsiderorg",
+  "applechinalaunchesaifeaturespagecorefunctionstoarrivelaterthisyear",
+  "grokbot10isoncursorsservers77daysafterbeta",
+  "mistralaipubliclyreleaseslarge4targetscybersecurityusers",
+  "nemotronhalloween",
+  "graniteswitch411updatemodelslikeyouupdatesoftware",
+  "announcingprojectprotostarmakingpubliclyfundedscienceaiready",
+  "lechonkbuiltforcoderstrustedbydefenders",
+  "ibuiltanaitamagotchibeforemetacould",
+  "openaireportedlylowersfundingtargetfornewround",
+  "openaiplanstotrainmodelsondaybreakbluecybersecuritysessiondatathatwaspreviouslyo",
+  "beekeepingtipsandwrestlingadvicecantrainaimodelstosabotageoversight",
+  "microsoftoffersaquarterofitsworkforcevoluntaryseverancewhileshieldingaicriticalt",
+  "googledeepmindcreatesaglobalmapofforestswithsatellitedataandai",
+  "openairaisesjust11billionofits30billiontargetasbiginvestorslosetheiraiappetite",
+  "ansacresceusoiaperaccedereallenewsmautentinonlavoglionoinredazione",
+  "iaedigitaleilmodellodiunitoaserviziodelleuniversitàeuropee",
+  "propostounnuovostandardperbloccaretuttiicrawlerai",
+  "samaltmanladramserveperidatacenternonperpc",
+  "chatgptopenaiannuncianuoveprotezioniperminori",
+  "googleaccendeilprimodatacenterspazialelaivainorbita",
+  "claudedianthropicneifarmacirisultatiaccordierischi",
+  "automazioneaziendaleilplaybooktrasformalaiinunostrumentooperativo",
+  "crollodialphabetinborsalaicambiailbusinessdellasearch",
+  "gemini4carbonopenaieanthropicconfrontocyberperaziende",
+  "alphabetcrollaamazondeludeilmercatochiederitorniallai",
+  "intelligenzaartificialenelfiscolimitieresponsabilità",
+  "softwareeaidifettosicomecambialanormadal9dicembre",
+  "newsletterdel29ottobre2026",
+  "halloweendalgaranteprivacyiconsiglipercontrastaretruffeefurtodeidatipersonali",
+  "intelligenzaartificialenellapailgaranteprivacydàilvialiberaallaprovinciaditrento",
+  "banksareblockingaiagentsfromcustomeraccounts",
+  "aihalloweenvideoswhosgettingyourphotos",
+  "poorsam",
+  "claudeopus55cangenerateimageseventhoughitwillinitiallysayitcant",
+  "limitlimiteverything",
+  "imclosetocancellingmymaxsubscriptionduetothesafetyclassifier",
+  "aicracksa27yearoldpillarofcomputerscienceopenaiandanthropicclaim",
+  "localqwen27bispracticallyunusableforcodingtasksarewedoingsomethingwrong",
+  "firstmemorystorageandnowpcbsssaiboomtriggersmassivepcbshortagewithordersbookedun",
+  "easyramtricktakeastickoutofyourworklaptop",
+  "dbreunignesformer",
+  "apicreditsbenefitforeligiblechatgptsubscriptions",
+  "buildingamultiplayergameworldwithautonomousfableclassmodels",
+  "oldfootagemisusedtoallegeethiopianairlinestroopflightstotigray",
+  "videoshowingwomanpoliceofficermistreatingamuslimyouthisscripted",
+  "factcheckdidyennywahidreallyjoinpsiparty",
+  "dronesattackedmoscowexplosionswereheardnearsheremetyevoairport",
+  "russiansu57fighterjetburnsdownatairfieldinastrakhanregionosint",
+  "russiansu57fighterjetcatchesfireatmilitaryairfieldinastrakhanoblastosint",
+  "limmaginediquestipoliziottichesfilanoabraccettoconimanifestantièfalsa",
+  "lacriminalitàminorilenonèlemergenzacheciraccontiamo",
+  "legittohalanciatounchatbotiadifactcheckingbasatosuinformazioniapprovatedallostes",
+  "episode25discgolfappstrackingaircraftandsearchingwithfofa",
+  "theosintnewsletterissue128",
+  "raieidmocrescelimpegnocontroladisinformazioneo",
+  "aurochdigitalavviailicenziamenti",
+  "disinfoupdate21102026"
  ],
  "audio": "audio/2026-10-31.mp3",
- "durata": 118.8
+ "durata": 172.7,
+ "aggiornamenti": [
+  {
+   "generato": "2026-10-31T17:08:05+00:00",
+   "modello": "gemini-3.6-flash",
+   "testi_completi": 9,
+   "riassunto": {
+    "titolo_giorno": "Godwit rinfresca la posta con l'AI e ChatGPT rafforza i controlli per i minori",
+    "in_breve": "Nell'aggiornamento di oggi spicca Godwit, un client di posta open source progettato attorno all'intelligenza artificiale per rendere più snella la gestione quotidiana delle email. Sul fronte della sicurezza, OpenAI introduce su ChatGPT filtri più severi sui contenuti sensibili e nuovi avvisi per i genitori.",
+    "citati": [
+     "Godwit",
+     "ChatGPT"
+    ],
+    "da_provare": [
+     {
+      "cosa": "Godwit",
+      "a_cosa_serve": "Un client di posta elettronica open source progettato fin dall'inizio con l'assistenza dell'intelligenza artificiale per organizzare e gestire i messaggi in arrivo.",
+      "per_chi": "Lavoro e tutti i giorni",
+      "ambito": "Organizzazione",
+      "come_iniziare": [],
+      "costo": "Non indicato",
+      "piattaforme": [],
+      "sul_dispositivo": false,
+      "come_sfruttarla": "Gestire la posta elettronica quotidiana lasciando che l'AI aiuti a smistare ed elaborare i messaggi.",
+      "italiano": "Non indicato",
+      "difficolta": "Facile",
+      "temi": [
+       "Assistenti e chatbot",
+       "Lavoro e produttività",
+       "Open source e self-hosting"
+      ],
+      "fonti": [
+       "u1a6"
+      ],
+      "affidabilita": "Appena lanciato",
+      "prova": "https://www.producthunt.com/products/godwit"
+     }
+    ],
+    "osint": [],
+    "gemme": [
+     {
+      "cosa": "Foldergram",
+      "a_cosa_serve": "Analizza le cartelle locali di foto e video e le trasforma in una galleria privata personalizzata con un'interfaccia a scorrimento in stile Instagram.",
+      "perche_gemma": "Permette di riscoprire i propri archivi di immagini personali senza dover caricare alcun file su piattaforme terze.",
+      "con_ai": "",
+      "piattaforme": [],
+      "self_hosted": true,
+      "costo": "Gratis",
+      "difficolta": "Media",
+      "temi": [
+       "Open source e self-hosting",
+       "Foto e immagini",
+       "AI sul dispositivo"
+      ],
+      "fonti": [
+       "u1a64"
+      ],
+      "affidabilita": "Da verificare",
+      "come_iniziare": [],
+      "sul_dispositivo": false,
+      "come_sfruttarla": "",
+      "prova": ""
+     },
+     {
+      "cosa": "Loomkeep",
+      "a_cosa_serve": "Un'applicazione da installare sul proprio server per catalogare in un unico posto tutti i film, le serie TV, i libri e i videogiochi completati o da iniziare.",
+      "perche_gemma": "Centralizza i dati sui propri passatempi e contenuti multimediali mantenendone il pieno controllo personale.",
+      "con_ai": "",
+      "piattaforme": [],
+      "self_hosted": true,
+      "costo": "Gratis",
+      "difficolta": "Media",
+      "temi": [
+       "Open source e self-hosting",
+       "Lavoro e produttività",
+       "Video"
+      ],
+      "fonti": [
+       "u1a65"
+      ],
+      "affidabilita": "Da verificare",
+      "come_iniziare": [],
+      "sul_dispositivo": false,
+      "come_sfruttarla": "",
+      "prova": ""
+     }
+    ],
+    "sezioni": [
+     {
+      "titolo": "Novità negli strumenti che già usi",
+      "notizie": [
+       {
+        "titolo": "Nuove restrizioni su argomenti sensibili e tutele per minori",
+        "strumento": "ChatGPT",
+        "riassunto": "OpenAI ha rafforzato i filtri per gli utenti adolescenti riducendo le informazioni fornite su armi e contenuti rischiosi anche di fronte a richieste innocue. Sono stati inoltre migliorati i sistemi di verifica dell'età e attivati avvisi automatici ai genitori collegati in caso di discussioni a rischio.",
+        "come_provarla": "",
+        "disponibilita": "Disponibile ora",
+        "fonti": [
+         "u1a166"
+        ],
+        "temi": [
+         "Privacy e sicurezza",
+         "Assistenti e chatbot",
+         "OSINT e verifica"
+        ],
+        "affidabilita": "Una fonte",
+        "solo_titoli": false
+       }
+      ]
+     }
+    ],
+    "formato": 2,
+    "controllo_siti": [
+     {
+      "cosa": "Foldergram",
+      "esito": "nessun sito da aprire"
+     },
+     {
+      "cosa": "Loomkeep",
+      "esito": "nessun sito da aprire"
+     },
+     {
+      "cosa": "Godwit",
+      "sito": "https://www.producthunt.com/r/p/1299137?app_id=339",
+      "esito": "errore: HTTP Error 403: Forbidden"
+     }
+    ]
+   }
+  }
+ ]
 }
