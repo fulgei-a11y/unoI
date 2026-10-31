@@ -1780,26 +1780,121 @@ function copiaPreferiti(b){
   const t='⭐ *I miei strumenti AI preferiti*\\n\\n'+l.map(p=>'• *'+p.titolo+'*'+(p.testo?': '+p.testo:'')+'\\n  '+(p.link||base+schedaPref(p))).join('\\n\\n');
   copia(t,b,'✓ Copiato!');
 }
+function scaricaSegnalibri(b){
+  const l=leggiPref();if(!l.length){alertino('Nessun preferito da scaricare');return;}
+  const base=/^http/.test(DIGEST.url||'')?DIGEST.url.replace(/preferiti\\.html$/,''):location.href.replace(/preferiti\\.html.*$/,'');
+  const esc=t=>String(t||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+  const corto=(t,n)=>{t=String(t||'').replace(/\\s+/g,' ').trim();if(t.length<=n)return t;const c=t.slice(0,n);return c.slice(0,Math.max(c.lastIndexOf(' '),n-20)).replace(/[\\s,;:.]+$/,'')+'…';};
+  const norm=u=>String(u||'').toLowerCase().replace(/^https?:\\/\\/(www\\.)?/,'').replace(/[?#].*$/,'').replace(/\\/+$/,'');
+  const quando=p=>{const t=Date.parse(p.salvato||p.giorno||'');return isNaN(t)?Math.floor(Date.now()/1000):Math.floor(t/1000);};
+  const ora=Math.floor(Date.now()/1000);
+  const cat=SEGNALIBRI.categorie,perUrl=SEGNALIBRI.per_url,perAncora=SEGNALIBRI.per_ancora;
+  const nuovi='Nuovi strumenti dalle edizioni';
+  const gruppi={'Strumenti AI':[],'Gemme':[],'OSINT':{},'Ricette':[],'Novità':[]};
+  for(const p of l){
+    if(p.tipo==='OSINT'){
+      let c=null;
+      if((p.id||'').startsWith('cassetta#'))c=perAncora[p.ancora]||null;
+      if(c===null&&p.link)c=perUrl[norm(p.link)]??null;
+      if(c===null)c=SEGNALIBRI.per_id[p.id]??null;
+      const nome=c===null?nuovi:cat[c];
+      (gruppi.OSINT[nome]=gruppi.OSINT[nome]||[]).push(p);
+    }else{
+      const g=p.tipo==='Strumento'?'Strumenti AI':p.tipo==='Gemma'?'Gemme':p.tipo==='Ricetta'?'Ricette':'Novità';
+      gruppi[g].push(p);
+    }
+  }
+  const voce=(p,r)=>{const link=p.link||(base+schedaPref(p)),d=corto(p.testo,140);
+    return r+'<DT><A HREF="'+esc(link)+'" ADD_DATE="'+quando(p)+'">'+esc(p.titolo+(d?' — '+d:''))+'</A>\\n'
+      +(p.testo?r+'<DD>'+esc(corto(p.testo,600))+'\\n':'');};
+  const cartella=(nome,dentro,r)=>r+'<DT><H3 ADD_DATE="'+ora+'" LAST_MODIFIED="'+ora+'">'+esc(nome)+'</H3>\\n'+r+'<DL><p>\\n'+dentro+r+'</DL><p>\\n';
+  let corpo='';
+  for(const g of ['Strumenti AI','Gemme','OSINT','Ricette','Novità']){
+    if(g==='OSINT'){
+      const ordine=[...cat,nuovi].filter(n=>gruppi.OSINT[n]);
+      if(!ordine.length)continue;
+      corpo+=cartella('OSINT',ordine.map(n=>cartella(n,gruppi.OSINT[n].map(p=>voce(p,'            ')).join(''),'        ')).join(''),'    ');
+    }else if(gruppi[g].length){
+      corpo+=cartella(g,gruppi[g].map(p=>voce(p,'        ')).join(''),'    ');
+    }
+  }
+  const oggi=new Date().toISOString().slice(0,10);
+  const html='<!DOCTYPE NETSCAPE-Bookmark-file-1>\\n<!-- Preferiti di AI News Digest: si importano in Chrome ed Edge. -->\\n'
+    +'<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8">\\n<TITLE>Bookmarks</TITLE>\\n<H1>Bookmarks</H1>\\n<DL><p>\\n'
+    +cartella('AI News Digest – preferiti ('+oggi.split('-').reverse().join('/')+')',corpo,'')+'</DL><p>\\n';
+  const blob=new Blob([html],{type:'text/html;charset=utf-8'}),a=document.createElement('a');
+  a.href=URL.createObjectURL(blob);a.download='preferiti-ai-news-'+oggi+'.html';
+  document.body.append(a);a.click();a.remove();setTimeout(()=>URL.revokeObjectURL(a.href),4000);
+  b.textContent='✓ File scaricato';setTimeout(()=>{b.textContent='🔖 Scarica per Chrome ed Edge';},2500);
+}
 document.addEventListener('DOMContentLoaded',disegna);
 addEventListener('pageshow',disegna);
 """
 
 
-def pagina_preferiti(archivio):
+# Per mettere gli OSINT delle edizioni nella cartella giusta: parole del loro "uso" → parole del titolo della
+# categoria nella cassetta (se una categoria cambia nome e non si trova più, finiscono in "Nuovi strumenti").
+USO_CATEGORIA = [
+    (r"invers", "inversa"), (r"immagin|foto|video|deepfake", "foto e video"), (r"metadat|document|file", "metadati"),
+    (r"geoloc|luogh|mapp|satell|ora |orari", "luoghi"), (r"aziend|registr|societ|sanzion|bilanc", "aziende"),
+    (r"domin|siti|sito|web|dns", "domini"), (r"persone|account|username|social", "persone"),
+    (r"nav[ie]|aere|vol[io]|flott", "navi"), (r"dati pubblici|italia|europa|open data", "dati pubblici"),
+    (r"\bai\b|intelligenza artificiale|trascri", "ai per"), (r"analisi|metodo|automazion|archiv", "metodo"),
+]
+
+
+def dati_segnalibri(cassetta, edizioni=()):
+    """Per il file dei segnalibri: le categorie della cassetta OSINT, e a quale categoria appartiene ogni
+    strumento (cercato per ancora o per indirizzo), così i preferiti OSINT finiscono nella cartella giusta."""
+    norm = lambda u: re.sub(r"[?#].*$", "", re.sub(r"^https?://(www\.)?", "", (u or "").lower())).rstrip("/")
+    categorie, per_url, per_ancora = [], {}, {}
+    for i, c in enumerate((cassetta or {}).get("categorie", [])):
+        categorie.append(c["titolo"])
+        for t in c.get("strumenti", []):
+            per_ancora["t" + re.sub(r"\W+", "-", t["nome"].lower()).strip("-")] = i
+            per_url.setdefault(norm(t.get("url")), i)
+    per_id = {}
+    for x in edizioni:
+        for pre, r in riassunti_del_giorno(x):
+            for j, d in enumerate(r.get("osint", []) or [], 1):
+                uso = f"{d.get('uso', '')} {d.get('cosa', '')}".lower()
+                for parole, nome in USO_CATEGORIA:
+                    i = next((k for k, t in enumerate(categorie) if nome in t.lower()), None)
+                    if i is not None and re.search(parole, uso):
+                        per_id[f"{x['giorno']}#{pre}o{j}"] = i
+                        break
+    return {"categorie": categorie, "per_url": per_url, "per_ancora": per_ancora, "per_id": per_id}
+
+
+def pagina_preferiti(archivio, cassetta=None, edizioni=()):
     url_pagina = indirizzo_sito() + "preferiti.html"
     parti = [menu("", "preferiti"), '<p class="top">AI News Digest</p>', "<h1>⭐ I miei preferiti</h1>",
              '<p class="lead">Gli strumenti e le novità che hai segnato con la stellina, per ritrovarli quando ti servono.</p>',
              '<p class="meta" id="conta"></p>', '<p class="meta gusti" id="gusti"></p>',
-             '<div class="share"><button type="button" onclick="copiaPreferiti(this)">💬 Copia elenco per WhatsApp</button></div>',
+             '<div class="share"><button type="button" onclick="copiaPreferiti(this)">💬 Copia elenco per WhatsApp</button>'
+             '<button type="button" onclick="scaricaSegnalibri(this)">🔖 Scarica per Chrome ed Edge</button></div>',
+             '<details class="altri"><summary>Come si importa il file in Chrome o Edge</summary>'
+             '<p class="meta">Il file contiene i tuoi preferiti divisi in cartelle (Strumenti AI, Gemme, OSINT con una '
+             'cartella per ogni tipo di indagine, Ricette, Novità); ogni segnalibro ha il nome e una breve descrizione. '
+             'Va importato da un computer: sul telefono Chrome ed Edge non lo permettono, ma poi i segnalibri arrivano '
+             'anche lì se la sincronizzazione è attiva.</p><ol class="meta">'
+             '<li><b>Chrome:</b> menu ⋮ → Segnalibri ed elenchi → Importa segnalibri e impostazioni → '
+             '«File HTML dei segnalibri» → scegli il file.</li>'
+             '<li><b>Edge:</b> menu … → Preferiti → … → Importa preferiti → «File HTML dei preferiti o dei '
+             'segnalibri» → scegli il file.</li>'
+             '<li>Ogni volta che scarichi e importi di nuovo arriva una cartella nuova con la data: puoi cancellare '
+             'quella vecchia.</li></ol></details>',
              '<div class="filtri" id="filtri"></div><section class="pref" id="lista"></section>',
              '<p class="meta">I preferiti restano salvati in questo browser, su questo dispositivo. '
              'Se cancelli i dati di navigazione o usi la navigazione privata non vengono conservati.</p>']
     parti.append(archivio_html(archivio, ""))
     dati_js = json.dumps({"titolo": "I miei preferiti", "testo": "", "url": url_pagina},
                          ensure_ascii=False).replace("</", "<\\/")
+    segnalibri_js = ("const SEGNALIBRI=" + json.dumps(dati_segnalibri(cassetta, edizioni), ensure_ascii=False)
+                     .replace("</", "<\\/") + ";\n")
     return (testa("AI News Digest — I miei preferiti", "Gli strumenti AI che ho salvato", url_pagina, "")
             + f"<body><main>{''.join(parti)}</main>"
-            + piede("", dati_js).replace("</script>", PAGINA_PREFERITI_JS + "</script>", 1))
+            + piede("", dati_js).replace("</script>", segnalibri_js + PAGINA_PREFERITI_JS + "</script>", 1))
 
 
 def nuovi_arrivi(edizioni, cassetta):
@@ -2173,7 +2268,8 @@ def pagina_guida(archivio):
     parti.append(cap("pagine", "🗺️ Le pagine (menu in alto)", voci([
         ("📰 Oggi", "L'edizione del giorno con gli aggiornamenti della sera."),
         ("⭐ Preferiti", "Tutto ciò che hai segnato con la stellina, diviso in Strumenti, OSINT, Gemme, Ricette e "
-                        "Novità, con i tuoi temi preferiti."),
+                        "Novità, con i tuoi temi preferiti. «🔖 Scarica per Chrome ed Edge» crea un file di "
+                        "segnalibri, diviso in cartelle e con le descrizioni, da importare nel browser del computer."),
         ("🧰 OSINT", "La cassetta degli attrezzi: come impostare un'indagine, la griglia «Che cosa devi verificare?», "
                     "gli strumenti collaudati e i 🆕 Nuovi arrivi che crescono da soli. Il numero sul menu sono gli "
                     "arrivi non ancora letti; «Segna tutti come letti» li azzera."),
@@ -2569,7 +2665,8 @@ def rigenera_tutto():
     for x in edizioni:
         (GIORNI / f"{x['giorno']}.html").write_text(pagina(x, archivio, "../"), encoding="utf-8")
     (DOCS / "index.html").write_text(pagina(ultima, archivio, "", banner), encoding="utf-8")
-    (DOCS / "preferiti.html").write_text(pagina_preferiti(archivio), encoding="utf-8")
+    cassetta_pref = leggi_json(ROOT / "cassetta_osint.json") if (ROOT / "cassetta_osint.json").exists() else {}
+    (DOCS / "preferiti.html").write_text(pagina_preferiti(archivio, cassetta_pref, edizioni), encoding="utf-8")
     (DOCS / "guida.html").write_text(pagina_guida(archivio), encoding="utf-8")
     (DOCS / "ricette.html").write_text(pagina_ricette((leggi_json(RICETTE) if RICETTE.exists() else None) or [],
                                                       archivio), encoding="utf-8")
