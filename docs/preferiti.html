@@ -375,7 +375,7 @@ function scaricaSegnalibri(b){
       gruppi[g].push(p);
     }
   }
-  const voce=(p,r)=>{const link=p.link||(base+schedaPref(p)),d=corto(p.testo,140);
+  const voce=(p,r)=>{const link=p.link||(base+schedaPref(p)),d=['Strumento','OSINT','Gemma'].includes(p.tipo)?corto(p.testo,60):'';
     return r+'<DT><A HREF="'+esc(link)+'" ADD_DATE="'+quando(p)+'">'+esc(p.titolo+(d?' — '+d:''))+'</A>\n'
       +(p.testo?r+'<DD>'+esc(corto(p.testo,600))+'\n':'');};
   const cartella=(nome,dentro,r)=>r+'<DT><H3 ADD_DATE="'+ora+'" LAST_MODIFIED="'+ora+'">'+esc(nome)+'</H3>\n'+r+'<DL><p>\n'+dentro+r+'</DL><p>\n';
