@@ -1,0 +1,102 @@
+{
+ "giorno": "2026-11-01",
+ "formato": 2,
+ "titolo": "Documenti interattivi in chat e ricerca web libera da account",
+ "in_breve": "Questa settimana le grandi piattaforme semplificano l'accesso: ChatGPT apre la ricerca su Internet a chiunque senza bisogno di registrarsi, mentre Gemini permette di aprire e modificare documenti e fogli di calcolo direttamente nella schermata di conversazione. Crescono gli strumenti orientati alla privacy che funzionano interamente sul dispositivo senza passare dal cloud.",
+ "notizie": [
+  {
+   "titolo": "La ricerca web di ChatGPT è ora aperta a tutti senza registrazione",
+   "racconto": "OpenAI ha rimosso l'obbligo di creare un account o effettuare l'accesso per utilizzare la modalità di ricerca web. Chiunque può visitare il servizio da ospite e ottenere risposte in tempo reale complete di collegamenti alle fonti online.",
+   "perche_conta": "Permette di verificare fatti e ottenere informazioni aggiornate al volo da qualsiasi browser senza dover condividere i propri dati personali.",
+   "rif": [
+    [
+     "2026-11-01",
+     1
+    ]
+   ]
+  },
+  {
+   "titolo": "Gemini permette di visualizzare e modificare documenti direttamente in chat",
+   "racconto": "Google ha aggiunto il supporto per aprire e ritoccare file PDF, presentazioni, fogli di calcolo e documenti Google all'interno della conversazione. L'interfaccia a schermo intero consente di correggere i testi manualmente oppure di selezionare sezioni specifiche per chiedere all'AI di rielaborarle o generare grafici.",
+   "perche_conta": "Evita di dover scaricare e ricaricare continuamente i file tra diverse applicazioni durante la revisione di un testo di lavoro.",
+   "rif": [
+    [
+     "2026-10-30",
+     1
+    ]
+   ]
+  },
+  {
+   "titolo": "Accordo tra i colossi tech per bloccare l'addestramento AI con un solo comando",
+   "racconto": "OpenAI, Google, Microsoft e Anthropic hanno concordato l'adozione di un protocollo condiviso unico per il web. I gestori di siti internet potranno indicare con un solo segnale standard la volontà di non far usare i propri contenuti per istruire i modelli.",
+   "perche_conta": "Semplifica la protezione dei propri contenuti digitali senza dover configurare regole tecniche differenti per ogni singola azienda AI.",
+   "rif": [
+    [
+     "2026-10-31",
+     2
+    ]
+   ]
+  },
+  {
+   "titolo": "Libri di testo gratuiti e verificati in Gemini Notebook",
+   "racconto": "Google ha introdotto una raccolta di centinaia di libri di testo consultabili senza spese aggiuntive dentro Gemini Notebook. L'assistente collega ogni sintesi e spiegazione ai passaggi originali del testo, facilitando lo studio guidato con citazioni e quiz mirati.",
+   "perche_conta": "Offre un supporto affidabile per l'apprendimento basato su fonti verificate senza il rischio di risposte inventate.",
+   "rif": [
+    [
+     "2026-10-30",
+     2
+    ]
+   ]
+  },
+  {
+   "titolo": "Gemini introduce le esplorazioni visive interattive e collegamenti con nuove app",
+   "racconto": "L'app Gemini si arricchisce di spiegazioni visive a strati che permettono di esplorare concetti scientifici e naturali toccando i singoli dettagli della scena. Inoltre, l'assistente si integra direttamente con piattaforme esterne come Canva e Calm per eseguire azioni nel corso della conversazione.",
+   "perche_conta": "Rende più semplice comprendere argomenti complessi attraverso illustrazioni interattive e controlla servizi di grafica o benessere senza uscire dalla chat.",
+   "rif": [
+    [
+     "2026-10-29",
+     1
+    ],
+    [
+     "2026-10-29",
+     2
+    ]
+   ]
+  }
+ ],
+ "da_provare": [
+  {
+   "cosa": "Hob",
+   "a_cosa_serve": "Un'applicazione gratuita per Windows che elabora e analizza documenti in locale, sfruttando modelli AI che girano interamente sul computer senza inviare file all'esterno.",
+   "rif": "2026-10-27#provare-2",
+   "giorno": "2026-10-27"
+  },
+  {
+   "cosa": "Survival LLM",
+   "a_cosa_serve": "Un chatbot gratuito e offline per computer che include oltre 1,5 milioni di guide pratiche, manuali di riparazione e nozioni mediche consultabili senza connessione a Internet.",
+   "rif": "2026-10-29#u1provare-3",
+   "giorno": "2026-10-29"
+  },
+  {
+   "cosa": "Off Grid AI",
+   "a_cosa_serve": "Consente di usare modelli AI direttamente su smartphone Android e PC Windows in totale riservatezza, elaborando ogni informazione sul dispositivo.",
+   "rif": "2026-10-27#u1provare-1",
+   "giorno": "2026-10-27"
+  },
+  {
+   "cosa": "Arsaze",
+   "a_cosa_serve": "Un editor video fruibile da browser e Windows con versione gratuita, che permette di tagliare i filmati modificando direttamente il testo della trascrizione ed eliminando i silenzi in automatico.",
+   "rif": "2026-10-30#u1provare-1",
+   "giorno": "2026-10-30"
+  },
+  {
+   "cosa": "MiniCPM-OCR",
+   "a_cosa_serve": "Strumento gratuito accessibile da browser e Windows specializzato nell'estrarre testo con alta precisione da foto piegate, inclinate o scattate da smartphone.",
+   "rif": "2026-10-28#osint-1",
+   "giorno": "2026-10-28"
+  }
+ ],
+ "modello": "gemini-3.8-flash",
+ "tendenze": "I temi legati a Privacy e sicurezza (saliti a 19 segnalazioni) e all'Open source e self-hosting (cresciuti fino a 21) mostrano una forte accelerazione nelle ultime quattro settimane, mentre cala l'attenzione su Regole e leggi (scese a 4). Un esempio concreto è l'accordo tra i colossi tech su uno standard unico per consentire ai siti di bloccare l'addestramento AI, insieme a strumenti locali pensati per non trasmettere dati all'esterno.",
+ "generato": "2026-11-01T06:04:31+00:00"
+}

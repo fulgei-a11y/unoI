@@ -111,5 +111,61 @@
   "giorno": "2026-10-25",
   "generato": "2026-10-25T05:47:49+00:00",
   "modello": "gemini-3.8-flash"
+ },
+ {
+  "titolo": "Pianificare il menù settimanale e la spesa familiare senza stress",
+  "obiettivo": "Organizzare i pasti di casa, estrarre la lista della spesa dalle conversazioni e condividere gli impegni quotidiani con tutta la famiglia.",
+  "ambito": "Tutti i giorni",
+  "ingredienti": [
+   {
+    "nome": "Cuicuit",
+    "descrizione": "Un pianificatore di pasti open source che importa ricette da qualsiasi sito web o social network senza richiedere abbonamenti.",
+    "piattaforme": [
+     "Browser"
+    ],
+    "costo": "Gratis",
+    "url": "giorni/2026-10-22.html#g2",
+    "locale": false,
+    "ruolo": "Importa le ricette da siti web e social network e crea il piano settimanale dei pasti nel browser."
+   },
+   {
+    "nome": "Caddy",
+    "descrizione": "Un assistente virtuale che funziona dentro l'app dei messaggi dello smartphone (iMessage o RCS) per estrarre appuntamenti o liste dalle conversazioni, salvandoli in automatico nel calendario.",
+    "piattaforme": [
+     "Android",
+     "iPhone"
+    ],
+    "costo": "Non indicato",
+    "url": "giorni/2026-10-10.html#p2",
+    "locale": false,
+    "ruolo": "Riconosce ed estrae automaticamente la lista degli ingredienti e della spesa dalle chat sul telefono Android."
+   },
+   {
+    "nome": "Kitchen Board",
+    "descrizione": "Un'applicazione per l'organizzazione degli impegni familiari, progettata per girare a schermo intero su un vecchio tablet e ricreare la classica bacheca o calendario cartaceo da parete.",
+    "piattaforme": [
+     "Browser"
+    ],
+    "costo": "Gratis",
+    "url": "giorni/2026-10-25.html#g1",
+    "locale": false,
+    "ruolo": "Mostra a schermo intero il calendario dei pasti e gli appunti per tutta la famiglia su tablet o PC."
+   }
+  ],
+  "passi": [
+   "Apri Cuicuit nel browser del tuo PC per importare al volo le ricette trovate sul web e distribuire i pasti nei diversi giorni della settimana.",
+   "Scrivi o discuti gli ingredienti mancanti nei messaggi su Android e lascia che l'assistente AI Caddy estragga in automatico la lista della spesa dalla conversazione.",
+   "Usa la lista generata da Caddy direttamente sul telefono mentre sei al supermercato per spuntare i prodotti acquistati.",
+   "Apri Kitchen Board nel browser del computer o su un tablet posizionato in cucina per tenere sempre visibile a tutta la famiglia il menù e le cose da fare della settimana."
+  ],
+  "tempo": "15 minuti per pianificare l'intera settimana",
+  "livello": "Facile",
+  "costo": "Gratis con limiti",
+  "perche_conviene": "Elimina l'indecisione quotidiana su cosa cucinare e automatizza la compilazione della lista della spesa senza dover riscrivere nulla a mano.",
+  "tutto_in_locale": false,
+  "id": "r3",
+  "giorno": "2026-11-01",
+  "generato": "2026-11-01T06:03:07+00:00",
+  "modello": "gemini-3.8-flash"
  }
 ]

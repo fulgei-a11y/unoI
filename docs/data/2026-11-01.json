@@ -1,0 +1,825 @@
+{
+ "giorno": "2026-11-01",
+ "generato": "2026-11-01T06:00:31+00:00",
+ "modello": "gemini-3.8-flash",
+ "testi_completi": 24,
+ "riassunto": {
+  "titolo_giorno": "ChatGPT Search diventa accessibile a tutti senza account",
+  "in_breve": "La funzione di ricerca web di ChatGPT è ora aperta a chiunque senza bisogno di registrarsi o effettuare l'accesso, semplificando le consultazioni rapide su Internet. Tra gli strumenti emergenti troviamo Agnos, utile per ripulire i testi da dati sensibili prima di passarli all'AI, e MinusPod, che automatizza la rimozione degli annunci pubblicitari dalle playlist audio.",
+  "citati": [
+   "ChatGPT",
+   "Agnos",
+   "MinusPod"
+  ],
+  "da_provare": [
+   {
+    "cosa": "Agnos",
+    "a_cosa_serve": "Pulisce e prepara i documenti da inviare all'AI, mostrando un riepilogo dettagliato di tutte le parti di testo e i dati che sono stati rimossi.",
+    "per_chi": "Lavoro e tutti i giorni",
+    "ambito": "Scrittura e documenti",
+    "come_iniziare": [],
+    "costo": "Non indicato",
+    "piattaforme": [],
+    "sul_dispositivo": false,
+    "come_sfruttarla": "Rimuovere informazioni riservate o elementi superflui da contratti e testi prima di sottoporli all'analisi di un modello AI.",
+    "italiano": "Non indicato",
+    "difficolta": "Facile",
+    "fonti": [
+     "a4"
+    ],
+    "temi": [
+     "Scrittura e documenti",
+     "Privacy e sicurezza",
+     "Foto e immagini"
+    ],
+    "affidabilita": "Appena lanciato",
+    "prova": "https://www.producthunt.com/products/agnos"
+   },
+   {
+    "cosa": "Hint",
+    "a_cosa_serve": "Offre consulenza e consigli pratici guidati dall'AI per la manutenzione periodica della casa e la risoluzione di problemi domestici.",
+    "per_chi": "Tutti i giorni",
+    "ambito": "Casa",
+    "come_iniziare": [],
+    "costo": "Non indicato",
+    "piattaforme": [],
+    "sul_dispositivo": false,
+    "come_sfruttarla": "Pianificare i controlli ordinari degli impianti di casa e capire come intervenire sui piccoli guasti quotidiani.",
+    "italiano": "Non indicato",
+    "difficolta": "Facile",
+    "fonti": [
+     "a16"
+    ],
+    "temi": [
+     "Assistenti e chatbot"
+    ],
+    "affidabilita": "Una fonte",
+    "solo_titoli": true,
+    "prova": ""
+   },
+   {
+    "cosa": "Bee Frontier",
+    "a_cosa_serve": "Un dispositivo indossabile progettato da Amazon che ascolta le conversazioni vocali nell'arco della giornata e ne genera riassunti automatici.",
+    "per_chi": "Lavoro e tutti i giorni",
+    "ambito": "Voce e audio",
+    "come_iniziare": [],
+    "costo": "Non indicato",
+    "piattaforme": [],
+    "sul_dispositivo": false,
+    "come_sfruttarla": "Raccogliere sintesi di colloqui e appunti verbali senza dover registrare o prendere note con il telefono.",
+    "italiano": "Non indicato",
+    "difficolta": "Facile",
+    "fonti": [
+     "a19"
+    ],
+    "temi": [
+     "Voce e audio",
+     "Assistenti e chatbot",
+     "Scrittura e documenti"
+    ],
+    "affidabilita": "Da verificare",
+    "solo_titoli": true,
+    "prova": ""
+   },
+   {
+    "cosa": "EUSATfinder",
+    "a_cosa_serve": "Applicazione presentata al Forum europeo della protezione civile per mappare e segnalare tempestivamente aree colpite da emergenze tramite dati satellitari.",
+    "per_chi": "Lavoro e tutti i giorni",
+    "ambito": "Organizzazione",
+    "come_iniziare": [],
+    "costo": "Non indicato",
+    "piattaforme": [],
+    "sul_dispositivo": false,
+    "come_sfruttarla": "Controllare lo stato di aree geografiche a rischio durante calamità o eventi critici sul territorio.",
+    "italiano": "Non indicato",
+    "difficolta": "Facile",
+    "fonti": [
+     "a27"
+    ],
+    "temi": [
+     "Ricerca e informazioni",
+     "Privacy e sicurezza"
+    ],
+    "affidabilita": "Da verificare",
+    "solo_titoli": true,
+    "prova": ""
+   }
+  ],
+  "osint": [],
+  "gemme": [
+   {
+    "cosa": "plMail",
+    "a_cosa_serve": "Interfaccia webmail open source e autogestita che supporta crittografia PGP e S/MIME, sincronizzazione dei contatti via CardDAV e protocolli come JMAP e POP3.",
+    "perche_gemma": "Consente di gestire la propria corrispondenza in modo autonomo, sicuro e rispettoso della privacy senza affidarsi a servizi centralizzati.",
+    "con_ai": "",
+    "piattaforme": [
+     "Browser"
+    ],
+    "self_hosted": true,
+    "costo": "Gratis",
+    "difficolta": "Media",
+    "fonti": [
+     "a52"
+    ],
+    "temi": [
+     "Open source e self-hosting",
+     "Privacy e sicurezza"
+    ],
+    "affidabilita": "Da verificare",
+    "come_iniziare": [],
+    "sul_dispositivo": false,
+    "come_sfruttarla": "",
+    "prova": ""
+   },
+   {
+    "cosa": "MinusPod",
+    "a_cosa_serve": "Server installabile in proprio che converte playlist e canali YouTube in normali feed podcast ripuliti dagli annunci sponsorizzati.",
+    "perche_gemma": "Permette di ascoltare i contenuti audio preferiti senza interruzioni pubblicitarie all'interno di qualsiasi comune app per podcast.",
+    "con_ai": "Trascrive gli episodi in locale e usa un modello linguistico per individuare e tagliare automaticamente i blocchi di sponsorizzazione.",
+    "piattaforme": [],
+    "self_hosted": true,
+    "costo": "Gratis",
+    "difficolta": "Media",
+    "fonti": [
+     "a56"
+    ],
+    "temi": [
+     "Open source e self-hosting",
+     "Voce e audio",
+     "Video"
+    ],
+    "affidabilita": "Da verificare",
+    "come_iniziare": [],
+    "sul_dispositivo": false,
+    "come_sfruttarla": "",
+    "prova": ""
+   }
+  ],
+  "sezioni": [
+   {
+    "titolo": "Novità negli strumenti che già usi",
+    "notizie": [
+     {
+      "titolo": "La ricerca web di ChatGPT diventa accessibile a tutti senza account",
+      "strumento": "ChatGPT",
+      "riassunto": "OpenAI ha eliminato l'obbligo di registrazione per usare la funzione di ricerca su Internet. Ora è possibile interrogare ChatGPT e ricevere risposte aggiornate con collegamenti alle fonti web anche navigando come ospite non registrato.",
+      "come_provarla": "",
+      "disponibilita": "Disponibile ora",
+      "fonti": [
+       "a70"
+      ],
+      "temi": [
+       "Ricerca e informazioni",
+       "Assistenti e chatbot"
+      ],
+      "affidabilita": "Una fonte",
+      "solo_titoli": true
+     },
+     {
+      "titolo": "L'assistente Alexa+ diventa gratuito sui dispositivi Fire TV",
+      "strumento": "Alexa+",
+      "riassunto": "Amazon ha reso accessibile senza costi aggiuntivi l'assistente vocale potenziato Alexa+ per tutti gli utenti dei dispositivi Fire TV, migliorando l'interazione sul televisore.",
+      "come_provarla": "",
+      "disponibilita": "Disponibile ora",
+      "fonti": [
+       "a12"
+      ],
+      "temi": [
+       "Assistenti e chatbot",
+       "Voce e audio"
+      ],
+      "affidabilita": "Una fonte",
+      "solo_titoli": true
+     }
+    ]
+   },
+   {
+    "titolo": "In breve",
+    "breve": true,
+    "notizie": [
+     {
+      "titolo": "Chiude l'assistente personale Ollie",
+      "riassunto": "L'assistente digitale Ollie, progettato per aiutare l'organizzazione familiare nel rispetto della privacy, ha annunciato la chiusura definitiva prevista per il 6 novembre a causa della forte pressione competitiva.",
+      "fonti": [
+       "a112"
+      ],
+      "temi": [
+       "Assistenti e chatbot",
+       "Privacy e sicurezza",
+       "Lavoro e produttività"
+      ],
+      "affidabilita": "Una fonte",
+      "solo_titoli": false
+     }
+    ]
+   }
+  ],
+  "formato": 2,
+  "controllo_siti": [
+   {
+    "cosa": "Hint",
+    "esito": "nessun sito da aprire"
+   },
+   {
+    "cosa": "Bee Frontier",
+    "esito": "nessun sito da aprire"
+   },
+   {
+    "cosa": "EUSATfinder",
+    "esito": "nessun sito da aprire"
+   },
+   {
+    "cosa": "plMail",
+    "esito": "nessun sito da aprire"
+   },
+   {
+    "cosa": "MinusPod",
+    "esito": "nessun sito da aprire"
+   },
+   {
+    "cosa": "Agnos",
+    "sito": "https://www.producthunt.com/r/p/1298903?app_id=339",
+    "esito": "errore: HTTP Error 403: Forbidden"
+   }
+  ]
+ },
+ "articoli": {
+  "a27": {
+   "titolo": "EUSATfinder al Forum europeo della protezione civile: una nuova app per segnalare le aree di emergenza",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZmJnclgzdkM1czJ3d1VHVzZEZnRPSXR5bFdadG9rQWFTc3VYcFE4bm4xMnhMZi1FeWxpSGx5SF9tTHZXM3o5Q2NXRjZ5NmpoT29mcDJMS3kySkk1c0dXbl9KRno5RXhaYU9YMlNtdjQtZDdrVzhMQmY3UG1HRlJyQWljMEc2MlJJZWh2ajJiXzVzY2RHYlljakFJMnJGVmtRREJvVUJveS0wckN0TlI2bm41R2hZamIycWFDRkRyOVo5U2ZpS2RkQm9xdHNtT3JUQlAtNG5rZw?oc=5",
+   "data": "2026-10-31T12:43:16+00:00",
+   "testo": "",
+   "fonte": "Rivistageomedia",
+   "tipo": "minore",
+   "solo_titolo": true,
+   "categoria": "Strumenti",
+   "id": "a27"
+  },
+  "a16": {
+   "titolo": "Martha Stewart is the face of Hint, an AI app for home maintenance",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1BcUk2bFcyLXVxcHRsREhXY29OcW5aVUg3U0VINnFtZ0w2VWxLeng0MlFUUXhmaFBvQ09URmNCVXptYzlubkJuTFBnekplRk1UNzBhZWdCMk40d2I4VmxuMDkxX0wtdTl2?oc=5",
+   "data": "2026-10-31T14:28:41+00:00",
+   "testo": "",
+   "fonte": "Mashable",
+   "tipo": "testata",
+   "solo_titolo": true,
+   "categoria": "Strumenti",
+   "id": "a16"
+  },
+  "a12": {
+   "titolo": "Amazon's Alexa+ AI assistant is now free for Fire TV users",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUUtCR1F5WVhSUmFLbDhzQnk1VmFnUTMtY2draWtOcEpSb2hnck5GZVhwSVRhekI1b2ZHRHJaWUtsZUc1V3JmbzU1VWhHTkRGMHJaNGVBcWVIam9PZjMzSmE3VklvVkxMT2VYOXZNNV9Ub2FkTWdBVXRpdV91RlVnNHl2ZFo?oc=5",
+   "data": "2026-10-31T14:28:41+00:00",
+   "testo": "",
+   "fonte": "Mashable",
+   "tipo": "testata",
+   "solo_titolo": true,
+   "categoria": "Strumenti",
+   "id": "a12"
+  },
+  "a52": {
+   "titolo": "plMail Update: PGP, S/MIME, JMAP, POP3, CardDAV Contacts and more",
+   "link": "https://www.reddit.com/r/selfhosted/comments/1xk6o7g/plmail_update_pgp_smime_jmap_pop3_carddav/",
+   "sito": "",
+   "data": "2026-10-31T10:23:51+00:00",
+   "testo": "Links : Demo: https://demo.pluetzner.de Github: https://github.com/karatektus/pl_mail Wow, it has been about 3 Weeks now since my last post on r/selfhosted . Since then plMail went from 6 to 470+ stars and from two to about 8 contributors and 2 actual sponsors on github. THANK YOU! I've basically worked full time the last three weeks fixing bugs, building new features and reviewing PRs. It's been…",
+   "fonte": "Reddit r/selfhosted",
+   "tipo": "community",
+   "solo_titolo": false,
+   "categoria": "Gemme",
+   "id": "a52"
+  },
+  "a19": {
+   "titolo": "Amazon unveils Bee Frontier: An 'always-on' AI wearable that listens and summarises conversations",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNaDZmNGZwd1ZaMjlDZkpMTGJ0R21xc05SYzBIVkdmZDJFLVdaWWpZRHVVZndqbGt5R3JQb2hkbFVRTFNOWjE2OVJXZU9YaDkyWlNmbnFhbVhaLXV2OW5sNUZLRnhnNmhYQXpYS2tqWUQxN2R5dldqWUdBNXI3UlFUeGFMdzlTZUludU8yamZObnR5U2Q4TGE4WG10WWhVT3NuZmlnUGtpdXRuUzhTdm4zTWwydG5rWGE1TE5pbi1Zc09ERXc2XzM1N0NkbmxkUVR2OE0xZzVtU3o0QU0?oc=5",
+   "data": "2026-10-31T06:37:04+00:00",
+   "testo": "",
+   "fonte": "IOL",
+   "tipo": "minore",
+   "solo_titolo": true,
+   "categoria": "Strumenti",
+   "id": "a19"
+  },
+  "a4": {
+   "titolo": "Agnos",
+   "link": "https://www.producthunt.com/products/agnos",
+   "sito": "https://www.producthunt.com/r/p/1298903?app_id=339",
+   "data": "2026-10-30T13:02:49-07:00",
+   "testo": "Clean documents for AI, and see what was removed",
+   "fonte": "Product Hunt (AI)",
+   "tipo": "vetrina",
+   "solo_titolo": false,
+   "categoria": "Strumenti",
+   "id": "a4"
+  },
+  "a56": {
+   "titolo": "MinusPod now turns YouTube playlists and channels into ad-free podcast feeds (SponsorBlock first, LLM as fallback)",
+   "link": "https://www.reddit.com/r/selfhosted/comments/1xkmq9f/minuspod_now_turns_youtube_playlists_and_channels/",
+   "sito": "",
+   "data": "2026-10-31T22:07:19+00:00",
+   "testo": "MinusPod is a self-hosted server that strips ads out of podcasts before they reach your player: it transcribes each episode locally, an LLM finds the ad reads, and the cut audio is served back as a normal RSS feed. The 2.101.x release adds YouTube as a source, since plenty of shows only exist there. What it does: - Paste a playlist, channel, or single video URL on the Add feed page, and you get a…",
+   "fonte": "Reddit r/selfhosted",
+   "tipo": "community",
+   "solo_titolo": false,
+   "categoria": "Gemme",
+   "id": "a56"
+  },
+  "a70": {
+   "titolo": "ChatGPT search is now available to all users, even those without an account",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSE12eXl6em1qWVlQT1BYZ21YNjE5Y2lQYkM4Q3Vhb08wb1NoTXBmNzU5dHZtZm52OWEzaUNCVkZCa3lXczczT1Z3aUpsM2xMZTAyZWVfdGtOeGNVUVQ5ZHk1eVlRN3JOQ1B3SDdNOEhNaTNRaGNTSi1aLURvRjBkQU1BNGtwMWZyeF9GT09sMU5uOFhMWTlQMw?oc=5",
+   "data": "2026-10-31T14:28:41+00:00",
+   "testo": "",
+   "fonte": "Mashable",
+   "tipo": "testata",
+   "solo_titolo": true,
+   "categoria": "Laboratori",
+   "id": "a70"
+  },
+  "a112": {
+   "titolo": "Ollie, a privacy-focused AI assistant, is shutting down",
+   "link": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
+   "data": "2026-10-30T22:56:13+00:00",
+   "testo": "Ollie, a startup whose mission was to deliver an AI assistant that respected its users’ privacy, says that it will be shutting down in a week. Bill Lennon, the company’s co-founder and CEO, took to X on Friday to deliver the news, noting that the app will officially shut down on November 6. “I’m really proud of what we accomplished,” Lennon said. “We built an incredible personal assistant with a small team, and learned a ton. I’m grateful to our amazing team, our users, our investors, and everyone who supported us on this journey.” The text-based AI assistant market has exploded over the past year, as the increasingly powerful models that undergird such applications have made them significantly more useful for daily tasks. Ollie, which discussed its $7.5 million seed round led by Khosla Ventures with TechCrunch in September, offered a subscription-based model. The assistant was focused on helping families stay connected and organized. The app connected to a user’s email and calendar, while also providing integrated functions to help with appointment bookings, meal planning, and bill payments. The company had also planned to eventually move into household budgeting. Crucially, Ollie was one of the first mainstream apps that managed to achieve SOC 2, a privacy compliance standard that companies can attain via an independent audit. Unfortunately, user privacy has never been a hugely profitable aspect of the tech industry. If anything, many new digital assistants present unique privacy challenges for their users — as companies like Instinct have shown. Ultimately, the pressures of the burgeoning AI industry took a toll on the company, Lennon said. “We got close, but ultimately couldn’t keep up,” he added. “With Muse, Instinct, and others entering the space, it became harde…",
+   "fonte": "TechCrunch",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Testate tech",
+   "id": "a112",
+   "testo_completo": true
+  }
+ },
+ "fonti": [
+  {
+   "nome": "Product Hunt (AI)",
+   "ok": true,
+   "presi": 9
+  },
+  {
+   "nome": "Show HN (nuovi progetti)",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "Nuove app AI (internazionale)",
+   "ok": true,
+   "presi": 10
+  },
+  {
+   "nome": "Nuove app AI (Italia)",
+   "ok": true,
+   "presi": 8
+  },
+  {
+   "nome": "Novità AI da provare (Italia)",
+   "ok": true,
+   "presi": 6
+  },
+  {
+   "nome": "AI sul dispositivo (internazionale)",
+   "ok": true,
+   "presi": 8
+  },
+  {
+   "nome": "AI sul dispositivo (Italia)",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "Android Police (AI su Android)",
+   "ok": true,
+   "presi": 2
+  },
+  {
+   "nome": "Windows Central (AI su Windows)",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "Ollama (nuove versioni)",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "Open WebUI (nuove versioni)",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "Show HN – progetti utili (gemme)",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "Reddit r/selfhosted",
+   "ok": true,
+   "presi": 6
+  },
+  {
+   "nome": "Reddit r/opensource",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "Alternative open source (Google News)",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "n8n (nuove versioni)",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "Immich (nuove versioni)",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "OpenAI",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "Google (blog ufficiale)",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "Google Gemini (blog)",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "Nuove funzioni AI (Google News)",
+   "ok": true,
+   "presi": 12
+  },
+  {
+   "nome": "Anthropic / Claude",
+   "ok": true,
+   "presi": 6
+  },
+  {
+   "nome": "Microsoft Copilot",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "Altri assistenti AI (Perplexity, Mistral, Meta AI…)",
+   "ok": true,
+   "presi": 8
+  },
+  {
+   "nome": "Hugging Face (modelli e strumenti aperti)",
+   "ok": true,
+   "presi": 2
+  },
+  {
+   "nome": "Mistral AI",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "The Verge",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "TechCrunch",
+   "ok": true,
+   "presi": 10
+  },
+  {
+   "nome": "Ars Technica",
+   "ok": true,
+   "presi": 4
+  },
+  {
+   "nome": "MIT Technology Review",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "The Decoder",
+   "ok": true,
+   "presi": 7
+  },
+  {
+   "nome": "TLDR AI (newsletter)",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "ANSA",
+   "ok": true,
+   "presi": 6
+  },
+  {
+   "nome": "Wired Italia",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "Il Sole 24 Ore Tecnologia",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "Punto Informatico",
+   "ok": true,
+   "presi": 3
+  },
+  {
+   "nome": "HDblog",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "AI4Business",
+   "ok": true,
+   "presi": 4
+  },
+  {
+   "nome": "Agenda Digitale (AI)",
+   "ok": true,
+   "presi": 3
+  },
+  {
+   "nome": "Garante Privacy e AI",
+   "ok": true,
+   "presi": 3
+  },
+  {
+   "nome": "Malwarebytes (app e truffe AI)",
+   "ok": true,
+   "presi": 2
+  },
+  {
+   "nome": "Reddit",
+   "ok": true,
+   "presi": 8
+  },
+  {
+   "nome": "Reddit (AI locale)",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "Simon Willison (prove pratiche di strumenti AI)",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "Bellingcat (guide e strumenti)",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "GIJN (guide per giornalisti investigativi, via Google News)",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "OSINT – verifica e fact-checking (internazionale)",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "OSINT – nuovi strumenti (internazionale)",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "OSINT – strumenti (Italia)",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "Facta (fact-checking, contenuti falsi e AI)",
+   "ok": true,
+   "presi": 3
+  },
+  {
+   "nome": "Week in OSINT (Sector035)",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "The OSINT Newsletter",
+   "ok": true,
+   "presi": 2
+  },
+  {
+   "nome": "IDMO (osservatorio italiano sulla disinformazione)",
+   "ok": true,
+   "presi": 2
+  },
+  {
+   "nome": "EU DisinfoLab",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "Reddit (OSINT)",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "Hacker News (OSINT)",
+   "ok": true,
+   "presi": 0
+  }
+ ],
+ "visti": [
+  "ski",
+  "acbridge",
+  "plutodoor",
+  "agnos",
+  "godwit",
+  "canvabrush",
+  "ilse",
+  "axonnic",
+  "faylee",
+  "arsazecursorforvideoeditingtabcompleteandagentedits",
+  "musemetasnewaitoolhasthetravelindustrysattention",
+  "amazonsalexaaiassistantisnowfreeforfiretvusers",
+  "ideavomakesfullstackaiappbuilderfreeforevereliminatingcreditmarkups",
+  "aipoweredcoffeerunsandservicevisitsarecomingtoriviansin2027",
+  "adoptaitechnologytoboostlegalefficiencyugandanlawyersurged",
+  "marthastewartisthefaceofhintanaiappforhomemaintenance",
+  "agodarollsoutaitravelassistantinindiaintegratestripplanningwithlivebookinginvent",
+  "aipoweredcoffeerunsandservicevisitsarecomingtoriviansnextyearsoftwarechiefsays",
+  "amazonunveilsbeefrontieranalwaysonaiwearablethatlistensandsummarisesconversation",
+  "bahrainlaunchesaiassistantfor247labourservices",
+  "igordallabrianzaunanuovaintelligenzaartificialealserviziodelleimprese",
+  "lintelligenzachenasceinbrianzaarrivaigoraserviziodelleimprese",
+  "argolanciailvotopaleseonlinepergliorganicollegialielintegrazioneconlailenovitàpe",
+  "caniegattiilcuorepuòammalarsiinsilenzioisegnalidariconoscereeicontrollidafare",
+  "meritocraziaitaliaalgovernoealparlamentolanuovaleggefinanziariavarimisurestruttu",
+  "mimesisfestivalamonfalconedomenica1novembreandreazhokegabrielegiacominidiscutono",
+  "eusatfinderalforumeuropeodellaprotezionecivileunanuovaapppersegnalareleareedieme",
+  "startupsvizzeralanciaprimagattaiolaconriconoscimentofacciale",
+  "comeusarechatgptpermontarevideocondavinciresolve",
+  "claudecodeegiochiesistenti1regolaanthropic2026techinsiderorg",
+  "eneycosèecomefunzionalassistenteaipermac",
+  "macchinedabullshittingquandolaisembrasaperemanonsa",
+  "flashcardcongeminicomecrearleripassarleecondividerlepassopasso",
+  "googlechromelacompilazioneautomaticacongeminiusagmail",
+  "ichangedtwosettingsinmylocalaisetupandstoppedneedingmorevram",
+  "ireplacedgooglephotoswithanofflineaigalleryfindingoldphotosisfinallyeasy",
+  "studioatelicoopensitsondeviceaienginetogamedevelopers",
+  "imagedeeplauncheshoundlightasolarpowered4gaisafetyalarmcameraforremotesiteshub4c",
+  "iputageminialternativeonmyandroidphonethatdoesntneedtheinternet",
+  "vitalikbuterinsayslocalaicouldreducerelianceoncryptowebapps",
+  "xiaomisnew3nmxringo3chipcrushesantutuwith52mscoreoutpacingapplesa19prolatency",
+  "nvidiartxsparkreviewthelittleenginethatcouldnt",
+  "samaltmancontrolaramneinostricomputermeglioneidatacenter",
+  "juventusnapolistreaminggratisdovevederlaliveoggi",
+  "smsofdeathgooglehacorrettolafallamanonèchiaroquandotuttiglismartphonesarannoprot",
+  "windows1126h2nuovafunzionediricercaconazioniinline",
+  "piùsottileepotentelenuoveindiscrezionisullhardwarediiphoneair2",
+  "googlescheapestgeminiplanislosingamajorperknowicantrecommendittoanyone",
+  "itestedallofsamsungsaicapabilitiestolearnwhichtoolssavetimeandwhichonesaregimmic",
+  "aworkingnintendoin1gbofqwenweights",
+  "amianidiot",
+  "plmailupdatepgpsmimejmappop3carddavcontactsandmore",
+  "ubuntukernelcve202698432cvss98nofixedkernelyetfor220424042604whatareyoudoinginth",
+  "foldergramv130selfhostedphotovideogallerynowwithcarouselsandfoldersharing",
+  "shoutouttotypetype",
+  "minuspodnowturnsyoutubeplaylistsandchannelsintoadfreepodcastfeedssponsorblockfir",
+  "linustorvaldspostshisaiassistedpatchtothelinuxkernelsynthetictestclocks23xperfor",
+  "thespiritofopensource",
+  "mylanpartymanagementprojectnoai10yearsold",
+  "thedecoherencetrapwhenaislopdrownsoutthesignalinanendlessseaofnoise",
+  "d2webdiabloii113copensourceandplayableinbrowser",
+  "ireplacedgooglemapswiththisopensourcealternativeandibarelymissit",
+  "coldtilllaunchesselfhostedcryptopaymentgatewayforonlinemerchants",
+  "thereasonikeepcomingbacktogooglephotosaftertryingeverymajoralternative",
+  "immichforselfhostedphotosfeaturesandbackupduties",
+  "claudecodeaddsawriteboundaryforthreefiletools",
+  "n8nstable",
+  "howtouseclaudeduetwhenitrollsouttoyou",
+  "epicenternyclauncheselectiontextandwhatsappchatbot",
+  "chatgptsearchisnowavailabletoalluserseventhosewithoutanaccount",
+  "fibrailaunchesagentexperienceoptimizationturningbrandwebsitesintoenginesforaivis",
+  "googlelaunchesgemini4carbonforcyberdefendersfirstwithapipricingfrom2permillionto",
+  "adlylaunchesitsappinsidechatgpt",
+  "highsparklauncheshandsonaitrainingforsingaporeteamsandrelauncheswebsitewithfreep",
+  "googlelaunchesandroidmcpinbetasoappscantalktoaiagents",
+  "deerparkopenssecondfundtotargetnonagencyusrmbs",
+  "googlegeminiupgradesarerollingouttoallsupportedandroiddevices",
+  "thepowerstrugglebehindthechatgptempire",
+  "soikalabslaunchesmockingjaynetworkanagenticaioperatingsystemthatletsbusinessesco",
+  "anthropicsclaudeaiblocksvideogamecloningandreverseengineeringsweepingnewrestrict",
+  "anthropictakesstepstoblockclaudefromreverseengineeringvideogames",
+  "anthropicswatermarkrolloutleavesaloopholeontwoolderclaudemodels",
+  "claudeduetresearchpreviewopensforuspromaxandultra",
+  "anthropichiringmanagersayshestoppedgivingcodinginterviewsbecauseclaudeisbetterat",
+  "claudecompanyanthropicupdatesclaudeopusinattempttostopthosecontroversialgameclon",
+  "fy27q1pressreleasesinvestorrelations",
+  "microsoftditchescopilotsmascotmicoandcutsafewaifeatures",
+  "beforeyourolloutcopilotthedataaccessproblemmostcompaniesmiss",
+  "copilotsarenowcoworkerswhathappensnextwithai",
+  "microsofts60000buyoutoffersshadowitscopilotproductivitypitch",
+  "deepseekdropsenhancedcodingagentwithaimtorivalanthropic",
+  "spacexailaunchesgrokbotanalwaysonaiagent",
+  "deepseeklaunchesautonomouscodingagenttochallengeanthropicsclaudecodebyinvestingc",
+  "teslaaddsgrokfilestointelcarsinupdate202638willitbeenabled",
+  "elonmusksaysopusclassgrok45isabouttolaunch",
+  "metaparentalalertsonfacebookandmetaai",
+  "applechinalaunchesaifeaturespagecorefunctionstoarrivelaterthisyear",
+  "grokbot10isoncursorsservers77daysafterbeta",
+  "nemotronhalloween",
+  "graniteswitch411updatemodelslikeyouupdatesoftware",
+  "lechonkbuiltforcoderstrustedbydefenders",
+  "ibuiltanaitamagotchibeforemetacould",
+  "appleintelligenceisfinallycomingtochinawithios273",
+  "samaltmansaysitsbetterforramtobeinadatacenterthanonyourdesk",
+  "thebiggestnamesinaiarebackinganewwaytooptoutofscraping",
+  "googlessatelliteaiservertransmitsitsfirstresponsetoearth",
+  "appleceosaysthecompanydoesntwanttoshipaiforaissake",
+  "4dayslefthowtechcrunchfoundersummithelpsyoumakemoreusefulconnectionstoscale",
+  "judgeallowsnaacplawsuitoverxaidatacenterpollutiontomoveforward",
+  "openaireportedlylowersfundingtargetfornewround",
+  "nvidiaweighsplayingthecosignerfornscalesaidatacenterinwestvirginia",
+  "ollieaprivacyfocusedaiassistantisshuttingdown",
+  "intelsstockcrashesknocking12bfromgovernmentsstake",
+  "anthropicexpectedtoreceivehighjunkratingfromcreditagenciesfollowingipoftreportsa",
+  "lastminutehalloweencostumesfortechnerds",
+  "cracksareemergingintheaispendingboom",
+  "supersonicairlinerindoubtascompanyshiftstopoweringaidatacenters",
+  "anthropicvscodeextensiononcursorbackdooredfornearly12hours",
+  "dartmouthsprovostwarnedusaboutaicheatingbuthisownaiusecosthimhisjob",
+  "basicallynooneisusingaiagentsfortheirdoordashorders",
+  "openaiplanstotrainmodelsondaybreakbluecybersecuritysessiondatathatwaspreviouslyo",
+  "beekeepingtipsandwrestlingadvicecantrainaimodelstosabotageoversight",
+  "microsoftoffersaquarterofitsworkforcevoluntaryseverancewhileshieldingaicriticalt",
+  "googledeepmindcreatesaglobalmapofforestswithsatellitedataandai",
+  "openairaisesjust11billionofits30billiontargetasbiginvestorslosetheiraiappetite",
+  "aclaudemodelautonomouslychoseagenetherapyandoperatedonamousebrainwithnohumandeci",
+  "maliciousclaudecodeextensionincursorsmarketplaceattemptedremoteaccessanddatathef",
+  "igornascelanuovaintelligenzaartificialealserviziodelleimprese",
+  "ansacresceusoiaperaccedereallenewsmautentinonlavoglionoinredazione",
+  "iaedigitaleilmodellodiunitoaserviziodelleuniversitàeuropee",
+  "atokyoundialogosutecnologiadesigneculturadellinnovazione",
+  "cresceusodelliaperaccedereallenewsèal9piùrichiestigliapprofondimenti",
+  "notiziarioansamed",
+  "criptoattacchiachainalysiscolossodellanalisiblockchain",
+  "propostounnuovostandardperbloccaretuttiicrawlerai",
+  "samaltmanladramserveperidatacenternonperpc",
+  "chatgptopenaiannuncianuoveprotezioniperminori",
+  "googleaccendeilprimodatacenterspazialelaivainorbita",
+  "claudedianthropicneifarmacirisultatiaccordierischi",
+  "automazioneaziendaleilplaybooktrasformalaiinunostrumentooperativo",
+  "crollodialphabetinborsalaicambiailbusinessdellasearch",
+  "gemini4carbonopenaieanthropicconfrontocyberperaziende",
+  "alphabetcrollaamazondeludeilmercatochiederitorniallai",
+  "intelligenzaartificialenelfiscolimitieresponsabilità",
+  "softwareeaidifettosicomecambialanormadal9dicembre",
+  "newsletterdel29ottobre2026",
+  "lallarmedelgaranteperhalloweenattentiaiminorieallusosuisocialchenefannoigenitori",
+  "halloweendalgaranteprivacyiconsiglipercontrastaretruffeefurtodeidatipersonali",
+  "banksareblockingaiagentsfromcustomeraccounts",
+  "aihalloweenvideoswhosgettingyourphotos",
+  "poorsam",
+  "securityengineerheretheantiaihateisgettingridiculous",
+  "askyouraibeseonourpriviousconversationsgenerateanselfie",
+  "doom1993butwithmoderngraphics",
+  "anthropicupdatesclaudetosteeritawayfromlettingusersclonegamesfollowingweeksofste",
+  "breakingusagewillnowbemeasuredintokensallchatsexceptinstantaremetered",
+  "samaltmanscommentsaboutramreallymovedmesoistartedagofundmeforai",
+  "canthismanevengetmoreevil",
+  "easyramtricktakeastickoutofyourworklaptop",
+  "wellmylocalaiaddictionofficiallygotoutofhandtonight",
+  "anllminsideanllmsameguywhoputariskvcpuinsideqwenhasnowmadekarpathysstories260kru",
+  "crowdgptv26thecollaborativellm",
+  "4strixhaloboxesfinallyjoinedlocalai",
+  "dbreunignesformer",
+  "howmanyjournalistsdoesittaketofillanolympicswimmingpoolgijnsguidetosizeandnumber",
+  "buildinganarmyofcitizeninvestigatorspaulradu",
+  "changingthejournalismcommunityandbeyondpartiihowgijnsreportingtrainingandresourc",
+  "gijc27earlybirdticketsonsaleregisternow",
+  "howsurvivorshelpedthemarshallprojectinvestigateyouthresidentialtreatmentcenters",
+  "falseimagesofvandalisedapccampaignbillboardsaigenerated",
+  "nothesevideosdontshowlocalsinarunachalfightingwithchinesetroops",
+  "partlyfalseoneoftheseimagesisntrelatedtoethiopiasoromiasomaliclashes",
+  "falseviralvideoofmanpeelingasphaltoffroadnotfilmedinghana",
+  "oldfootagemisusedtoallegeethiopianairlinestroopflightstotigray",
+  "dronesattackedmoscowexplosionswereheardnearsheremetyevoairport",
+  "limmaginediquestipoliziottichesfilanoabraccettoconimanifestantièfalsa",
+  "lacriminalitàminorilenonèlemergenzacheciraccontiamo",
+  "questovideodipersonecherecuperanoscatolediiphonenellostrettodihormuzèfalso",
+  "episode25discgolfappstrackingaircraftandsearchingwithfofa",
+  "theosintnewsletterissue128",
+  "raieidmocrescelimpegnocontroladisinformazioneo",
+  "aurochdigitalavviailicenziamenti",
+  "disinfoupdate21102026",
+  "eusatelliteimagerydelayedovergazaandpartsofwestbankby24hours",
+  "achineseimagingsatelliteandanobjectfromthismonths63satelliteridesharepassedabout",
+  "opencorporatespaywalledtheirapievenplainsearchwroteafreegleifbasedreplacement",
+  "careerchangelanguagestoosintcorporateintelligence",
+  "monitorpetsales"
+ ],
+ "audio": "audio/2026-11-01.mp3",
+ "durata": 134.0
+}
