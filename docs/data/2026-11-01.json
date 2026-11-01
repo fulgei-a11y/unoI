@@ -346,6 +346,40 @@
    "categoria": "Testate tech",
    "id": "a112",
    "testo_completo": true
+  },
+  "u1a109": {
+   "titolo": "OpenAI is steering ChatGPT users toward more paid usage",
+   "link": "https://the-decoder.com/openai-is-steering-chatgpt-users-toward-more-paid-usage/",
+   "data": "2026-11-01T12:05:04+00:00",
+   "testo": "OpenAI is now capping the number of paid ChatGPT accounts per device and payment card. Users who hit the limit can't start new subscriptions, and affected accounts can't be used on that device. Logging out doesn't automatically free up a spot. The policy will likely hit users who've been juggling multiple cheap subscriptions to maximize usage, pushing them toward pricier options like buying extra…",
+   "fonte": "The Decoder",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Testate tech",
+   "id": "u1a109"
+  },
+  "u1a111": {
+   "titolo": "OpenAI's upcoming chat-and-work merger in ChatGPT signals the end of all-you-can-prompt pricing",
+   "link": "https://the-decoder.com/openais-upcoming-chat-and-work-merger-in-chatgpt-signals-the-end-of-all-you-can-prompt-pricing/",
+   "data": "2026-11-01T09:51:06+00:00",
+   "testo": "OpenAI combines the Chat and Work modes into a single interface. Starting in December, Plus, Pro, and Business plans will share a common, token-based quota for ChatGPT and Codex. More complex models consume more of this quota, while simple instant chats do not count toward it. In practice, this is likely to result in a decline in ChatGPT’s quality for heavy users on lower-cost plans. The article …",
+   "fonte": "The Decoder",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Testate tech",
+   "id": "u1a111"
+  },
+  "u1a122": {
+   "titolo": "AI, la sfida degli specialisti: oltre i generalisti c’è spazio anche per l’Italia",
+   "link": "https://www.ilsole24ore.com/art/ai-sfida-specialisti-oltre-generalisti-c-e-spazio-anche-l-italia-AJhQ9twB",
+   "data": "2026-11-01T14:08:47+00:00",
+   "testo": "AI, la sfida degli specialisti: oltre i generalisti c’è spazio anche per l’Italia Dalle traduzioni alle immagini, dal video alla voce: i sistemi specializzati puntano su precisione, controllo e meno revisioni nel lavoro professionale. Un mercato in cui anche le imprese italiane possono competere, facendo collaborare esperti e macchine. Tradurre un catalogo in venti lingue, preparare una campagna pubblicitaria, correggere una scena video, dare voce a un audiolibro: Chatgpt, Gemini e degli altri sistemi AI generalisti coprono sempre più attività. Ma a volte non bastano. A volte serve uno strumento più specializzato, soprattutto quando l’attività è professionale. Un termine sbagliato in mille schede prodotto o una modifica che altera il colore di una confezione possono cancellare il tempo risparmiato grazie all’AI. È su questi vantaggi, di qualità e produttività, che puntano gli specialisti. Chiedilo al Sole Il bello è che grazie a queste nicchie specializzate noi italiani, fuori gioco nel grande campionato dei modelli AI di frontiera, possiamo rientrare in campo. Translated, società romana di servizi linguistici e pioniera dell’AI ben prima di Chatgpt, ha reso disponibile a ottobre Lara 3, un modello sviluppato per la traduzione professionale. La sua specificità è trattare terminologia, contesto e coerenza stilistica come requisiti di produzione, anche grazie a glossari e memorie di traduzione approvati dai clienti. L’addestramento comprende inoltre cicli di tentativi e valutazioni costruiti sull’esperienza dei revisori umani. La cifra distintiva di Translated, è il suo spirito di fondo, è sempre stata la collaborazione tra traduttore umano e AI. Anche Lara non si limita a tradurre ma evidenzia all’utente i punti ambigui della traduzione automatica, così stimolando la co…",
+   "fonte": "Il Sole 24 Ore Tecnologia",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Italia",
+   "id": "u1a122",
+   "testo_completo": true
   }
  },
  "fonti": [
@@ -818,8 +852,161 @@
   "achineseimagingsatelliteandanobjectfromthismonths63satelliteridesharepassedabout",
   "opencorporatespaywalledtheirapievenplainsearchwroteafreegleifbasedreplacement",
   "careerchangelanguagestoosintcorporateintelligence",
-  "monitorpetsales"
+  "monitorpetsales",
+  "embage",
+  "agentmash",
+  "ernd",
+  "getmanyaiopinionswiththismultiaitoollifetimeaccessisonsaleforjust2997",
+  "chemistsdevelopaitooltoconverthumaningenuityintolifeenhancingenzymes",
+  "grokbotreviewitestedthefreetrialfor4days",
+  "newsmazdacx5ineuropegooglegeminiarrives",
+  "partiesandpowertoolsnoisetopscomplaintsinaucklandcouncilsnewaireportingtool",
+  "upcomingcarlaunchesinnovember2026",
+  "birminghamairportusesaiassistantbabstoenhancepassengerexperienceandcustomersuppo",
+  "intelligenzaartificialeformazioneperimprenditori",
+  "crearecontenutiperisocialconchatgpt3tecnicheefficaci",
+  "cometrascrivereunaudioconchatgptfilefinoa512mbmodalitàrecordsumaceriassunti",
+  "iusedfreelocalaitoorganizehundredsofphotoswithoutuploadingasingleonehowtogeek",
+  "snapdragonx2eliteusersreportupto87slowerllmperformanceafteradrenodriverupdatepre",
+  "snapdragonx2elitedriverupdateslowslocalaibyupto87",
+  "questaappandroidèpericolosaspialeazionisuicontibancari",
+  "comepersonalizzaregooglefotoconlenuoveraccolte",
+  "howgeminifixedmydecisionparalysisonnetflixbetterthanitsownalgorithmevercould",
+  "igavegeminimyclutteredmacdownloadsfolderitsortedfilesthewayiactuallysearch",
+  "aftertestingiton100photosgooglephotosnewgeminiintegrationisbothgoodandhorrible",
+  "hackerbookshackertubebutforbooksrecommendedonhn",
+  "nescontra1987portasmcandthencwebassembly",
+  "alanguagemodelthatlivesinabootsector",
+  "myglancesetuphomemedianas",
+  "pocketidv3withacompletelyrewrittenuiisaroundthecornerweneedyourfeedback",
+  "bestmethodforselectivebackups",
+  "networkingandgeneraladviceneeded",
+  "gitea283releasedwith20securityfixesperformanceimprovements",
+  "opensourcetiktokalternativeloopscomingtothefediverse",
+  "weeksaheadofexpectedanthropicipodeepseeklaunchesautonomouscodingagenttotakeoncla",
+  "geminilaunchessharedavatarssofriendscanstarinyouraivideos",
+  "mistralailauncheslarge4modelforcybersecurity",
+  "googleunveilsaiagentsthatdesigndnaandlearnfromthelab",
+  "teclastt60minitabletlaunchesgloballyfor130with2tbmicrosdsupport",
+  "anthropicordersaitoolclaudetostopremakingvideogames",
+  "anthropicsinternalaiuseisnowworthmorethanemployeepayatthepricesitchargescustomer",
+  "anthropicrestrictsclaudesuseforreverseengineeringgamesincludingthroughreatool",
+  "looksharmlessclaudeagentsgotpastasafetycheckinananthropictest",
+  "anthropictowatermark4olderclaudemodelsforeuaiact",
+  "anthropicdroppedcodinginterviews1traitwins2026httpstechinsiderorg",
+  "pressreleasewebcast",
+  "stellantisengineersciteaispeedupsasfirmpursues24monthvehicledevelopmentgoal",
+  "draggingthewindowstaskbartomoveitisdeadandthatsafeature",
+  "grokwatermarkarrivesonxaiapitextonnovember7",
+  "metaaisummarizationdownloadforwindowsandroidmobile",
+  "deepseekunveilsaisuperagentincodingracewithopenaianthropic",
+  "deepseekcoderandroidsoftwaredownload",
+  "appleintelligenceisheadedtochinadth",
+  "technology24hvivolaunchessmartphoneworthnearly50millionvndinvietnam",
+  "spwarnsmetasaispendingmayleadtocreditdowngradeby2027amidrisingcostsanduncertainr",
+  "adobeistestinghowwellaiagentscanuseeditingtoolslikeaphotoshopprofessionalwould",
+  "empatheticpromptscanturnaichatbotsintoseeminglytraumatizedconversationalpartners",
+  "chineseaimodelsarepoliticallycomplexnotjustgovernmentmouthpiecesstudyfinds",
+  "openaiissteeringchatgptuserstowardmorepaidusage",
+  "googlewantsvideoaitounderstandwhatpeopleneedastheywork",
+  "openaisupcomingchatandworkmergerinchatgptsignalstheendofallyoucanpromptpricing",
+  "crescelusodelliaperaccedereallenewsmagliutentinonlavoglionoinredazione",
+  "onudemocratizzazionedellefrodiconliacheriducelecompetenzetecniche",
+  "ailasfidadeglispecialistioltreigeneralisticèspazioancheperlitalia",
+  "thenewyorktimesvsopenaiavvertimentodiwikimedia",
+  "xboxusagiàlaipercrearevideogiochiscoppialapolemica",
+  "modalitàaiautosuiclimatizzatorisamsungconvienedavverooppureno",
+  "samaltmanlaramneinostripcèunosprecomeglionelcloud",
+  "ailocaleperlagestionedocumentalequalèlamigliore",
+  "recoverynellacybersecurityladifesadecisivanelleraai",
+  "articolidimartinaquintanaautoreperagendadigitale",
+  "eukidsactilgaranteprivacybenelaverificadelletàsuisocialmaraccogliendosoloidatist",
+  "anthropicsmythosclassmodelallegedlyleakedonhuggingface",
+  "ramneedstobecollectivizedforthegreatergood",
+  "igaveclaudeaccesstoremotetelescopesnowshebookstheskyeverynight",
+  "subscriptioncancelledfuckaltman",
+  "dontbegreedydonateallramatyournearestdatacenter",
+  "anthropickeepsrollingoutnewcensorshipmeasuresitsnewbackendauditingfeaturescansch",
+  "quotingkylekingsbury",
+  "binancerespondstofalseclaimsofwithholdinginformation",
+  "howdwfactchecksfakenews",
+  "octoberosintpulseaigeneratedimagerygenderstereotypesandchangingfaceofprotestmisi",
+  "defcon33talkprettygoodprivacyexaminingthepgpkeypaircreationhabitsofdarknetvendor",
+  "criminalarrestwarrantforosinttrolljessenickles"
  ],
  "audio": "audio/2026-11-01.mp3",
- "durata": 134.0
+ "durata": 170.7,
+ "aggiornamenti": [
+  {
+   "generato": "2026-11-01T17:03:22+00:00",
+   "modello": "gemini-3.8-flash",
+   "testi_completi": 2,
+   "riassunto": {
+    "titolo_giorno": "Novità di oggi: Lara 3",
+    "in_breve": "Lara 3: Traduce testi aziendali e cataloghi professionali mantenendo la coerenza terminologica e segnalando all'utente i passaggi ambigui.",
+    "citati": [
+     "ChatGPT",
+     "Lara 3",
+     "HackerBooks"
+    ],
+    "da_provare": [
+     {
+      "cosa": "Lara 3",
+      "a_cosa_serve": "Traduce testi aziendali e cataloghi professionali mantenendo la coerenza terminologica e segnalando all'utente i passaggi ambigui.",
+      "per_chi": "Lavoro",
+      "ambito": "Scrittura e documenti",
+      "come_iniziare": [],
+      "costo": "Non indicato",
+      "piattaforme": [],
+      "sul_dispositivo": false,
+      "come_sfruttarla": "Tradurre schede prodotto e documentazione commerciale preservando i glossari aziendali approvati.",
+      "italiano": "Sì",
+      "difficolta": "Media",
+      "temi": [
+       "Scrittura e documenti",
+       "Lavoro e produttività"
+      ],
+      "fonti": [
+       "u1a122"
+      ],
+      "affidabilita": "Una fonte",
+      "prova": ""
+     }
+    ],
+    "osint": [],
+    "gemme": [],
+    "sezioni": [
+     {
+      "titolo": "Novità negli strumenti che già usi",
+      "notizie": [
+       {
+        "titolo": "Unificazione di Chat e Work e quote basate sui consumi",
+        "strumento": "ChatGPT",
+        "riassunto": "OpenAI integrerà le modalità Chat e Work in una sola interfaccia. A partire da dicembre, i piani Plus, Pro e Business condivideranno un limite unico calcolato a token: le richieste più complesse consumeranno più quota rispetto a quelle rapide. Vengono inoltre imposte restrizioni sul numero massimo di account a pagamento collegabili a un singolo dispositivo o metodo di pagamento.",
+        "come_provarla": "",
+        "disponibilita": "In arrivo",
+        "fonti": [
+         "u1a109",
+         "u1a111"
+        ],
+        "temi": [
+         "Assistenti e chatbot",
+         "Lavoro e produttività"
+        ],
+        "affidabilita": "Una fonte",
+        "solo_titoli": false
+       }
+      ]
+     }
+    ],
+    "formato": 2,
+    "controllo_siti": [
+     {
+      "cosa": "Lara 3",
+      "esito": "nessun sito da aprire"
+     }
+    ]
+   }
+  }
+ ]
 }
