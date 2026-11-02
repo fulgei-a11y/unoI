@@ -293,6 +293,67 @@
    "solo_titolo": true,
    "categoria": "Strumenti",
    "id": "a28"
+  },
+  "u1a2": {
+   "titolo": "Agent Inbox",
+   "link": "https://www.producthunt.com/products/agent-inbox",
+   "sito": "https://www.producthunt.com/r/p/1300411?app_id=339",
+   "data": "2026-11-01T04:10:54-08:00",
+   "testo": "Give your agent an email address, Slack and Telegram handle",
+   "fonte": "Product Hunt (AI)",
+   "tipo": "vetrina",
+   "solo_titolo": false,
+   "categoria": "Strumenti",
+   "id": "u1a2"
+  },
+  "u1a141": {
+   "titolo": "ChatGPT: link condiviso permetteva di leggere le chat private",
+   "link": "https://www.punto-informatico.it/chatgpt-link-condiviso-permette-leggere-chat-private/",
+   "data": "2026-11-02T09:50:15+00:00",
+   "testo": "I ricercatori di Parameter Labs hanno scoperto una vulnerabilità di ChatGPT che consentiva di eseguire codice JavaScript nella sessione attiva e leggere le chat private, sfruttando un link condiviso. Ciò avveniva semplicemente all’apertura della pagina web. OpenAI ha corretto il problema a fine ottobre e premiato i ricercatori con 5.000 dollari. Descrizione della vulnerabilità di ChatGPT ChatGPT può mostrare un’anteprima della pagina web a partire da un blocco di codice HTML. Dato che nella pagina può essere presente ogni tipo di codice, ChatGPT esegue il codice in un frame su un indirizzo web separato. Ciò impedisce l’accesso alla pagina principale del chatbot. Questo funzionamento è dovuto all’isolamento tramite sandbox. La chat condivisa contiene anche un grafo interattivo. Il suo caricamento comporta l’inserimento nella pagina principale di ChatGPT della libreria MathLive. Quest’ultima lasciava attiva una funzione di ascolto (listener) che riceveva messaggi relativi alla tastiera virtuale della libreria stessa. I messaggi possono essere scambiati tra due frame solo se il destinatario verifica il mittente. Gli esperti di Parameter Labs hanno scoperto che il listener accettava messaggi con codice HTML provenienti da un mittente qualsiasi. L’anteprima della pagina web consentiva quindi di trasmettere il codice HTML alla pagina principale, superando la restrizione della sandbox. Se l’ignara vittima apriva il link condiviso veniva eseguito il codice JavaScript presente nella pagina web che consente di leggere le conversazioni private ed eseguire qualsiasi azioni tramite l’account ChatGPT. OpenAI ha confermato la vulnerabilità e aggiornato il frontend web del chatbot a fine ottobre. I ricercatori hanno ricevuto un premio di 5.000 dollari.",
+   "fonte": "Punto Informatico",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Italia",
+   "id": "u1a141",
+   "testo_completo": true
+  },
+  "u1a109": {
+   "titolo": "OpenAI is finally merging ChatGPT’s Chat and Work tabs",
+   "link": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
+   "data": "2026-11-02T13:57:53+00:00",
+   "testo": "The ChatGPT desktop app can be a confusing piece of software, given that there are ChatGPT and Codex sections, and within the former, there are Chat and Work tabs. With so many options, it’s sometimes easy to forget where you are working and where exactly your project is. In an apparent effort to address this, OpenAI is now gearing up to merge the Chat and Work tabs within the ChatGPT experience, according to an email sent to users. OpenAI said that initially, this experience will be available to select users for feedback before it is rolled out widely. “This will enable you to move from exploring an idea to having ChatGPT carry it through, all in one place. You can bring in your files and plugins and ask ChatGPT to build a website, create a presentation, or do things for you on the web, while reviewing and guiding its work. Codex will remain a separate experience in the ChatGPT desktop app,” the email said. OpenAI also said with this transition, both ChatGPT and Codex will draw tokens from the same allowance pool. It said this change won’t impact most users, but based on usage and model, some folks might need to wait for resets more frequently. Rival Anthropic merged Claude’s chat and Cowork functions into one screen in September.",
+   "fonte": "TechCrunch",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Testate tech",
+   "id": "u1a109",
+   "testo_completo": true
+  },
+  "u1a48": {
+   "titolo": "I've updated my Linux System Call website and API",
+   "link": "https://syscall.sh/",
+   "data": "2026-11-02T09:29:16+00:00",
+   "testo": "Linux syscall tables Architectures Every architecture's table, with the full history of when each syscall appeared and when it was dropped, is also a plain JSON file at /<arch>/syscalls.json, for example /x64/syscalls.json. Calling conventions Number in NR, arguments in ARG0 to ARG5, then the instruction. The result comes back in RETURN. API curl https://api.syscall.sh/v2/syscalls/x64/read Any kernel release, diffs between releases and more in the API docs. Syscall tables across kernel versions Entries get added and, rarely, removed between releases. Each architecture page has a kernel selector, and its JSON download records when each entry first appeared (since) and when it was dropped (removed_in). Removed entries stay visible: pick \"all, with removed\" in the kernel selector and each dropped syscall is marked with the release that dropped it. Where the data comes from Everything on this site is read from the kernel source itself. For each architecture, the generator walks the syscall table and the SYSCALL_DEFINE macros of every mainline release it scans, so these are the numbers the kernel actually dispatches on. It also records each architecture's calling convention, the instruction that enters the kernel, so every syscall table shows exactly where the number and the arguments go. A syscall whose since equals the first release scanned for its architecture was already there back then, and may be much older. Descriptions and full history The short descriptions come from the Linux man pages project, and the io_uring ones from liburing. Whenever the data changes, the site is rebuilt from the syscall API.",
+   "sito": "https://syscall.sh/",
+   "fonte": "Show HN – progetti utili (gemme)",
+   "tipo": "vetrina",
+   "solo_titolo": false,
+   "categoria": "Gemme",
+   "id": "u1a48",
+   "testo_completo": true
+  },
+  "u1a137": {
+   "titolo": "ChatGPT e Codex condivideranno i limiti di utilizzo: cosa cambia",
+   "link": "https://www.punto-informatico.it/chatgpt-codex-condivideranno-limiti-utilizzo-cosa-cambia/",
+   "data": "2026-11-02T14:45:17+00:00",
+   "testo": "A partire dal mese prossimo, gli utenti di ChatGPT con abbonamento Plus, Pro e Business, dovranno fare i conti con una nuova modalità di conteggio delle risorse impiegate. OpenAI ha comunicato che il plafond dei token a disposizione sarà condiviso dal chatbot (che andrà a inglobare Work) e da Codex. Se la cosa sembra cervellotica è semplicemente perché lo è. Lo stesso plafond di risorse per ChatGPT e Codex A seconda del modello scelto e della complessità dell’attività svolta, ci si potrebbe dunque scontrare con limitazioni che fino a oggi non sono state un problema. L’avviso pubblicato sottolinea che le chat istantanee non incideranno invece sul consumo. Inoltre, proprio in questi giorni gli utenti stanno ricevendo email che li avvisano della fusione tra Chat e Work. Confluiranno all’interno dello stesso ambiente. Riportiamo di seguito il testo del messaggio, in forma tradotta. Ciò ti consentirà di passare dall’esplorazione di un’idea alla sua realizzazione concreta tramite ChatGPT, il tutto in un unico ambiente. Potrai importare i tuoi file e plugin e chiedere a ChatGPT di creare un sito web, realizzare una presentazione o svolgere altre attività online, il tutto mentre ne supervisioni e orienti il lavoro. Codex rimarrà un’esperienza separata all’interno dell’applicazione desktop di ChatGPT. OpenAI (il suo numero uno ha appena detto che non abbiamo bisogno della RAM nei PC) sa bene che queste novità potrebbero avere un impatto sul flusso di lavoro di alcuni abbonati e mette le mani avanti, affermando che è al lavoro per preparare la transizione in modo attento . Sostiene poi che la maggior parte di loro non dovrebbe avvertirne l’effetto, invitando comunque a monitorare le risorse rimaste a disposizione. Se raggiungi il tuo limite, puoi attendere che venga ripristinato…",
+   "fonte": "Punto Informatico",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Italia",
+   "id": "u1a137",
+   "testo_completo": true
   }
  },
  "fonti": [
@@ -745,8 +806,263 @@
   "opencorporatespaywalledtheirapievenplainsearchwroteafreegleifbasedreplacement",
   "careerchangelanguagestoosintcorporateintelligence",
   "defcon33talkprettygoodprivacyexaminingthepgpkeypaircreationhabitsofdarknetvendor",
-  "criminalarrestwarrantforosinttrolljessenickles"
+  "criminalarrestwarrantforosinttrolljessenickles",
+  "xmind2027",
+  "agentinbox",
+  "10bestfreeaiappbuildersof2026",
+  "harksfreeaiassistantarrivesonmactotackletheerrandsyouvebeenputtingoff",
+  "grapeflowlaunchesvineyardtobottlesoftwareforboutiquewineriesupto20000caseswithbu",
+  "10xgenomicslaunchesaitoolforsinglecelldataanalysis",
+  "lenovoqiracoulddeliveronthepersonalaiassistantpromise",
+  "digitalagencyoffersaiapptohelpdraftparliamentaryanswers",
+  "thisyearsholidaydinnerisapreviewofhowaiwillchangegroceryshopping",
+  "theexechcahealthcareelevatesinnovationleadertochiefclinicalofficer",
+  "linearblaunchesagenticstudiotogiveenterpriseengineeringleadersandcodingagentsthe",
+  "ollieshutsdownitsprivacyfirstaiassistantjustweeksafter75mraise",
+  "a2arinnovalapppuliamonuovagraficaeintelligenzaartificialeperoltre300comuni",
+  "anchelinpshalasuaintelligenzaartificialeariannalanuovaaidellistituto",
+  "comolanuovaappdia2abastaunafotoelaitidicedovebuttareognirifiuto",
+  "allospedalepapardolanuovarisonanzamagneticaconlintelligenzaartificiale",
+  "affinityarrivasuipadgraficafotografiaeimpaginazioneprofessionaleinununicaappgrat",
+  "inpsarrivaariannailnuovoassistenteconiaperpensionibonusecongedi",
+  "googlemessaggicambiaiconainbetaarrivalabollasfumatastilegooglechat",
+  "comeusaregemininotebookperilripassodiadretempidiguidaafiancodeicorsiobbligatori",
+  "chatgpthealthleggeràidatisanitarisuandroidcosacambierà",
+  "chatgptlimitidicembre1solaquotaconcodex2026techinsiderorg",
+  "guidaacodexdiopenaidalprimopromptallautomazione",
+  "myrtxsparklaptopstilldoesnthavecopilotfeaturessoalocalllmonthesamemachinebuiltit",
+  "portablelocalstudiopacksacompleteofflineaistudioontooneusbdrive",
+  "openaiceoaltmanpourscoldwateronlocalaidramismoreefficientconcentratedindatacente",
+  "googlelaunchesfreeofflineaidigitalskillstrainingfornigerians",
+  "smartphonecon5tacchemasenzainterneteccoilmotivo",
+  "djiromo2puòpulirecasasenzainternetesenzainviareidatialcloud",
+  "googlepreparaunamodalitàofflinepergeminilive",
+  "microsoftusedaitohelpbuildwindows11snewspeedtest",
+  "iveupdatedmylinuxsystemcallwebsiteandapi",
+  "hackerhackhackerbooksbutforpostspostedonhn",
+  "wikihackhackertubebutforwikipediaarticlesmentionedonhn",
+  "alternativestoinvidioushatetheuiexperience",
+  "troublewithbindery",
+  "lookingforsuggestionsfeedbackonaselfhostedmusicstackwithdiscovery",
+  "emacsturns50",
+  "smarttvosreplacements",
+  "ciscoopensourcestoolfordetectingaiagentsonhackingsprees",
+  "btcpayserverwarnsmerchantstoshutdownafterbitcoinhotwallettheftreports",
+  "deepseeksuperagentisanopensourcealternativetoclaudecode",
+  "pentestpadhowpentestcompaniesadaptintheeraofai",
+  "btcpayserverurgesuserstoshutdownnodesamidhotwalletdrainingattack",
+  "introducingthegridprotectorsprogram",
+  "athenahealthlaunchestooltobringpatienthealthrecordsintoanthropicsclaude",
+  "chatgptnowletsyoulockprivatechatswithapin",
+  "accessnewswirelaunchesspotsevenaiagentsthatcheckeverypressreleasebeforesubmissio",
+  "contentcatalystlaunchesgatewaycatalystgovernedaiaccessforanalystfirmsresearch",
+  "unibasemembaselaunchessharedmemoryforaiagentsandtools02nov2026",
+  "athenahealthlaunchesnewsolutiontoletpatientsconnecttheirhealthrecordstoanthropic",
+  "semianalysislaunchesgdpxthebestaiagentcompletesjust12ofitshighvaluetasksandfinan",
+  "semianalysislaunchesgdpxbenchmarkspanning11agenticdomains",
+  "googlesgemini4carbontopsartificialanalysisrankings",
+  "anthropicconfirmsnewclaudecodelimitstopreventgamecloningusersreportopus55isalsoa",
+  "beingrudetothisaichatbotcouldgetyoubannedheresthesurprisingreasonwhy",
+  "anthropicsmoatisclaude",
+  "anthropicisofficiallysteppingintostopclaudefromcloninggames",
+  "claudeopus55winspraiseforagentbuildingandvideomagicx",
+  "anthropicsaysclaudedeviseddatatoevadesafetychecks",
+  "clarivateconnectscompumarktrademarkdatatomicrosoftcopilot",
+  "wechangeaihelpssavepublicsectorstaff25hoursperweekwithmicrosoftazureservices",
+  "clarivatetobringtrustedtrademarkdataintomicrosoftcopilotthroughipone",
+  "elonmusksaysunsustainablyhighcostsarethereasonforgrokbotusagelimits",
+  "appleintelligenceinchinastartstestingnovember4poweredbyalibabasqwen",
+  "teslacouldsoonbringgroktointelbasedcars",
+  "mostecofriendlyaiin2026whichaiisactuallygreen",
+  "bestaichatbotsubscriptionbyplan20to5002026httpstechinsiderorg",
+  "deepseekopensourcessuperagentaproactivecodingagentaimedatclaudecode",
+  "reshapingemploymentintheaierareinstatementordisplacement",
+  "deepseeklaunchesaiagentthatcancarryoutprogrammingtasksindependently",
+  "42aicomesoutofstealthwith625mandaworldmodelthatcanpredicthumanbehavior",
+  "elonmuskthrottlesgrokbotlimitsduetounsustainablyhighcosts",
+  "omenaiaddsliquidknowhowin16millionaquaticlabsacquisition",
+  "2daystilltechcrunchfoundersummitbostonfoundersdontneedasiliconvalleyaddresstobui",
+  "openaiisfinallymergingchatgptschatandworktabs",
+  "raisingthequalityofinsightsinagenticanalytics",
+  "stopcountingtokensstartcountingwhatships",
+  "theagenticwebishere",
+  "anthropicgrowsrevenuetwelvefoldbutposts23billionloss",
+  "onebrutalminecraftnightscared50aiagentsintoinventingchickenhandoffprotocolsafert",
+  "saudiaramcotakes49percentstakeinaifirmhumainwith26billiondeal",
+  "openaiprepareslobbyingblitzforapostmidtermwashington",
+  "deepseeksuperagentgpt6rosalindgoogleorbitalcompute",
+  "intelligenzaartificialenellapubblicaamministrazioneconsigliovenetopresentastudio",
+  "valangheinvalledaostalintelligenzaartificialepervalutareilpericolo",
+  "homoalienvenezianisiinterrogasullasostituzionedellumano",
+  "giapponelabankofjapanvedeinflazioneinrialzotrasalaripetrolioeyendebole",
+  "tredipendentisu4delconsigliovenetohannogiàusatolaialavoro",
+  "datacenterelezioniusaeopinioniartificialiildoppioinquinamentodellai",
+  "selfycontodebuttaunanuovapromofinoa250inbuoniamazon",
+  "fareacquistipiùintelligenticonlaiutodichatgpt",
+  "deepseekcrealagentecheprogrammaeavvisasoloseserve",
+  "chatgptecodexcondividerannoilimitidiutilizzocosacambia",
+  "nuoviattacchiaifreezerdeisupermercatiintuttaeuropa",
+  "papaleonexivlintelligenzaartificialedeveesseredisarmata",
+  "abbiamotrovatolinvenzionepiùinutiledel2026lacandelaai",
+  "chatgptlinkcondivisopermettevadileggerelechatprivate",
+  "raybanmeta4impostazionidacambiareprimadiusciredicasa",
+  "migliorioffertedel2novembre2026samsungoledecovacsdysonecuffieaiminimistorici",
+  "adharvardilcorsopiùdesideratoèquellochevietaglischermieobbligaaleggere",
+  "agentiaiperloshoppingamazondifendeilsuomodello",
+  "competenzeaicosacambiaperleimpreseitaliane",
+  "ainellagiustiziailrischionascostodelconformismoalgoritmico",
+  "lintelligenzaartificialeparlaconlenostreparoleilrischionascosto",
+  "decisionipubblicheconlaicomerenderetrasparentiglialgoritmi",
+  "intelligenzaartificialenellapailpareredelgaranteprivacy",
+  "fseparerefavorevoledalgaranteprivacydai14anniaccessoautonomoaidatisanitaririserv",
+  "mediasetcontroideepfakecosasonorischiecomericonoscerli",
+  "artificialintimacyloveandliesintheageofai",
+  "howtotrapsamaltman",
+  "wow",
+  "nowfixallmistakesyouvemade",
+  "idontunderstandallthisclaudeobsidianobsession",
+  "the772tballegedanthropicaimodelisfakeireconstructeditsgeneratedweights",
+  "civilengineerhereclaudeisincrediblypowerfulinmyfieldbutusingaiispracticallytaboo",
+  "beenmakingthisgamefor3monthsusingonlyaieverythingcodedwithopus55",
+  "officialstatementqwenmodelswillsticktoopensourcetotheend",
+  "justdownloadedtheopenai120bmodelonmygamingpc",
+  "notanothertokspostlocalquantsvsclaudeon9realbugs",
+  "theuscensusbureauandsuperintelligence",
+  "howgijc27cohostvvojpacksaregionalpunchingrowinginvestigativejournalism",
+  "indiablocrallydelhipolicefiringkills4congworkersnounrelatedvideosviralwithfalsec",
+  "viralphotoofhakimiholdingaguinnessworldrecordscertificateaigenerated",
+  "oldandunrelatedvisualssharedasindiablocramlilamaidanrallyboom",
+  "factcheckoldvideosharedasturnoutinramlilamaidanrally",
+  "factcheckvideoshowsmpawakethroughoutprimeministersquestions",
+  "anosintresearchercitedtheconfirmednumberofrussianmilitarypersonnelkilled",
+  "largefirebreaksoutatrussiaskstovooilrefineryafterattack",
+  "opensourceintelligencemarkettoreachusd623billionby2034growingatacagrof1577",
+  "achineseimagingsatelliteandanobjectfromthismonths63satelliteridesharepassedabout"
  ],
  "audio": "audio/2026-11-02.mp3",
- "durata": 121.8
+ "durata": 171.2,
+ "aggiornamenti": [
+  {
+   "generato": "2026-11-02T17:28:29+00:00",
+   "modello": "gemini-3.5-flash-lite",
+   "testi_completi": 21,
+   "riassunto": {
+    "titolo_giorno": "Novità di oggi: Agent Inbox, Linux syscall tables",
+    "in_breve": "Agent Inbox: Consente di assegnare un indirizzo email e contatti Slack e Telegram direttamente ai propri agenti software. Linux syscall tables: Sito e API con la storico completo delle tabelle delle chiamate di sistema Linux per ogni architettura e versione del kernel.",
+    "citati": [
+     "Xmind 2027",
+     "Agent Inbox"
+    ],
+    "da_provare": [
+     {
+      "cosa": "Agent Inbox",
+      "a_cosa_serve": "Consente di assegnare un indirizzo email e contatti Slack e Telegram direttamente ai propri agenti software.",
+      "per_chi": "Lavoro",
+      "ambito": "Organizzazione",
+      "come_iniziare": [],
+      "costo": "Non indicato",
+      "piattaforme": [],
+      "sul_dispositivo": false,
+      "come_sfruttarla": "Gestire la comunicazione automatizzata dei propri assistenti digitali.",
+      "italiano": "Non indicato",
+      "difficolta": "Media",
+      "fonti": [
+       "u1a2"
+      ],
+      "temi": [
+       "Agenti AI",
+       "Lavoro e produttività",
+       "Scrittura e documenti"
+      ],
+      "affidabilita": "Appena lanciato",
+      "prova": "https://www.producthunt.com/products/agent-inbox"
+     }
+    ],
+    "osint": [],
+    "gemme": [
+     {
+      "cosa": "Linux syscall tables",
+      "a_cosa_serve": "Sito e API con la storico completo delle tabelle delle chiamate di sistema Linux per ogni architettura e versione del kernel.",
+      "perche_gemma": "Offre dati completi estratti direttamente dal codice sorgente del kernel.",
+      "con_ai": "",
+      "piattaforme": [
+       "Browser"
+      ],
+      "self_hosted": false,
+      "costo": "Gratis",
+      "difficolta": "Facile",
+      "temi": [
+       "Open source e self-hosting"
+      ],
+      "fonti": [
+       "u1a48"
+      ],
+      "affidabilita": "Appena lanciato",
+      "come_iniziare": [],
+      "sul_dispositivo": false,
+      "come_sfruttarla": "",
+      "prova": "https://syscall.sh/"
+     }
+    ],
+    "sezioni": [
+     {
+      "titolo": "Novità negli strumenti che già usi",
+      "notizie": [
+       {
+        "titolo": "Fusione tra le schede Chat e Work e condivisione dei limiti con Codex",
+        "strumento": "ChatGPT",
+        "riassunto": "OpenAI sta unendo le sezioni Chat e Work per passare dall'idea alla realizzazione in un unico ambiente. Inoltre, il plafond dei token sarà condiviso tra il chatbot e Codex, incidendo sui limiti di utilizzo per gli abbonati Plus, Pro e Business.",
+        "come_provarla": "La funzione viene distribuita gradualmente agli utenti desktop per la raccolta di feedback.",
+        "disponibilita": "In arrivo",
+        "fonti": [
+         "u1a109",
+         "u1a137"
+        ],
+        "temi": [
+         "Assistenti e chatbot",
+         "Lavoro e produttività"
+        ],
+        "affidabilita": "Confermata",
+        "solo_titoli": false
+       }
+      ]
+     },
+     {
+      "titolo": "In breve",
+      "breve": true,
+      "notizie": [
+       {
+        "titolo": "Vulnerabilità critica risolta in ChatGPT",
+        "riassunto": "Una falla legata ai link condivisi permetteva a codice esterno di leggere le chat private prima dell'aggiornamento correttivo di OpenAI.",
+        "fonti": [
+         "u1a141"
+        ],
+        "temi": [
+         "Privacy e sicurezza",
+         "Assistenti e chatbot",
+         "Regole e leggi"
+        ],
+        "affidabilita": "Una fonte",
+        "solo_titoli": false
+       }
+      ]
+     }
+    ],
+    "formato": 2,
+    "controllo_siti": [
+     {
+      "cosa": "Agent Inbox",
+      "sito": "https://www.producthunt.com/r/p/1300411?app_id=339",
+      "esito": "errore: HTTP Error 403: Forbidden"
+     },
+     {
+      "cosa": "Linux syscall tables",
+      "sito": "https://syscall.sh/",
+      "pagina": 24027,
+      "trovate": []
+     }
+    ]
+   }
+  }
+ ]
 }
