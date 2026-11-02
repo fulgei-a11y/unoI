@@ -1,0 +1,752 @@
+{
+ "giorno": "2026-11-02",
+ "generato": "2026-11-02T06:19:05+00:00",
+ "modello": "gemini-3.6-flash",
+ "testi_completi": 9,
+ "riassunto": {
+  "titolo_giorno": "ChatGPT sbarca su Apple CarPlay e migliora la trascrizione audio",
+  "in_breve": "ChatGPT continua ad allargare le sue funzioni quotidiane portando l'assistente vocale direttamente a bordo delle auto compatibili con Apple CarPlay. Inoltre, introduce il supporto alla trascrizione di lunghi file audio con riassunti automatici, dimostrando come l'AI stia diventando sempre più integrata nella routine di guida e di lavoro.",
+  "citati": [
+   "ChatGPT"
+  ],
+  "da_provare": [],
+  "osint": [
+   {
+    "cosa": "Disc Golf Apps OSINT",
+    "a_cosa_serve": "Tecniche e strumenti d'indagine su fonti aperte per estrarre informazioni e tracciare attività analizzando i dati pubblici salvati all'interno delle app sportive all'aperto.",
+    "uso": "Persone e account",
+    "piattaforme": [
+     "Browser"
+    ],
+    "costo": "Gratis",
+    "difficolta": "Facile",
+    "come_sfruttarla": "Verificare la presenza sul campo o la cronologia degli spostamenti pubblici registrata dagli utenti su app dedicate.",
+    "temi": [
+     "OSINT e verifica",
+     "Ricerca e informazioni"
+    ],
+    "fonti": [
+     "a160",
+     "a161"
+    ],
+    "affidabilita": "Da verificare",
+    "come_iniziare": [],
+    "sul_dispositivo": false,
+    "prova": ""
+   }
+  ],
+  "gemme": [
+   {
+    "cosa": "Scibrarian",
+    "a_cosa_serve": "Un'applicazione open source pensata per organizzare sul proprio computer la propria libreria personale di articoli scientifici e ricerche estratte da PubMed.",
+    "perche_gemma": "Gratuita, open source e installabile su proprio server o come programma desktop.",
+    "con_ai": "",
+    "piattaforme": [
+     "Browser",
+     "Windows",
+     "Mac",
+     "Linux"
+    ],
+    "self_hosted": true,
+    "costo": "Gratis",
+    "difficolta": "Facile",
+    "temi": [
+     "Ricerca e informazioni",
+     "Open source e self-hosting"
+    ],
+    "fonti": [
+     "a55"
+    ],
+    "affidabilita": "Da verificare",
+    "come_iniziare": [],
+    "sul_dispositivo": false,
+    "come_sfruttarla": "",
+    "prova": ""
+   },
+   {
+    "cosa": "OmniDiff",
+    "a_cosa_serve": "Uno strumento di confronto visivo estremamente rapido per individuare le differenze tra file di vario tipo, come codici, immagini, PDF e archivi.",
+    "perche_gemma": "Open source, ultra-veloce e progettato per funzionare interamente in locale.",
+    "con_ai": "",
+    "piattaforme": [
+     "Windows",
+     "Mac",
+     "Linux"
+    ],
+    "self_hosted": false,
+    "costo": "Gratis",
+    "difficolta": "Media",
+    "temi": [
+     "Lavoro e produttività",
+     "Open source e self-hosting",
+     "Scrittura e documenti"
+    ],
+    "fonti": [
+     "a47"
+    ],
+    "affidabilita": "Appena lanciato",
+    "come_iniziare": [],
+    "sul_dispositivo": false,
+    "come_sfruttarla": "",
+    "prova": "https://github.com/ivankovic/omnidiff",
+    "piattaforme_verificate": true
+   }
+  ],
+  "sezioni": [
+   {
+    "titolo": "Novità negli strumenti che già usi",
+    "notizie": [
+     {
+      "titolo": "Integrazione con Apple CarPlay",
+      "strumento": "ChatGPT",
+      "riassunto": "ChatGPT si integra direttamente con l'interfaccia di Apple CarPlay con l'ultimo aggiornamento, consentendo agli utenti di interagire con l'assistente vocale anche durante la guida.",
+      "come_provarla": "",
+      "disponibilita": "Disponibile ora",
+      "fonti": [
+       "a22"
+      ],
+      "temi": [
+       "Assistenti e chatbot",
+       "Lavoro e produttività",
+       "Voce e audio"
+      ],
+      "affidabilita": "Da verificare",
+      "solo_titoli": true
+     },
+     {
+      "titolo": "Trascrizione di file audio fino a 512 MB e modalità Record su Mac",
+      "strumento": "ChatGPT",
+      "riassunto": "Viene introdotta la possibilità di trascrivere file audio voluminosi fino a 512 MB, insieme alla modalità di registrazione diretta su Mac e alla generazione automatica dei riassunti del testo.",
+      "come_provarla": "",
+      "disponibilita": "Disponibile ora",
+      "fonti": [
+       "a28"
+      ],
+      "temi": [
+       "Voce e audio",
+       "Scrittura e documenti",
+       "Assistenti e chatbot"
+      ],
+      "affidabilita": "Da verificare",
+      "solo_titoli": true
+     },
+     {
+      "titolo": "Aggiornamento autunnale con assistente AI e modifiche contestuali",
+      "strumento": "Luminar",
+      "riassunto": "Il software di fotoritocco Luminar si aggiorna con funzioni di modifica automatica basate sull'analisi della scena, un assistente AI integrato e opzioni di stampa dirette.",
+      "come_provarla": "",
+      "disponibilita": "Disponibile ora",
+      "fonti": [
+       "a15"
+      ],
+      "temi": [
+       "Foto e immagini",
+       "Lavoro e produttività",
+       "Assistenti e chatbot"
+      ],
+      "affidabilita": "Da verificare",
+      "solo_titoli": true
+     }
+    ]
+   },
+   {
+    "titolo": "In breve",
+    "breve": true,
+    "notizie": [
+     {
+      "titolo": "Garante Privacy: raccomandazioni sulla tutela dei minori e la prevenzione truffe",
+      "riassunto": "Il Garante per la protezione dei dati personali ha richiamato l'attenzione sulla tutela della privacy dei minori online e sui rischi di furto dei dati personali attraverso contenuti o annunci ingannevoli sui social network.",
+      "fonti": [
+       "a130",
+       "a128"
+      ],
+      "temi": [
+       "Privacy e sicurezza",
+       "Regole e leggi"
+      ],
+      "affidabilita": "Una fonte",
+      "solo_titoli": true,
+      "come_provarla": ""
+     }
+    ]
+   }
+  ],
+  "formato": 2,
+  "controllo_siti": [
+   {
+    "cosa": "Disc Golf Apps OSINT",
+    "esito": "nessun sito da aprire"
+   },
+   {
+    "cosa": "Scibrarian",
+    "esito": "nessun sito da aprire"
+   },
+   {
+    "cosa": "OmniDiff",
+    "sito": "https://github.com/ivankovic/omnidiff",
+    "pagina": 410554,
+    "trovate": [
+     "Mac",
+     "Linux"
+    ]
+   }
+  ]
+ },
+ "articoli": {
+  "a160": {
+   "titolo": "Episode 25: Disc Golf Apps, Tracking Aircraft, and Searching with FOFA",
+   "link": "https://osintnewsletter.com/p/episode-25-disc-golf-apps-tracking",
+   "data": "2026-10-30T16:03:16+00:00",
+   "testo": "Listen now (35 mins) | Tools, tactics, and fresh investigations expanding the open-source intelligence toolkit.",
+   "fonte": "The OSINT Newsletter",
+   "tipo": "community",
+   "solo_titolo": false,
+   "categoria": "OSINT",
+   "id": "a160"
+  },
+  "a128": {
+   "titolo": "Eu Kids Act, il Garante privacy: “Bene la verifica dell’età sui social, ma raccogliendo solo i dati strettamente necessari”",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNcEpfV0N5RHhmWEtDSTJ5dlMtdkVzWXo2UHVINmtCdG1fZkVZZ1lQdWhmb3BESVB0UHpscTVObHRyY0w5aDJoV194Zk5zUmF5b1lfSkR3YUlxakxJUHNRSURiU2otbUx5WWdWeDRDRHg4ck9MUG5rVmhGUzdzcXZ1TEN3ZHIwekNNSmZ5UzcyUnVOYkx2cFNOZDhFLXJfRkNBRXZqWkNpZ0dfUGdJSjNxYVdZVGFiOTFhQkdNbmthSWtZVDZMT3dpZ01KYTVjWDRBbURIQUVhb3oxblIzQ212Q0VKYw?oc=5",
+   "data": "2026-11-01T11:41:40+00:00",
+   "testo": "",
+   "fonte": "Orizzonte Scuola Notizie",
+   "tipo": "minore",
+   "solo_titolo": true,
+   "categoria": "Italia",
+   "id": "a128"
+  },
+  "a15": {
+   "titolo": "Luminar Fall Update brings Scene-Aware Editing, AI Assistant and built-in printing",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUV9uSEJjdl9jSzJ6bkN6ZmZsOUVYMWNkMU1VTUh6dlNMdktlNk8zSTFORE80LUVEa0hBb0tpc3loeXlIV3g2NGtUS25LNmVoNFQzR0VYaFNQMGRIOVRadUUtdFRLZmRXM0E1MEx5SGlsOTNBVmlTVTlBN3Utd29ETWRfYzNNSmdOMHE4WFpuREktaHNVa0VKUzh6V3R6Ykwta0lWT0I1MXNON285ZVkxcTdYRXNZV2ZHdFI0TXQxSEZjUQ?oc=5",
+   "data": "2026-11-01T12:27:47+00:00",
+   "testo": "",
+   "fonte": "Camera Jabber",
+   "tipo": "minore",
+   "solo_titolo": true,
+   "categoria": "Strumenti",
+   "id": "a15"
+  },
+  "a22": {
+   "titolo": "ChatGPT arriva su Apple CarPlay con l'ultimo aggiornamento",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1BVHc5ZGRmQ3VrRGRHLUNyZFVTc3JTX29fcFpIcm9ocHhDNmVPbXdVbUZDQi1hR3B1bEZIODRnVlN3UnAtalJpeTVKeHhnVnlYRXpYMnpyR083ZFFTN1ZPamNaSm5ZOVdGaGx5M2pwcTZ6R2RVVHhuWkRB?oc=5",
+   "data": "2026-11-01T03:27:19+00:00",
+   "testo": "",
+   "fonte": "Motor1.com Italia",
+   "tipo": "minore",
+   "solo_titolo": true,
+   "categoria": "Strumenti",
+   "id": "a22"
+  },
+  "a47": {
+   "titolo": "OmniDiff – Opensource, super fast, content aware Git difftool, in Rust",
+   "link": "https://github.com/ivankovic/omnidiff",
+   "data": "2026-11-01T13:02:30+00:00",
+   "testo": "I have been researching what the ultimate diff tool would look like, based on actual diffs in open source repositories. OmniDiff can diff: code (25 languages), config, images, PDFs, archives, cursors, fonts... It's fast. It can diff C++ files of tens of thousands of lines in under 100ms, on a 2023 ThinkPad T14s. It's open source. AGPLv3. It's based on real diffs. I looked at the 7400 repositories…",
+   "sito": "https://github.com/ivankovic/omnidiff",
+   "fonte": "Show HN – progetti utili (gemme)",
+   "tipo": "vetrina",
+   "solo_titolo": false,
+   "categoria": "Gemme",
+   "id": "a47"
+  },
+  "a130": {
+   "titolo": "Halloween, dal Garante privacy i consigli per contrastare truffe e furto dei dati personali",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcHlpWVpoa3NBNUFCY1ZSaUxYaDFIb2U4NnNCYkY2bHNybHlHczNKVlRBTi11QS1Jd214TXNTVXV1dTRMS2RNYTUwZS0xeHJ3RGluVUh6WFBtVV9sSTZNOWNpZjVHTWktRGFkcU9PWWRDV3pCOUZUOFAzWEtGTE1RSElMOEFHcWI5b081Q05GbWlkR0ZXdnFLbzB6Ti1UUzNaSGtDX1V2Z1czdXFWUHh1OVM5RDMxczZO?oc=5",
+   "data": "2026-10-30T12:06:06+00:00",
+   "testo": "",
+   "fonte": "Il Sole 24 ORE",
+   "tipo": "testata",
+   "solo_titolo": true,
+   "categoria": "Italia",
+   "id": "a130"
+  },
+  "a161": {
+   "titolo": "The OSINT Newsletter - Issue #128",
+   "link": "https://osintnewsletter.com/p/128",
+   "data": "2026-10-29T16:01:58+00:00",
+   "testo": "Collecting OSINT from Disc Golf Apps",
+   "fonte": "The OSINT Newsletter",
+   "tipo": "community",
+   "solo_titolo": false,
+   "categoria": "OSINT",
+   "id": "a161"
+  },
+  "a55": {
+   "titolo": "Scibrarian: Your personal PubMed catalog and research workflow",
+   "link": "https://www.reddit.com/r/selfhosted/comments/1xljfa9/scibrarian_your_personal_pubmed_catalog_and/",
+   "sito": "",
+   "data": "2026-11-02T00:47:06+00:00",
+   "testo": "Hello everyone, 4 months ago, I was finally tired of my PubMed research projects looking like this on my PC: https://preview.redd.it/sp36m2gsf3zh1.png?width=650&format=png&auto=webp&s=860b083b424f7d538cafcd159c47466379f9a7b2 So I built Scibrarian , a free and open source app for keeping a PubMed library on your own device. You can host it on a server, download the pre-built desktop client, or run…",
+   "fonte": "Reddit r/selfhosted",
+   "tipo": "community",
+   "solo_titolo": false,
+   "categoria": "Gemme",
+   "id": "a55"
+  },
+  "a28": {
+   "titolo": "Come trascrivere un audio con ChatGPT: file fino a 512 MB, modalità Record su Mac e riassunti",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5wVkVWVlFTeWlMNDEwUVFZTmEyeTBJa3ZZU2NQOEdKQkhkeG9tRnNHV3hBdTBhMmx2cUZ4ckhyU2pJV3JYLWJ6eVdxcGxmWGxtY29nUEUweGs3dGpFbnRjM2YyWXB1ZWE5?oc=5",
+   "data": "2026-11-01T16:24:24+00:00",
+   "testo": "",
+   "fonte": "ZON.it",
+   "tipo": "minore",
+   "solo_titolo": true,
+   "categoria": "Strumenti",
+   "id": "a28"
+  }
+ },
+ "fonti": [
+  {
+   "nome": "Product Hunt (AI)",
+   "ok": true,
+   "presi": 6
+  },
+  {
+   "nome": "Show HN (nuovi progetti)",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "Nuove app AI (internazionale)",
+   "ok": true,
+   "presi": 10
+  },
+  {
+   "nome": "Nuove app AI (Italia)",
+   "ok": true,
+   "presi": 8
+  },
+  {
+   "nome": "Novità AI da provare (Italia)",
+   "ok": true,
+   "presi": 4
+  },
+  {
+   "nome": "AI sul dispositivo (internazionale)",
+   "ok": true,
+   "presi": 8
+  },
+  {
+   "nome": "AI sul dispositivo (Italia)",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "Android Police (AI su Android)",
+   "ok": true,
+   "presi": 4
+  },
+  {
+   "nome": "Windows Central (AI su Windows)",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "Ollama (nuove versioni)",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "Open WebUI (nuove versioni)",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "Show HN – progetti utili (gemme)",
+   "ok": true,
+   "presi": 4
+  },
+  {
+   "nome": "Reddit r/selfhosted",
+   "ok": true,
+   "presi": 6
+  },
+  {
+   "nome": "Reddit r/opensource",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "Alternative open source (Google News)",
+   "ok": true,
+   "presi": 2
+  },
+  {
+   "nome": "n8n (nuove versioni)",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "Immich (nuove versioni)",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "OpenAI",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "Google (blog ufficiale)",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "Google Gemini (blog)",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "Nuove funzioni AI (Google News)",
+   "ok": true,
+   "presi": 12
+  },
+  {
+   "nome": "Anthropic / Claude",
+   "ok": true,
+   "presi": 6
+  },
+  {
+   "nome": "Microsoft Copilot",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "Altri assistenti AI (Perplexity, Mistral, Meta AI…)",
+   "ok": true,
+   "presi": 8
+  },
+  {
+   "nome": "Hugging Face (modelli e strumenti aperti)",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "Mistral AI",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "The Verge",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "TechCrunch",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "Ars Technica",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "MIT Technology Review",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "The Decoder",
+   "ok": true,
+   "presi": 7
+  },
+  {
+   "nome": "TLDR AI (newsletter)",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "ANSA",
+   "ok": true,
+   "presi": 6
+  },
+  {
+   "nome": "Wired Italia",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "Il Sole 24 Ore Tecnologia",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "Punto Informatico",
+   "ok": true,
+   "presi": 2
+  },
+  {
+   "nome": "HDblog",
+   "ok": true,
+   "presi": 3
+  },
+  {
+   "nome": "AI4Business",
+   "ok": true,
+   "presi": 4
+  },
+  {
+   "nome": "Agenda Digitale (AI)",
+   "ok": true,
+   "presi": 3
+  },
+  {
+   "nome": "Garante Privacy e AI",
+   "ok": true,
+   "presi": 3
+  },
+  {
+   "nome": "Malwarebytes (app e truffe AI)",
+   "ok": true,
+   "presi": 2
+  },
+  {
+   "nome": "Reddit",
+   "ok": true,
+   "presi": 8
+  },
+  {
+   "nome": "Reddit (AI locale)",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "Simon Willison (prove pratiche di strumenti AI)",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "Bellingcat (guide e strumenti)",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "GIJN (guide per giornalisti investigativi, via Google News)",
+   "ok": true,
+   "presi": 2
+  },
+  {
+   "nome": "OSINT – verifica e fact-checking (internazionale)",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "OSINT – nuovi strumenti (internazionale)",
+   "ok": true,
+   "presi": 2
+  },
+  {
+   "nome": "OSINT – strumenti (Italia)",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "Facta (fact-checking, contenuti falsi e AI)",
+   "ok": true,
+   "presi": 3
+  },
+  {
+   "nome": "Week in OSINT (Sector035)",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "The OSINT Newsletter",
+   "ok": true,
+   "presi": 2
+  },
+  {
+   "nome": "IDMO (osservatorio italiano sulla disinformazione)",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "EU DisinfoLab",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "Reddit (OSINT)",
+   "ok": true,
+   "presi": 4
+  },
+  {
+   "nome": "Hacker News (OSINT)",
+   "ok": true,
+   "presi": 1
+  }
+ ],
+ "visti": [
+  "agentmash",
+  "ernd",
+  "acbridge",
+  "plutodoor",
+  "agnos",
+  "godwit",
+  "appledebutsnewmusicallyinclinedaiassistantforcreators",
+  "aiappaidsjapangovtworkerstodraftparliamentaryanswers",
+  "agodalaunchesaiassistantforseamlesstravelbooking",
+  "aipoweredcoffeerunsandservicevisitsarecomingtoriviansin2027",
+  "metasaiassistantmusechallengesamazonsadvertisingmodelamzn",
+  "birminghamairportusesaiassistantbabstoenhancepassengerexperienceandcustomersuppo",
+  "getmanyaiopinionswiththismultiaitoollifetimeaccessisonsaleforjust2997",
+  "deepseeklaunchessuperagentaitochallengeanthropicsclaudecode",
+  "luminarfallupdatebringssceneawareeditingaiassistantandbuiltinprinting",
+  "askkarryonaianswersfortravelprofessionalsfromtrustednews",
+  "scalarelostelviodalsoggiornodicasaegratislappcreatadauningegneremilaneseconlinte",
+  "geminioraconosceletueabitudinielesfruttaquandoguidi",
+  "intelligenzaartificialeformazioneperimprenditori",
+  "droniperilsanguedapattialleeoliearrivailserviziodellasp",
+  "intelligenzaartificialeerealtàvirtualeatorinoarrivalavisionstaffweekdiunita",
+  "chatgptarrivasuapplecarplayconlultimoaggiornamento",
+  "webinarxtbnovembre2026eventigratuitiintelligenzaartificialeemercati",
+  "intelligenzaartificialeiseiveripericolidicuinonsiparla",
+  "crearecontenutiperisocialconchatgpt3tecnicheefficaci",
+  "chatgptelamemoriadeinostrisegretiilrischiodiunaschedaturapsicologicadimassa",
+  "franciatassasultrafficodatiagoogleemeta10miliardiattesi",
+  "cometrascrivereunaudioconchatgptfilefinoa512mbmodalitàrecordsumaceriassunti",
+  "iusedfreelocalaitoorganizehundredsofphotoswithoutuploadingasingleonehowtogeek",
+  "koboldcppv1124releasedmusicandspeechexpanditslocalaiambitions",
+  "exclusivehowgermanysfastfollowereconomyreshapestheaipcraceaslocalaiawaitskillera",
+  "localaiorcloudsubscriptionwhichisworthitbreakevenmath",
+  "snapdragonx2eliteusersreportupto87slowerllmperformanceafteradrenodriverupdatepre",
+  "ichangedtwosettingsinmylocalaisetupandstoppedneedingmorevram",
+  "iletalocalllmcontrolmythermostattoseeifitcouldbeatnestandecobeehowtogeek",
+  "nvidiartxsparkreviewthelittleenginethatcouldnt",
+  "ailocaleocloudlesettedomandeacuinessunosaancorarispondere",
+  "questaappandroidèpericolosaspialeazionisuicontibancari",
+  "comepersonalizzaregooglefotoconlenuoveraccolte",
+  "ailocaleoabbonamentocloudqualeconvieneilcalcolodelpareggio",
+  "perplexityportablecomputerportalailocalesullegpunvidiartxprivacyepotenzasenzaclo",
+  "aftertestingiton100photosgooglephotosnewgeminiintegrationisbothgoodandhorrible",
+  "igavegeminimyclutteredmacdownloadsfolderitsortedfilesthewayiactuallysearch",
+  "howgeminifixedmydecisionparalysisonnetflixbetterthanitsownalgorithmevercould",
+  "itestedallofsamsungsaicapabilitiestolearnwhichtoolssavetimeandwhichonesaregimmic",
+  "hackerbookshackertubebutforbooksmentionedonhn",
+  "omnidiffopensourcesuperfastcontentawaregitdifftoolinrust",
+  "nescontra1987portasmcandthencwebassembly",
+  "alanguagemodelthatlivesinabootsector",
+  "pocketidv3withacompletelyrewrittenuiisaroundthecornerweneedyourfeedback",
+  "myglancesetuphomemedianas",
+  "selfhostedproxyfornpmpypiandpubnewreleaseswait7daysbeforeanyoneatworkcaninstallt",
+  "securelyaccessingyourselfhostedserviceswithmtlsandcloudflaretunnels",
+  "nonarrselfhostedrecommendations",
+  "scibrarianyourpersonalpubmedcatalogandresearchworkflow",
+  "mylanpartymanagementprojectnoai10yearsold",
+  "thedecoherencetrapwhenaislopdrownsoutthesignalinanendlessseaofnoise",
+  "d2webdiabloii113copensourceandplayableinbrowser",
+  "opensourceaiandtrust",
+  "howmuchofaiisbannedinaprojecttho",
+  "revolutsaysselfhostedglmcutitsaicodingcosts90",
+  "gitea283releasedwith20securityfixesperformanceimprovements",
+  "n8nstable",
+  "maybellinelaunchesvirtualmakeuptryoninchatgpt",
+  "weeksaheadofexpectedanthropicipodeepseeklaunchesautonomouscodingagenttotakeoncla",
+  "googlecloudlaunchesfreeaicoursesforfinancialservicesandlegalteams",
+  "internetcomputerconnectorisnowavailableinanthropicsclaude",
+  "anthropicaddsaclaudecoderuleonopus55thatblocksrecreationsofexistinggames",
+  "promotechmarketinglaunchesaitrainingcourseandcertificationforsmallbusinesses",
+  "geminilaunchessharedavatarssofriendscanstarinyouraivideos",
+  "shopifyrollsoutaiagentconnectorsfraudtoolsandrevampedshoppingexperience",
+  "mavericktourismlaunchesaivisibilityplatformsignal",
+  "mistralailauncheslarge4modelforcybersecurity",
+  "andrejkarpathylauncheshackertubewith6454videocatalog",
+  "googleunveilsaiagentsthatdesigndnaandlearnfromthelab",
+  "anthropicsaysyoucantbemeantoclaudeitsnotaboutfeelings",
+  "anthropicordersaitoolclaudetostopremakingvideogames",
+  "anthropicexpandstextwatermarkingtoolderclaudeversionsbeginningnovember3",
+  "anthropicsclaudeslashespharmaceuticaldocumentreviewtimesby89",
+  "newaidrivenwindowsmalwarefeedsstolendatatoclaudetorankvictimsassetsbyvaluethende",
+  "anthropicupdatesclaudetostopitfromrecreatingexistingvideogames",
+  "fy27q1pressreleasesinvestorrelations",
+  "mcgrawhilltobringlicensededucationcontentintomicrosoftcopilotthroughnewaiplugin",
+  "atdropboxanewcopilotlinkand200fewerjobs",
+  "estéelauderexpandsaipartnershipwithmicrosoft",
+  "microsoftcopilotmemoryretentionexposesthegapbetweensaveddataandusableevidence",
+  "deepseekunveilsaisuperagentincodingracewithopenaianthropic",
+  "deepseekdevelopingaiagentrequiringlesshumaninputreport",
+  "grokwatermarkarrivesonxaiapitextonnovember7",
+  "24htechnologybinancerecoverswithdrawalsdeepseekacceleratesairace",
+  "perplexityaisearchlatestversionforwindows",
+  "grokbotcannowresearchandbuygiftsforyoubasenor",
+  "deepseekdropsenhancedcodingagentwithaimtorivalanthropic",
+  "appleintelligencefeatureslaunchinginchinawithios273",
+  "nemotronhalloween",
+  "lechonkbuiltforcoderstrustedbydefenders",
+  "openaimightrebranditsdatacentersasaicomputecampuses",
+  "aicanmaketechceosliveseasierwhatabouteveryoneelse",
+  "appleceosaysthecompanydoesntwanttoshipaiforaissake",
+  "4dayslefthowtechcrunchfoundersummithelpsyoumakemoreusefulconnectionstoscale",
+  "judgeallowsnaacplawsuitoverxaidatacenterpollutiontomoveforward",
+  "adobeistestinghowwellaiagentscanuseeditingtoolslikeaphotoshopprofessionalwould",
+  "empatheticpromptscanturnaichatbotsintoseeminglytraumatizedconversationalpartners",
+  "chineseaimodelsarepoliticallycomplexnotjustgovernmentmouthpiecesstudyfinds",
+  "openaiissteeringchatgptuserstowardmorepaidusage",
+  "googlewantsvideoaitounderstandwhatpeopleneedastheywork",
+  "openaisupcomingchatandworkmergerinchatgptsignalstheendofallyoucanpromptpricing",
+  "anthropicswatermarkrolloutleavesaloopholeontwoolderclaudemodels",
+  "cappelliniespotirriverenticonlialespeserecorddellemidterm",
+  "notiziarioansamed",
+  "lillustratoredelgruffalòvalutounazionelegalecontroleaziendediia",
+  "nasceosservatoriocivicochiarimentidatariawelfarecomuni",
+  "borsatokyoaperturaincalo044",
+  "leiatendonoaconsigliaresoloifarmacipiùnotiecostosi",
+  "ailasfidadeglispecialistioltreigeneralisticèspazioancheperlitalia",
+  "estensioneclaudecodedicursorinstallabackdoorssh",
+  "thenewyorktimesvsopenaiavvertimentodiwikimedia",
+  "xboxusagiàlaipercrearevideogiochiscoppialapolemica",
+  "modalitàaiautosuiclimatizzatorisamsungconvienedavverooppureno",
+  "samaltmanlaramneinostripcèunosprecomeglionelcloud",
+  "ailocaleperlagestionedocumentalequalèlamigliore",
+  "recoverynellacybersecurityladifesadecisivanelleraai",
+  "aiunasolaregolaperopporsialtraininglapropostadellebigtechaglieditori",
+  "bigtechcapitalieutiliquantocostadavverolacorsaallai",
+  "articolidimartinaquintanaautoreperagendadigitale",
+  "alphabetcrollaamazondeludeilmercatochiederitorniallai",
+  "intelligenzaartificialenelfiscolimitieresponsabilità",
+  "eukidsactilgaranteprivacybenelaverificadelletàsuisocialmaraccogliendosoloidatist",
+  "lallarmedelgaranteperhalloweenattentiaiminorieallusosuisocialchenefannoigenitori",
+  "halloweendalgaranteprivacyiconsiglipercontrastaretruffeefurtodeidatipersonali",
+  "banksareblockingaiagentsfromcustomeraccounts",
+  "aihalloweenvideoswhosgettingyourphotos",
+  "ramneedstobecollectivizedforthegreatergood",
+  "anthropicsmythosclassmodelallegedlyleakedonhuggingface",
+  "igaveclaudeaccesstoremotetelescopesnowshebookstheskyeverynight",
+  "dontbegreedydonateallramatyournearestdatacenter",
+  "osamosam",
+  "opus55survivingtheentireoctoberaireleasecycle",
+  "wereactuallygoingtogetfable55andgpt62astrathesameweek",
+  "4argonrandomlystartedspeakinginchinese",
+  "dontpeoplepayattentionanymorewhenbuyinghardwareforai",
+  "sorrysammyquiteterriblehomedramisat100nowpatchedstratatomakedeepseekv41agentsess",
+  "gettingincredibleresultswithasinglertx3090tiand128gboframdeepseekv41flash101735t",
+  "deepseekexploringsuperagentdesigntowardsamoreautonomousagentsystem",
+  "amicrazyorglm53flashishilarious",
+  "quotingkylekingsbury",
+  "howmanyjournalistsdoesittaketofillanolympicswimmingpoolgijnsguidetosizeandnumber",
+  "howsurvivorshelpedthemarshallprojectinvestigateyouthresidentialtreatmentcenters",
+  "falseimagesofvandalisedapccampaignbillboardsaigenerated",
+  "nothesevideosdontshowlocalsinarunachalfightingwithchinesetroops",
+  "falseviralvideoofmanpeelingasphaltoffroadnotfilmedinghana",
+  "binancerespondstofalseclaimsofwithholdinginformation",
+  "californiaretireeloses500000topigbutcheringscamthenfallsforthesamescamagain",
+  "howdwfactchecksfakenews",
+  "octoberosintpulseaigeneratedimagerygenderstereotypesandchangingfaceofprotestmisi",
+  "lerisorsecondivisedelmercosursovranitàfluvialepescaecooperazioneambientaletrapar",
+  "limmaginediquestipoliziottichesfilanoabraccettoconimanifestantièfalsa",
+  "lacriminalitàminorilenonèlemergenzacheciraccontiamo",
+  "questovideodipersonecherecuperanoscatolediiphonenellostrettodihormuzèfalso",
+  "episode25discgolfappstrackingaircraftandsearchingwithfofa",
+  "theosintnewsletterissue128",
+  "raieidmocrescelimpegnocontroladisinformazioneo",
+  "disinfoupdate21102026",
+  "eusatelliteimagerydelayedovergazaandpartsofwestbankby24hours",
+  "opencorporatespaywalledtheirapievenplainsearchwroteafreegleifbasedreplacement",
+  "careerchangelanguagestoosintcorporateintelligence",
+  "defcon33talkprettygoodprivacyexaminingthepgpkeypaircreationhabitsofdarknetvendor",
+  "criminalarrestwarrantforosinttrolljessenickles"
+ ],
+ "audio": "audio/2026-11-02.mp3",
+ "durata": 121.8
+}
