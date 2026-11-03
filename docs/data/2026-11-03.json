@@ -143,6 +143,102 @@
    "solo_titolo": false,
    "categoria": "Strumenti",
    "id": "a2"
+  },
+  "u1a4": {
+   "titolo": "Beaquaro Studio",
+   "link": "https://www.producthunt.com/products/beaquaro-studio",
+   "sito": "https://www.producthunt.com/r/p/1301840?app_id=339",
+   "data": "2026-11-02T08:12:30-08:00",
+   "testo": "Write once, post everywhere. Your link in bio, too.",
+   "fonte": "Product Hunt (AI)",
+   "tipo": "vetrina",
+   "solo_titolo": false,
+   "categoria": "Strumenti",
+   "id": "u1a4"
+  },
+  "u1a6": {
+   "titolo": "SUN Web & API",
+   "link": "https://www.producthunt.com/products/sun-ai",
+   "sito": "https://www.producthunt.com/r/p/1302197?app_id=339",
+   "data": "2026-11-02T14:13:45-08:00",
+   "testo": "Turn prompts and PDFs into audio, on the web or via API",
+   "fonte": "Product Hunt (AI)",
+   "tipo": "vetrina",
+   "solo_titolo": false,
+   "categoria": "Strumenti",
+   "id": "u1a6"
+  },
+  "u1a171": {
+   "titolo": "Apple vieta app di incontri e chatbot romantici ai minori",
+   "link": "https://www.punto-informatico.it/apple-vieta-app-incontri-chatbot-romantici-minori/",
+   "data": "2026-11-03T16:45:34+00:00",
+   "testo": "Per Apple, il cuore è una faccenda da maggiorenni. Da qualche giorno a Cupertino hanno deciso di mettere il cartello “vietato ai minori di 18 anni” non solo su app di appuntamenti, ma anche su fidanzate e fidanzati virtuali che sussurrano frasi dolci attraverso lo schermo. App romantiche e chatbot AI: Apple introduce il limite dei 18 anni Gli sviluppatori dovranno dichiarare, con più dettagli di prima, che cosa fanno davvero le loro app. Due sono le domande che pesano. La prima: l’app permette di condividere con altri la propria posizione nel mondo reale? La seconda: ci sono funzioni che favoriscono appuntamenti, relazioni o comportamenti sessuali? E qui Apple non fa differenza tra persone in carne e ossa e compagni virtuali fatti di codice. Il verdetto cambia a seconda della risposta. Chi offre funzioni di dating o relazioni si becca un’età minima di 18 anni, senza sconti. Per la condivisione della posizione la cosa è meno secca: l’effetto sul limite d’età dipenderà dalle leggi locali, quindi in certi Paesi scatterà e in altri meno. Le nuove voci compariranno nel questionario di App Store Connect dal 16 novembre. Chi sviluppa ha tempo fino al 12 gennaio 2027 per compilare tutto, e questo vale per ogni app. Poi la burocrazia scende in campo e chi è in ritardo se la vedrà con l’App Store. Il filtro 18+ diventa più stringente Una categoria 18+ nell’App Store esisteva da tempo. Finora era il recinto del gioco d’azzardo, della violenza, di droghe, alcol e tabacco, della nudità e dei contenuti sessuali. Anche la maggior parte delle piattaforme di incontri era già riservata agli adulti, per conto suo. Il punto è che i ragazzini sono bravissimi a infilarsi nelle crepe di qualunque regolamento. Apple prova quindi a tappare le fessure, e il nuovo bersaglio sono i chatbot capaci…",
+   "fonte": "Punto Informatico",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Italia",
+   "id": "u1a171",
+   "testo_completo": true
+  },
+  "u1a139": {
+   "titolo": "Apple Watch’s AI features for rewinding and recapping conversations begin beta testing",
+   "link": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
+   "data": "2026-11-03T07:20:00+00:00",
+   "testo": "Apple’s AI-powered “Audio Intelligence” technology for the Apple Watch is rolling out into beta testing on Tuesday, initially for developers in the iOS 27.3 update, after first being announced at the company’s Surprise and Shine hardware event in September. The technology includes a set of four opt-in AI features that allow Apple Watch Series 12 wearers to detect important sounds, identify songs, catch up on conversations, and take notes. The news was announced via a press release sent out via Apple in India, but the update has not yet rolled out in the U.S. market as of this morning. The sound recognition feature will help deaf and hard-of-hearing users identify important sounds like sirens, alarms, or doorbells from their watch, while the song recognition feature taps into Apple’s Shazam app to detect music playing in the background and identify the song name and artist. However, the more potentially controversial features are those that listen to human conversations: Live Rewind and Siri Recaps. Given the backlash to AI recording devices, like Meta’s AI glasses and other AI wearables, Apple has attempted to carve out a space where the features can be useful to Apple Watch owners, while still respecting the privacy of those around them. With Live Rewind, the idea is to let you go back in time to see what someone just said, in case you missed it. For instance, if someone was giving you verbal directions or reading a long list of specials at a restaurant, you could double-press on the Watch’s digital crown to see what was said in the last 15 seconds as a text snippet displayed on the watch face. You can either view this snippet and then do nothing, and it will disappear permanently. Or you can save it to the standalone Siri app that shipped with iOS 27 for later access…",
+   "fonte": "TechCrunch",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Testate tech",
+   "id": "u1a139",
+   "testo_completo": true
+  },
+  "u1a136": {
+   "titolo": "Apple restricts dating apps and AI companions to users 18 and up",
+   "link": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/",
+   "data": "2026-11-03T15:38:27+00:00",
+   "testo": "Apple is adjusting its App Store policies to make it more difficult for minors to use online dating apps or AI companions that engage in “sexual or romantic content,” the tech giant shared in an announcement to developers on Monday. The new rules follow other changes the company has made to better protect minors, which include the rollout of its age assurance technology globally and more parental controls and child safety features. While most major dating services typically restrict their platform to adults, Apple’s new policy will require all apps offering dating or romantic relationship features to carry an 18+ rating. Starting November 16, developers will be required to include new content descriptors to ensure their app’s age ratings reflect its features, the company said. It’s perhaps more interesting how this rule could impact AI companion apps, or those where such functionality is one of many features. Often targeted at younger people, Character.AI, Replika, and other AI apps let people create AI companions, including friends, lovers, boyfriends and girlfriends, and other fantasy characters. xAI last year also launched 3D animated AI companions that allowed users to unlock NSFW capabilities. As of last summer, top AI companion apps across the Apple App Store and Google Play had been downloaded 220 million times globally. In addition to “dating and relationships,” apps will also need to indicate if they are sharing the real-world locations of a user with another person or group as part of their functionality. Any app doing so raises obvious privacy concerns, especially if the user wasn’t aware that their location was being shared. The company noted that in Brazil, apps that provide location-sharing features for families can request an official rating from the gov…",
+   "fonte": "TechCrunch",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Testate tech",
+   "id": "u1a136",
+   "testo_completo": true
+  },
+  "u1a9": {
+   "titolo": "Peji",
+   "link": "https://www.producthunt.com/products/peji",
+   "sito": "https://www.producthunt.com/r/p/1300938?app_id=339",
+   "data": "2026-11-01T14:31:50-08:00",
+   "testo": "An AI chat with a real browser you control",
+   "fonte": "Product Hunt (AI)",
+   "tipo": "vetrina",
+   "solo_titolo": false,
+   "categoria": "Strumenti",
+   "id": "u1a9"
+  },
+  "u1a57": {
+   "titolo": "Open WebUI v0.13.0",
+   "link": "https://github.com/open-webui/open-webui/releases/tag/v0.13.0",
+   "sito": "",
+   "data": "2026-11-03T12:23:16+00:00",
+   "testo": "Added 📑 Tabbed workspace. The Tabs button at the top of a chat now opens a workspace for files, multiple terminal sessions, artifacts, previews, voice calls and comments. Add tabs from the + menu, drag to reorder them, and create and save new files directly into the selected terminal. Keep the conversation and its working files together while coding, analyzing data or reviewing generated document…",
+   "fonte": "Open WebUI (nuove versioni)",
+   "tipo": "ufficiale",
+   "solo_titolo": false,
+   "categoria": "Strumenti",
+   "id": "u1a57"
+  },
+  "u1a11": {
+   "titolo": "Corvo",
+   "link": "https://www.producthunt.com/products/corvo-3",
+   "sito": "https://www.producthunt.com/r/p/1302462?app_id=339",
+   "data": "2026-11-02T21:37:15-08:00",
+   "testo": "A mailbox that tidies itself as mail arrives",
+   "fonte": "Product Hunt (AI)",
+   "tipo": "vetrina",
+   "solo_titolo": false,
+   "categoria": "Strumenti",
+   "id": "u1a11"
   }
  },
  "fonti": [
@@ -625,8 +721,374 @@
   "opencorporatespaywalledtheirapievenplainsearchwroteafreegleifbasedreplacement",
   "careerchangelanguagestoosintcorporateintelligence",
   "defcon33talkprettygoodprivacyexaminingthepgpkeypaircreationhabitsofdarknetvendor",
-  "criminalarrestwarrantforosinttrolljessenickles"
+  "criminalarrestwarrantforosinttrolljessenickles",
+  "flockbay",
+  "prism",
+  "beaquarostudio",
+  "infinoai",
+  "sunwebapi",
+  "nana",
+  "oneroof",
+  "peji",
+  "asklog",
+  "corvo",
+  "nexupira",
+  "scrawl",
+  "machinemail",
+  "orejadevangogh",
+  "ncircletechlaunchesnvibeaiappbuilder",
+  "halliburtonlaunchesaitoolforoilgasinvestmentdecisions",
+  "dostlaunchesaskdostaiassistantforfinanceandoperationsteams",
+  "digitalculturegrouplaunchesresonancestudioanaitoolbuilttogetbrandsoutoftheapolog",
+  "googlelaunchesaiappdreambeansinindiawhatitishowitworksandlanguagessupported",
+  "googlesexperimentalaiappdreambeanslaunchesinindiaknowhowitworks",
+  "googlelaunchesdreambeansaiapptoindiabringspersonalisedstorycollectionsin14langua",
+  "inheritancemarriageandnamechangetheministryofjusticelaunchedaiassistantlexaprovi",
+  "halliburtonlanciaunostrumentodiintelligenzaartificialeperledecisionidiinvestimen",
+  "volvolintelligenzaartificialeèpropedeuticaalfattodievitareincidenti",
+  "anchelinpshalasuaintelligenzaartificialeariannalanuovaaidellistituto",
+  "rilevatoridiiaestrumentiperumanizzareliaistruzioniperlusocopilotstudio",
+  "chatgptuniscechateworkcosacambiaequandoarriverà",
+  "androidfamilyhubarrivasuandroidgeminirestalimitatoinitalia",
+  "regimipensionisticidifferenziatieageismoilimitidaconsiderare",
+  "googlelaunchesfreeofflineaidigitalskillstrainingplatformfornigerians",
+  "googlelaunchesfreeofflineaidigitalskillstrainingfornigerians",
+  "smartphoneoperatingsystemmarketforecastto2035ondeviceaiandecosystemlockintodrive",
+  "freegoogleofflineaihub3mafricansnodata2026",
+  "suimontidaunisenzainternetetelefonolasenatricenaturalealministroursosituazioneur",
+  "applemusicportailliquidglasssuandroidlenovitàdalliconaallinterfaccia",
+  "perplexityportablecomputerportalailocalesullegpunvidiartxprivacyepotenzasenzaclo",
+  "unpescaresesviluppaunintelligenzaartificialecherispondecomeunamicovero",
+  "thinkyour8gbwindowspcistooweakforaimicrosoftseesthingsdifferently",
+  "openwebuiv0130",
+  "hackertimesanewyorktimesinspiredversionofhackernews",
+  "subvocaltalktoyourcomputerwithoutmakingnoise",
+  "warsawinvoxelsaninteractive3dmapofthecitycentre",
+  "iveupdatedmylinuxsystemcallwebsiteandapi",
+  "hackerhackhackerbooksbutforpostspostedonhn",
+  "wikihackhackertubebutforwikipediaarticlesmentionedonhn",
+  "movingawayfromicloudstep1applepasswordstovaultwarden",
+  "anyselfhostedemergencydisasterprepapps",
+  "anyoneherehostfluxer",
+  "projectupdatefail2banreportv052cumulativesecurityreleasexssauthbypassfixes",
+  "soanyprogressonnewadjustments",
+  "amaintainersadviceoncontributingtoopensourcein2026",
+  "tailscalefunnelletmeshareoneappwithafriendwithoutopeningasingleportonmyrouter",
+  "selfhostinggotaoneclickappstoreanditdoesntneedadminrightsordocker",
+  "revolutsaysselfhostedopenaimodelscutitscodingcosts90",
+  "pizzabotisanemaillikeinboxforaiagentsthatrunsinthebackgrounditsaselfhosteddeskto",
+  "photoprismaipoweredphotosappaddspostgresqlsupportmcpintegration",
+  "n8nn8n310",
+  "heimstadenischangingresidentialrealestatemanagementwithai",
+  "wereprovidingfundingfororganizationsbuildingaiforteachers",
+  "aiinthelearningera",
+  "designingresponsibleaiforlearning",
+  "expandingaieducatortrainingtonewcountries",
+  "athenahealthlaunchesservertoconnectpatientrecordstoanthropicsclaude",
+  "githubcopilotisnowavailableinjetbrainsair",
+  "adaptlypostlauncheschatgptplugintoscheduleandpublishsocialmediaposts",
+  "msp360launchesmcpserverbringingbackupmanagementintoclaudeandchatgpt",
+  "bouyguestelecomlaunchescustomerinteractionchannelonchatgpt",
+  "anthropiclaunchesmessagethreadscuttingclaudecodewaittimeby35",
+  "election2026openailauncheselectionwarroom",
+  "progressonprovableinferenceforlargelanguagemodels",
+  "anthropictoutsclaudeschipdesignskillstoipoinvestors",
+  "anthropicspeedsupclaudecodewithmessagethreadsbutyourtokenbillstaysthesame",
+  "anthropicsaidtouseclaudetomakeitsownchips",
+  "anthropicneedstodiscloseitstokenomicsbeforeitsipo",
+  "anthropiccracksdownongamecloninginclaudecodeafterwaveofaibuiltknockoffs",
+  "fy27q1pressreleasesinvestorrelations",
+  "microsoftcopilotaipredictsapudgypenguinspenguexplosion",
+  "microsoftaiceowarnsindustryagainsttryingtobuildconsciousmachines",
+  "researchsolutionsbringsscitearticlegalaxytomicrosoftcopilot",
+  "mistrallaunchesopenweightaimodelml4torivaltopsystems",
+  "deepseeklaunchescreatormodeforcustomaipluginsx",
+  "5iphonefeaturesyoushouldbeusingafterupdatingtoios27",
+  "anartistsaysmetasbotsoverwhelmedherwebsiteandleftherscramblingtoprotectherbusine",
+  "aiglassesforsailingfindadurablepairwithusefulfeatures",
+  "applesios273betalandsnov3withchinafirstappleintelligenceandarebuilthealthapp",
+  "statebenchtestinghowlanguagemodelstrackstatechangesoverlongdocuments",
+  "paletteteachingasmallmodeltobuilddecksinyourdesignlanguage",
+  "transformersmodelintegrationcontracts",
+  "googleisentirelydisablingsearchinschoolsthatdontwantai",
+  "midtermelections2026allthenews",
+  "appleisallinonaiitsownandeveryoneelses",
+  "openaiisquietlyrenamingdatacenterscomputecampuses",
+  "anthropicisstillgrapplingwiththeeconomicsofcompute",
+  "googlewillletschoolsdisableitsaitoolsbutnotwithoutsacrificingsearch",
+  "applerestrictsdatingappsandaicompanionstousers18andup",
+  "thetechcrunchfoundersummitagendaisonlyhalfthereasontobeinbostononnov4",
+  "tomorrowtechcrunchfoundersummittakesoverbostonandwhenpassratesincrease",
+  "applewatchsaifeaturesforrewindingandrecappingconversationsbeginbetatesting",
+  "howreversegametheorycouldkeepaiagentsincheck",
+  "aiagentstakeoveratsetisallentelescopearrayscanningforextraterrestrialintelligenc",
+  "openaihiresexarmysecretarygainingbipartisanreachjustasmidtermsloom",
+  "anthropicsmessagethreadscuttimetofirsttokenby35percentforlongconversations",
+  "nvidiapushescloudcustomerstocutbackonchinabusiness",
+  "huaweitellscustomerstofindtheirownaichipmemoryeffectivelyoutsourcingprocurementt",
+  "bughunterscannowearnupto172000fromopenaiascompanyrampsupsecurity",
+  "claudemessagethreadsastra62spottedanthropicnearsrsi",
+  "avvocatogeneralecorteueusodiarticoliattraversoiapuòviolaredirittieditori",
+  "vonderleyenserveautorizzazioneueunicaperiveicoliautonomi",
+  "applevietaappdiincontriechatbotromanticiaiminori",
+  "comecreareunsitoperlapropriaattivitàconclaude",
+  "openaipromettedatacentercheconsumanopoco",
+  "chatgpteclaudecostanotroppogartnersuggerisceimodelliaperti",
+  "attacchiaisupermercatiil54dinoitemedirestaresenzacibo",
+  "openaiaumentaipremiperlascopertadellevulnerabilità",
+  "quantocostalaramnel2026rispettoal2020convienelusato",
+  "paywalldeigiornaliaggiraticonilbrowserbravescattaladenuncia",
+  "galaxyzfold8vendedipiùgrazieaiproblemideldisplaydiiphoneduo",
+  "kpmgceooutlook2026aiecybersecuritytralepriorità",
+  "sextingconichatbotcosarivelalostudioitalianosuigiovani",
+  "governanceaiinaziendarischieruolodelboard",
+  "attacchiaifrigoriferioralecontromisureeccoquali",
+  "dopoilpnrrlaiallargaildivariotragrandiimpreseepmi",
+  "fascicolosanitariopiùautonomiaeprivacypergliover14",
+  "codiciinvigorelenuoveregoledelgaranteprivacysultrackingpixel",
+  "falsepositivemalwareai438082898onx360ce427530and428160",
+  "gpt61theworldsbestmodel",
+  "witnesshim",
+  "opus55mediumwithblendermcpisinsanewiththerightprompting",
+  "whichllmiswinningyourdailyusecaselately",
+  "asolodeveloperbuiltthisin4dayswithopus55godotthisisgettingridiculous",
+  "noteventhegeminiflashmodelitisflashlite",
+  "geminiaron",
+  "alibabasqwencoderepojustleakedqwen4maxqwen4coderplusandqwen4omni120b",
+  "deepseekv5isplannedtobepretrainedonhuaweiascendchips",
+  "mitresearcherssaygpt6astraimprovedasmallqwenmodelsmathscorefrom79to481bydirectly",
+  "underratedbenefitoflocalaispeed",
+  "qwen3827bonmylaptopcaninterpretmodelweightstoo",
+  "tipsforcollaboratingwithscientistsandexpertsstéphanehorel",
+  "howsurvivorshelpedthemarshallprojectinvestigateyouthresidentialtreatmentcenters",
+  "factcheckvideoofpunjabcmbhagwantmannindrunkenstateisadeepfake",
+  "russiabuilds16newairdefensetowersaroundputinsvaldairesidencenvinfographic",
+  "threathuntingwhatitishowitworkswhyitmatters",
+  "oneofrussiaslargestoilrefineriesattackedinyaroslavlmediainterfaxukraine",
+  "latecnologiaildigitalelinformazionelintelligenzaartificialeilgiornalismomodernoe",
+  "questovideodipersonecherecuperanoscatolediiphonenellostrettodihormuzèfalso",
+  "acousticgeolocation"
  ],
  "audio": "audio/2026-11-03.mp3",
- "durata": 65.9
+ "durata": 136.8,
+ "aggiornamenti": [
+  {
+   "generato": "2026-11-03T17:27:00+00:00",
+   "modello": "gemini-3.6-flash",
+   "testi_completi": 26,
+   "riassunto": {
+    "titolo_giorno": "Convertire PDF in audio con SUN e riordinare l'e-mail con Corvo",
+    "in_breve": "L'aggiornamento odierno mette in evidenza strumenti pratici per la gestione dei documenti e della posta elettronica, come SUN Web & API per l'ascolto dei file e Corvo per la pulizia automatica delle e-mail. Spazio anche al controllo della navigazione web assistita da AI con Peji.",
+    "citati": [
+     "SUN Web & API",
+     "Corvo",
+     "Peji"
+    ],
+    "da_provare": [
+     {
+      "cosa": "SUN Web & API",
+      "a_cosa_serve": "Servizio web che trasforma istruzioni di testo e documenti PDF in file audio riproducibili.",
+      "per_chi": "Lavoro e tutti i giorni",
+      "ambito": "Voce e audio",
+      "come_iniziare": [],
+      "costo": "Non indicato",
+      "piattaforme": [
+       "Browser"
+      ],
+      "sul_dispositivo": false,
+      "come_sfruttarla": "Ascoltare report e documenti di lavoro in formato PDF come se fossero podcast durante gli spostamenti.",
+      "italiano": "Non indicato",
+      "difficolta": "Facile",
+      "temi": [
+       "Voce e audio",
+       "Scrittura e documenti"
+      ],
+      "fonti": [
+       "u1a6"
+      ],
+      "affidabilita": "Appena lanciato",
+      "prova": "https://www.producthunt.com/products/sun-ai"
+     },
+     {
+      "cosa": "Corvo",
+      "a_cosa_serve": "Casella di posta elettronica automatica che organizza e riordina i messaggi ricevuti in tempo reale.",
+      "per_chi": "Lavoro",
+      "ambito": "Organizzazione",
+      "come_iniziare": [],
+      "costo": "Non indicato",
+      "piattaforme": [
+       "Browser"
+      ],
+      "sul_dispositivo": false,
+      "come_sfruttarla": "Mantenere pulita la casella e-mail di lavoro senza dover smistare manualmente i messaggi in arrivo.",
+      "italiano": "Non indicato",
+      "difficolta": "Facile",
+      "temi": [
+       "Lavoro e produttività",
+       "Scrittura e documenti"
+      ],
+      "fonti": [
+       "u1a11"
+      ],
+      "affidabilita": "Appena lanciato",
+      "prova": "https://www.producthunt.com/products/corvo-3"
+     },
+     {
+      "cosa": "Beaquaro Studio",
+      "a_cosa_serve": "Piattaforma per creare e pubblicare contenuti contemporaneamente su più canali social e gestire la pagina dei link in bio.",
+      "per_chi": "Lavoro",
+      "ambito": "Lavoro e produttività",
+      "come_iniziare": [],
+      "costo": "Non indicato",
+      "piattaforme": [
+       "Browser"
+      ],
+      "sul_dispositivo": false,
+      "come_sfruttarla": "Diffondere le comunicazioni della propria attività su tutti i profili social con un solo invio.",
+      "italiano": "Non indicato",
+      "difficolta": "Facile",
+      "temi": [
+       "Lavoro e produttività"
+      ],
+      "fonti": [
+       "u1a4"
+      ],
+      "affidabilita": "Appena lanciato",
+      "prova": "https://www.producthunt.com/products/beaquaro-studio"
+     },
+     {
+      "cosa": "Peji",
+      "a_cosa_serve": "Chatbot AI integrato con un browser web reale che l'utente può controllare durante la ricerca di informazioni.",
+      "per_chi": "Lavoro e tutti i giorni",
+      "ambito": "Ricerca",
+      "come_iniziare": [],
+      "costo": "Non indicato",
+      "piattaforme": [
+       "Browser"
+      ],
+      "sul_dispositivo": false,
+      "come_sfruttarla": "Farsi affiancare dall'AI nell'analisi di pagine web mantenendo la navigazione diretta nel browser.",
+      "italiano": "Non indicato",
+      "difficolta": "Facile",
+      "temi": [
+       "Assistenti e chatbot",
+       "Ricerca e informazioni"
+      ],
+      "fonti": [
+       "u1a9"
+      ],
+      "affidabilita": "Appena lanciato",
+      "prova": "https://www.producthunt.com/products/peji"
+     }
+    ],
+    "osint": [],
+    "gemme": [
+     {
+      "cosa": "Open WebUI",
+      "a_cosa_serve": "Interfaccia grafica open source da installare sul proprio computer per interagire con i modelli di intelligenza artificiale locale.",
+      "perche_gemma": "È gratuita, rispetta la privacy dei dati e con la versione 0.13 introduce una schermata a schede per gestire file, terminali e chiamate vocali.",
+      "con_ai": "Permette di chattare ed elaborare documenti con modelli AI salvati sul PC senza inviare informazioni a server esterni.",
+      "piattaforme": [
+       "Browser",
+       "Mac"
+      ],
+      "self_hosted": true,
+      "costo": "Gratis",
+      "difficolta": "Media",
+      "temi": [
+       "Open source e self-hosting",
+       "AI sul dispositivo",
+       "Foto e immagini"
+      ],
+      "fonti": [
+       "u1a57"
+      ],
+      "affidabilita": "Fonte ufficiale",
+      "come_iniziare": [],
+      "sul_dispositivo": false,
+      "come_sfruttarla": "",
+      "prova": "https://github.com/open-webui/open-webui/releases/tag/v0.13.0",
+      "piattaforme_verificate": true
+     }
+    ],
+    "sezioni": [
+     {
+      "titolo": "Novità negli strumenti che già usi",
+      "notizie": [
+       {
+        "titolo": "In test la funzione per trascrivere e riavvolgere le conversazioni dal vivo",
+        "strumento": "Apple Watch",
+        "riassunto": "Apple ha avviato i test della funzione Live Rewind, che consente di riascoltare e leggere a schermo gli ultimi 15 secondi di una conversazione vocale direttamente dallo smartwatch, oltre a identificare brani musicali e suoni di avviso.",
+        "come_provarla": "La funzione è presente in versione beta nella build per sviluppatori di iOS 27.3.",
+        "disponibilita": "In arrivo",
+        "fonti": [
+         "u1a139"
+        ],
+        "temi": [
+         "Voce e audio",
+         "AI sul dispositivo",
+         "Scrittura e documenti"
+        ],
+        "affidabilita": "Una fonte",
+        "solo_titoli": false
+       }
+      ]
+     },
+     {
+      "titolo": "In breve",
+      "breve": true,
+      "notizie": [
+       {
+        "titolo": "Apple impone il limite dei 18 anni per i chatbot di compagnia",
+        "riassunto": "Apple ha aggiornato il regolamento dell'App Store vietando ai minori di 18 anni il download di applicazioni che offrono assistenti AI con funzioni di relazione virtuale o compagnia romantica.",
+        "fonti": [
+         "u1a171",
+         "u1a136"
+        ],
+        "temi": [
+         "Regole e leggi",
+         "Privacy e sicurezza",
+         "Assistenti e chatbot"
+        ],
+        "affidabilita": "Confermata",
+        "solo_titoli": false
+       }
+      ]
+     }
+    ],
+    "formato": 2,
+    "controllo_siti": [
+     {
+      "cosa": "Beaquaro Studio",
+      "sito": "https://www.producthunt.com/r/p/1301840?app_id=339",
+      "esito": "errore: HTTP Error 403: Forbidden"
+     },
+     {
+      "cosa": "Peji",
+      "sito": "https://www.producthunt.com/r/p/1300938?app_id=339",
+      "esito": "errore: HTTP Error 403: Forbidden"
+     },
+     {
+      "cosa": "SUN Web & API",
+      "sito": "https://www.producthunt.com/r/p/1302197?app_id=339",
+      "esito": "errore: HTTP Error 403: Forbidden"
+     },
+     {
+      "cosa": "Corvo",
+      "sito": "https://www.producthunt.com/r/p/1302462?app_id=339",
+      "esito": "errore: HTTP Error 403: Forbidden"
+     },
+     {
+      "cosa": "Open WebUI",
+      "sito": "https://github.com/open-webui/open-webui/releases/tag/v0.13.0",
+      "pagina": 191178,
+      "trovate": [
+       "Browser",
+       "Mac"
+      ]
+     }
+    ]
+   }
+  }
+ ]
 }
