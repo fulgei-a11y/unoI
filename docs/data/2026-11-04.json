@@ -273,6 +273,18 @@
    "categoria": "Testate tech",
    "id": "u1a133",
    "testo_completo": true
+  },
+  "u2a16": {
+   "titolo": "Uncracked City, detective game where you question LLM suspects that lie",
+   "link": "https://uncracked.city",
+   "data": "2026-11-03T21:20:03+00:00",
+   "testo": "To give you some context on the project. I'm a solo founder and I use AI heavily in my work. The idea came from wanting players to discover cities. Each city has its own history, so every case is set in a real city with real public places. The crime and the people are on other hand invented. The part that I care most is the playable aspect of the game, a model plays the detective and must solve t…",
+   "sito": "https://uncracked.city",
+   "fonte": "Show HN (nuovi progetti)",
+   "tipo": "vetrina",
+   "solo_titolo": false,
+   "categoria": "Strumenti",
+   "id": "u2a16"
   }
  },
  "fonti": [
@@ -925,10 +937,50 @@
   "videofromgujaratfalselysharedasoneofdelhipoliceprotestingatpolicehq",
   "factcheckdidprabowocallonindonesianstoboycottsocialmediaplatforms",
   "factcheckdeepfakesofindianandrussianforeignaffairsministersgoviral",
-  "festiveshoppingscamstakeanewturnas24lakhfakeassetstargetoneindianbank"
+  "festiveshoppingscamstakeanewturnas24lakhfakeassetstargetoneindianbank",
+  "uncrackedcitydetectivegamewhereyouquestionllmsuspectsthatlie",
+  "tnregistrationdeptclocks1950crorerevenueinoctlaunchesaiapptotrackcourtcases",
+  "athenahealthexpandssageathenaonesaiassistantbringingthenextgenerationofcustomerd",
+  "stmicroelectronicslanciaunanuovapiattaformaperlaconvergenzatecnologica",
+  "googlelegalaricercaallintelligenzaartificialelescuolecherifiutanolaiperdonosearc",
+  "affinityportasuipadgraficafotoeimpaginazionegratis",
+  "gdn432026perprofessionisticonsapevolidellai",
+  "octionagencylaunchesecosystemfordigitalgrowthandprivateai",
+  "imeasuredmylocalllmspowerbillanditcostslessthanasingle20chatgptclaudeorgeminisub",
+  "googlesfreeofflineaihubtargets3mafricans2026",
+  "googlemapstrovalastradasuiphoneduosiaggiornaesfruttameglioildisplay",
+  "geminigemsaregoingawaysoonhereshowyoushouldgetready",
+  "helpwithansibleandborgbackup",
+  "selfhostedsanitycheck",
+  "istillcantbelievemaintainershavetodealwithshitlikethistoo",
+  "argonfieldnoteslaunchesindependentgemini4guide",
+  "googlelaunchesaishoppingexperienceincanadaandenablesdirectpurchasefromgeminiandt",
+  "openailaunchesdaybreaktocounterclaudemythosandsecuresoftwareآيفونإسلام",
+  "googlelaunchesvoiceremixingforgemini38flashttsinaistudio",
+  "openailaunchesvoiceinputforchatgptfinanceslinkedaccountsrequired",
+  "anthropicusesclaudetoshowbacterialandphageproteinsformvaults",
+  "claudevschatgptwhichaiisactuallybetterin2026",
+  "microsoftclaritywithnewagenticanalyticsaskclarity",
+  "claudegrows1260percentbutchatgptstillleads",
+  "appleintelligenceisfinallycomingtochinainios273report",
+  "17betterwayselonmuskcouldhavewasted446million",
+  "geminiforhomenowplugsintoattssmartsecuritysystem",
+  "nothingceosayscompanysmysteriousaifirstdeviceisdroppingnextmonth",
+  "almostnooneusesaiagentstobooktheirubercompanysays",
+  "openaiisalreadytryingtoshapethe2028election",
+  "metaacquiresaicodingstartupconductor",
+  "opensourceaiisboominghuggingfaceexplainswhoprofits",
+  "duckduckgopitchesitselftoschoolsamidbacklashovergooglesaipolicy",
+  "bigtechclaimsvotersaibacklashisantitrumpnotantitech",
+  "chatgptcannowturntextpromptsandphotosintoanimatedgifswithopenaisimages26model",
+  "showmeclaudecodeprojectsthatdontlookvibecoded",
+  "fromanotebooksketchtoananimatedgodotboss3daiopus55",
+  "newqwen38flashnextunslothdynamicv31ggufs",
+  "deepseekaloneaccountedfor53ofall27trilliontokensonopenrouteryesterdayopenweights",
+  "bestreverseimagesearchappsforiphoneandandroid"
  ],
  "audio": "audio/2026-11-04.mp3",
- "durata": 188.0,
+ "durata": 203.4,
  "aggiornamenti": [
   {
    "generato": "2026-11-04T19:13:06+00:00",
@@ -1313,6 +1365,58 @@
       "cosa": "OpusClip 4.0",
       "sito": "https://www.producthunt.com/r/p/1301917?app_id=339",
       "esito": "errore: HTTP Error 403: Forbidden"
+     }
+    ]
+   }
+  },
+  {
+   "generato": "2026-11-04T22:24:57+00:00",
+   "modello": "gemini-3.5-flash-lite",
+   "testi_completi": 7,
+   "riassunto": {
+    "titolo_giorno": "Arriva Uncracked City, il gioco investigativo in cui interroghi sospettati basati su intelligenza artificiale",
+    "in_breve": "Tra le novità di oggi spicca Uncracked City, un videogioco in cui si veste panni da detective per interrogare sospettati guidati da modelli linguistici. Una dimostrazione concreta di come l'interazione con l'intelligenza artificiale possa diventare un'esperienza ludica originale, ambientata in città reali con casi e personaggi inventati.",
+    "citati": [
+     "Uncracked City"
+    ],
+    "da_provare": [
+     {
+      "cosa": "Uncracked City",
+      "a_cosa_serve": "Un gioco investigativo in cui il giocatore indaga in città reali e interroga sospettati gestiti da intelligenza artificiale che possono mentire.",
+      "per_chi": "Tutti i giorni",
+      "ambito": "Casa",
+      "come_iniziare": [],
+      "costo": "Non indicato",
+      "piattaforme": [
+       "Android"
+      ],
+      "sul_dispositivo": false,
+      "come_sfruttarla": "",
+      "italiano": "Non indicato",
+      "difficolta": "Facile",
+      "fonti": [
+       "u2a16"
+      ],
+      "temi": [
+       "Assistenti e chatbot"
+      ],
+      "affidabilita": "Appena lanciato",
+      "prova": "https://uncracked.city",
+      "piattaforme_verificate": true
+     }
+    ],
+    "osint": [],
+    "gemme": [],
+    "sezioni": [],
+    "formato": 2,
+    "controllo_siti": [
+     {
+      "cosa": "Uncracked City",
+      "sito": "https://uncracked.city",
+      "pagina": 54161,
+      "trovate": [
+       "Android"
+      ]
      }
     ]
    }
