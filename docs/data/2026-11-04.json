@@ -61,6 +61,218 @@
    "solo_titolo": true,
    "categoria": "Laboratori",
    "id": "a94"
+  },
+  "u1a66": {
+   "titolo": "Best Photo Picker: point it at a photo folder and get the best shots back, all on your own hardware (MIT, Docker)",
+   "link": "https://www.reddit.com/r/selfhosted/comments/1xnu71s/best_photo_picker_point_it_at_a_photo_folder_and/",
+   "sito": "",
+   "data": "2026-11-04T17:26:53+00:00",
+   "testo": "Picking good photos out of a few thousand of my family photos to send the grandparents kept taking too much time, so I created a tool for it. It runs on my own hardware cause I don't necessarily want to have it all in Google Photos. Best Photo Picker scores each photo on sharpness, exposure, faces, and composition, folds bursts and near-duplicates into a single choice, and hands you the best N. I…",
+   "fonte": "Reddit r/selfhosted",
+   "tipo": "community",
+   "solo_titolo": false,
+   "categoria": "Gemme",
+   "id": "u1a66"
+  },
+  "u1a34": {
+   "titolo": "Android Auto e Gemini: la nuova Personal Intelligence e il nodo privacy",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNaHJaSHctU3ZXc05SN0RRRjlOdlpIY0ZUbXlnUllIMl9MYWxiajI0aTVsbGRQVmRwc3p4MHh6LUtDSzhhazBBZi1WcDhmZXZRenI5S1FRWl9SRk9zRk9LLUE4S1RJY01yVmdBQklQZWNXZ3prblROMXRuQU5LcVZ5YTE0VkJxV0Q4djlVUWlmb3VGdmVVQTNzOVp1bWUya1cwT2NLUEVJbDdKazRfWFZSLUhKZGpQQjZiSkhjdVFBNlpSTkd2V2hxdk0tRzN4ZXdQNGc3NzlIRdIB3AFBVV95cUxPTkdRNmg0djJnX01KbGxTZ3dFWjRKb2FySkZNUDV4dk1TVUNQeUxDN1RnYmx5OXJIMXA4eGFTLXY4XzU4cFRxRTNBbkxaSng0RlRBU0pRc3FvVVA1Yk5ucFQ4SFc2c1c1UkpCWmRLMlhId2NxZm1GTm5DZXpOWVRhSURSZHlnajh5Vml0ekpYeU40V18wVjktOUFIaWw1a1h2clI1WmtSVm14YVo1MVF2bUVZQUpLaFFvOXRhZEVJLVpwTGw3a2tWR0c0WXdQZVRWdk1HZjlDQjduVDMy?oc=5",
+   "data": "2026-11-04T15:54:44+00:00",
+   "testo": "",
+   "fonte": "MotorAge New Generation",
+   "tipo": "minore",
+   "solo_titolo": true,
+   "categoria": "Strumenti",
+   "id": "u1a34"
+  },
+  "u1a11": {
+   "titolo": "OpusClip 4.0",
+   "link": "https://www.producthunt.com/products/opusclip",
+   "sito": "https://www.producthunt.com/r/p/1301917?app_id=339",
+   "data": "2026-11-02T09:11:39-08:00",
+   "testo": "Turn raw footage into ready-to-publish videos with AI",
+   "fonte": "Product Hunt (AI)",
+   "tipo": "vetrina",
+   "solo_titolo": false,
+   "categoria": "Strumenti",
+   "id": "u1a11"
+  },
+  "u1a5": {
+   "titolo": "Hira",
+   "link": "https://www.producthunt.com/products/hira",
+   "sito": "https://www.producthunt.com/r/p/1302591?app_id=339",
+   "data": "2026-11-02T23:57:55-08:00",
+   "testo": "Your free personal agent for job search",
+   "fonte": "Product Hunt (AI)",
+   "tipo": "vetrina",
+   "solo_titolo": false,
+   "categoria": "Strumenti",
+   "id": "u1a5"
+  },
+  "u1a65": {
+   "titolo": "Im on a mission to create the best self hosted reading client alternative to Kindle and Apple Books",
+   "link": "https://www.reddit.com/r/selfhosted/comments/1xnrt3j/im_on_a_mission_to_create_the_best_self_hosted/",
+   "sito": "",
+   "data": "2026-11-04T15:56:27+00:00",
+   "testo": "Hey everyone! i've been working diligently the last few months developing a free (no in app purchases, no ads etc) reading app with an extremely high level of polish and attention to detail. What drove me to make this was the locked in system of Kindle and other publishers, so this is a DRM free epub and pdf reader which integrates with calibre, book orbit(only through OPDS at the moment), Zotero…",
+   "fonte": "Reddit r/selfhosted",
+   "tipo": "community",
+   "solo_titolo": false,
+   "categoria": "Gemme",
+   "id": "u1a65"
+  },
+  "u1a155": {
+   "titolo": "Schools that turn off Google's AI will lose search too starting in 2027",
+   "link": "https://the-decoder.com/schools-that-turn-off-googles-ai-will-lose-search-too-starting-in-2027/",
+   "data": "2026-11-04T10:06:23+00:00",
+   "testo": "Starting in 2027, Google plans to turn off AI features in its school products by default, letting schools decide what to enable. The catch: schools that block AI entirely on their devices will also lose access to Google Search, since the two systems are now too deeply intertwined to separate. Given Google's grip on the US school market, that \"choice\" doesn't leave schools with much room to maneuv…",
+   "fonte": "The Decoder",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Testate tech",
+   "id": "u1a155"
+  },
+  "u1a163": {
+   "titolo": "IA e scuola, Google disattiverà l'intelligenza artificiale per gli istituti Usa",
+   "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNS01sWHFmZ0NTYi1yNzRDczAxUGhJR0pGVVY2TEhCMGY3NVVwOVVvV3h0a1psS3FKOE9BUGpSUHFVcjdCWkhySXUtMWlsV09CNVpFdTkxa09BamRfUXFfWUhHZ2s1cVNVM0stZVRYR1BUMFlGbFpJMFRXYVZ3bmJCS05FWnl0T0ExczVUTVlveWl3NzJWOXZ5VENFNUM2VnQwTGZRZ2lxTHBQQTZuTDFNb2JxaTlkenRQZXlDSmN2N0o0eGtUNExXa3dMVlFVaVFBbm1qY2x4N3NaVXVETXE3ZjliWks3YkZvZkdJOWJfX180dFNDNnpfQkNSaWgtcnEyQkttSFV1ekd1aWVOdDl1WkVab0VjazjSAZwCQVVfeXFMTTdHaW5ld0RQbmUxbGhXMkNfakRJZE96Y0tFaF9WSTlnTnNhVWpMMld3UE1YX0FMczZINEZ3S1Q5Szg1LU93c1VvLVZLMXRKZXRRX254ckhnenpENnltNHU2cU44Njc1TDNyN01NSTNYNVFWUkFNVTBLV05GanloRkVWOTFsZWNObnVpT0tXUFV3TGxsR3kzZ0phWlFKVnpZd1ppNUxoc203TkFGM0NNb1d1U0hoLUtxRVBuN2NXc3hmTGE4d0h4MW9TVlRjNFRvWi1OX3ByS0NlMDhmcVpubmlUMndibHpRb1Y4ME15Y00ybXcwSWNBTG13elQ3S1BxZHItY3dPMlNuNmIxa2ZlTmdGN05Dc1RFN3VZZ1g?oc=5",
+   "data": "2026-11-04T10:26:00+00:00",
+   "testo": "",
+   "fonte": "ANSA",
+   "tipo": "testata",
+   "solo_titolo": true,
+   "categoria": "Italia",
+   "id": "u1a163"
+  },
+  "u1a175": {
+   "titolo": "Google blocca la Ricerca agli studenti se la scuola disattiva l’AI",
+   "link": "https://www.punto-informatico.it/google-blocca-ricerca-studenti-scuola-disattiva-ai/",
+   "data": "2026-11-04T11:19:49+00:00",
+   "testo": "Dall’anno prossimo, le scuole che disattivano le funzioni di intelligenza artificiale perderanno anche Google Search per gli account degli studenti K-12, cioè dall’asilo alle superiori. I servizi che diventerebbero inaccessibili sono Gemini, NotebookLM, Gemini su Classroom e, appunto, la Ricerca di Google. Per i primi tre la scelta ha una sua logica, sono strumenti basati sull’intelligenza artificiale generativa e, senza queste funzioni, perderebbero la loro ragion d’essere. La Ricerca, invece, è un servizio diverso, ed è proprio la sua inclusione a rendere la decisione di Big G un tantino controversa. Google Search e Gemini diventano inseparabili: cosa cambia per le scuole A giustificare la scelta ci ha pensato Chris Phillips, vicepresidente di Google per l’istruzione. Per lui la Ricerca e l’AI sono ormai profondamente integrate. Quindi, a interruttore spento, gli studenti non potranno cercare niente e vedranno solo un avviso della scuola che spiega che il servizio non è disponibile. La dichiarazione di Phillips suona curiosa se si guarda oltre la Manica. Nel Regno Unito, per decisione della Competition and Markets Authority (la CMA, l’autorità per la concorrenza), gli editori dei siti possono già tirarsi fuori da AI Overview e AI Mode senza perdere posizioni nella ricerca tradizionale. Anzi, è un obbligo per Google. Prima di quella sentenza il gioco era o tutto o niente. Se un editore provava a impedire a Google di usare i suoi contenuti per addestrare l’AI o per scrivere i riassunti, rischiava di sparire dai risultati o di sprofondare in fondo alla classifica. Quindi separare Search e AI, quando c’è qualcuno che ti costringe, si può fare eccome. Nota a margine: lì parliamo di editori, qui di scuole. Ma il principio dell’integrazione “profonda” scricchiola un po’. L’…",
+   "fonte": "Punto Informatico",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Italia",
+   "id": "u1a175",
+   "testo_completo": true
+  },
+  "u1a134": {
+   "titolo": "Google faces backlash for plan that would turn off Search for schools that restrict AI",
+   "link": "https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/",
+   "data": "2026-11-04T16:17:22+00:00",
+   "testo": "Google was met with swift backlash on Tuesday after it announced that schools using Google’s K-12 software will not be able to use Search unless they opt in to using AI tools. Chris Phillips, vice president for education at Google, told The New York Times that “Search and AI are deeply integrated,” so if a student’s school doesn’t opt in to using AI tools like Gemini, then students “will not have access to search, and they’ll see a message from their school that indicates it’s not available.” Even as Google made this announcement on a busy Election Day, several left-leaning politicians took time to speak up about their concerns. Senator Bernie Sanders (I-VT) accused Google in an X post of “extortion,” writing that “Google is threatening schools: if you stop your students from using AI, we will cut off your access to Google Search.” Senator Richard Blumenthal (D-CT) said on X that Google is “more concerned with forcing Gemini into schools than enabling students to succeed.” Lina Khan, the former Federal Trade Commission chair and staunch advocate against monopolies, also condemned Google’s decision as anticompetitive. “This highlights the danger of allowing an unregulated monopolist to control an essential service,” she wrote. “Multiple courts have found Google liable for violating antitrust laws, and this latest move shows it remains unchastened.” New York City mayor Zohran Mamdani accused Google of being a monopoly, commenting, “No corporation should have the power to dictate how we teach our children.” While Search is a necessary tool for information gathering, educators worry that its built-in AI overviews could dissuade students from finding answers themselves. For millions of students required to use Chromebooks and Google education tools, using a different search…",
+   "fonte": "TechCrunch",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Testate tech",
+   "id": "u1a134",
+   "testo_completo": true
+  },
+  "u1a6": {
+   "titolo": "LiveReacting for ChatGPT",
+   "link": "https://www.producthunt.com/products/livereacting",
+   "sito": "https://www.producthunt.com/r/p/1303000?app_id=339",
+   "data": "2026-11-03T05:45:28-08:00",
+   "testo": "Run 24/7 and pre-recorded live streams from ChatGPT",
+   "fonte": "Product Hunt (AI)",
+   "tipo": "vetrina",
+   "solo_titolo": false,
+   "categoria": "Strumenti",
+   "id": "u1a6"
+  },
+  "u1a124": {
+   "titolo": "ChatGPT will now make you animated GIFs",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6",
+   "sito": "",
+   "data": "2026-11-04T13:00:00-05:00",
+   "testo": "ChatGPT can now create GIFs using a prompt or a photo uploaded to the AI chatbot. The update, which is rolling out alongside OpenAI’s new Images 2.6 model, allows you to adjust the GIF’s animation speed, edit individual frames, and share it with others. ChatGPT will now make you animated GIFs You can use ChatGPT to edit a GIF’s animation speed and individual frames. Before this change, ChatGPT couldn’t natively generate GIFs in a single step. An example shared by the company shows how ChatGPT can generate a GIF in response to the prompt, “can you make a gif of a cat dancing?” while also providing you with the option to change the playback speed and view it frame by frame. Along with support for GIF-making, the Images 2.6 update also enables faster image generation in ChatGPT, OpenAI says. The company says users now generate over 4 billion images per week across ChatGPT and its API, a jump from the 3 billion per week it reported in September. Images 2.6 is rolling out to all ChatGPT and Codex users across web, desktop, and mobile apps. OpenAI is also launching GPT-Image-2.6 Flare and Sunburst in its API for faster and higher-quality image generation.",
+   "fonte": "The Verge",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Testate tech",
+   "id": "u1a124",
+   "testo_completo": true
+  },
+  "u1a181": {
+   "titolo": "App Store: nuove regole per dating e chatbot AI dal 16 novembre",
+   "link": "https://www.hdblog.it/apple/articoli/n675852/apple-app-incontri-ai-vietate-minorenni/",
+   "data": "2026-11-04T17:45:00+02:00",
+   "testo": "Apple introduce nuove restrizioni per le app di incontri e i chatbot AI con contenuti romantici.",
+   "fonte": "HDblog",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Italia",
+   "id": "u1a181"
+  },
+  "u1a26": {
+   "titolo": "Brescia, la raccolta differenziata diventa intelligente: con la nuova app di A2A basta una foto per sapere dove buttare i rifiuti",
+   "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOXzc3QUljaFZKMEQyQk4tdjk1a2tyc3FDT1lwSjQ4TUJVN2lMVmFHWHpqbUQtSUJqb3RlMVJjTGpMTENYOVNPS25KVXg3SzdJSG5xeG1hOGJWaGU1anVkbzQtd0l0aThtOUtlcEFnN3BPZm5XR3AyQ3kzNUV5Y1pLZTRfU3hEMWhTRGtiN3Q4Q1VNekpaMnZ2SDFVcEtwSlppRDBkTG1ZakVvRzgzbDhHYjQzQnJ4ZDJKUEFpZ0M0TnZGaVk2ZEJqVGVwRTd3QnJOa09SaEtZT2NsT2dXc3N0ODZrYnRBSU5yUTVMQ0NqUkFvU0d5RktKalhaX3pXSVBBbU1WUDNLdnVfaGRTSTcyVTdfU2Q2Zw?oc=5",
+   "data": "2026-11-04T09:48:19+00:00",
+   "testo": "",
+   "fonte": "Radio Bruno Brescia",
+   "tipo": "minore",
+   "solo_titolo": true,
+   "categoria": "Strumenti",
+   "id": "u1a26"
+  },
+  "u1a10": {
+   "titolo": "TellPip",
+   "link": "https://www.producthunt.com/products/tellpip",
+   "sito": "https://www.producthunt.com/r/p/1303567?app_id=339",
+   "data": "2026-11-03T15:13:42-08:00",
+   "testo": "A little bird that whispers what to say in your calls",
+   "fonte": "Product Hunt (AI)",
+   "tipo": "vetrina",
+   "solo_titolo": false,
+   "categoria": "Strumenti",
+   "id": "u1a10"
+  },
+  "u1a1": {
+   "titolo": "Hindsight Models and Inference API",
+   "link": "https://www.producthunt.com/products/vectorize",
+   "sito": "https://www.producthunt.com/r/p/1303399?app_id=339",
+   "data": "2026-11-03T11:30:48-08:00",
+   "testo": "Small, fast models for reranking, embeddings and decisions",
+   "fonte": "Product Hunt (AI)",
+   "tipo": "vetrina",
+   "solo_titolo": false,
+   "categoria": "Strumenti",
+   "id": "u1a1"
+  },
+  "u1a62": {
+   "titolo": "Wiki.js 3.0 Release — Wiki.js",
+   "link": "https://www.reddit.com/r/selfhosted/comments/1xn628i/wikijs_30_release_wikijs/",
+   "sito": "",
+   "data": "2026-11-03T21:40:18+00:00",
+   "testo": "submitted by /u/siegfriedthenomad [link] [comments]",
+   "fonte": "Reddit r/selfhosted",
+   "tipo": "community",
+   "solo_titolo": false,
+   "categoria": "Gemme",
+   "id": "u1a62"
+  },
+  "u1a172": {
+   "titolo": "VOLTA ruba i dati degli utenti e chiede il valore all’AI",
+   "link": "https://www.punto-informatico.it/volta-ruba-dati-utenti-chiede-valore-ai/",
+   "data": "2026-11-04T16:19:22+00:00",
+   "testo": "I modelli AI vengono spesso sfruttati per scrivere le email di phishing o trovare le vulnerabilità. I ricercatori di Cisco Talos hanno scoperto un altro utilizzo. L’infostealer per Windows, noto come VOLTA, ruba i dati degli utenti e chiede a Claude Opus 4.6 (Anthropic), Gemini 2.5 Flash (Google) o Kimi K2 (Moonshot) di assegnare un valore alle informazioni. Fornisce in pratica una consulenza finanziaria, indicando i dati più monetizzabili. Furto di dati con valutazione economica VOLTA è un classico infostealer per Windows. Può rubare credenziali, cookie e dati delle carte di pagamento salvate nei browser basati su Chromium e Firefox, profili in Thunderbird e Outlook, workspace Slack, sessioni di Steam e Battle.net, token di Discord, sessioni di Telegram, account Roblox, file di configurazione SSH e provider cloud. Utilizza inoltre un sistema di cracking integrato per violare il contenuto del wallet durante l’esecuzione. Successivamente utilizza i token di sessione per raccogliere altre informazioni sull’utente. Accede ad esempio a Gmail per recuperare l’indirizzo di residenza dalle ricevute di Amazon, DoorDash, Uber Eats, Grubhub, Walmart e PayPal. Questi dati vengono quindi assemblati in un file di testo e inviati a OpenRouter con un prompt che istruisce il modello ad agire come un’analista di intelligence forense. Il modello predefinito è Claude Opus 5.5. Se rifiuta la richiesta, VOLTA passa ai modelli Kimi K2 di Moonshot e Gemini 2.5 Flash di Google, più piccoli e con meno restrizioni. Nell’output generato dal modello c’è una sezione “WHAT THEY’RE WORTH” (quanto valgono), in cui viene indicato il livello della monetizzazione (basso, medio, alto), ovvero quanto si potrebbe guadagnare dalla vendita dei dati. L’analisi AI è opzionale. Non è noto se i modelli hanno for…",
+   "fonte": "Punto Informatico",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Italia",
+   "id": "u1a172",
+   "testo_completo": true
+  },
+  "u1a133": {
+   "titolo": "I tried Apple’s Siri Recaps. They’re surprisingly useful — and a little unsettling",
+   "link": "https://techcrunch.com/2026/11/04/i-tried-apples-siri-recaps-theyre-surprisingly-useful-and-a-little-unsettling/",
+   "data": "2026-11-04T16:51:35+00:00",
+   "testo": "On Tuesday, Apple rolled out a potentially controversial set of Audio Intelligence features into testing with the first developer beta versions of iOS 27.3 and watchOS 27.3. The betas bring four new AI features that allow Apple Watch Series 12 wearers to detect important sounds, identify songs, catch up on conversations, and take notes. After just a day with Apple’s Siri Recaps feature on my Apple Watch, I can already see how its value may ultimately outweigh any creepiness factor that comes from the AI-powered audio recording and summarization it provides. However, I also see areas where AI-assisted note-taking can go too far, capturing things that aren’t worth remembering, and where there’s room for improvement. The first two, sound and song detection, don’t represent potential privacy concerns; they are designed to detect either important sounds — like an alarm or doorbell — or identify a song using Shazam’s technology. The former helps deaf and hard-of-hearing users navigate the world, and the latter is something we’ve already done with our iPhone for nearly two decades now. It’s the two other features, Live Rewind and Siri Recaps, that have raised concerns. The features record and then transcribe or summarize the conversations happening with and around the Apple Watch’s owner. Live Rewind lets you go back to see what was said in the past 15 seconds, while Siri Recaps summarize audio throughout your day, saving notes of the important things that were said. Apple has taken care to ensure the privacy of these AI features by processing the audio and running AI models on-device, when possible, and by not identifying speakers, storing raw audio files, and redacting private information, like government ID numbers or personal account information. Still, some are put off b…",
+   "fonte": "TechCrunch",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Testate tech",
+   "id": "u1a133",
+   "testo_completo": true
   }
  },
  "fonti": [
@@ -582,8 +794,528 @@
   "acousticgeolocation",
   "careerchangelanguagestoosintcorporateintelligence",
   "defcon33talkprettygoodprivacyexaminingthepgpkeypaircreationhabitsofdarknetvendor",
-  "criminalarrestwarrantforosinttrolljessenickles"
+  "criminalarrestwarrantforosinttrolljessenickles",
+  "hindsightmodelsandinferenceapi",
+  "rungle",
+  "flootpayments",
+  "zerowire",
+  "hira",
+  "livereactingforchatgpt",
+  "qualitylayer",
+  "datashakemcp",
+  "hashference",
+  "tellpip",
+  "opusclip40",
+  "resum",
+  "glialaunchesaitooltohelpcreditunionsidentifybusinesslendingopportunities",
+  "forresterlaunchesaiappforslackatannualforum",
+  "eyedapticlaunchesevaagenticaiassistantforpeoplewithlowvision",
+  "dostlaunchesaskdostaiassistantforfinanceteams",
+  "tamilnaduregistrationdeptclocksrs1950crorerevenueinoctoberlaunchesaiapptotrackco",
+  "macpawlauncheseneyaiassistantwithnativeappleintegrations",
+  "eneyfrommacpawisanaiassistantwithdeepappleintegrations",
+  "greenribbonunveilsaitoolgreenscouttotackleclinicaltrialrecruitmentwithdataon3mil",
+  "brescialaraccoltadifferenziatadiventaintelligenteconlanuovaappdia2abastaunafotop",
+  "intelligenzaartificialedecretoaiarrivanolenormedidettaglioepergliavvocatisiaprel",
+  "gualtieriabarcellonaperlesmartcityromapresentajulia30lintelligenzaartificialeals",
+  "lintelligenzaartificialecorremaunitalianosuduerischiadirestareindietroorapuoiimp",
+  "amazonvuoleridimensionarenvidiaarrivatorchneuron",
+  "netflixvuolesaperecomestateperconsigliarvicosaguardare",
+  "androidautoegeminilanuovapersonalintelligenceeilnodoprivacy",
+  "chatgptvaleil20dellericerchegooglecosadiceopenai",
+  "cometrasformareundisegnoinunimmagineconchatgptlaguidaasketchpassoperpasso",
+  "rtxsparklocalaibabystepsandafewsmallvictories",
+  "localaiweekly8allyourramarebelongtous",
+  "govtechteamsupwithgoogledeepmindtouseondeviceaitodetectscams",
+  "humanreviewpossibleforprivateaichatsacrossmajorplatforms",
+  "ailocaleneipcaziendalilarispostadiasusbusinessperlepmi",
+  "siriaidisponibileperglisviluppatoriappleazioninelleappenuoveskills",
+  "iletgeminimanagemydailyprioritiesmyproductivitysurged",
+  "wikijs30releasewikijs",
+  "jumpedintotherabbitholewithbothfeetafewweeksagothoroughlyenjoyingmyself",
+  "imonamissiontocreatethebestselfhostedreadingclientalternativetokindleandappleboo",
+  "bestphotopickerpointitataphotofolderandgetthebestshotsbackallonyourownhardwaremi",
+  "lookingforopensourcevaccum",
+  "revolutcutsaicodingcosts10xwithglm512026",
+  "revolutsaysselfhostingachinesemodelcutaicodingcostsby90",
+  "revolutswapsclaudecodeforachineseopenweightmodelcuttingitsaicodingbillby90",
+  "n8nstable",
+  "openaitoacquirepierrecomputercompanyinc",
+  "daybreakredisnowavailableinawsgovclouduseast",
+  "weresharingourframeworkforbuildingsaferandmorehelpfulaiforhealth",
+  "whatgooglecloudannouncedinaithismonthandhowithelpsyou",
+  "geminilaunchesaipoweredagentictradingonitsexchange",
+  "aeofastlaunchesfreeaivisibilitycheckertohelpbusinessesmeasuretheirpresenceinaian",
+  "primexbtlaunchesaitradingintegrationwithchatgptandclaude",
+  "crowdstrikelaunchesaikillswitchthatitsayscanstopinternalagentsthatgorogue",
+  "aitrackermayoclinicplatformrollsoutaitoolforclinicians",
+  "primexbtlaunchesaiassistedtradingwithmcpintegrationconnectingchatgptandclaudetot",
+  "googleaimodeandgeminidirectcheckoutlaunchesincanada",
+  "xcode273addsgithubcopilottoitsbuiltincodingassistant",
+  "thebriefingworkatthefrontierlivestream",
+  "anthropicaddsdatabricksmlflowfornativeclaudetraces",
+  "anthropictellsipoinvestorsits15personchipteamdesignscustomsiliconwithclaude",
+  "tamperedanthropicclaudecodeextensionincursormarketplaceaffectsupto5000usersinspa",
+  "agentsthatarepersistentnewincopilotstudiooctober2026microsoftcopilotblog",
+  "microsoftcopilotaipredictsawildethereumrunoverq4",
+  "forgetthe12monthsqueezemicrosoftisprimedforanexplosiveaipayoff",
+  "microsoftendscopilotsupportonsmarttvs",
+  "applerollsoutbetaupdatewithappleintelligenceforchinesemainlandmarketreceivingmix",
+  "applesredesignedhealthappexpandslanguagesupport",
+  "bestfreeaimodelsin2026whichonescostnothingandwheretousethem",
+  "lawmakersproposenewlegislationtobandeepseekfromfederaldevicesabcnews",
+  "44millisecondsperanswersarvamlaunchesanaidecisionmodelfasterthanmicrosoftandperp",
+  "dharmafieldextractoranydocumentinstructuredfieldsinjsonout",
+  "nothingteasesascreenfreeaideviceaheadoflaunchnextmonth",
+  "mytherapistthinksishouldchucktheamazonbeefrontieroutawindow",
+  "chatgptwillnowmakeyouanimatedgifs",
+  "datacenterslostthemidterms",
+  "uberonlyfulfilled4ridesfromaiagentslastquarter",
+  "samaltmanaddressesramcommentspeopleshouldputasmuchastheywantintheircomputers",
+  "googlehasntfiguredouthowtomakeaipaylikeitssearchengine",
+  "buildingonopensourceaihuggingfacespolicychiefonthecostsrisksandtradeoffs",
+  "itriedapplessirirecapstheyresurprisinglyusefulandalittleunsettling",
+  "googlefacesbacklashforplanthatwouldturnoffsearchforschoolsthatrestrictai",
+  "techcrunchfoundersummit2026doorsopenat9ametinboston",
+  "texaswasthenewepicenteroftheaidatacenterbuildoutthatmightbekaput",
+  "securingtheagenticenterprisewithdatalineage",
+  "anthropicstextwatermarkiseasytobypassonseveralolderclaudemodels",
+  "openaiacquirespierrecomputercompanytomakegitkeepupwithaicodingagents",
+  "newopensourcebenchmarkrevealsreasoningasthebiggestbottleneckforaiincloudoperatio",
+  "gpt6astraseesthematrixandreprogramsotheraimodelsdirectlythroughtheirweights",
+  "anthropicsnewprototypeproveswhichmodelwroteanairesponsewithoutexposingitsweights",
+  "exitpollsshowairankedlastamongvoterprioritiesinthe2026usmidterms",
+  "schoolsthatturnoffgooglesaiwilllosesearchtoostartingin2027",
+  "siriaidevelopergemininotebookapiprovableinference",
+  "trumpderisosuisocialvarimemecreaticonlintelligenzaartificiale",
+  "navimilitarilasfidadelladifesapassadadronieintelligenzaartificiale",
+  "iaescuolagoogledisattiveràlintelligenzaartificialepergliistitutiusa",
+  "decarolisceosirtidigitalsolutionslairidisegnaleinfrastrutturecritiche",
+  "cecchimaecinegliusacègenesismissionpercollaboraresullaia",
+  "ilcinemaallaprovadellaichifinanziaunfilmsenonsacomeèstatofatto",
+  "ichatbotaipotrebberoviolareidirittidautore",
+  "7modiperusarechatgptnellavitadituttiigiorni",
+  "voltarubaidatidegliutentiechiedeilvaloreallai",
+  "piùrampertuttieraquestolauspiciodisamaltman",
+  "cèlamanodellarussiadietroagliattacchiaisupermercati",
+  "googlebloccalaricercaaglistudentiselascuoladisattivalai",
+  "attacchiaifrigodeisupermercatirischiamotuttichicèdietro",
+  "nuovigovernatoridemocraticistopaidatacenterai",
+  "eseunaziendasostituissedinascostoilsuomodelloai",
+  "squarespacelicenziail19deidipendenticosastasuccedendo",
+  "sonybrevettaunsistemaperridurreidatinelcloudgaming",
+  "appstorenuoveregoleperdatingechatbotaidal16novembre",
+  "mercatifinanziariinvestimentieagentiaileinnovazionidifreedom24",
+  "anthropiceflashproveprovacrittograficaperimodelliai",
+  "openaihazelbakeredriscolllastrategiadietrolenomine",
+  "elezioniusaglieffettisudigitaleeaichevedremoancheineuropa",
+  "ailavoroeproduttivitàgliultimidatisuglieffetti",
+  "attacchiinformaticiaifrigoriferiperchéisistemidelfreddosonocosìvulnerabili",
+  "falsepositivemalwareai2382857856ongnubinutilsarexeranlibexe",
+  "chatgptrejectedmymeme",
+  "neverseensamathisanimatedbefore",
+  "samaltmangotsoobsessedwithramthathechangedhisnametoramaltman",
+  "sowhatwillitlooklikein2030",
+  "ramaltmanceoofopenai",
+  "gemma4graphoptimizationsmassivegainsonppfore2bande4bbymaxkrasnyanskypullrequest3",
+  "lowcost1500airigqwen38flashnext525tsdecodeinfp86xm10192gbvram",
+  "unslothqwen38flashnextggufsv31updatenovember4th2026",
+  "usingstrataiq4qwenflashtoeditqwen3506bweightbasedonmitcsail",
+  "2026doubleexposurefestivalinvestigatingkillerslandgrabsandinspirationalcouragein",
+  "videofromgujaratfalselysharedasoneofdelhipoliceprotestingatpolicehq",
+  "factcheckdidprabowocallonindonesianstoboycottsocialmediaplatforms",
+  "factcheckdeepfakesofindianandrussianforeignaffairsministersgoviral",
+  "festiveshoppingscamstakeanewturnas24lakhfakeassetstargetoneindianbank"
  ],
  "audio": "audio/2026-11-04.mp3",
- "durata": 33.9
+ "durata": 188.0,
+ "aggiornamenti": [
+  {
+   "generato": "2026-11-04T19:13:06+00:00",
+   "modello": "gemini-2.5-flash",
+   "testi_completi": 25,
+   "riassunto": {
+    "titolo_giorno": "L'AI per video, lavoro e chiamate: le novità del giorno",
+    "in_breve": "Oggi scopriamo come l'intelligenza artificiale può semplificare la creazione di video con strumenti come Rungle e OpusClip 4.0, trasformando i tuoi filmati grezzi in contenuti pronti per la pubblicazione. Vedremo anche come un agente AI può supportarti nella ricerca di lavoro con Hira e come un assistente discreto come TellPip può suggerirti cosa dire durante le chiamate importanti.",
+    "citati": [
+     "Rungle",
+     "OpusClip 4.0",
+     "Hira",
+     "TellPip"
+    ],
+    "da_provare": [
+     {
+      "cosa": "Rungle",
+      "a_cosa_serve": "Trasforma le tue foto e clip di corsa in Reel pronti per la condivisione sui social media.",
+      "per_chi": "Tutti i giorni",
+      "ambito": "Foto e immagini, Video",
+      "come_iniziare": [],
+      "costo": "Non indicato",
+      "piattaforme": [
+       "Browser"
+      ],
+      "sul_dispositivo": false,
+      "come_sfruttarla": "Crea facilmente video accattivanti delle tue attività sportive o dei tuoi viaggi da condividere con amici e follower.",
+      "italiano": "Non indicato",
+      "difficolta": "Facile",
+      "temi": [
+       "Foto e immagini",
+       "Video"
+      ],
+      "fonti": [
+       "u1a1"
+      ],
+      "affidabilita": "Appena lanciato",
+      "prova": "https://www.producthunt.com/products/vectorize"
+     },
+     {
+      "cosa": "Hira",
+      "a_cosa_serve": "Un agente personale gratuito che ti assiste nella ricerca di lavoro.",
+      "per_chi": "Lavoro",
+      "ambito": "Lavoro e produttività",
+      "come_iniziare": [],
+      "costo": "Gratis",
+      "piattaforme": [
+       "Browser"
+      ],
+      "sul_dispositivo": false,
+      "come_sfruttarla": "Ottieni supporto personalizzato e automatizzato per trovare nuove opportunità professionali e gestire le candidature.",
+      "italiano": "Non indicato",
+      "difficolta": "Facile",
+      "temi": [
+       "Agenti AI",
+       "Lavoro e produttività",
+       "Ricerca e informazioni"
+      ],
+      "fonti": [
+       "u1a5"
+      ],
+      "affidabilita": "Appena lanciato",
+      "prova": "https://www.producthunt.com/products/hira"
+     },
+     {
+      "cosa": "TellPip",
+      "a_cosa_serve": "Un piccolo assistente AI che ti suggerisce cosa dire durante le tue chiamate.",
+      "per_chi": "Lavoro e tutti i giorni",
+      "ambito": "Voce e audio",
+      "come_iniziare": [],
+      "costo": "Non indicato",
+      "piattaforme": [
+       "Browser"
+      ],
+      "sul_dispositivo": false,
+      "come_sfruttarla": "Migliora la tua comunicazione telefonica ricevendo suggerimenti in tempo reale, utile per vendite, assistenza clienti o conversazioni importanti.",
+      "italiano": "Non indicato",
+      "difficolta": "Facile",
+      "temi": [
+       "Assistenti e chatbot",
+       "Voce e audio"
+      ],
+      "fonti": [
+       "u1a10"
+      ],
+      "affidabilita": "Appena lanciato",
+      "prova": "https://www.producthunt.com/products/tellpip"
+     },
+     {
+      "cosa": "OpusClip 4.0",
+      "a_cosa_serve": "Trasforma filmati grezzi in video pronti per la pubblicazione con l'AI, ideale per creare clip brevi e coinvolgenti.",
+      "per_chi": "Lavoro e tutti i giorni",
+      "ambito": "Video",
+      "come_iniziare": [],
+      "costo": "Non indicato",
+      "piattaforme": [
+       "Browser"
+      ],
+      "sul_dispositivo": false,
+      "come_sfruttarla": "Automatizza il montaggio dei tuoi video per social media o presentazioni, risparmiando tempo e ottenendo risultati professionali.",
+      "italiano": "Non indicato",
+      "difficolta": "Facile",
+      "temi": [
+       "Video",
+       "Lavoro e produttività"
+      ],
+      "fonti": [
+       "u1a11"
+      ],
+      "affidabilita": "Appena lanciato",
+      "prova": "https://www.producthunt.com/products/opusclip"
+     },
+     {
+      "cosa": "LiveReacting for ChatGPT",
+      "a_cosa_serve": "Permette di gestire live stream 24/7 e pre-registrati direttamente da ChatGPT.",
+      "per_chi": "Lavoro",
+      "ambito": "Video",
+      "come_iniziare": [],
+      "costo": "Non indicato",
+      "piattaforme": [
+       "Browser"
+      ],
+      "sul_dispositivo": false,
+      "come_sfruttarla": "Crea e gestisci trasmissioni in diretta automatizzate per marketing, eventi o supporto clienti, senza bisogno di presenza costante.",
+      "italiano": "Non indicato",
+      "difficolta": "Media",
+      "temi": [
+       "Agenti AI",
+       "Video",
+       "Assistenti e chatbot"
+      ],
+      "fonti": [
+       "u1a6"
+      ],
+      "affidabilita": "Appena lanciato",
+      "prova": "https://www.producthunt.com/products/livereacting"
+     },
+     {
+      "cosa": "App A2A per la raccolta differenziata",
+      "a_cosa_serve": "Un'app mobile che permette di sapere dove buttare i rifiuti scattando una foto, rendendo la raccolta differenziata più semplice.",
+      "per_chi": "Tutti i giorni",
+      "ambito": "Casa",
+      "come_iniziare": [],
+      "costo": "Non indicato",
+      "piattaforme": [],
+      "sul_dispositivo": false,
+      "come_sfruttarla": "Usa la fotocamera del telefono per identificare il tipo di rifiuto e ricevere istruzioni precise su come smaltirlo correttamente.",
+      "italiano": "Non indicato",
+      "difficolta": "Facile",
+      "temi": [
+       "Foto e immagini",
+       "Ricerca e informazioni"
+      ],
+      "fonti": [
+       "u1a26"
+      ],
+      "affidabilita": "Da verificare",
+      "solo_titoli": true,
+      "prova": ""
+     }
+    ],
+    "osint": [],
+    "gemme": [
+     {
+      "cosa": "Wiki.js 3.0",
+      "a_cosa_serve": "Una piattaforma wiki open source per creare e gestire facilmente basi di conoscenza, documentazione o appunti personali.",
+      "perche_gemma": "È una soluzione open source e self-hosted per organizzare informazioni, con un controllo completo sui tuoi dati.",
+      "con_ai": "Puoi usarla per archiviare riassunti generati dall'AI o come base di conoscenza per un chatbot locale.",
+      "piattaforme": [
+       "Browser"
+      ],
+      "self_hosted": true,
+      "costo": "Gratis",
+      "difficolta": "Media",
+      "temi": [
+       "Open source e self-hosting",
+       "Lavoro e produttività",
+       "Scrittura e documenti"
+      ],
+      "fonti": [
+       "u1a62"
+      ],
+      "affidabilita": "Da verificare",
+      "come_iniziare": [],
+      "sul_dispositivo": false,
+      "come_sfruttarla": "",
+      "prova": ""
+     },
+     {
+      "cosa": "Lettore di eBook self-hosted",
+      "a_cosa_serve": "Un'app di lettura gratuita e open source per eBook (EPUB, PDF) che si integra con Calibre e altri servizi, liberandoti dai sistemi proprietari.",
+      "perche_gemma": "Offre un'alternativa gratuita, open source e senza DRM ai lettori proprietari come Kindle, con un'elevata attenzione ai dettagli.",
+      "con_ai": "Puoi usarlo per leggere eBook generati o riassunti dall'AI, mantenendo i tuoi dati privati.",
+      "piattaforme": [],
+      "self_hosted": true,
+      "costo": "Gratis",
+      "difficolta": "Media",
+      "temi": [
+       "Open source e self-hosting",
+       "Scrittura e documenti"
+      ],
+      "fonti": [
+       "u1a65"
+      ],
+      "affidabilita": "Da verificare",
+      "come_iniziare": [],
+      "sul_dispositivo": false,
+      "come_sfruttarla": "",
+      "prova": ""
+     },
+     {
+      "cosa": "Best Photo Picker",
+      "a_cosa_serve": "Un tool che seleziona le migliori foto da una cartella sul tuo hardware, valutandole per nitidezza, esposizione, volti e composizione.",
+      "perche_gemma": "Funziona sul tuo hardware, garantendo privacy e controllo sui tuoi dati fotografici, senza caricarli su cloud esterni.",
+      "con_ai": "Usa l'AI per analizzare e selezionare le foto migliori, permettendoti di scegliere rapidamente quelle da condividere o archiviare.",
+      "piattaforme": [],
+      "self_hosted": true,
+      "costo": "Gratis",
+      "difficolta": "Media",
+      "temi": [
+       "Open source e self-hosting",
+       "Foto e immagini",
+       "AI sul dispositivo"
+      ],
+      "fonti": [
+       "u1a66"
+      ],
+      "affidabilita": "Da verificare",
+      "come_iniziare": [],
+      "sul_dispositivo": false,
+      "come_sfruttarla": "",
+      "prova": ""
+     }
+    ],
+    "sezioni": [
+     {
+      "titolo": "Novità negli strumenti che già usi",
+      "notizie": [
+       {
+        "titolo": "ChatGPT ora può creare GIF animate",
+        "strumento": "ChatGPT",
+        "riassunto": "ChatGPT può ora generare GIF animate direttamente da un prompt o da una foto caricata, permettendo di regolare la velocità e modificare i singoli fotogrammi. La generazione di immagini è anche più veloce.",
+        "come_provarla": "La funzione è in rollout per tutti gli utenti ChatGPT e Codex su web, desktop e app mobile.",
+        "disponibilita": "Disponibile ora",
+        "fonti": [
+         "u1a124"
+        ],
+        "temi": [
+         "Foto e immagini",
+         "Video",
+         "Assistenti e chatbot"
+        ],
+        "affidabilita": "Una fonte",
+        "solo_titoli": false
+       },
+       {
+        "titolo": "Siri Recaps e Live Rewind per riassumere e riascoltare conversazioni",
+        "strumento": "Siri (Apple Watch)",
+        "riassunto": "Le nuove funzioni \"Siri Recaps\" riassumono le conversazioni della giornata e \"Live Rewind\" permette di riascoltare gli ultimi 15 secondi di audio, con elaborazione AI sul dispositivo per la privacy.",
+        "come_provarla": "Disponibile per gli sviluppatori nelle beta di iOS 27.3 e watchOS 27.3 per Apple Watch Series 12.",
+        "disponibilita": "In arrivo",
+        "fonti": [
+         "u1a133"
+        ],
+        "temi": [
+         "Assistenti e chatbot",
+         "Voce e audio",
+         "AI sul dispositivo"
+        ],
+        "affidabilita": "Una fonte",
+        "solo_titoli": false
+       },
+       {
+        "titolo": "Gemini porta la Personal Intelligence su Android Auto",
+        "strumento": "Gemini (Android Auto)",
+        "riassunto": "Gemini si integra con Android Auto per offrire una \"Personal Intelligence\" che impara le abitudini di guida e fornisce assistenza contestuale, sollevando però questioni sulla privacy.",
+        "come_provarla": "",
+        "disponibilita": "Non indicato",
+        "fonti": [
+         "u1a34"
+        ],
+        "temi": [
+         "Assistenti e chatbot",
+         "Ricerca e informazioni",
+         "Privacy e sicurezza"
+        ],
+        "affidabilita": "Da verificare",
+        "solo_titoli": true
+       }
+      ]
+     },
+     {
+      "titolo": "In breve",
+      "breve": true,
+      "notizie": [
+       {
+        "titolo": "Google blocca la Ricerca agli studenti se la scuola disattiva l’AI",
+        "riassunto": "A partire dal 2027, le scuole che sceglieranno di disattivare le funzioni AI nei prodotti Google perderanno anche l'accesso a Google Search per gli account degli studenti.",
+        "fonti": [
+         "u1a134",
+         "u1a155",
+         "u1a163",
+         "u1a175"
+        ],
+        "temi": [
+         "Regole e leggi",
+         "Ricerca e informazioni"
+        ],
+        "affidabilita": "Confermata",
+        "solo_titoli": false
+       },
+       {
+        "titolo": "Malware VOLTA usa l'AI per valutare i dati rubati",
+        "riassunto": "È stato scoperto un infostealer per Windows, chiamato VOLTA, che ruba dati sensibili e poi usa modelli AI (come Claude o Gemini) per valutarne il potenziale di monetizzazione.",
+        "fonti": [
+         "u1a172"
+        ],
+        "temi": [
+         "Privacy e sicurezza",
+         "Agenti AI",
+         "Assistenti e chatbot"
+        ],
+        "affidabilita": "Una fonte",
+        "solo_titoli": false
+       },
+       {
+        "titolo": "Apple introduce nuove regole per app di dating e chatbot AI",
+        "riassunto": "Dal 16 novembre, l'App Store imporrà nuove restrizioni per le app di incontri e i chatbot AI con contenuti romantici, inclusi limiti di età e tutele per i minori.",
+        "fonti": [
+         "u1a181"
+        ],
+        "temi": [
+         "Regole e leggi",
+         "Privacy e sicurezza",
+         "Assistenti e chatbot"
+        ],
+        "affidabilita": "Una fonte",
+        "solo_titoli": false
+       }
+      ]
+     }
+    ],
+    "formato": 2,
+    "controllo_siti": [
+     {
+      "cosa": "App A2A per la raccolta differenziata",
+      "esito": "nessun sito da aprire"
+     },
+     {
+      "cosa": "Wiki.js 3.0",
+      "esito": "nessun sito da aprire"
+     },
+     {
+      "cosa": "Lettore di eBook self-hosted",
+      "esito": "nessun sito da aprire"
+     },
+     {
+      "cosa": "Best Photo Picker",
+      "esito": "nessun sito da aprire"
+     },
+     {
+      "cosa": "TellPip",
+      "sito": "https://www.producthunt.com/r/p/1303567?app_id=339",
+      "esito": "errore: HTTP Error 403: Forbidden"
+     },
+     {
+      "cosa": "LiveReacting for ChatGPT",
+      "sito": "https://www.producthunt.com/r/p/1303000?app_id=339",
+      "esito": "errore: HTTP Error 403: Forbidden"
+     },
+     {
+      "cosa": "Hira",
+      "sito": "https://www.producthunt.com/r/p/1302591?app_id=339",
+      "esito": "errore: HTTP Error 403: Forbidden"
+     },
+     {
+      "cosa": "Rungle",
+      "sito": "https://www.producthunt.com/r/p/1303399?app_id=339",
+      "esito": "errore: HTTP Error 403: Forbidden"
+     },
+     {
+      "cosa": "OpusClip 4.0",
+      "sito": "https://www.producthunt.com/r/p/1301917?app_id=339",
+      "esito": "errore: HTTP Error 403: Forbidden"
+     }
+    ]
+   }
+  }
+ ]
 }
