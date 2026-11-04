@@ -1,0 +1,589 @@
+{
+ "giorno": "2026-11-04",
+ "generato": "2026-11-04T06:14:37+00:00",
+ "modello": "gemini-3.5-flash-lite",
+ "testi_completi": 38,
+ "riassunto": {
+  "titolo_giorno": "Novità di oggi: Arrivano i Message Threads per velocizzare le chat",
+  "in_breve": "Arrivano i Message Threads per velocizzare le chat.",
+  "citati": [
+   "Arriva Julia 3.0, l'AI di Roma Capitale diventa un'app mobile",
+   "Claude"
+  ],
+  "da_provare": [],
+  "osint": [],
+  "gemme": [],
+  "sezioni": [
+   {
+    "titolo": "Novità negli strumenti che già usi",
+    "notizie": [
+     {
+      "titolo": "Arrivano i Message Threads per velocizzare le chat",
+      "strumento": "Claude",
+      "riassunto": "Anthropic ha introdotto i Message Threads per la gestione delle conversazioni lunghe: invece di reinviare l'intera cronologia ad ogni passaggio, il sistema trasmette solo le parti modificate, riducendo i tempi di risposta del 35% nelle richieste estese.",
+      "come_provarla": "La funzione è disponibile tramite le API di Anthropic per gli sviluppatori e gli utenti che utilizzano gli strumenti collegati.",
+      "disponibilita": "Disponibile ora",
+      "fonti": [
+       "a156",
+       "a94"
+      ],
+      "temi": [
+       "Assistenti e chatbot"
+      ],
+      "affidabilita": "Una fonte",
+      "solo_titoli": false
+     }
+    ]
+   }
+  ],
+  "formato": 2,
+  "controllo_siti": []
+ },
+ "articoli": {
+  "a156": {
+   "titolo": "Anthropic's Message Threads cut time to first token by 35 percent for long conversations",
+   "link": "https://the-decoder.com/anthropics-message-threads-cut-time-to-first-token-by-35-percent-for-long-conversations/",
+   "data": "2026-11-03T12:35:49+00:00",
+   "testo": "Anthropic released Message Threads for the Messages API. Instead of resending the entire conversation with every turn, agents now only transmit what's changed. For requests between 500,000 and one million tokens, time to first token drops by about 35 percent. The article Anthropic's Message Threads cut time to first token by 35 percent for long conversations appeared first on The Decoder .",
+   "fonte": "The Decoder",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Testate tech",
+   "id": "a156"
+  },
+  "a94": {
+   "titolo": "Anthropic rolls out Message Threads in public beta to make Claude AI much faster",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNRjRyeVpwOGx2NFZUd2ZmV3pJMUIwQTI3VUdUT2RMNnc0ZkVfc1RLNEg4VUhjWEstN3Nib0JadTZVN0hYU0ZtU25CRlVaMkQydmJpMjAtNjgyT3oxdU5VenlOcDM4bENqM1E3WG01ZmJQZURKSk1fU1c4M2JvdmFkUWZNNUNVMkJoLWJLNGhnRHFDdXlKaHF2dGM5dFZRT0lIRzN5dFZMM0Izb3hNQWhTT3NHOWNQZ194aXR2dDFWU05iYUlmbWZ4NU5OU2pLc0syWHVYTTFmQ3lkTGVfT2tZWdIB5gFBVV95cUxQR3p1OXRVc1NDel8zcUVxVlJaamt1Z18xR1N3OC1nVlBFeHo1X2RQRUp3b2Q5amZuV3BFbU1FNjROUUFfSmdFWnpuQ3dlckh0T3JCU1JNN1RNYmw2dG9DQy1tcmRTOHBiVV81Y3BVd2phUFc3TXk5N3drQ1o1SGFDdVo0WklxcE9haWF4WXpmblZXM0xibDNfMHBrVHRVNDk1ZmVvNXR5bmsxMTllcUVCYkQ5NzZYT2RlbHFBSUg1QlZBTk5kenM1bmJpeWhVdW9OMlpqMUYzdDFYVDdodGNsTXdaV05iQQ?oc=5",
+   "data": "2026-11-04T03:00:36+00:00",
+   "testo": "",
+   "fonte": "India Today",
+   "tipo": "minore",
+   "solo_titolo": true,
+   "categoria": "Laboratori",
+   "id": "a94"
+  }
+ },
+ "fonti": [
+  {
+   "nome": "Product Hunt (AI)",
+   "ok": true,
+   "presi": 15
+  },
+  {
+   "nome": "Show HN (nuovi progetti)",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "Nuove app AI (internazionale)",
+   "ok": true,
+   "presi": 10
+  },
+  {
+   "nome": "Nuove app AI (Italia)",
+   "ok": true,
+   "presi": 8
+  },
+  {
+   "nome": "Novità AI da provare (Italia)",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "AI sul dispositivo (internazionale)",
+   "ok": true,
+   "presi": 8
+  },
+  {
+   "nome": "AI sul dispositivo (Italia)",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "Android Police (AI su Android)",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "Windows Central (AI su Windows)",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "Ollama (nuove versioni)",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "Open WebUI (nuove versioni)",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "Show HN – progetti utili (gemme)",
+   "ok": true,
+   "presi": 7
+  },
+  {
+   "nome": "Reddit r/selfhosted",
+   "ok": true,
+   "presi": 6
+  },
+  {
+   "nome": "Reddit r/opensource",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "Alternative open source (Google News)",
+   "ok": true,
+   "presi": 6
+  },
+  {
+   "nome": "n8n (nuove versioni)",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "Immich (nuove versioni)",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "OpenAI",
+   "ok": true,
+   "presi": 3
+  },
+  {
+   "nome": "Google (blog ufficiale)",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "Google Gemini (blog)",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "Nuove funzioni AI (Google News)",
+   "ok": true,
+   "presi": 12
+  },
+  {
+   "nome": "Anthropic / Claude",
+   "ok": true,
+   "presi": 6
+  },
+  {
+   "nome": "Microsoft Copilot",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "Altri assistenti AI (Perplexity, Mistral, Meta AI…)",
+   "ok": true,
+   "presi": 8
+  },
+  {
+   "nome": "Hugging Face (modelli e strumenti aperti)",
+   "ok": true,
+   "presi": 3
+  },
+  {
+   "nome": "Mistral AI",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "The Verge",
+   "ok": true,
+   "presi": 10
+  },
+  {
+   "nome": "TechCrunch",
+   "ok": true,
+   "presi": 12
+  },
+  {
+   "nome": "Ars Technica",
+   "ok": true,
+   "presi": 4
+  },
+  {
+   "nome": "MIT Technology Review",
+   "ok": true,
+   "presi": 2
+  },
+  {
+   "nome": "The Decoder",
+   "ok": true,
+   "presi": 10
+  },
+  {
+   "nome": "TLDR AI (newsletter)",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "ANSA",
+   "ok": true,
+   "presi": 6
+  },
+  {
+   "nome": "Wired Italia",
+   "ok": true,
+   "presi": 2
+  },
+  {
+   "nome": "Il Sole 24 Ore Tecnologia",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "Punto Informatico",
+   "ok": true,
+   "presi": 7
+  },
+  {
+   "nome": "HDblog",
+   "ok": true,
+   "presi": 2
+  },
+  {
+   "nome": "AI4Business",
+   "ok": true,
+   "presi": 4
+  },
+  {
+   "nome": "Agenda Digitale (AI)",
+   "ok": true,
+   "presi": 3
+  },
+  {
+   "nome": "Garante Privacy e AI",
+   "ok": true,
+   "presi": 3
+  },
+  {
+   "nome": "Malwarebytes (app e truffe AI)",
+   "ok": true,
+   "presi": 2
+  },
+  {
+   "nome": "Reddit",
+   "ok": true,
+   "presi": 8
+  },
+  {
+   "nome": "Reddit (AI locale)",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "Simon Willison (prove pratiche di strumenti AI)",
+   "ok": true,
+   "presi": 3
+  },
+  {
+   "nome": "Bellingcat (guide e strumenti)",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "GIJN (guide per giornalisti investigativi, via Google News)",
+   "ok": true,
+   "presi": 4
+  },
+  {
+   "nome": "OSINT – verifica e fact-checking (internazionale)",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "OSINT – nuovi strumenti (internazionale)",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "OSINT – strumenti (Italia)",
+   "ok": true,
+   "presi": 2
+  },
+  {
+   "nome": "Facta (fact-checking, contenuti falsi e AI)",
+   "ok": true,
+   "presi": 3
+  },
+  {
+   "nome": "Week in OSINT (Sector035)",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "The OSINT Newsletter",
+   "ok": true,
+   "presi": 2
+  },
+  {
+   "nome": "IDMO (osservatorio italiano sulla disinformazione)",
+   "ok": true,
+   "presi": 2
+  },
+  {
+   "nome": "EU DisinfoLab",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "Reddit (OSINT)",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "Hacker News (OSINT)",
+   "ok": true,
+   "presi": 1
+  }
+ ],
+ "visti": [
+  "oneroof",
+  "peji",
+  "sunwebapi",
+  "nexupira",
+  "flockbay",
+  "asklog",
+  "lifeval",
+  "machinemail",
+  "scrawl",
+  "corvo",
+  "infinoai",
+  "beaquarostudio",
+  "testera",
+  "nana",
+  "prism",
+  "interactivenotesonrlhfattentionloraandllmevals",
+  "ncircletechlaunchesnvibeaiappbuilder",
+  "partlylaunchespartlyrepairaianagenticaiassistantforcollisionrepairshopsatsema202",
+  "aitrackerathenahealthtoollinkshealthrecordstoclaude",
+  "halliburtonlaunchesaitoolforoilgasinvestmentdecisions",
+  "greecelaunchesaiassistanttohelpnaturaldisastervictimsaccessstateaid",
+  "dostlaunchesaskdostaiassistantforfinanceandoperationsteams",
+  "appypielaunchesagenticaiappbuilderforiosandandroid",
+  "digitalculturegrouplaunchesresonancestudioanaitoolbuilttogetbrandsoutoftheapolog",
+  "googlelaunchesaiappdreambeansinindiawhatitishowitworksandlanguagessupported",
+  "ifpalaunchesaitechnicalfacility",
+  "motorolalancialappmotorollersperisuoifan",
+  "inpsarrivaariannalintelligenzaartificialealserviziodellistituto",
+  "halliburtonlanciaunostrumentodiintelligenzaartificialeperledecisionidiinvestimen",
+  "microacquistidellascuolaarrivamepalightconlintelligenzaartificialepergliaffidame",
+  "volvolintelligenzaartificialeèpropedeuticaalfattodievitareincidenti",
+  "geminicambiaaspettosuandroidarrivalanuovaanimazioneneuralexpressive",
+  "puliamosirinnovalanuovaappdia2asemplificalaraccoltadifferenziata",
+  "telmopievanilintelligenzaartificialefondamentalecomefuocoescrittura",
+  "chatgptuniscechateworkcosacambiaequandoarriverà",
+  "androidfamilyhubarrivasuandroidgeminirestalimitatoinitalia",
+  "regimipensionisticidifferenziatieageismoilimitidaconsiderare",
+  "claudecoworkèlassistenteperfettoperchilavoradasoloeccocosafarci",
+  "7promptdiclaudepercreareilsitodellatuaattività",
+  "buildinglocalaiinfrastructuresisnecessary",
+  "googlelaunchesfreeofflineaidigitalskillstrainingforafricans",
+  "googlelaunchesfreeofflineailearninghubfornigerians",
+  "googlelaunchesfreeofflineaidigitalskillstrainingplatformfornigerians",
+  "responsive",
+  "smartphoneoperatingsystemmarketforecastto2035ondeviceaiandecosystemlockintodrive",
+  "freegoogleofflineaihub3mafricansnodata2026",
+  "clariusappincludes30specializedultrasoundaimodels",
+  "qualesmartphonecomprareperlintelligenzaartificiale",
+  "suimontidaunisenzainternetetelefonolasenatricenaturalealministroursosituazioneur",
+  "gliutentidicoloros17possonosperimentaregliagentibasatisullintelligenzaartificial",
+  "perplexityportablecomputerportalailocalesullegpunvidiartxprivacyepotenzasenzaclo",
+  "unpescaresesviluppaunintelligenzaartificialecherispondecomeunamicovero",
+  "ireplacedgooglekeepwithgeminiitsbeenagamechangerformynotes",
+  "thinkyour8gbwindowspcistooweakforaimicrosoftseesthingsdifferently",
+  "openwebuiv0130",
+  "kairosopensourceriskandfrauddecisioningplatform",
+  "hackertimesanewyorktimesinspiredversionofhackernews",
+  "hackertvhnsmostrecommendedyoutubevideosas247tvchannels",
+  "subvocaltalktoyourcomputerwithoutmakingnoise",
+  "warsawinvoxelsaninteractive3dmapofthecitycentre",
+  "iveupdatedmylinuxsystemcallwebsiteandapi",
+  "hackerhackhackerbooksbutforpostspostedonhn",
+  "psaimmichmachinelearninghasmicrosofttelemetryenabledbydefaulthereshowtodisableit",
+  "movingawayfromicloudstep1applepasswordstovaultwarden",
+  "feedbackonmypersonalanticensorshipvpnsetup",
+  "foundanolddesktopi53340s4gbramusabletostartselfhostingorstraighttoewaste",
+  "anyvalidcanvaalternative",
+  "anyselfhostedemergencydisasterprepapps",
+  "d2webdiabloii113copensourceandplayableinbrowser",
+  "amaintainersadviceoncontributingtoopensourcein2026",
+  "emacsturns50",
+  "soanyprogressonnewadjustments",
+  "ciscoopensourcestoolfordetectingaiagentsonhackingsprees",
+  "thisandroidappturnedmyphotosintoaninteractivemapofeverywhereivebeenhowtogeek",
+  "tailscalefunnelletmeshareoneappwithafriendwithoutopeningasingleportonmyrouter",
+  "britishfintechrevolutslashesaicodingcosts10xbycuttingoutclaudeandgoingselfhosted",
+  "langchainbringslangsmithbyocbetatoazureandgooglecloud",
+  "selfhostinggotaoneclickappstoreanditdoesntneedadminrightsordocker",
+  "revolutshowscheapunlimitedtokensnotsmarteraiiswhatspeedsupcoding",
+  "n8nn8n310",
+  "acceleratingengineeringforthephysicalworld",
+  "heimstadenischangingresidentialrealestatemanagementwithai",
+  "openaiappointsjillhazelbakeraschiefcorporateaffairsofficer",
+  "wereprovidingfundingfororganizationsbuildingaiforteachers",
+  "aiinthelearningera",
+  "designingresponsibleaiforlearning",
+  "expandingaieducatortrainingtonewcountries",
+  "advancingresearchandpartneringwithuniversitiesinsingapore",
+  "thelatestainewsweannouncedinoctober2026",
+  "athenahealthlaunchesservertoconnectpatientrecordstoanthropicsclaude",
+  "githubcopilotisnowavailableinjetbrainsair",
+  "cryptoexchangegeminilauncheshourlyanddailypredictioncontractswithfixedresolution",
+  "anthropicdebutstoolforyourbosstospyonyourclaudechats",
+  "anthropicrollsoutmessagethreadsinpublicbetatomakeclaudeaimuchfaster",
+  "claudeenterpriselaunchesinappsurveys",
+  "adaptlypostlauncheschatgptplugintoscheduleandpublishsocialmediaposts",
+  "googlelaunchesgeminitrainingbundlesforfinancelaw",
+  "msp360launchesmcpserverbringingbackupmanagementintoclaudeandchatgpt",
+  "appleintelligencelaunchesinchinawithqwenreplacingchatgpt",
+  "bouyguestelecomlaunchescustomerinteractionchannelonchatgpt",
+  "anthropiclaunchesmessagethreadscuttingclaudecodewaittimeby35",
+  "claudesnewsmartreportstellbosseswhenworkersareofftopic",
+  "topanthropicproductleadercatwuoneofthefacesofclaudecodehasleftthestartup",
+  "anthropicsaysitsaimodelshacked3organizationsontheirownduringtestsabcnews",
+  "anthropictoutsclaudeschipdesignskillstoipoinvestors",
+  "anthropicsbiologyworkspotlightsresearchersneedforadvancedaiaccess",
+  "catwustepsdownasclaudecodeproductchiefaftertwoyears",
+  "fy27q1pressreleasesinvestorrelations",
+  "microsoftcopilotharnesspreviewkeepstoolapprovalpolicywithmicrosoft",
+  "whatsnewnovemberdisclosure2026",
+  "clarivateplansmicrosoftcopilotintegrationfortrademarkresearch",
+  "bringingsustainabilityintothedynamics365erpportfolio",
+  "ios273bringsappleintelligencefeaturestochina",
+  "ios273betabringsappleintelligencetochina",
+  "applesaihealthappreaches10languagesinbetabutnotgerman",
+  "howshouldthefdaregulategenerativeaiinmedtechhereare5takes",
+  "deepseeklaunchescreatormodetoeaseaiaddondevelopment",
+  "mistrallaunchesopenweightaimodelml4torivaltopsystems",
+  "mistralpatrimoinenewpariswealthfirm",
+  "redesignedhealthappexpandslanguagesupport",
+  "statebenchtestinghowlanguagemodelstrackstatechangesoverlongdocuments",
+  "paletteteachingasmallmodeltobuilddecksinyourdesignlanguage",
+  "cwebenchv2morecoveragequalityandtransparency",
+  "thebiggestmoddingsiteinpcgamingistakingastanceonai",
+  "pleasestopaskingmewhentheaibubblewillpop",
+  "thosejeffbezoshairtransplantphotosareveryfake",
+  "applestartsgivingsiriaiaccesstothirdpartyapps",
+  "appleslatestwatchosbetaincludesitsnewalwaysonaudiointelligencefeatures",
+  "openaisayschatgptiscatchinguptogoogleinsearch",
+  "indiegamesaremissinglaunchdatesbecausesteamisbackedup",
+  "netflixwillshowyouthemedrecommendationsthroughanewaidiscovertab",
+  "googleisentirelydisablingsearchinschoolsthatdontwantai",
+  "midtermelections2026allthenews",
+  "anthropicisworkingonasystemtoproveaimodelsidentity",
+  "datacentersareturningtooldjetenginesasthewaitforpowergrows",
+  "tedschleinsballisticventuresseeks490mfornewfundsamidaidrivencybersecurityboom",
+  "hidinginsidepalantirsskyrocketingquarterisaforebodingsignal",
+  "aiinferencestartupfaldoublesitsvaluationto16basdemandsurges",
+  "netflixsnewaidiscovertabhelpsyoufindsomethingtowatchbasedonyourmood",
+  "anthropicisstillgrapplingwiththeeconomicsofcompute",
+  "googlewillletschoolsdisableitsaitoolsbutnotwithoutsacrificingsearch",
+  "applerestrictsdatingappsandaicompanionstousers18andup",
+  "thetechcrunchfoundersummitagendaisonlyhalfthereasontobeinbostononnovember4",
+  "tomorrowtechcrunchfoundersummittakesoverbostonandwhenpassratesincrease",
+  "applewatchsaifeaturesforrewindingandrecappingconversationsbeginbetatesting",
+  "ukrainesdronestrikesspurhastyrussianplansforundergrounddatacenters",
+  "googlewillletschoolsskipaitoolsbuttheyhavetogiveupsearchtoo",
+  "comingin2027apples1000homerobotforfacetimeandswitchingonlights",
+  "claudesnewrulesagainstgamecloningwontstoptheaicopyingboom",
+  "howreversegametheorycouldkeepaiagentsincheck",
+  "hereswhoisfallinginlinefortrumpssuperintelligenceloyaltytest",
+  "openaisaysgpt6astradesignedahardwaredevicefromscratchinunderaweek",
+  "rapidllmdevelopmentisoutrunningtheresearchmeanttoexplainitstudyfinds",
+  "aiagentstakeoveratsetisallentelescopearrayscanningforextraterrestrialintelligenc",
+  "openaihiresexarmysecretarygainingbipartisanreachjustasmidtermsloom",
+  "anthropicsmessagethreadscuttimetofirsttokenby35percentforlongconversations",
+  "nvidiapushescloudcustomerstocutbackonchinabusiness",
+  "huaweitellscustomerstofindtheirownaichipmemoryeffectivelyoutsourcingprocurementt",
+  "bughunterscannowearnupto172000fromopenaiascompanyrampsupsecurity",
+  "anthropiccracksdownongamecloninginclaudecodeafterwaveofaibuiltknockoffs",
+  "goldmansachspullsaicodingtoolsfromtradersandbankers",
+  "claudemessagethreadsastra62spottedanthropicnearsrsi",
+  "ondatadicyberattacchiaisupermarketeuropeifrigoriferiintiltancheinitaliainsicilia",
+  "alverticeueadublinofocussuiaospitimenschdimistralaieilnobelhinton",
+  "avvocatogeneralecorteueusodiarticoliattraversoiapuòviolaredirittieditori",
+  "vonderleyenserveautorizzazioneueunicaperiveicoliautonomi",
+  "scuoleefamigliecontroilcyberbullismotreiniziativeadancona",
+  "notiziarioansamed",
+  "wireditalia",
+  "xeragiàinvasodallefakenewssullaguerrainmedioorientepoièarrivatalaiapeggiorarelec",
+  "hackbinanceaccessotramitefalsocolloquiodilavoro",
+  "applevietaappdiincontriechatbotromanticiaiminori",
+  "comecreareunsitoperlapropriaattivitàconclaude",
+  "openaipromettedatacentercheconsumanopoco",
+  "chatgpteclaudecostanotroppogartnersuggerisceimodelliaperti",
+  "attacchiaisupermercatiil54dinoitemedirestaresenzacibo",
+  "openaiaumentaipremiperlascopertadellevulnerabilità",
+  "mediaworldufficialelacessioneaicinesimaadellecondizioni",
+  "paywalldeigiornaliaggiraticonilbrowserbravescattaladenuncia",
+  "agentiaiperloshoppingamazondifendeilsuomodello",
+  "kpmgceooutlook2026aiecybersecuritytralepriorità",
+  "sextingconichatbotcosarivelalostudioitalianosuigiovani",
+  "competenzeaicosacambiaperleimpreseitaliane",
+  "governanceaiinaziendarischieruolodelboard",
+  "attacchiaifrigoriferioralecontromisureeccoquali",
+  "aiinoncologiacomesceglieretecnologieutiliaipazienti",
+  "fascicolosanitarioiragazzichehannocompiuto14annipotrannoaccedereautonomamenteaip",
+  "fseparerefavorevoledalgaranteprivacydai14anniaccessoautonomoaidatisanitaririserv",
+  "invigorenuoveregoledelgaranteprivacysultrackingpixeleccocosacambianelleemailperu",
+  "banksareblockingaiagentsfromcustomeraccounts",
+  "possiblefalsepositivewavelinkproexemalwareai1879801883",
+  "nobodyelseseemstohaveashardofatimewithclaudeasidoijustwanttounderstandwhyclaudeh",
+  "igaveeveryclaudemodeltheexactsamepromptsincejuly202513models14monthsherestheevol",
+  "geminiaron",
+  "whatthehelishappeningwithlimits",
+  "anthropicblockingreverseengineeranything",
+  "imworriedclaudewillbecomelessandlessusefulforwhatiuseitfor",
+  "doingmypart",
+  "peoplewhosaytheyalreadygotchatgptschatandworkmergekeepreportingthesamethingshere",
+  "likegpt6astraqwen3827bcaninterpretmodelweights",
+  "claudewaslaidoff",
+  "itriedmitsweightspaceprogrammingonmyownusecaseclauderewrote8neuronsofgemma412bto",
+  "llamacppforkqfnspecificquantultraspecifichardwareconfigincredibleandirreproducib",
+  "deepseekv5isplannedtobepretrainedonhuaweiascendchips",
+  "qwen3827bonmylaptopcaninterpretmodelweightstoo",
+  "llm037",
+  "theuscensusbureauandsuperintelligence",
+  "tipsforcollaboratingwithscientistsandexpertsstéphanehorel",
+  "истории",
+  "howsurvivorshelpedthemarshallprojectinvestigateyouthresidentialtreatmentcenters",
+  "howgijc27cohostvvojpacksaregionalpunchingrowinginvestigativejournalism",
+  "reverseimagesearchgoogleimagestineyeyandexandbing",
+  "4trickshabitsthatcansignificantlyimproveyourgooglesearchresults",
+  "indiablocrallypolicefiringkills4congworkersnounrelatedvideosviralwithfalseclaim",
+  "factcheckvideoofpunjabcmbhagwantmannindrunkenstateisadeepfake",
+  "isthevideoofarecentplanecollisioninnewyorkcity",
+  "howrussiaislocatingukrainesarmsfactoriesusingopensourcesandwhatneedstobedoneabou",
+  "russiabuilds16newairdefensetowersaroundputinsvaldairesidencenvinfographic",
+  "howdwfactchecksfakenews",
+  "oneofrussiaslargestoilrefineriesattackedinyaroslavlmediainterfaxukraine",
+  "24lakhscamsonebrandmfilteritexposesthehiddenscaleofindiasfestivefraudnetwork",
+  "latecnologiaildigitalelaiilgiornalismomodernoemoltoaltroalviailminidigitalfestiv",
+  "lerisorsecondivisedelmercosursovranitàfluvialepescaecooperazioneambientaletrapar",
+  "lacriminalitàminorilenonèlemergenzacheciraccontiamo",
+  "legittohalanciatounchatbotiadifactcheckingbasatosuinformazioniapprovatedallostes",
+  "netanyahustadelegittimandoilvotoaraboconaccusediinterferenzestraniereecomplottis",
+  "episode25discgolfappstrackingaircraftandsearchingwithfofa",
+  "theosintnewsletterissue128",
+  "raieidmocrescelimpegnocontroladisinformazioneo",
+  "aurochdigitalavviailicenziamenti",
+  "disinfoupdate21102026",
+  "eusatelliteimagerydelayedovergazaandpartsofwestbankby24hours",
+  "opencorporatespaywalledtheirapievenplainsearchwroteafreegleifbasedreplacement",
+  "acousticgeolocation",
+  "careerchangelanguagestoosintcorporateintelligence",
+  "defcon33talkprettygoodprivacyexaminingthepgpkeypaircreationhabitsofdarknetvendor",
+  "criminalarrestwarrantforosinttrolljessenickles"
+ ],
+ "audio": "audio/2026-11-04.mp3",
+ "durata": 33.9
+}
