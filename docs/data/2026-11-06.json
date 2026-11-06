@@ -351,6 +351,115 @@
    "solo_titolo": true,
    "categoria": "Strumenti",
    "id": "u1a35"
+  },
+  "u2a136": {
+   "titolo": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
+   "link": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/",
+   "data": "2026-11-06T14:10:00+00:00",
+   "testo": "Amazon is jumping on the currently most popular bandwagon for interacting with AI agents: texting. The company on Friday said it is launching a feature that lets customers chat with its Alexa AI agent over text messages to help them shop, much like you can with AI agents like Muse or Instinct. The move comes after Amazon blocked Meta’s Muse from querying its site in September. The company is rolling the features out just before the start of the holiday shopping season. The e-commerce giant said select U.S. customers will get a text asking them to enable the shopping feature. Those with access can text Alexa to shop on Amazon using natural language queries, spanning everything from searching for items, adding them to cart, and purchasing. The text agent builds on the recent shopping-focused upgrades to Alexa, and so can manage lists, keep tabs on prices, search for items across the web, compare products, and check the status of orders. Users can also share a picture of an item or someone wearing an outfit to search for similar listings on Amazon. The company said over time, Alexa will learn users’ preferences and suggest items accordingly. The company said users who don’t get invited to use this feature can sign up to a waitlist. The feature will be rolled out more broadly in the coming weeks. As the market for consumer-focused AI agents balloons, platforms like Amazon are building their own to tap this new avenue of user interaction. Last month, delivery company DoorDash said that third-party agents had so far only placed hundreds of orders in total on its platform, and that it plans to concentrate on developing its own text-based agent, launched in September, further.",
+   "fonte": "TechCrunch",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Testate tech",
+   "id": "u2a136",
+   "testo_completo": true
+  },
+  "u2a63": {
+   "titolo": "Anchor enables share on mobile",
+   "link": "https://www.reddit.com/r/selfhosted/comments/1xpbc1k/anchor_enables_share_on_mobile/",
+   "sito": "",
+   "data": "2026-11-06T12:15:11+00:00",
+   "testo": "This post is a thank you to the maintainer of Anchor. From the release notes \"Share to Anchor. Pick Anchor Notes in your phone's share menu to save text, links or pictures as a new note. You can edit the title and text and add tags before saving, without leaving the app you were in.\" I have a couple of note taking containers (memos, poznote, etc) but I was frustrated that I had to copy, open the …",
+   "fonte": "Reddit r/selfhosted",
+   "tipo": "community",
+   "solo_titolo": false,
+   "categoria": "Gemme",
+   "id": "u2a63"
+  },
+  "u2a143": {
+   "titolo": "“Does Meta think we can’t read?” Meta abandons sketchy commercial terms update.",
+   "link": "https://arstechnica.com/tech-policy/2026/11/does-meta-think-we-cant-read-meta-abandons-sketchy-commercial-terms-update/",
+   "data": "2026-11-06T17:43:02+00:00",
+   "testo": "After weeks of backlash—and a failed attempt to quell it—Meta has indefinitely delayed plans to update its commercial terms and require Meta Business account users to allow extensive AI training on external websites linked on Facebook. “We’re pausing the changes as we continue to engage with stakeholders and take our time to get this right. In the meantime, our existing terms remain in effect,” a Meta spokesperson told Reuters. Soon after Meta notified business account holders of the upcoming changes, legal experts warned Nieman Lab that the vague language could allow the company to ignore scraping preferences specified in robots.txt files and exhaustively crawl vast amounts of off-Facebook content for AI training. Since virtually every news publisher has a Facebook page, Nieman Lab sounded the alarm that Meta could potentially avoid millions in licensing fees if the TOS update happened as planned. Ars broke down the changes after Meta announced them, noting that businesses—including news publishers involved in drawn-out legal battles over unwanted AI scraping—had no way to opt out. To keep a business Facebook page, they had to allow Meta to crawl any linked external sites. The terms even required publishers to create test credentials so Meta’s bots could reliably bypass paywalls. Meta faced global scrutiny The changes were initially supposed to take effect on October 30. But Meta pushed that date back to November 20 amid pushback from Facebook users, courts, and regulators around the world. Courts in Brazil and Norway issued preliminary injunctions blocking the terms after organizations in those countries promptly filed lawsuits, Nieman Lab reported. The United Kingdom’s Competition and Markets Authority also opened a formal investigation into whether Meta was exploit…",
+   "fonte": "Ars Technica",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Testate tech",
+   "id": "u2a143",
+   "testo_completo": true
+  },
+  "u2a132": {
+   "titolo": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+   "link": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+   "data": "2026-11-06T18:44:20+00:00",
+   "testo": "Meta recently launched its Muse agents — a new generation of cuddly agentic helpers. Now, the company has launched Spaces, a new way to communicate and collaborate with them. As far as I can tell, Spaces are basically breakout conversations that revolve around a particular topic — although Meta refers to them as “custom experiences.” They live in the sidebar of the interface where you interact with your Muse agent. Clicking on the Space brings up the conversation, where Muse works toward a particular goal on your behalf. For instance, if you wanted to plan a vacation, you could open a new Space focused on that particular project, and whenever you want to work on it with Muse, you would click to open that particular tab. Or, if you’re focused on collecting recipes for an upcoming family event, you’d open a new Space for that particular project. Other examples Meta gives are a holiday gift tracker, a wedding planner, or a space for DIY projects. “Describe an idea in chat, and Muse builds a space for you, whether that’s a tracker, a planner or a project board,” Meta says. Spaces can also be easily integrated with third-party apps and information, Meta says. “Connect the apps you use, and your spaces keep themselves up to date in the background, so new concert dates, price changes, or savings progress show up without you having to ask,” the company says. On Friday, Mark Zuckerberg, Meta’s founder and CEO, posted about the new feature on X: “Playing around with spaces in Muse lately — tell Muse what you need and it builds it. I’ve made a BBQ game, an event tracker, and a home control dashboard. Excited to see what you build.” Muse agents — and the cuddly avatars that enclose them — have been greeted with a relatively warm reception over the past few months. During its earni…",
+   "fonte": "TechCrunch",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Testate tech",
+   "id": "u2a132",
+   "testo_completo": true
+  },
+  "u2a123": {
+   "titolo": "Meta’s Muse AI can create custom ‘spaces’ for the version of the app you need right now",
+   "link": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
+   "sito": "",
+   "data": "2026-11-06T13:10:10-05:00",
+   "testo": "Meta will now allow you to build customized, app-like experiences within Muse. The new feature, called “spaces,” allows its AI assistant to build things like a shopping hub, school dashboard, music tracker, trivia game, and more, which you can interact with directly in the Muse app. Meta’s Muse AI can create custom ‘spaces’ for the version of the app you need right now You can create things like a shopping hub, school dashboard, or music tracker directly within Muse. Meta says you can create a new space by describing it. If you connect an outside app to Muse — like Gmail, Google Calendar, OpenTable, Notion, and others Muse works with — the AI assistant will continuously pull information from them, allowing it to update pricing, dates, and other information in your space in the background. You can also interact with elements inside your spaces by checking things off, adding notes, and making edits. You can also change the placement of your spaces in the Muse app, too, as Meta lets you keep them in the sidebar, move them into your main tab, or schedule when you see them. “For example, keep your weekly planner up front during the workweek, then swap it for your weekend plans on Saturday,” Meta says. Meta also announced that it’s bringing new “Active Memory” and “Active Focus” capabilities from its Muse Wonder AI model into the Muse app and its Meta AI chatbot. This will allow Muse to understand when past information becomes relevant during conversations, as well as make it better at working toward goals. Meta is rolling out spaces to all Muse users. The company is also looking into ways to share your spaces with other users and collaborate with them.",
+   "fonte": "The Verge",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Testate tech",
+   "id": "u2a123",
+   "testo_completo": true
+  },
+  "u2a137": {
+   "titolo": "Underdog shows off a 32MB speech model in new demo",
+   "link": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
+   "data": "2026-11-06T13:02:16+00:00",
+   "testo": "AI companies across the world are racing to make bigger and better models, but the problem is all of them need massive amounts of processing power. On the other end, some researchers and startups are creating smaller models that can run on edge devices, like your phone or computer. One such startup, Underdog, has released a game built with its new voice model called Woof that’s only 32MB large. The game features a room with a retro tech theme, a typewriter, and a CRT monitor. There is a desk lamp, which makes a sound when you click its switch. The intro warns users about “intrusive” cloud providers in the town — ostensibly a jab at cloud-based models. You can interact with the typewriter and music tuner. You can type anything on the typewriter using your keyboard, and the game will speak it back. You can also rotate the tuner to generate different kinds of music. All of this works within the browser through Underdog’s speech generation model, which, the company says, can run on most devices without any internet connection. The model has 31 million parameters and is open for everyone to download. While such a small model likely won’t replace bigger models, it may still be enough to drive local assistant experiences or create personalized podcasts. This demo comes weeks after Underdog launched Bark, a 167MB speech-to-text model also designed to run on edge devices for transcription and dictation. Sigil Wen, the founder of Underdog, told TechCrunch that he started building the app because, instead of using notetakers like Granola, he wanted to build his own system with AI models that can run on users’ devices and let them own their data. “I think we will be able to run most capable models of today on the devices you already own within months. We just want to train the bes…",
+   "fonte": "TechCrunch",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Testate tech",
+   "id": "u2a137",
+   "testo_completo": true
+  },
+  "u2a194": {
+   "titolo": "I built a Netflix-style app for my media server with Claude. The whole thing is 15 MB 🤯",
+   "link": "https://www.reddit.com/r/ClaudeAI/comments/1xp76q1/i_built_a_netflixstyle_app_for_my_media_server/",
+   "sito": "",
+   "data": "2026-11-06T07:53:59+00:00",
+   "testo": "if you run a home media server you probably have sonarr, radarr, lidarr, bazarr, prowlarr and seerr. thats six apps, and each one ships with its own little operating system inside just to run. sonarr and radarr each sit around 110-140 MB of ram doing nothing i wanted one app that does all of it and feels like netflix, so i built holyarrs. its about 15 MB to download and idles around 70 MB of ram …",
+   "fonte": "Reddit",
+   "tipo": "community",
+   "solo_titolo": false,
+   "categoria": "Community",
+   "id": "u2a194"
+  },
+  "u2a106": {
+   "titolo": "Copilot is coming to the reworked Windows 11 search box, but Microsoft claims it will be an 'opt-in' feature",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPaGxfTXljY3ZwV3lmWG96SDZVb2F4RTJOQjdXWUZYNWxCRGl6R2Rsa3ZqV25oZGxaYXNHaWtlRmFLRTgyNm1YaGhTVTNVUEpTLWVjeDN5VFN2UzlIb09fOWh2dndWZnZmTUVhN0RMbnFfSmJuV203X0J0SE1RMEVleU1iNmtiT0pvcnprMG5mckZWNGpDMkZZUTljY2ttT2pmT3loYzJGRy1KWDZ5WGxvYXlYS1RXd01VMXR5Vm9iUVFaemdvRjZhd25fdGFRRjhOUmpVRGpGMjJTRTRjbHJlVzhzVVd0alQ1S1E?oc=5",
+   "data": "2026-11-06T21:15:03+00:00",
+   "testo": "",
+   "fonte": "TweakTown",
+   "tipo": "minore",
+   "solo_titolo": true,
+   "categoria": "Laboratori",
+   "id": "u2a106"
+  },
+  "u2a127": {
+   "titolo": "Amazon will let you text Alexa your shopping list",
+   "link": "https://www.theverge.com/tech/1028587/amazon-alexa-shopping-ai-text-orders",
+   "sito": "",
+   "data": "2026-11-06T09:00:00-05:00",
+   "testo": "Amazon is adding a new feature to Alexa for Shopping that allows customers to purchase items by texting the AI shopping assistant. Users can describe the products they’re looking to buy and/or provide a photograph of the item, and Alexa for Shopping will search for matching results in Amazon listings, text back with recommendations, and order the item on the users’ behalf. Amazon will let you text Alexa your shopping list The Alexa for Shopping AI assistant can now order groceries and recommend products over text messages. This launch builds on the existing Alexa for Shopping experience that launched in May, allowing users to place orders during moments where texting is more convenient than using Amazon’s app or website. The contact will appear in your phone as “Amazon Alexa,” and can be used for a wide range of shopping requests, including ordering weekly groceries, asking for gift recommendations, finding similar products to something you’ve snapped a photo of, and more. Alexa says it remembers your personal preferences over time (so if you frequently ask for vegan options, it’ll bear that in mind for product recommendations), and can track deals and prices to text you when an item you’re watching has gone on sale. The texting capability is rolling out to a small group of Amazon customers in the US starting today, who will receive a text message inviting them to try the experience. It will then roll out to “millions more customers” in the coming weeks, according to Amazon’s announcement. “Customers often jot down what they need the moment they think of it in their notes, in their messages, in their group chats,” said Rajiv Mehta, vice president of Conversational Shopping at Amazon. “Now with Alexa for Shopping, your personal shopping agent is just a text away. Messag…",
+   "fonte": "The Verge",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Testate tech",
+   "id": "u2a127",
+   "testo_completo": true
   }
  },
  "fonti": [
@@ -932,10 +1041,104 @@
   "iremovedguardrailsfromqwenanditisperformingepically",
   "goodsqclaunchesstreamlinedqcverificationtooltoempowerover",
   "putinsvaldairesidenceguardedbyhalfofmoscowoblastsairdefensesnvinfographic",
-  "dueaereiquasiimpercettibilinellaudiocosìunoyoutuberhageolocalizzatounframmentodi"
+  "dueaereiquasiimpercettibilinellaudiocosìunoyoutuberhageolocalizzatounframmentodi",
+  "10xgenomicslaunchessentiraaitooltosimplifycellanalysis",
+  "brivolaunchesaitoolforsecuritysystemsresellers",
+  "decibiolaunchesmarketintelligenceportalwithdecichatanaiassistantpoweredbydecibio",
+  "nivolaunchesaiassistantforspecialistlenderswithfreetwoweektrial",
+  "deepindergoyalstemplewantstoreplaceyourpersonalaiassistantwithawearable",
+  "intelligenzaartificialeeparquetbertipresentacesareilprimoaiagentdelsettore",
+  "gliscrittoricheutilizzanolintelligenzaartificialecontinuanoavincereilpremiogonco",
+  "mistralstudiolanciaagentigestitieappancheonpremises",
+  "lacommissionelanciaunpacchettosuistruzioneecompetenzepercontrastareildeclinodell",
+  "geminiomni12flashgooglelanciaivideoiada15secondi",
+  "androidautogemininonriesceachiamareicontattiilnuovobugmandaintiltsamsunggalaxyeg",
+  "comeusareaiutamiascriveredigeminiingmailguidapassoperpasso",
+  "claudepersonalfinancearrivapercollegareicontibancari",
+  "chatgptsalutecanerischielimitidelliaveterinaria",
+  "itriedreplacingclaudecodewithalocalaistackthatscompletelyfreehowitwent",
+  "mylocalllmturnsmyvoicenotesintotodoitemsautomaticallyandnothingfallsthroughthecr",
+  "raekunveilsnewdesignsforcreatorvaultitsfirstprivateaiappliance",
+  "redmagic12proèilprimosnapdragonconlinuxterminaldiandroidcosacambia",
+  "whythepixel7scamerastillholdsupin2026evenwithoutgooglesnewestai",
+  "itriedchatgptandclaudeasmyandroidassistanthereshowtheycomparetogemini",
+  "anchorenablesshareonmobile",
+  "projectstoreplacethelostrssfeeds",
+  "seerrhelp",
+  "project2027anrfctorebuildpublictechusingtheeconomicsofopensource",
+  "setupn8nontheraspberrypi",
+  "partneringwithhacktrontofindvulnerabilitiesinopenaissystems",
+  "measuringhowaiagentshandleeverydaywetlabscience",
+  "anthropiclaunchesclaudepersonalfinanceaheadofnasdaqlisting",
+  "anthropicrollsoutpersonalfinancetoolinclaude",
+  "anthropiclaunchespersonalfinanceinclaudeaipoweredbankinginsightsviaplaid",
+  "anthropiclaunchespersonalfinancefeatureforclaudeexpandsintoscientificresearch",
+  "chatandbuildlauncheslivingbrainonememorysharedacrosschatgptclaudeandcodex",
+  "claudelearnstotrackyourmoneyanthropiclaunchesapersonalaifinancialassistantrootna",
+  "projecteveclaudeplaysmmorpgs",
+  "anthropicipofacesvaluationcutafter25trillionrout",
+  "anthropicaddsbankaccountlinkingtoclaudeforpersonalfinance",
+  "generateceoseeshugeopportunityfromusingclaudetoshortencartcellengines",
+  "anthropicclaudedreamingtookwikiscorefrom13to48",
+  "dontbemeantoclaudeandothernewrulesfromanthropic",
+  "forefrontdermatologycutsmanualreporting85withmicrosoftfabricandformula5",
+  "copilotiscomingtothereworkedwindows11searchboxbutmicrosoftclaimsitwillbeanoptinf",
+  "microsoftisbuildingcopilotforfinancewithnewskillsandindustryspecificplugins",
+  "createandeditnonspapowerpagessiteswithagenticcodingtools",
+  "cambaysolutionsjoinsmicrosoftfinancialservicesairoundtableinnycfromaiexperimenta",
+  "everythingyoucancontrolwithgrokinyourtesla",
+  "perplexityteammateslauncheshowits200amonthaiagentswork",
+  "perplexitylaunchesnewteammatefeaturemanagingongoingprojectswithaiagents",
+  "toyblocksacontrolledworldforrobotlearningandevaluation",
+  "allthelatestupdatesonaidatacenters",
+  "metasmuseaicancreatecustomspacesfortheversionoftheappyouneedrightnow",
+  "aiisthenewdatingdealbreaker",
+  "bigtechlostbiginthe2026election",
+  "howakaiandmoogareembracingvibecodedmods",
+  "amazonwillletyoutextalexayourshoppinglist",
+  "hundredsofartexaihackingtoolsfoundpubliclyexposedtotheweb",
+  "metaintroducesspacesanewwaytocollaboratewithyourmuseagent",
+  "howabluewavemidtermmightreshapetheaiindustry",
+  "afterthemidtermsistheaiindustryinforaroughtwoyears",
+  "rampdatashowsaispendingstallingjustasanthropicnearsitsipo",
+  "afterblockingmuseamazonnowletsuserstextalexatohelpthemshop",
+  "underdogshowsoffa32mbspeechmodelinnewdemo",
+  "physiclraises10mtomakethedigitalworldrealenoughforrobots",
+  "doesmetathinkwecantreadmetaabandonssketchycommercialtermsupdate",
+  "couldpotentialaiclonesofgtaviforceaquickerofficialport",
+  "ripple65bpreviewdeliversstrongagenticcodingresultsasafullyapache20openusmodel",
+  "perplexitynowhasitsownalwaysonaiagent",
+  "frontierradar5ifagiissoclosewhyiseveryoneleavingtheneolabsandtheirbets",
+  "metrfindsanthropicmayhavecrosseditsownaiaccelerationwarningthresholdbackinjuly",
+  "thinkingmachinesinkling2smallclaimstopspotamongwesternopenweightmodels",
+  "anthropicrdacceleratesgpt6cyberinkling2small",
+  "intelligenzaartificialeperpmidelcratereprogettoperlaformazione",
+  "troppiobiettivi5promptdichatgptpergestirlituttisenzaimpazzire",
+  "auto2035leuropasocchiudelaportaaimotoriabenzina",
+  "dropboxacquisiscetigris311milioniperpuntaresullai",
+  "openainuoveregoleperidatacenteracquaenergiaetrasparenza",
+  "mercatifinanziariinvestimentieagentiaileinnovazionidifreedom24",
+  "intelligenzaartificialeelavorocomèmessalitaliaineuropa",
+  "musicaeaigenerativalequattrofasidellanuovaindustria",
+  "garanteprivacyprotocollatalistanzadiaccessoagliattidiagenparlrichiestiidocumenti",
+  "hellcomeforyourram",
+  "ibuiltasailingsimwithclaudecodeandmadethefrontiermodelsraceeachotherinit",
+  "ijustspammedchatgptlike10timesandthishappened",
+  "wasthereeveranexplanationforthatcreepyopus50glitchafewmonthsago",
+  "ibuiltanetflixstyleappformymediaserverwithclaudethewholethingis15mb",
+  "mylocalllmbuild9950xrtxpro60005090128gbvram",
+  "ocenonv1alanguagemodelthatgetstothefckingpoint",
+  "a01bmodeljustkilled8bembeddingmodelsitrieditout",
+  "bluetsunamisweepsusmidtermsongoingdisplacementinlebanonmappingeuropeanprotests",
+  "smartmlsintroducesnewownershipverificationtooltohelpcombatsellerimpersonationand",
+  "top7providersofosintservicesforthedefencesector",
+  "dueaereiquasiimpercettibilinellaudiocosìunoyoutuberhageolocalizzatoilframmentodi",
+  "questovideodeimilitarispagnolichearrestanodeputaticorrottièfalso",
+  "disinfoupdate4112026",
+  "registerfordisinfohub"
  ],
  "audio": "audio/2026-11-06.mp3",
- "durata": 137.2,
+ "durata": 230.5,
  "aggiornamenti": [
   {
    "generato": "2026-11-06T13:08:36+00:00",
@@ -995,6 +1198,195 @@
     ],
     "formato": 2,
     "controllo_siti": []
+   }
+  },
+  {
+   "generato": "2026-11-06T21:45:20+00:00",
+   "modello": "gemini-3.6-flash",
+   "testi_completi": 19,
+   "riassunto": {
+    "titolo_giorno": "Sintesi vocale locale con Woof e acquisti via SMS con Alexa",
+    "in_breve": "L'aggiornamento di oggi mette in mostra Woof di Underdog, un modello di sintesi vocale da soli 32MB che funziona interamente sul dispositivo senza connessione internet. Nel frattempo, i colossi della tecnologia espandono le funzioni dei propri assistenti: Meta AI introduce gli Spazi personalizzati in Muse per organizzare progetti e attività, mentre Amazon Alexa consente di chattare via SMS per cercare e acquistare prodotti.",
+    "citati": [
+     "Woof di Underdog",
+     "Meta AI",
+     "Amazon Alexa"
+    ],
+    "da_provare": [
+     {
+      "cosa": "Woof di Underdog",
+      "a_cosa_serve": "Un sistema di sintesi vocale compatto che trasforma il testo scritto in audio parlato direttamente nel browser senza inviare dati a server cloud.",
+      "per_chi": "Tutti i giorni",
+      "ambito": "Voce e audio",
+      "come_iniziare": [
+       "Apri la pagina web della demo",
+       "Digita un testo sulla tastiera virtuale per ascoltarne la lettura elaborata istantaneamente sul dispositivo"
+      ],
+      "costo": "Gratis",
+      "piattaforme": [
+       "Browser"
+      ],
+      "sul_dispositivo": true,
+      "come_sfruttarla": "Ascoltare la lettura di brevi testi o appunti mantenendo la totale privacy del contenuto.",
+      "italiano": "Non indicato",
+      "difficolta": "Facile",
+      "temi": [
+       "AI sul dispositivo",
+       "Voce e audio"
+      ],
+      "fonti": [
+       "u2a137"
+      ],
+      "affidabilita": "Una fonte",
+      "prova": ""
+     }
+    ],
+    "osint": [],
+    "gemme": [
+     {
+      "cosa": "Anchor",
+      "a_cosa_serve": "Permette di salvare note, link e immagini direttamente nel proprio archivio personale utilizzando il menu di condivisione nativo dello smartphone.",
+      "perche_gemma": "Applicazione di appunti open source e self-hosted che si integra perfettamente con il menu di condivisione mobile.",
+      "con_ai": "",
+      "piattaforme": [
+       "Browser",
+       "Android"
+      ],
+      "self_hosted": true,
+      "costo": "Gratis",
+      "difficolta": "Media",
+      "temi": [
+       "Open source e self-hosting",
+       "Foto e immagini"
+      ],
+      "fonti": [
+       "u2a63"
+      ],
+      "affidabilita": "Da verificare",
+      "come_iniziare": [],
+      "sul_dispositivo": false,
+      "come_sfruttarla": "",
+      "prova": ""
+     },
+     {
+      "cosa": "Holyarrs",
+      "a_cosa_serve": "Unifica la gestione del proprio media server casalingo in un'unica interfaccia in stile Netflix.",
+      "perche_gemma": "Sostituisce molteplici applicazioni separate con una sola app da 15 MB ad altissima efficienza di memoria.",
+      "con_ai": "",
+      "piattaforme": [
+       "Browser"
+      ],
+      "self_hosted": true,
+      "costo": "Gratis",
+      "difficolta": "Media",
+      "temi": [
+       "Open source e self-hosting"
+      ],
+      "fonti": [
+       "u2a194"
+      ],
+      "affidabilita": "Da verificare",
+      "come_iniziare": [],
+      "sul_dispositivo": false,
+      "come_sfruttarla": "",
+      "prova": ""
+     }
+    ],
+    "sezioni": [
+     {
+      "titolo": "Novità negli strumenti che già usi",
+      "notizie": [
+       {
+        "titolo": "Arrivano gli Spazi in Muse per creare dashboard e organizzare progetti",
+        "strumento": "Meta AI",
+        "riassunto": "L'app Muse consente ora di creare schermate e schede dinamiche personalizzate semplicemente descrivendo la propria idea al chatbot. Collegando servizi come Gmail o Google Calendar, gli Spazi aggiornano automaticamente informazioni come date, scadenze e prezzi in background.",
+        "come_provarla": "Descrivi l'idea per la tua dashboard direttamente nella chat dell'app Muse.",
+        "disponibilita": "Disponibile ora",
+        "fonti": [
+         "u2a123",
+         "u2a132"
+        ],
+        "temi": [
+         "Assistenti e chatbot",
+         "Lavoro e produttività",
+         "Scrittura e documenti"
+        ],
+        "affidabilita": "Confermata",
+        "solo_titoli": false
+       },
+       {
+        "titolo": "Assistente per gli acquisti gestibile direttamente via SMS",
+        "strumento": "Amazon Alexa",
+        "riassunto": "È possibile interagire con l'assistente di shopping inviando messaggi di testo. Si possono richiedere consigli sui prodotti, inviare foto di oggetti per trovare articoli simili sul catalogo Amazon e completare gli ordini senza aprire l'app o il sito web.",
+        "come_provarla": "In fase di rollout iniziale tramite messaggio di invito via SMS negli Stati Uniti.",
+        "disponibilita": "In arrivo",
+        "fonti": [
+         "u2a127",
+         "u2a136"
+        ],
+        "temi": [
+         "Assistenti e chatbot",
+         "Lavoro e produttività",
+         "Foto e immagini"
+        ],
+        "affidabilita": "Confermata",
+        "solo_titoli": false
+       },
+       {
+        "titolo": "Integrazione opzionale nella barra di ricerca di Windows 11",
+        "strumento": "Copilot",
+        "riassunto": "Microsoft sta integrando l'assistente Copilot nella casella di ricerca riprogettata del sistema operativo. La funzione sarà opzionale e attivabile a scelta dell'utente per non interferire con la ricerca locale tradizionale.",
+        "come_provarla": "",
+        "disponibilita": "In arrivo",
+        "fonti": [
+         "u2a106"
+        ],
+        "temi": [
+         "Assistenti e chatbot",
+         "Lavoro e produttività",
+         "AI sul dispositivo"
+        ],
+        "affidabilita": "Da verificare",
+        "solo_titoli": true
+       }
+      ]
+     },
+     {
+      "titolo": "In breve",
+      "breve": true,
+      "notizie": [
+       {
+        "titolo": "Meta sospende le modifiche sui termini di addestramento AI",
+        "riassunto": "Meta ha rinviato a tempo indeterminato le modifiche contrattuali che avrebbero obbligato le pagine aziendali ad autorizzare la scansione dei propri siti web esterni per l'addestramento dei modelli AI.",
+        "fonti": [
+         "u2a143"
+        ],
+        "temi": [
+         "Regole e leggi",
+         "Privacy e sicurezza",
+         "Programmare senza codice"
+        ],
+        "affidabilita": "Una fonte",
+        "solo_titoli": false
+       }
+      ]
+     }
+    ],
+    "formato": 2,
+    "controllo_siti": [
+     {
+      "cosa": "Woof di Underdog",
+      "esito": "nessun sito da aprire"
+     },
+     {
+      "cosa": "Anchor",
+      "esito": "nessun sito da aprire"
+     },
+     {
+      "cosa": "Holyarrs",
+      "esito": "nessun sito da aprire"
+     }
+    ]
    }
   }
  ]
