@@ -296,6 +296,61 @@
    "categoria": "Testate tech",
    "id": "a126",
    "testo_completo": true
+  },
+  "u1a28": {
+   "titolo": "Google lancia Gemini Omni 1.2 Flash, i video generati con l’IA arrivano a 15 secondi",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQUtvVVNfT28wTWtwS1Z6NVltMlU5aVJVWWR2WnJRNmhyN05qSllBTHJ3RTcxUFBLeFotRXpuVEU2QlMyVkp5VnRCek9YS2t5SmRUWlZOUFpHZkxKUm5VaXVYZUJGaEd0X1hpdm0yYVdUU3J4X1V6SUF0aGxiMHdTbXpLalpjMmNNOEJzdG5oRlFncUEyNldsaERPbXpPUmFwMlNCb3dHN2pDQlE?oc=5",
+   "data": "2026-11-06T10:38:50+00:00",
+   "testo": "",
+   "fonte": "TuttoAndroid",
+   "tipo": "minore",
+   "solo_titolo": true,
+   "categoria": "Strumenti",
+   "id": "u1a28"
+  },
+  "u1a90": {
+   "titolo": "Google Launches Gemini Omni 1.2 Flash With 15-second AI Videos",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOanEzZnNHNlowT2swSFBTSmNELVp0ZkhiQVF2cHZ4Rkg3X0kyam5NNTlCaG5McjMxMHhIdWk0bzhGUmE0c2ZqZFU5M0Z2SzZJanFJQ1cybG0zTjhHLVo2czBJN19fZzFfMUZiVzRMb251bzNPV0pBRFRtN3ZGMEpRUDhTTlVYaXhzbGdLeEJYNkczUlU?oc=5",
+   "data": "2026-11-06T09:44:45+00:00",
+   "testo": "",
+   "fonte": "Dataconomy",
+   "tipo": "minore",
+   "solo_titolo": true,
+   "categoria": "Laboratori",
+   "id": "u1a90"
+  },
+  "u1a103": {
+   "titolo": "Anthropic adds bank account access to Claude so users can track their spending",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVUtlQnZCZm9uS3lENk8xWlVQMVFKdVozNFhIekVNZTJtd0IxeFFvM0hXLXAtaWpKVk5ocjN4RDJqYk52a3BkZFRSMzlXYk4zRGo4WGZwS1RnZEx0alI3U21aQ1FyaWo1YlJ6STBxU0c0aXFreGI5MEhYTndBbDdqZ2dxUzNiVGVELUdYZ1FmNnIyczFuSjREaEdCVDJ4Zzc5SlZfaDRB?oc=5",
+   "data": "2026-11-06T11:40:33+00:00",
+   "testo": "",
+   "fonte": "The Decoder",
+   "tipo": "testata",
+   "solo_titolo": true,
+   "categoria": "Laboratori",
+   "id": "u1a103"
+  },
+  "u1a94": {
+   "titolo": "Anthropic rolls out personal finance feature for Claude: All you need to know",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNY0hCLThETHFIM0F0MVRTYVViMUpWdjJHSnlBYWpkc1NpQmxqWVpKMnpuOXB1NExNQVVHcVhLWWYwY3lOaVBmREw3MDRoSUtUcXotaTBzYVZ2M1RwWG15Z0hSbE55blM2UXZ4TXJUSFl2U21ueGJNYW9IRVRLYVJEeThrN0dPR1FieHVpNXNOMU9aTEZ2bExNZHFGcDZtMkM0MHlNUmNkREYySEhzYThNVzFuYmtJQWRxOWpfRE52VXVia245Ulh0adIBzgFBVV95cUxONF9QNVFRdWxHZHlCQXZaazhpeXVaV2hKdGtmS3NHVFVLMEhYRHdJR1N0bDJMZGJEek9pbWRWdHZVZzIwZng0RGFueExaVERGZTVUNkQwSGJydV9yM3ExaGJOYko0UkRTdEVuQXE5b3B3RC1zWGdfVUlKWC16ZldwRlRFYWY2a05JZ3U4TUNwWkpxWjVJSko5OGNnRGkweWQ2bm5mOThVRlowbDdTTGZKM2ZmN0JFMnZGckwwZG1EUGFrMHdHbnpvMlprWmdJZw?oc=5",
+   "data": "2026-11-06T08:51:01+00:00",
+   "testo": "",
+   "fonte": "Storyboard18",
+   "tipo": "minore",
+   "solo_titolo": true,
+   "categoria": "Laboratori",
+   "id": "u1a94"
+  },
+  "u1a35": {
+   "titolo": "Claude può analizzare conti bancari e spese con la nuova funzione Personal Finance",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9TRXlFX3IzX2VXZmJhdzlSQnRkWkVOTUFhNHRCaFcyQ3lCbWxqakQxMGs2ekNsc0oxT0V5SVA3M1FxcWhneDhnZHhiTTdseHA0QXBid0dYZi1fLVRGQWpZSUs0OU9BVDlkUERUOEVTVmhQX0swaDdXUmdR?oc=5",
+   "data": "2026-11-06T12:27:20+00:00",
+   "testo": "",
+   "fonte": "TuttoTech.net",
+   "tipo": "minore",
+   "solo_titolo": true,
+   "categoria": "Strumenti",
+   "id": "u1a35"
   }
  },
  "fonti": [
@@ -813,8 +868,134 @@
   "acousticgeolocation",
   "eusatelliteimagerydelayedovergazaandpartsofwestbankby24hours",
   "careerchangelanguagestoosintcorporateintelligence",
-  "criminalarrestwarrantforosinttrolljessenickles"
+  "criminalarrestwarrantforosinttrolljessenickles",
+  "rankfenderv30",
+  "plainmail",
+  "tracex",
+  "chronosdb",
+  "wisp",
+  "kivo",
+  "pressure",
+  "koltrix",
+  "thunderduckinc",
+  "orgsync",
+  "translucentai",
+  "mmory",
+  "pwnedcoffee",
+  "cloptima",
+  "pauta",
+  "wealthsimplelaunchesaiassistantpennyinsweepingproductpush",
+  "metalaunchesmusevoicelettingusershaverealtimeconversationswiththeaiassistant",
+  "openaiarrivagpt6cybereccoperchéèclassificatocomecriticoperlacybersecurity",
+  "googlelanciageminiomni12flashivideogeneraticonliaarrivanoa15secondi",
+  "malattiedellapelleallospedalesanluigidiorbassanoarrivalastrutturadidermochirurgi",
+  "whatsappintroducelespansionedellefotoconmetaai",
+  "tiktokshoparrivalappautonomainasia",
+  "laiarrivainagricolturamailfuturodellaterradipendeancoradachilalavora",
+  "claudepuòanalizzarecontibancariespeseconlanuovafunzionepersonalfinance",
+  "octionagencylaunchesecosystemfordigitalgrowthandprivateai",
+  "applehomeviewpotrebbeaccogliereappconversazionaliconios273",
+  "anyoneevertrythesyncthingequivalentofvpnsanywherelan",
+  "newprojectmegathreadweekof05nov2026",
+  "lookingfortheholygrailofnotes",
+  "synapticsappearstouselegalthreatstoblockopensourcedisplaylinkdriver",
+  "googlelaunchesgeminiomni12flashwith15secondaivideos",
+  "sunoailaunchesmcptocreatesongsinchatgptclaudeandgemini",
+  "olympuslaunchessoltivegeminilasersysteminus",
+  "anthropicrollsoutpersonalfinancefeatureforclaudeallyouneedtoknow",
+  "microsoftlaunchesgithubcopilotexamfreecertificationsystemhowwillitwork",
+  "anthropicaddsbankaccountaccesstoclaudesouserscantracktheirspending",
+  "perplexitylaunchesalwaysonaiagentsforwork",
+  "fitchsolutionsbringsfitchratingscreditsightsandbmiintelligencetoperplexity",
+  "smartglassesmaybefeedingyourfacetoaiandsamsungspairlandsnextmonth",
+  "egyptianandnigerianenglishjointheopenasrleaderboard",
+  "protestersbreakintomicrosoftdatacentersiteinamsterdam",
+  "iwatchedahumanoidrobotcleanmyapartmentitfeltlikeatasteofthefuture",
+  "anthropics15trillionipohitsresistanceasinvestorsbalkatvaluation",
+  "hrcgroupriuniscearomaleimpreseperdiscuterediintelligenzaartificiale",
+  "fedfermasupoliticarialzogradualeecostantedeitassidinteresse",
+  "openailanciagpt6cyberscopre81falleinfirefoxequasimilleexploitlinux",
+  "windows11piùbugscopertinonsignificamenosicurezza",
+  "airbnblanciaunagenteaiperpianificareeprenotareviaggi",
+  "perplexitylanciaiteammatesagentiaisempreattiviperillavoro",
+  "laitrovaquasimillemodiperviolarelinuxspendendounquindicesimo",
+  "ainaairinglanellosmartcondisplayjoystickspeakeremicrofono",
+  "icloudocchioailinkpubbliciapplepuòesaminarlieanchechiamarelapolizia",
+  "memoriericaviallestellegrazieallaieprezzialtianchenel2027",
+  "iphoneduoapplechiedeaiprimiacquirenticosavorrebberocambiare",
+  "strategiaaidimpresaperchélasceltadelmodellononbasta",
+  "laicorrepiùvelocedellasuaaffidabilitàildivariochepreoccupa",
+  "filigraneaiilvuotodellaiactchefavoriscechilerimuove",
+  "nis2eaiactallaprovadelcloudlaguidaoperativapericio",
+  "ibuilta3dglobeformytwoboyswithclaudecodeitgotwaymorelovethaniexpectedsohereshowi",
+  "3interestingthingsclaudecandoforyoubutyoudidntknow",
+  "iremovedguardrailsfromqwenanditisperformingepically",
+  "goodsqclaunchesstreamlinedqcverificationtooltoempowerover",
+  "putinsvaldairesidenceguardedbyhalfofmoscowoblastsairdefensesnvinfographic",
+  "dueaereiquasiimpercettibilinellaudiocosìunoyoutuberhageolocalizzatounframmentodi"
  ],
  "audio": "audio/2026-11-06.mp3",
- "durata": 104.7
+ "durata": 137.2,
+ "aggiornamenti": [
+  {
+   "generato": "2026-11-06T13:08:36+00:00",
+   "modello": "gemini-3.5-flash-lite",
+   "testi_completi": 7,
+   "riassunto": {
+    "titolo_giorno": "Claude introduce l'analisi finanziaria personale per monitorare conti e spese",
+    "in_breve": "Anthropic ha introdotto una nuova funzione in Claude che permette di collegare i conti bancari per analizzare spese e bilancio personale. Nel frattempo, Google ha lanciato Gemini Omni 1.2 Flash per generare video fino a 15 secondi, offrendo nuove opportunità creative direttamente sui dispositivi supportati.",
+    "citati": [
+     "Claude",
+     "Gemini Omni 1.2 Flash"
+    ],
+    "da_provare": [],
+    "osint": [],
+    "gemme": [],
+    "sezioni": [
+     {
+      "titolo": "Novità negli strumenti che già usi",
+      "notizie": [
+       {
+        "titolo": "Claude può analizzare conti bancari e spese",
+        "strumento": "Claude",
+        "riassunto": "Claude permette ora di accedere ai conti bancari per esaminare la situazione finanziaria, monitorare le spese e gestire il bilancio personale in modo automatizzato.",
+        "come_provarla": "",
+        "disponibilita": "Disponibile ora",
+        "fonti": [
+         "u1a103",
+         "u1a35",
+         "u1a94"
+        ],
+        "temi": [
+         "Agenti AI",
+         "Assistenti e chatbot"
+        ],
+        "affidabilita": "Una fonte",
+        "solo_titoli": true
+       },
+       {
+        "titolo": "Google lancia Gemini Omni 1.2 Flash con video fino a 15 secondi",
+        "strumento": "Gemini",
+        "riassunto": "L'aggiornamento introduce la capacità di generare video con l'intelligenza artificiale della durata massima di 15 secondi, migliorando le prestazioni rispetto alle versioni precedenti.",
+        "come_provarla": "",
+        "disponibilita": "Disponibile ora",
+        "fonti": [
+         "u1a28",
+         "u1a90"
+        ],
+        "temi": [
+         "Assistenti e chatbot",
+         "Video"
+        ],
+        "affidabilita": "Da verificare",
+        "solo_titoli": true
+       }
+      ]
+     }
+    ],
+    "formato": 2,
+    "controllo_siti": []
+   }
+  }
+ ]
 }
