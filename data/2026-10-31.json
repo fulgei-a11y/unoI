@@ -1,0 +1,1020 @@
+{
+ "giorno": "2026-10-31",
+ "generato": "2026-10-31T05:54:00+00:00",
+ "modello": "gemini-3.6-flash",
+ "testi_completi": 32,
+ "riassunto": {
+  "titolo_giorno": "IFTTT.ai e Floot portano l'automazione e le app AI alla portata di tutti",
+  "in_breve": "L'integrazione tra intelligenza artificiale e strumenti quotidiani fa un passo avanti con IFTTT.ai e Floot in ChatGPT, che permettono di automatizzare compiti e creare applicazioni senza saper programmare. Spazio anche a Zest, il concierge via SMS per trovare e prenotare ristoranti in base ai propri gusti.",
+  "citati": [
+   "IFTTT.ai",
+   "Floot in ChatGPT",
+   "Zest"
+  ],
+  "da_provare": [
+   {
+    "cosa": "IFTTT.ai",
+    "a_cosa_serve": "Consente di automatizzare azioni e collegare app e servizi diversi descrivendo semplicemente ciò che si vuole ottenere in linguaggio naturale.",
+    "per_chi": "Lavoro e tutti i giorni",
+    "ambito": "Organizzazione e produttività",
+    "come_iniziare": [],
+    "costo": "Non indicato",
+    "piattaforme": [
+     "Browser"
+    ],
+    "sul_dispositivo": false,
+    "come_sfruttarla": "Creare flussi di lavoro automatici tra le proprie applicazioni preferite senza dover configurare regole complesse.",
+    "italiano": "Non indicato",
+    "difficolta": "Facile",
+    "temi": [
+     "Programmare senza codice",
+     "Lavoro e produttività",
+     "Agenti AI"
+    ],
+    "fonti": [
+     "a8"
+    ],
+    "affidabilita": "Appena lanciato",
+    "prova": "https://www.producthunt.com/products/ifttt"
+   },
+   {
+    "cosa": "SpeakON Agent",
+    "a_cosa_serve": "Trasforma le istruzioni impartite a voce in compiti concreti che vengono poi presi in carico ed eseguiti da un agente di intelligenza artificiale.",
+    "per_chi": "Lavoro",
+    "ambito": "Voce e organizzazione",
+    "come_iniziare": [],
+    "costo": "Non indicato",
+    "piattaforme": [
+     "Browser"
+    ],
+    "sul_dispositivo": false,
+    "come_sfruttarla": "Dettare a voce le operazioni da compiere al computer per farle completare automaticamente all'agente AI.",
+    "italiano": "Non indicato",
+    "difficolta": "Facile",
+    "temi": [
+     "Voce e audio",
+     "Agenti AI"
+    ],
+    "fonti": [
+     "a2"
+    ],
+    "affidabilita": "Appena lanciato",
+    "prova": "https://www.producthunt.com/products/speakon"
+   },
+   {
+    "cosa": "Floot in ChatGPT",
+    "a_cosa_serve": "Permette di sviluppare e pubblicare applicazioni web funzionanti direttamente all'interno dell'interfaccia di ChatGPT senza uscire dalla conversazione.",
+    "per_chi": "Lavoro e tutti i giorni",
+    "ambito": "Programmazione senza codice",
+    "come_iniziare": [],
+    "costo": "Non indicato",
+    "piattaforme": [
+     "Browser"
+    ],
+    "sul_dispositivo": false,
+    "come_sfruttarla": "Creare un piccolo strumento digitale o una calcolatrice personalizzata per la propria attività chattando semplicemente con l'AI.",
+    "italiano": "Non indicato",
+    "difficolta": "Facile",
+    "temi": [
+     "Programmare senza codice",
+     "Assistenti e chatbot"
+    ],
+    "fonti": [
+     "a12"
+    ],
+    "affidabilita": "Appena lanciato",
+    "prova": "https://www.producthunt.com/products/floot"
+   },
+   {
+    "cosa": "Zest",
+    "a_cosa_serve": "Un assistente AI accessibile via messaggi di testo che suggerisce ristoranti su misura analizzando lo storico delle uscite ed effettua direttamente le prenotazioni dei tavoli.",
+    "per_chi": "Tutti i giorni",
+    "ambito": "Viaggi e tempo libero",
+    "come_iniziare": [],
+    "costo": "Non indicato",
+    "piattaforme": [
+     "Browser"
+    ],
+    "sul_dispositivo": false,
+    "come_sfruttarla": "Chiedere un consiglio su dove cenare via SMS ed inviare la richiesta di prenotazione del tavolo in pochi secondi.",
+    "italiano": "Non indicato",
+    "difficolta": "Facile",
+    "temi": [
+     "Agenti AI",
+     "Assistenti e chatbot"
+    ],
+    "fonti": [
+     "a125"
+    ],
+    "affidabilita": "Una fonte",
+    "prova": ""
+   }
+  ],
+  "osint": [
+   {
+    "cosa": "GLEIF Search Tool",
+    "a_cosa_serve": "Consente di consultare gratuitamente il registro globale dei codici LEI per accedere ai dettagli societari e allo stato legale delle aziende in tutto il mondo.",
+    "uso": "Aziende e registri",
+    "piattaforme": [
+     "Browser"
+    ],
+    "costo": "Gratis",
+    "difficolta": "Facile",
+    "come_sfruttarla": "Verificare l'esistenza ufficiale e i dati legali di una società estera prima di stipulare un contratto o condurre un'analisi di affidabilità.",
+    "temi": [
+     "OSINT e verifica",
+     "Ricerca e informazioni"
+    ],
+    "fonti": [
+     "a192"
+    ],
+    "affidabilita": "Da verificare",
+    "come_iniziare": [],
+    "sul_dispositivo": false,
+    "prova": ""
+   }
+  ],
+  "gemme": [
+   {
+    "cosa": "self-host.fyi",
+    "a_cosa_serve": "Fornisce una procedura guidata a interfaccia testuale per generare file di configurazione Docker Compose pronti all'uso per avviare server casalinghi.",
+    "perche_gemma": "Semplifica il primo passo nel mondo del self-hosting eliminando gli errori di sintassi nella creazione dei container personali.",
+    "con_ai": "Aiuta a preparare in pochi clic l'ambiente necessario per ospitare modelli AI o servizi di automazione locali.",
+    "piattaforme": [
+     "Browser"
+    ],
+    "self_hosted": true,
+    "costo": "Gratis",
+    "difficolta": "Facile",
+    "temi": [
+     "Open source e self-hosting",
+     "Lavoro e produttività"
+    ],
+    "fonti": [
+     "a59"
+    ],
+    "affidabilita": "Da verificare",
+    "come_iniziare": [],
+    "sul_dispositivo": false,
+    "come_sfruttarla": "",
+    "prova": ""
+   }
+  ],
+  "sezioni": [
+   {
+    "titolo": "In breve",
+    "breve": true,
+    "notizie": [
+     {
+      "titolo": "Estensione per Claude colpita da malware su Cursor",
+      "riassunto": "Un'estensione ufficiale per Claude è rimasta compromessa per 11 ore sul marketplace dell'editor Cursor, colpendone fino a 5.000 utenti con tentativi di accesso remoto prima di essere rimossa.",
+      "fonti": [
+       "a133",
+       "a139"
+      ],
+      "temi": [
+       "Assistenti e chatbot"
+      ],
+      "affidabilita": "Confermata",
+      "solo_titoli": false
+     },
+     {
+      "titolo": "Nuovo standard per il blocco dell'addestramento AI",
+      "riassunto": "OpenAI, Google, Microsoft e Anthropic hanno concordato l'adozione di un unico standard condiviso che consentirà ai siti web di specificare le preferenze di blocco per l'addestramento AI con un solo segnale.",
+      "fonti": [
+       "a73",
+       "a112"
+      ],
+      "temi": [
+       "Programmare senza codice"
+      ],
+      "affidabilita": "Fonte ufficiale",
+      "solo_titoli": false
+     }
+    ]
+   }
+  ],
+  "formato": 2,
+  "controllo_siti": [
+   {
+    "cosa": "Zest",
+    "esito": "nessun sito da aprire"
+   },
+   {
+    "cosa": "GLEIF Search Tool",
+    "esito": "nessun sito da aprire"
+   },
+   {
+    "cosa": "self-host.fyi",
+    "esito": "nessun sito da aprire"
+   },
+   {
+    "cosa": "SpeakON Agent",
+    "sito": "https://www.producthunt.com/r/p/1297033?app_id=339",
+    "esito": "errore: HTTP Error 403: Forbidden"
+   },
+   {
+    "cosa": "Floot in ChatGPT",
+    "sito": "https://www.producthunt.com/r/p/1296361?app_id=339",
+    "esito": "errore: HTTP Error 403: Forbidden"
+   },
+   {
+    "cosa": "IFTTT.ai",
+    "sito": "https://www.producthunt.com/r/p/1296248?app_id=339",
+    "esito": "errore: HTTP Error 403: Forbidden"
+   }
+  ]
+ },
+ "articoli": {
+  "a8": {
+   "titolo": "IFTTT.ai",
+   "link": "https://www.producthunt.com/products/ifttt",
+   "sito": "https://www.producthunt.com/r/p/1296248?app_id=339",
+   "data": "2026-10-28T11:26:21-07:00",
+   "testo": "The easiest way to automate anything",
+   "fonte": "Product Hunt (AI)",
+   "tipo": "vetrina",
+   "solo_titolo": false,
+   "categoria": "Strumenti",
+   "id": "a8"
+  },
+  "a2": {
+   "titolo": "SpeakON Agent",
+   "link": "https://www.producthunt.com/products/speakon",
+   "sito": "https://www.producthunt.com/r/p/1297033?app_id=339",
+   "data": "2026-10-29T03:44:31-07:00",
+   "testo": "Turn natural speech into real work for an agent to complete",
+   "fonte": "Product Hunt (AI)",
+   "tipo": "vetrina",
+   "solo_titolo": false,
+   "categoria": "Strumenti",
+   "id": "a2"
+  },
+  "a112": {
+   "titolo": "The biggest names in AI are backing a new way to opt out of scraping",
+   "link": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
+   "sito": "",
+   "data": "2026-10-30T16:26:10-04:00",
+   "testo": "OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI, as reported earlier by Search Engine Roundtable. With this control, publishers can apply their AI training preferences across multiple AI companies, instead of setting them individually. The shared \"policy token\" signal […]",
+   "fonte": "The Verge",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Testate tech",
+   "id": "a112"
+  },
+  "a133": {
+   "titolo": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
+   "link": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
+   "data": "2026-10-30T21:09:54+00:00",
+   "testo": "An official extension for Anthropic’s Claude model was backdoored and threatened as many as 5,000 developers’ machines, multiple sources reported Friday. Anthropic so far has yet to warn customers of the incident. The compromised package was a VS Code extension available in the marketplace of Cursor, a maker of AI-assisted developer tools, the company said Friday. The malicious version, 2.1.313, subsequently affected “at most 5,000 users,” presumably when they either downloaded it or their systems automatically fetched and installed it. Anthropic pushed version 2.1.314 several hours after the previous version became available on Cursor, according to independent researcher Kevin Beaumont. Both Beaumont and the CTO and co-founder of security firm Phorian said that version 2.1.313 was distributed through Anthropic’s official account on Cursor. So far, neither Cursor nor Anthropic has explained how the attackers gained control of the account. In search of cloud credentials “It was a supply-chain compromise where the attacker gained access to the official distribution channel,” Phorian CTO and co-founder Luke Roberts told Ars. “The malicious version 2.1.313 was posted to the official Anthropic account, effectively superseding 2.1.312. Extensions auto-update in Cursor by default, but users can configure this in settings.” Phorian has more details here. Anthropic has yet to issue public notice of the incident to customers. Cursor said that the malicious extension attempts to install a persistent SSH backdoor using an added attacker-controlled SSH key, enabling the local SSH service, and opening a reverse SSH tunnel. The code was written to work on Windows, macOS, and Linux. Because Cursor extensions run with the permissions of the tool’s Integrated Development Environment, th…",
+   "fonte": "Ars Technica",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Testate tech",
+   "id": "a133",
+   "testo_completo": true
+  },
+  "a192": {
+   "titolo": "OpenCorporates paywalled their API (even plain search) — wrote a free GLEIF-based replacement",
+   "link": "https://www.reddit.com/r/OSINT/comments/1xiuvml/opencorporates_paywalled_their_api_even_plain/",
+   "sito": "",
+   "data": "2026-10-29T20:14:44+00:00",
+   "testo": "If you've used OpenCorporatesCLI or hit OpenCorporates' API directly recently, you may have noticed it now 401s on every call, including plain search, unless you have a paid account token. Doesn't look like they're issuing free ones anymore. I rebuilt the tool against GLEIF's LEI registry API ( https://www.gleif.org/ ) instead — free, no key. Search a company name, get legal entity detail: status…",
+   "fonte": "Reddit (OSINT)",
+   "tipo": "community",
+   "solo_titolo": false,
+   "categoria": "OSINT",
+   "id": "a192"
+  },
+  "a73": {
+   "titolo": "Making it easier for websites to express AI training preferences",
+   "link": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+   "data": "2026-10-30T09:30:00+00:00",
+   "testo": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
+   "fonte": "OpenAI",
+   "tipo": "ufficiale",
+   "solo_titolo": false,
+   "categoria": "Laboratori",
+   "id": "a73"
+  },
+  "a59": {
+   "titolo": "A TUI to get into self-hosting",
+   "link": "https://www.reddit.com/r/selfhosted/comments/1xjo1xq/a_tui_to_get_into_selfhosting/",
+   "sito": "",
+   "data": "2026-10-30T18:56:21+00:00",
+   "testo": "Last year I built Docker Compose Maker, It was a super simple website to help you get a fully working docker compose file to get started homelabbing. Now, one year later I am presenting to you: self-host.fyi , the \"v2\" of DCM. I've been contributing to Homarr almost weekly for almost 5 years. Recently I'm preparing to support Sonarr v5 beta and needed to ensure that nothing broke, as well as addi…",
+   "fonte": "Reddit r/selfhosted",
+   "tipo": "community",
+   "solo_titolo": false,
+   "categoria": "Gemme",
+   "id": "a59"
+  },
+  "a12": {
+   "titolo": "Floot in ChatGPT",
+   "link": "https://www.producthunt.com/products/floot",
+   "sito": "https://www.producthunt.com/r/p/1296361?app_id=339",
+   "data": "2026-10-28T13:14:10-07:00",
+   "testo": "Build and publish real apps without leaving ChatGPT",
+   "fonte": "Product Hunt (AI)",
+   "tipo": "vetrina",
+   "solo_titolo": false,
+   "categoria": "Strumenti",
+   "id": "a12"
+  },
+  "a125": {
+   "titolo": "Zest’s new AI agent finds restaurants and books reservations over text",
+   "link": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
+   "data": "2026-10-30T17:47:12+00:00",
+   "testo": "Zest, the restaurant discovery app that launched earlier this year, is already thinking about a future where mobile apps are no longer the primary interface. On Thursday, the startup introduced a new feature: a personal AI-powered “restaurant concierge” that lives in your text messages, similar to other popular AI agents like Instinct or Poke. The launch reflects a broader shift in how startups are thinking about AI, as conversational AI agents take on tasks that had previously required users to launch stand-alone mobile apps. For Zest, that means bringing its restaurant recommendations into texts, then allowing users to immediately take the next step of booking a table. “The agent is the product now,” explains Zest founder and CEO Mario Gomez-Hall. “You text it, and it answers from your own history and your friends’. It doesn’t need weeks of conversation to learn you because it starts from where you’ve actually been,” he said. Originally founded in November 2024, with $1.8 million in pre-seed backing from Alexis Ohanian at 776 and Steve Jang at Kindred Ventures, the app’s unique feature is that it links up with users’ credit cards to track where they’re actually eating out to get a sense of their tastes and interests. With this data on hand, Zest can make tailored suggestions of what places you might like to try next, whether that’s in your own city or suggestions of places to try when you’re traveling. The credit card data used by Zest’s app is imported via the financial services company Plaid, which is used by banks and other fintech and budgeting apps. Zest says it focuses only on those transactions in the food and drink categories when making its personalized map and lists. The startup’s latest idea is to tackle the same problem — where should I go to eat? — from …",
+   "fonte": "TechCrunch",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Testate tech",
+   "id": "a125",
+   "testo_completo": true
+  },
+  "a139": {
+   "titolo": "Malicious Claude Code extension in Cursor's marketplace attempted remote access and data theft",
+   "link": "https://the-decoder.com/malicious-claude-code-extension-in-cursors-marketplace-attempted-remote-access-and-data-theft/",
+   "data": "2026-10-30T18:16:10+00:00",
+   "testo": "A tampered Claude Code extension was live on the Cursor marketplace for about 11 hours, affecting up to 5,000 users. It tried to steal user data and set up remote access. Cursor took the entire marketplace offline and reinstated it after confirming there was no further risk. The article Malicious Claude Code extension in Cursor's marketplace attempted remote access and data theft appeared first o…",
+   "fonte": "The Decoder",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Testate tech",
+   "id": "a139"
+  },
+  "u1a166": {
+   "titolo": "ChatGPT: OpenAI annuncia nuove protezioni per minori",
+   "link": "https://www.punto-informatico.it/chatgpt-openai-annuncia-nuove-protezioni-minori/",
+   "data": "2026-10-31T12:09:05+00:00",
+   "testo": "OpenAI ha annunciato nuove protezioni per i minori che usano ChatGPT. Verranno in particolare ridotte le informazioni sulle armi, anche quando la richiesta sembra innocua. Previsti inoltre miglioramenti per la verifica dell’età e i controlli parentali. Questa è la risposta dell’azienda californiana alle denunce ricevute negli Stati Uniti e alle critiche di Common Sense Media sul funzionamento di ChatGPT for Teens. Maggiori protezioni peri minori OpenAI ribadisce che ChatGPT for Teens offre maggiori protezioni e limiti aggiuntivi per ridurre l’esposizione a contenuti sensibili (all’inizio del mese erano stati pubblicati alcuni dati positivi). L’azienda californiana ha ora deciso di limitare le informazioni sull’uso di armi e altri mezzi che potrebbero essere utilizzati in modo improprio, anche in assenza di segnali di intenti violenti. OpenAI ha inoltre potenziato il sistema di verifica dell’età, in modo da valutare ulteriori segnali comportamentali durante l’uso di ChatGPT. Se il sistema stimata un’età inferiore a 18 anni, gli adolescenti verranno trasferiti nell’esperienza dedicata ai minori. In caso di errore è possibile confermare di essere maggiorenni tramite la procedura gestita da Persona. OpenAI migliorerà infine i controlli parentali. I genitori riceveranno notifiche nel caso in cui l’account del figlio adolescente venga sospeso a causa di ripetute discussioni su temi legati alla violenza. Gli account dei genitori collegati a quelli dei figli ricevono inoltre avvisi di sicurezza quando i revisori dell’azienda individuano un serio rischio di autolesionismo o comportamenti potenzialmente associati a disturbi alimentari. OpenAI rafforzerà anche le restrizioni per gli utenti maggiorenni. ChatGPT non fornisce istruzioni che possano aiutare qualcuno a pianificare o c…",
+   "fonte": "Punto Informatico",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Italia",
+   "id": "u1a166",
+   "testo_completo": true
+  },
+  "u1a65": {
+   "titolo": "Loomkeep: one self-hosted library for everything you watch, read, play and listen to",
+   "link": "https://www.reddit.com/r/selfhosted/comments/1xjtxmo/loomkeep_one_selfhosted_library_for_everything/",
+   "sito": "",
+   "data": "2026-10-30T22:52:22+00:00",
+   "testo": "Processing img 42t933vbqoyh1... My series and movies lived in TV Time, my books in Goodreads, my games in Infinite Backlog. When TV Time shut down I decided to build a replacement I'd own, and it grew into Loomkeep : one library for everything you watch, read, play and listen to, that you can run on your own server. What it tracks Series, films and anime (TMDB, AniList) Games (IGDB), books (Open …",
+   "fonte": "Reddit r/selfhosted",
+   "tipo": "community",
+   "solo_titolo": false,
+   "categoria": "Gemme",
+   "id": "u1a65"
+  },
+  "u1a6": {
+   "titolo": "Godwit",
+   "link": "https://www.producthunt.com/products/godwit",
+   "sito": "https://www.producthunt.com/r/p/1299137?app_id=339",
+   "data": "2026-10-30T20:45:26-07:00",
+   "testo": "An open-source, AI-native email client",
+   "fonte": "Product Hunt (AI)",
+   "tipo": "vetrina",
+   "solo_titolo": false,
+   "categoria": "Strumenti",
+   "id": "u1a6"
+  },
+  "u1a64": {
+   "titolo": "Foldergram v1.3.0: self-hosted photo/video gallery, now with carousels and folder sharing",
+   "link": "https://www.reddit.com/r/selfhosted/comments/1xk3q86/foldergram_v130_selfhosted_photovideo_gallery_now/",
+   "sito": "",
+   "data": "2026-10-31T07:17:18+00:00",
+   "testo": "Hey everyone, I posted Foldergram here before and wanted to share the latest update, v1.3.0. For anyone new to it, I originally built Foldergram for my old backup photos. I wanted to browse them like my own personal Instagram feed and actually spend time revisiting them. It scans your existing photo/video folders and gives you a feed, folder pages, and a post viewer. The bigger additions this tim…",
+   "fonte": "Reddit r/selfhosted",
+   "tipo": "community",
+   "solo_titolo": false,
+   "categoria": "Gemme",
+   "id": "u1a64"
+  }
+ },
+ "fonti": [
+  {
+   "nome": "Product Hunt (AI)",
+   "ok": true,
+   "presi": 12
+  },
+  {
+   "nome": "Show HN (nuovi progetti)",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "Nuove app AI (internazionale)",
+   "ok": true,
+   "presi": 10
+  },
+  {
+   "nome": "Nuove app AI (Italia)",
+   "ok": true,
+   "presi": 8
+  },
+  {
+   "nome": "Novità AI da provare (Italia)",
+   "ok": true,
+   "presi": 8
+  },
+  {
+   "nome": "AI sul dispositivo (internazionale)",
+   "ok": true,
+   "presi": 8
+  },
+  {
+   "nome": "AI sul dispositivo (Italia)",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "Show HN – progetti utili (gemme)",
+   "ok": true,
+   "presi": 3
+  },
+  {
+   "nome": "Reddit r/selfhosted",
+   "ok": true,
+   "presi": 6
+  },
+  {
+   "nome": "Reddit r/opensource",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "Alternative open source (Google News)",
+   "ok": true,
+   "presi": 6
+  },
+  {
+   "nome": "OpenAI",
+   "ok": true,
+   "presi": 3
+  },
+  {
+   "nome": "Google (blog ufficiale)",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "Google Gemini (blog)",
+   "ok": true,
+   "presi": 2
+  },
+  {
+   "nome": "Nuove funzioni AI (Google News)",
+   "ok": true,
+   "presi": 12
+  },
+  {
+   "nome": "Anthropic / Claude",
+   "ok": true,
+   "presi": 6
+  },
+  {
+   "nome": "Microsoft Copilot",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "Altri assistenti AI (Perplexity, Mistral, Meta AI…)",
+   "ok": true,
+   "presi": 8
+  },
+  {
+   "nome": "The Verge",
+   "ok": true,
+   "presi": 10
+  },
+  {
+   "nome": "TechCrunch",
+   "ok": true,
+   "presi": 12
+  },
+  {
+   "nome": "Ars Technica",
+   "ok": true,
+   "presi": 6
+  },
+  {
+   "nome": "MIT Technology Review",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "The Decoder",
+   "ok": true,
+   "presi": 7
+  },
+  {
+   "nome": "TLDR AI (newsletter)",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "ANSA",
+   "ok": true,
+   "presi": 6
+  },
+  {
+   "nome": "Wired Italia",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "Il Sole 24 Ore Tecnologia",
+   "ok": true,
+   "presi": 3
+  },
+  {
+   "nome": "Punto Informatico",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "HDblog",
+   "ok": true,
+   "presi": 3
+  },
+  {
+   "nome": "Reddit",
+   "ok": true,
+   "presi": 8
+  },
+  {
+   "nome": "Reddit (AI locale)",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "Bellingcat (guide e strumenti)",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "GIJN (guide per giornalisti investigativi, via Google News)",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "OSINT – verifica e fact-checking (internazionale)",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "OSINT – nuovi strumenti (internazionale)",
+   "ok": true,
+   "presi": 3
+  },
+  {
+   "nome": "OSINT – strumenti (Italia)",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "Reddit (OSINT)",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "Hacker News (OSINT)",
+   "ok": true,
+   "presi": 0
+  }
+ ],
+ "visti": [
+  "canvabrush",
+  "speakonagent",
+  "faylee",
+  "ilse",
+  "fastbrowse",
+  "axonnic",
+  "chopstick",
+  "iftttai",
+  "sunomcp",
+  "polylaneforchatgpt",
+  "flatbread",
+  "flootinchatgpt",
+  "arsazecursorforvideoeditingtabcompleteandagentedits",
+  "aiassistantishelpingbrowncounty911fieldnonemergencycalls",
+  "ollieaprivacyfocusedaiassistantisshuttingdown",
+  "10bestaiappsforiphonein2026testedranked",
+  "localcodelaunchesasfreeprivateaiassistanttoolformac",
+  "metajustlaunchedanaiappthatletsyoutryonclotheswithoutgettingdressed",
+  "msamlinlaunchesaitooltohalvereinsurancewordingreviews",
+  "drawthingslauncheslocalcodeafreeaiassistantformac",
+  "vivenuopensticketingoperationstochatgptclaudewithnewmcpserver",
+  "harksfreeaiassistantarrivesonmactotackletheerrandsyouvebeenputtingoff",
+  "agodaaddsaiassistanttoplatform",
+  "igordallabrianzaunanuovaintelligenzaartificialealserviziodelleimprese",
+  "lintelligenzachenasceinbrianzaarrivaigoraserviziodelleimprese",
+  "igordamedaunanuovaintelligenzaartificialealserviziodelleimprese",
+  "intelligenzaartificialeeinclusionelagrandesfidadellascuolapersonalizzaresenzasep",
+  "annunziatacontroiltumorealsenoarrivailmammografo3dconintelligenzaartificiale",
+  "lacinapresentaprimimodelliiadisatellitipercondizionimeteoestreme",
+  "arrivaariannalaguidaaitraoltre400prestazioni",
+  "gratisesenzalimitidiparolegranolalapppergliappuntidelleriunionioradettatestoinog",
+  "comeusarechatgptpermontarevideocondavinciresolve",
+  "geminiliveofflineeccocomepotrebbefunzionareanchesenzaconnessioneinternet",
+  "geminilancialeesplorazioniimmersivestudiareesplodendogliargomentifinoagliatomima",
+  "stravasiintegracongooglegeminilaianalizzaallenamentiprogressieprestazionisportiv",
+  "googlegeminioramodificadocumentiepdfdirettamentenellachatchatgptlofacevagià",
+  "perilceodiopenailadramdovrebbestareneidatacenternonneipcdeigiocatori",
+  "stravagemininoncompareinitaliarequisitiedisponibilità",
+  "chromepescaidatidagmailpercompilareimodulialvianegliusafotoinarrivo",
+  "ireplacedgooglephotoswithanofflineaigalleryfindingoldphotosisfinallyeasy",
+  "lattepandalauncheslattepandasigma2theembeddableaisingleboardserver",
+  "iputageminialternativeonmyandroidphonethatdoesntneedtheinternet",
+  "nvidialaunchesrtxsparklaptopswithlocalaipush",
+  "ollamaandlmstudiohowtomakesureyourlocalaistaysoffline",
+  "nvidiaceojensenhuangreportedlytargetedbychinesespydailysabah",
+  "gigabyteadvanceslocalaiinfrastructurewithwrx90aitopmotherboard",
+  "altmanslamslocalaiasawasteofscarcedram",
+  "bitchatcosèlanuovaappperchattaresenzainternetchespopolatraimanifestantiaggiralac",
+  "altmanboccialailocaleasuodiresprecaladramdeipc",
+  "oradjiromo2puòpulirecasasenzainternetesenzainviareinostridatialcloud",
+  "colleferroalcunezonedelquartierealivkmsenzainternetdagiornicittadiniesasperatigu",
+  "perplexityportablecomputerportalailocalesullegpunvidiartxprivacyepotenzasenzaclo",
+  "aworkingnintendoin1gbofqwenweights",
+  "iturneddoomintoatransformer",
+  "autodismissmacosallowapptofinddevicesonlocalnetworks",
+  "whathappenstoyourselfhosteddatawhenyouregone",
+  "beforeiputemailinmyhomelabwhathappenstoincomingmailwhenthehousegoesoffline",
+  "soratokiaselfhostedpersonalsitewhereeverypageispartofonenightsky",
+  "atuitogetintoselfhosting",
+  "alternativetokomgakavitaforselfhostedmangasolution",
+  "forthepeoplewhohaveusedthemfluxerbackspaceorspacebarasadiscordalternative",
+  "linustorvaldspostshisaiassistedpatchtothelinuxkernelsynthetictestclocks23xperfor",
+  "thespiritofopensource",
+  "mylanpartymanagementprojectnoai10yearsold",
+  "thedecoherencetrapwhenaislopdrownsoutthesignalinanendlessseaofnoise",
+  "opensourceaiandtrust",
+  "coldtilllaunchesselfhostedcryptopaymentgatewayforonlinemerchants",
+  "derivopensourcesitsselfhostedenterpriseaiplatformderivone",
+  "bitwardenselfhostedsetup13steps60min2026httpstechinsiderorg",
+  "abilityaiappliedailabbusinessagentautomationselfhostedoperations",
+  "mistralreleaseslarge4weightsforselfhostedai",
+  "mistralreleasesmistrallarge4forselfhostedcyberdefense",
+  "makingiteasierforwebsitestoexpressaitrainingpreferences",
+  "communitysafetyreportandnewprotectionsforteens",
+  "fairusebenefitseveryone",
+  "wevereceivedourfirstresponsefromtheprojectsuncatcherprototypesatellite",
+  "youcannowgeneratepreviewandeditdocumentspdfspresentationsspreadsheetsandmoredire",
+  "howtousegeminitoupdateyourresume",
+  "anthropiclaunchesnewclaudetoolstomeasureaispendingandvalue",
+  "claudesnewfeatureletsemployersanalyzeworkersaichats",
+  "githublaunchescopilotfusionasagentsstart40ofpullrequests",
+  "legaltechnewsmarytechnologynowavailableonclaude",
+  "openaischatgptgetswideradsmultiimageadsexpandsexpansionmore",
+  "geminiactingfunnygoogleshugesmarthomepatchoffersaid",
+  "geminisnewfeatureletsyoueditfilesdirectlyinchat",
+  "promotechmarketinglaunchesaitrainingcourseandcertificationforsmallbusinessesthec",
+  "googlerollsout42fixesforhomeappcamerasandspeakersdeepensgeminisroomawareness",
+  "trialaunchesagentictradingallowingaiagentstoexecutecryptotradeswithoutgivingupco",
+  "internetcomputerisnowavailableasaconnectorinclaude",
+  "cognizantlaunchesopenaifrontiergroupforenterpriseai",
+  "asupplychainattackputmaliciousanthropicclaudeextensionsonthousandsofdevices",
+  "claudesnewsmartreportstellbosseswhenworkersareofftopic",
+  "anthropicjustremovedoneofclaudesbiggestusagelimitsbutnotforeveryone",
+  "cursorsaysupto5000usersaffectedbytamperedclaudecodeextension",
+  "anthropicordersaitoolclaudetostopremakingvideogames",
+  "cursorconfirmsanthropicclaudecodeextensioncompromised",
+  "fromsyntheticenterprisedataevaluationstorealmicrosoftcopilotaiconfidence",
+  "microsoftcopilotsyntheticdatatargetsenterpriseevaluationsprivacygap",
+  "fy27q1pressreleasesinvestorrelations",
+  "casaichiefonagentscopilotandthephysicallab",
+  "estéelauderstrikeslongtermpartnershipwithmicrosoftdeployingcopilottomorethan1400",
+  "spacexlaunchesgrokaipartnernetworkforenterpriseexpansion",
+  "bipartisanuslawmakerspushtobandeepseekfromgovernmentdevices5outletscompared",
+  "mistralreleasestheweightsoflechonkitstrillionparameteropenmodelbuiltforcodersand",
+  "applesaysios273betacomingnextweek",
+  "museaivsgrokbotwhichaiagentfitsphysiciansbest",
+  "riskfactorsidentifiedinongoingstudyofgeminiandgrok",
+  "mistralreleasesopensourceweightsforlarge4aimodelwith1trillionparameters",
+  "exclusivetrumpssecretaichatsunderscrutinycongressdemandsgrokrecordsaftervenezuel",
+  "appleintelligenceisfinallycomingtochinawithios273",
+  "samaltmansaysitsbetterforramtobeinadatacenterthanonyourdesk",
+  "thebiggestnamesinaiarebackinganewwaytooptoutofscraping",
+  "googlessatelliteaiservertransmitsitsfirstresponsetoearth",
+  "starbuckswantstouseaitoshowyouapersonalizeddigitalmenuatthedrivethru",
+  "popeleocallsforthedisarmamentofaimachinesaretoolsnotpersons",
+  "siliconvalleywantsyoutoinvestinmiracles",
+  "samaltmansympathizeswithmathematiciansbutsaysopenaismathonslaughtwontstop",
+  "mainesdatacenterrevoltwilldecidewhocontrolsthesenate",
+  "wikipediasoperatorsaysabadaicopyrightrulingcouldthreatentheopenweb",
+  "nvidiaweighsplayingthecosignerfornscalesaidatacenterinwestvirginia",
+  "intelsstockcrashesknocking12bfromgovernmentsstake",
+  "anthropicexpectedtoreceivehighjunkratingfromcreditagenciesfollowingipoftreportsa",
+  "lastminutehalloweencostumesfortechnerds",
+  "cracksareemergingintheaispendingboom",
+  "zestsnewaiagentfindsrestaurantsandbooksreservationsovertext",
+  "googlesfirstdatacentersatelliteisonlineandwritingpoetry",
+  "theranoswhistleblowertylershultzwarnsthattheaiboomisagreatopportunitytogodeceive",
+  "skipthesmalltalkmakegamechangingconnectionsattechcrunchfoundersummitwithbraindat",
+  "doordashsaiditsonlyreceivedseveralhundredordersfromaiagents",
+  "5daysleftyourlastchancetoconnectscaleandsaveattechcrunchfoundersummit2026",
+  "canaidatacentersbemassproducedlikecarsthisstartupaimstofindout",
+  "supersonicairlinerindoubtascompanyshiftstopoweringaidatacenters",
+  "anthropicvscodeextensiononcursorbackdooredfornearly12hours",
+  "dartmouthsprovostwarnedusaboutaicheatingbuthisownaiusecosthimhisjob",
+  "basicallynooneisusingaiagentsfortheirdoordashorders",
+  "fujifilmtoboosttapeproduction5xasaifuelsarchivingdemand",
+  "thousandsofghoststudentsuseaitostealmillionsinstudentloansdojsays",
+  "aclaudemodelautonomouslychoseagenetherapyandoperatedonamousebrainwithnohumandeci",
+  "maliciousclaudecodeextensionincursorsmarketplaceattemptedremoteaccessanddatathef",
+  "openaisetsnewbehavioralguidelinesforaimodelsthathavealreadyprovenhardtocontrol",
+  "googlesaimodedoesntdrivetrafficforanybodyredditceohuffmanwarnstheentireweb",
+  "openweightmodelglm53builtfullfirefoxexploitchainswithzerohumaninputinunder48hour",
+  "openaidoublesusagelimitsonproplansascompetitionwithanthropicheatsup",
+  "expertsadoptaiagentsrandomopinionsandthinktheyretheirownanthropicstudyfinds",
+  "mistrallarge4ossagentswarmbehaviorsamaltmaninterviewf",
+  "igornascelanuovaintelligenzaartificialealserviziodelleimprese",
+  "intelligenzaartificialeelibertàdisceltail7novembreaianthropocosmic",
+  "borsalasiachiudeincaloconitimoriperlintelligenzaartificiale",
+  "provinciacollaboraconunibzperlintelligenzaartificiale",
+  "amplialeperditewallstreetsucrollodeltech",
+  "notiziarioansamed",
+  "studilegalilapartitadellaisigiocasullagovernance",
+  "datacenterglioperatoriitalianichiedonotempicerti",
+  "datacenterilmercatotriplicaindieciannisullealidellai",
+  "googleperde500miliardididollaripercolpadiaimode",
+  "chatgptmente3tecnichepercostringerloadirelaverità",
+  "facebooksegnalaaigenitorilericerchedeifiglisullautolesionismo",
+  "socialmediastopallelegginazionalisuidivietiperiminori",
+  "whatsappquattronovitàperlechatdigruppocosacambia",
+  "idatacenteraipotrebberoprodurre750000litridacquaalgiorno",
+  "android17qpr3googlerilascialaterzabetaaidevicecompatibili",
+  "stravaintegragooglegeminianalisieconsiglipersonalizzaticonai",
+  "whatifeverythingleakedeveryphotoeverytext",
+  "claudenowwatermarkseverythingitwritesandyouretheonewhocantcheck",
+  "anthropicrenamesmax5andmax20andremoves5hlimitsformax20",
+  "herearesomeofthewebsitesishouldstayawayfromthankyougemini",
+  "openaitippedoffpolicemorethan200timesinthreemonthsoverchatgptchats",
+  "workingonarealtime3dpokémonbattlegamethedemoisfreeandopensource",
+  "wtfchatgpt",
+  "weekendprojectmario64inmixedreality",
+  "introducingdeepseekv41flash1017dynamicv31unslothggufs",
+  "thertx5080hasbeenremovedfromnvidiasofficialmarketplace",
+  "openaiceosaysitsquiteterribleforyourpctohaveramsamaltmansaysdatacentersofferbett",
+  "doyouhaveanyopinionsthatgenerallygoagainstrlocalllamashivemind",
+  "qwen38flashnextfp4onasinglertxpro6000287tokssinglestreamcoding965toksat8concurre",
+  "howmanyjournalistsdoesittaketofillanolympicswimmingpoolgijnsguidetosizeandnumber",
+  "buildinganarmyofcitizeninvestigatorspaulradu",
+  "changingthejournalismcommunityandbeyondpartiihowgijnsreportingtrainingandresourc",
+  "gijc27earlybirdticketsonsaleregisternow",
+  "howsurvivorshelpedthemarshallprojectinvestigateyouthresidentialtreatmentcenters",
+  "partlyfalseoneoftheseimagesisntrelatedtoethiopiasoromiasomaliclashes",
+  "unrelatedvideosharedaskanganaranautperformingkarwachauthforpmmodi",
+  "videoofnewlymarriedwomanreportingfordutyaslocopilotisaigenerated",
+  "isthecheesecakefactorynotaffiliatedwithtrumpsignrealantiwhitehousesignpictureatr",
+  "actbluesflawedpassportsystemfuelsdojcriminalchargespeculationascongressionalprob",
+  "howdwfactchecksfakenews",
+  "satelliteimageryconfirmsdestructionoftwosu34jetsatmarinovkaairfieldinrussiaphoto",
+  "topplayersintheopensourceintelligencemarketfmiforecastsusd1117billionby2036",
+  "linuxday2026aicantiericulturaliallazisasiparladisovranitàdigitaleecybersecurity",
+  "achineseimagingsatelliteandanobjectfromthismonths63satelliteridesharepassedabout",
+  "eusatelliteimagerydelayedovergazaandpartsofwestbankby24hours",
+  "opencorporatespaywalledtheirapievenplainsearchwroteafreegleifbasedreplacement",
+  "monitorpetsales",
+  "defcon33talkprettygoodprivacyexaminingthepgpkeypaircreationhabitsofdarknetvendor",
+  "plutodoor",
+  "agnos",
+  "acbridge",
+  "ski",
+  "githubcopilotfusion",
+  "godwit",
+  "ideavomakesfullstackaiappbuilderfreeforevereliminatingcreditmarkups",
+  "aipoweredcoffeerunsandservicevisitsarecomingtoriviansnextyearsoftwarechiefsays",
+  "agodarollsoutaitravelassistantinindiaintegratestripplanningwithlivebookinginvent",
+  "theaitoolyourfirmneedstonavigateaccountingsfuture",
+  "fdaclearsneuroxtsaitoolthatsizesupalzheimersrisk",
+  "lintelligenzaartificialeescedalloschermoedentrainfabbrica",
+  "argolanciailvotopaleseonlinepergliorganicollegialielintegrazioneconlailenovitàpe",
+  "caniegattiilcuorepuòammalarsiinsilenzioisegnalidariconoscereeicontrollidafare",
+  "lintelligenzaartificialecisostituiràalesaarrivalacommediacheprendeingirolarivolu",
+  "lanuovageopoliticadel6glintelligenzaartificialeentranelleretimobili",
+  "eneycosèecomefunzionalassistenteaipermac",
+  "claudecodeegiochiesistenti1regolaanthropic2026techinsiderorg",
+  "macchinedabullshittingquandolaisembrasaperemanonsa",
+  "vitalikbuterinsayslocalaicouldreducerelianceoncryptowebapps",
+  "samaltmancontrolaramneinostricomputermeglioneidatacenter",
+  "iregretpayingforthese10appsandroidandgeminireplacedthemforfree",
+  "thelatestgooglehomeupdategoeswaybeyondgeminiandfixesyournestgeartoo",
+  "googlescheapestgeminiplanislosingamajorperknowicantrecommendittoanyone",
+  "gemininowletsyoucreatepreviewandeditpdfsandfilesdirectlyinyourchat",
+  "plmailupdatepgpsmimejmappop3carddavcontactsandmore",
+  "ubuntukernelcve202698432cvss98nofixedkernelyetfor220424042604whatareyoudoinginth",
+  "localllmhostingharness",
+  "foldergramv130selfhostedphotovideogallerynowwithcarouselsandfoldersharing",
+  "loomkeeponeselfhostedlibraryforeverythingyouwatchreadplayandlistento",
+  "ireplacedgooglemapswiththisopensourcealternativeandibarelymissit",
+  "thereasonikeepcomingbacktogooglephotosaftertryingeverymajoralternative",
+  "n8nstable",
+  "googlelaunchesgemini4carbonforcyberdefendersfirstwithapipricingfrom2permillionto",
+  "googlegeminiupgradesarerollingouttoallsupportedandroiddevices",
+  "googlelaunchesgemini4carbonwithstateoftheartcybersecuritycapabilities",
+  "googlelaunchesandroidmcpinbetasoappscantalktoaiagents",
+  "googlerollsoutnanobanana2afterviralsuccessofaiimagegenerationtool",
+  "formerroyalmarinescommandojacobmilnerlauncheshvacseoforaisearch",
+  "interactivemetanowalertsparentswhenteenssearchforselfharmcontent",
+  "anthropicsclaudeaiblocksvideogamecloningandreverseengineeringsweepingnewrestrict",
+  "anthropictakesstepstoblockclaudefromreverseengineeringvideogames",
+  "insideamaliciousclaudecodebrandedextensionanditspersistentsshbackdoor",
+  "microsofts60000buyoutoffersshadowitscopilotproductivitypitch",
+  "howtoturnoffcopilotinwordexceloutlookwindows",
+  "workmanagementnewsoctobersaigiantshavetoshowtheirwork",
+  "appleintelligencefinallycomingtochinaindecemberwithios273",
+  "bestaiforresearch30freelabseatsvs202026httpstechinsiderorg",
+  "applechinalaunchesaifeaturespagecorefunctionstoarrivelaterthisyear",
+  "grokbot10isoncursorsservers77daysafterbeta",
+  "mistralaipubliclyreleaseslarge4targetscybersecurityusers",
+  "nemotronhalloween",
+  "graniteswitch411updatemodelslikeyouupdatesoftware",
+  "announcingprojectprotostarmakingpubliclyfundedscienceaiready",
+  "lechonkbuiltforcoderstrustedbydefenders",
+  "ibuiltanaitamagotchibeforemetacould",
+  "openaireportedlylowersfundingtargetfornewround",
+  "openaiplanstotrainmodelsondaybreakbluecybersecuritysessiondatathatwaspreviouslyo",
+  "beekeepingtipsandwrestlingadvicecantrainaimodelstosabotageoversight",
+  "microsoftoffersaquarterofitsworkforcevoluntaryseverancewhileshieldingaicriticalt",
+  "googledeepmindcreatesaglobalmapofforestswithsatellitedataandai",
+  "openairaisesjust11billionofits30billiontargetasbiginvestorslosetheiraiappetite",
+  "ansacresceusoiaperaccedereallenewsmautentinonlavoglionoinredazione",
+  "iaedigitaleilmodellodiunitoaserviziodelleuniversitàeuropee",
+  "propostounnuovostandardperbloccaretuttiicrawlerai",
+  "samaltmanladramserveperidatacenternonperpc",
+  "chatgptopenaiannuncianuoveprotezioniperminori",
+  "googleaccendeilprimodatacenterspazialelaivainorbita",
+  "claudedianthropicneifarmacirisultatiaccordierischi",
+  "automazioneaziendaleilplaybooktrasformalaiinunostrumentooperativo",
+  "crollodialphabetinborsalaicambiailbusinessdellasearch",
+  "gemini4carbonopenaieanthropicconfrontocyberperaziende",
+  "alphabetcrollaamazondeludeilmercatochiederitorniallai",
+  "intelligenzaartificialenelfiscolimitieresponsabilità",
+  "softwareeaidifettosicomecambialanormadal9dicembre",
+  "newsletterdel29ottobre2026",
+  "halloweendalgaranteprivacyiconsiglipercontrastaretruffeefurtodeidatipersonali",
+  "intelligenzaartificialenellapailgaranteprivacydàilvialiberaallaprovinciaditrento",
+  "banksareblockingaiagentsfromcustomeraccounts",
+  "aihalloweenvideoswhosgettingyourphotos",
+  "poorsam",
+  "claudeopus55cangenerateimageseventhoughitwillinitiallysayitcant",
+  "limitlimiteverything",
+  "imclosetocancellingmymaxsubscriptionduetothesafetyclassifier",
+  "aicracksa27yearoldpillarofcomputerscienceopenaiandanthropicclaim",
+  "localqwen27bispracticallyunusableforcodingtasksarewedoingsomethingwrong",
+  "firstmemorystorageandnowpcbsssaiboomtriggersmassivepcbshortagewithordersbookedun",
+  "easyramtricktakeastickoutofyourworklaptop",
+  "dbreunignesformer",
+  "apicreditsbenefitforeligiblechatgptsubscriptions",
+  "buildingamultiplayergameworldwithautonomousfableclassmodels",
+  "oldfootagemisusedtoallegeethiopianairlinestroopflightstotigray",
+  "videoshowingwomanpoliceofficermistreatingamuslimyouthisscripted",
+  "factcheckdidyennywahidreallyjoinpsiparty",
+  "dronesattackedmoscowexplosionswereheardnearsheremetyevoairport",
+  "russiansu57fighterjetburnsdownatairfieldinastrakhanregionosint",
+  "russiansu57fighterjetcatchesfireatmilitaryairfieldinastrakhanoblastosint",
+  "limmaginediquestipoliziottichesfilanoabraccettoconimanifestantièfalsa",
+  "lacriminalitàminorilenonèlemergenzacheciraccontiamo",
+  "legittohalanciatounchatbotiadifactcheckingbasatosuinformazioniapprovatedallostes",
+  "episode25discgolfappstrackingaircraftandsearchingwithfofa",
+  "theosintnewsletterissue128",
+  "raieidmocrescelimpegnocontroladisinformazioneo",
+  "aurochdigitalavviailicenziamenti",
+  "disinfoupdate21102026"
+ ],
+ "audio": "audio/2026-10-31.mp3",
+ "durata": 172.7,
+ "aggiornamenti": [
+  {
+   "generato": "2026-10-31T17:08:05+00:00",
+   "modello": "gemini-3.6-flash",
+   "testi_completi": 9,
+   "riassunto": {
+    "titolo_giorno": "Godwit rinfresca la posta con l'AI e ChatGPT rafforza i controlli per i minori",
+    "in_breve": "Nell'aggiornamento di oggi spicca Godwit, un client di posta open source progettato attorno all'intelligenza artificiale per rendere più snella la gestione quotidiana delle email. Sul fronte della sicurezza, OpenAI introduce su ChatGPT filtri più severi sui contenuti sensibili e nuovi avvisi per i genitori.",
+    "citati": [
+     "Godwit",
+     "ChatGPT"
+    ],
+    "da_provare": [
+     {
+      "cosa": "Godwit",
+      "a_cosa_serve": "Un client di posta elettronica open source progettato fin dall'inizio con l'assistenza dell'intelligenza artificiale per organizzare e gestire i messaggi in arrivo.",
+      "per_chi": "Lavoro e tutti i giorni",
+      "ambito": "Organizzazione",
+      "come_iniziare": [],
+      "costo": "Non indicato",
+      "piattaforme": [],
+      "sul_dispositivo": false,
+      "come_sfruttarla": "Gestire la posta elettronica quotidiana lasciando che l'AI aiuti a smistare ed elaborare i messaggi.",
+      "italiano": "Non indicato",
+      "difficolta": "Facile",
+      "temi": [
+       "Assistenti e chatbot",
+       "Lavoro e produttività",
+       "Open source e self-hosting"
+      ],
+      "fonti": [
+       "u1a6"
+      ],
+      "affidabilita": "Appena lanciato",
+      "prova": "https://www.producthunt.com/products/godwit"
+     }
+    ],
+    "osint": [],
+    "gemme": [
+     {
+      "cosa": "Foldergram",
+      "a_cosa_serve": "Analizza le cartelle locali di foto e video e le trasforma in una galleria privata personalizzata con un'interfaccia a scorrimento in stile Instagram.",
+      "perche_gemma": "Permette di riscoprire i propri archivi di immagini personali senza dover caricare alcun file su piattaforme terze.",
+      "con_ai": "",
+      "piattaforme": [],
+      "self_hosted": true,
+      "costo": "Gratis",
+      "difficolta": "Media",
+      "temi": [
+       "Open source e self-hosting",
+       "Foto e immagini",
+       "AI sul dispositivo"
+      ],
+      "fonti": [
+       "u1a64"
+      ],
+      "affidabilita": "Da verificare",
+      "come_iniziare": [],
+      "sul_dispositivo": false,
+      "come_sfruttarla": "",
+      "prova": ""
+     },
+     {
+      "cosa": "Loomkeep",
+      "a_cosa_serve": "Un'applicazione da installare sul proprio server per catalogare in un unico posto tutti i film, le serie TV, i libri e i videogiochi completati o da iniziare.",
+      "perche_gemma": "Centralizza i dati sui propri passatempi e contenuti multimediali mantenendone il pieno controllo personale.",
+      "con_ai": "",
+      "piattaforme": [],
+      "self_hosted": true,
+      "costo": "Gratis",
+      "difficolta": "Media",
+      "temi": [
+       "Open source e self-hosting",
+       "Lavoro e produttività",
+       "Video"
+      ],
+      "fonti": [
+       "u1a65"
+      ],
+      "affidabilita": "Da verificare",
+      "come_iniziare": [],
+      "sul_dispositivo": false,
+      "come_sfruttarla": "",
+      "prova": ""
+     }
+    ],
+    "sezioni": [
+     {
+      "titolo": "Novità negli strumenti che già usi",
+      "notizie": [
+       {
+        "titolo": "Nuove restrizioni su argomenti sensibili e tutele per minori",
+        "strumento": "ChatGPT",
+        "riassunto": "OpenAI ha rafforzato i filtri per gli utenti adolescenti riducendo le informazioni fornite su armi e contenuti rischiosi anche di fronte a richieste innocue. Sono stati inoltre migliorati i sistemi di verifica dell'età e attivati avvisi automatici ai genitori collegati in caso di discussioni a rischio.",
+        "come_provarla": "",
+        "disponibilita": "Disponibile ora",
+        "fonti": [
+         "u1a166"
+        ],
+        "temi": [
+         "Privacy e sicurezza",
+         "Assistenti e chatbot",
+         "OSINT e verifica"
+        ],
+        "affidabilita": "Una fonte",
+        "solo_titoli": false
+       }
+      ]
+     }
+    ],
+    "formato": 2,
+    "controllo_siti": [
+     {
+      "cosa": "Foldergram",
+      "esito": "nessun sito da aprire"
+     },
+     {
+      "cosa": "Loomkeep",
+      "esito": "nessun sito da aprire"
+     },
+     {
+      "cosa": "Godwit",
+      "sito": "https://www.producthunt.com/r/p/1299137?app_id=339",
+      "esito": "errore: HTTP Error 403: Forbidden"
+     }
+    ]
+   }
+  }
+ ]
+}
