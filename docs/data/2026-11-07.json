@@ -228,6 +228,17 @@
    "solo_titolo": false,
    "categoria": "Strumenti",
    "id": "u1a14"
+  },
+  "u2a53": {
+   "titolo": "BleachBit, l’app gratuita che aiuta ad eliminare i file superflui sul PC",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMWU3bWlPQ3NLc0ZpSGh3QWdveU9SZFJMZ3Q1NTUtMEZBV0pkMXNXV2p1aUR0QjBHeWFtdlBucFV2c1BYYlEwbzdFZkhfaW0xLTdsY3pSQmNQS2Zzc0pNNXJSdU9fUXVHQ0tFaW9qSkZtdUY0S0NwV1BZNDdzakJuREFCTnRQakZuZE96eWxUM016ZFpGcFNybmFtdlZPQQ?oc=5",
+   "data": "2026-11-07T11:39:15+00:00",
+   "testo": "",
+   "fonte": "HDblog.it",
+   "tipo": "testata",
+   "solo_titolo": true,
+   "categoria": "Strumenti",
+   "id": "u2a53"
   }
  },
  "fonti": [
@@ -748,10 +759,51 @@
   "azionarioeuropeoinrossoconpanicosuaidopolemidtermattesaperdatiusa",
   "djimatrice5tilnuovodronevedeanchealbuio",
   "openairaccogliealtri10miliardimagliinvestitorifrenano",
-  "ajudgesaysclaudemaxs20xmoreusagepromisecouldmisleadpayingsubscribers"
+  "ajudgesaysclaudemaxs20xmoreusagepromisecouldmisleadpayingsubscribers",
+  "tracex",
+  "yelpsplitsitsaiassistantuibetweennativecontrolsandserverdrivenrendering",
+  "nytcookingsaiassistantsavedmyweeknightchickenbutalmostruinedmycake",
+  "gmsaipitchtoconsumersletustakesomethingoffyourplate",
+  "ilradiologononleggepiùsoltantogliesamiorapuòcambiareancheilmodoincuiveniamocurat",
+  "lacoreadelsudlanciaunappbasatasullintelligenzaartificialepersupportarelagestione",
+  "airbnbagenteaicomefunzioneràequandoarriva",
+  "netflixpuntasullaielanciadiscoverlafunzionechetisuggeriscecosaguardaresenonhaile",
+  "claudepersonalfinancearrivapercollegareicontibancari",
+  "googlebookupdatefreesupto6gboframbyreducingondeviceaimemoryusage",
+  "4jobsmylocalaihandlesforfreethatiwouldnevertrustwithacloudmodel",
+  "bleachbitlappgratuitacheaiutaadeliminareifilesuperfluisulpc",
+  "itriedgeminigrokandclaudeforamonthonandroidoneclearlydominated",
+  "selfhostingbeersnlupdate",
+  "selfhostedlangsmithalternatives4toolstestedononetypescriptagent",
+  "enthusiastabandonsselfhostedmicrosoftexchangeafter27yearsmovingmailboxestomicros",
+  "googlelaunchesgeminiomni12flashwith15secondaivideo",
+  "clauderevealsfirst3dstructureofaprokaryoticvault",
+  "anthropiclaunchesclaudedesignaithatcreatesprototypesandpresentationsattheclickof",
+  "gemininotebooklauncheschapterqaandquizcreationwithcitations",
+  "claudepersonalfinancelauncheswithreadonlybankaccess",
+  "anthropicnewslatestupdatesontheaicompanybehindclaudebloomberg",
+  "anthropicmustfaceclaudemaxadclaimsreportsays",
+  "bestaichatbotforteachers4toolscompared2026techinsiderorg",
+  "whoownsdeepseekthechineseaicompany",
+  "thesamsungphonevoicerecorderappisbetterthanyoumightthinkhereswhy",
+  "housedemocratseye3targetsapplemetamusk2026",
+  "ios273betaaddsredesignedhealthappsiriaiupdatesandadaptivedarkmode",
+  "aibrokethecybersecurityworldwhatsnext",
+  "whyanewreportonanthropicautomatingaidevelopmentisalarmingresearchers",
+  "thegapbetweenopenandclosedaimodelsincybercapabilitieskeepsshrinking",
+  "statepropagandainsomechineseaimodelsisonlyathinlayerthatfinetuningcanstripaway",
+  "intelligenzaartificialetraeticaedirittoundibattitoapotenza",
+  "smartphoneefiglicomedareilprimotelefonoainostribambini",
+  "robertoburioniammonimentodagaranteprivacycosaèsuccesso",
+  "falsepositivedebuggingmyownsoftwareflaggedasreverseengineering",
+  "anyoneelsebeingdrivenbypeoplewhopretendthisdoesntexist",
+  "lamplightlessonslearnedfrombuildingalocalfirstharness",
+  "triedtheweighteditingthingfromthemitpostsomecoolapplicationsbutnothingcrazy",
+  "russiansabotageineuropeandrisingattacksinsiderussia",
+  "falsigiornalilocalieslopagandacosèsuccessonellacampagnaelettoraleperlemidterm"
  ],
  "audio": "audio/2026-11-07.mp3",
- "durata": 96.2,
+ "durata": 111.6,
  "aggiornamenti": [
   {
    "generato": "2026-11-07T11:50:08+00:00",
@@ -799,6 +851,54 @@
       "cosa": "Mmory",
       "sito": "https://www.producthunt.com/r/p/1304909?app_id=339",
       "esito": "errore: HTTP Error 403: Forbidden"
+     }
+    ]
+   }
+  },
+  {
+   "generato": "2026-11-07T16:28:19+00:00",
+   "modello": "gemini-3.6-flash",
+   "testi_completi": 2,
+   "riassunto": {
+    "titolo_giorno": "Manutenzione del PC con BleachBit per fare spazio alle applicazioni locali",
+    "in_breve": "Nell'aggiornamento serale spicca BleachBit, un'utilità open source per pulire il computer da file inutili e tracce di navigazione. Mantenere il sistema leggero è ideale per chi vuole liberare spazio da destinare ai file e ai modelli AI da eseguire direttamente sul proprio computer.",
+    "citati": [
+     "BleachBit"
+    ],
+    "da_provare": [],
+    "osint": [],
+    "gemme": [
+     {
+      "cosa": "BleachBit",
+      "a_cosa_serve": "Pulisce il computer eliminando file temporanei, cache del sistema e dati di navigazione superflui per liberare spazio su disco.",
+      "perche_gemma": "È un'applicazione gratuita, totalmente open source e attenta alla privacy che aiuta a mantenere il PC efficiente senza tracciare l'utente.",
+      "con_ai": "È utilissima per liberare rapidamente i gigabyte necessari prima di scaricare ed eseguire modelli di intelligenza artificiale in locale.",
+      "piattaforme": [],
+      "self_hosted": false,
+      "costo": "Gratis",
+      "difficolta": "Facile",
+      "temi": [
+       "Privacy e sicurezza",
+       "Open source e self-hosting"
+      ],
+      "fonti": [
+       "u2a53"
+      ],
+      "affidabilita": "Una fonte",
+      "solo_titoli": true,
+      "italiano": "Non indicato",
+      "sul_dispositivo": false,
+      "come_iniziare": [],
+      "come_sfruttarla": "",
+      "prova": ""
+     }
+    ],
+    "sezioni": [],
+    "formato": 2,
+    "controllo_siti": [
+     {
+      "cosa": "BleachBit",
+      "esito": "nessun sito da aprire"
      }
     ]
    }
