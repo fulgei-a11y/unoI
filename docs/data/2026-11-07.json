@@ -216,6 +216,18 @@
    "solo_titolo": false,
    "categoria": "Strumenti",
    "id": "a13"
+  },
+  "u1a14": {
+   "titolo": "Mmory",
+   "link": "https://www.producthunt.com/products/mmory",
+   "sito": "https://www.producthunt.com/r/p/1304909?app_id=339",
+   "data": "2026-11-04T19:06:22-08:00",
+   "testo": "Mmory is a private voice memory app for iPhone",
+   "fonte": "Product Hunt (AI)",
+   "tipo": "vetrina",
+   "solo_titolo": false,
+   "categoria": "Strumenti",
+   "id": "u1a14"
   }
  },
  "fonti": [
@@ -716,8 +728,80 @@
   "eudisinfolabsapproachtofundraising",
   "acousticgeolocation",
   "careerchangelanguagestoosintcorporateintelligence",
-  "criminalarrestwarrantforosinttrolljessenickles"
+  "criminalarrestwarrantforosinttrolljessenickles",
+  "mmory",
+  "lukadoncicjoinslebronjamesinlawsuitagainstaiapp",
+  "deepindergoyalstemplewantstoreplaceyourpersonalaiassistantwithawearable",
+  "itriedlocalaionhpsomnibookultraitsaprivatepowerfulbeastwithzerotokenfees",
+  "gmailreplacementcautiouswithnewerprojects",
+  "unusualgroupcofoundsandlaunchesheadingtheaisearchplatformbuiltforagencies",
+  "thinkingmachineslaunchesinkling2smallwithnearfrontierperformanceonenterprisebenc",
+  "olympusrollsoutnextgenthuliumfiberlaserplatforminus",
+  "googlelaunchesgeminiomni12flashwithlongerclipsandlowercost",
+  "claudeduetwhatanthropicsproactiveagentdoeswhocangetitandwhatitcosts",
+  "anthropicipobuyersseevaluationaslowas11trillion",
+  "forefrontdermatologycutsmanualreporting85withmicrosoftfabricandformula5",
+  "amazonrollsouttextbasedshoppingthroughalexa",
+  "metarollsoutrealtimevideocallswithcustomizablemuseaiavatarsacrosstheunitedstates",
+  "nineaiagentstriedautonomousresearchonopenquestionsfromusnationallabsandnonepasse",
+  "openailandsan11billionfundingroundbuthastocourtdentistsformorecapital",
+  "azionarioeuropeoinrossoconpanicosuaidopolemidtermattesaperdatiusa",
+  "djimatrice5tilnuovodronevedeanchealbuio",
+  "openairaccogliealtri10miliardimagliinvestitorifrenano",
+  "ajudgesaysclaudemaxs20xmoreusagepromisecouldmisleadpayingsubscribers"
  ],
  "audio": "audio/2026-11-07.mp3",
- "durata": 82.3
+ "durata": 96.2,
+ "aggiornamenti": [
+  {
+   "generato": "2026-11-07T11:50:08+00:00",
+   "modello": "gemini-3.8-flash",
+   "testi_completi": 0,
+   "riassunto": {
+    "titolo_giorno": "Mmory porta le note e i ricordi vocali privati su iPhone",
+    "in_breve": "L'aggiornamento di oggi segnala Mmory, una nuova applicazione per iPhone focalizzata sulla registrazione e gestione di memorie vocali nel rispetto della privacy. Mostra come l'interazione vocale continui a evolversi verso strumenti dedicati alla raccolta sicura dei propri pensieri quotidiani.",
+    "citati": [
+     "Mmory"
+    ],
+    "da_provare": [
+     {
+      "cosa": "Mmory",
+      "a_cosa_serve": "Consente di registrare e organizzare appunti e memorie vocali quotidiane con un'attenzione specifica alla riservatezza.",
+      "per_chi": "Tutti i giorni",
+      "ambito": "Voce e note",
+      "come_iniziare": [],
+      "costo": "Non indicato",
+      "piattaforme": [
+       "iPhone"
+      ],
+      "sul_dispositivo": false,
+      "come_sfruttarla": "Registrare al volo idee e promemoria personali senza dover digitare a schermo.",
+      "italiano": "Non indicato",
+      "difficolta": "Facile",
+      "temi": [
+       "Voce e audio",
+       "Privacy e sicurezza",
+       "Scrittura e documenti"
+      ],
+      "fonti": [
+       "u1a14"
+      ],
+      "affidabilita": "Appena lanciato",
+      "prova": "https://www.producthunt.com/products/mmory"
+     }
+    ],
+    "osint": [],
+    "gemme": [],
+    "sezioni": [],
+    "formato": 2,
+    "controllo_siti": [
+     {
+      "cosa": "Mmory",
+      "sito": "https://www.producthunt.com/r/p/1304909?app_id=339",
+      "esito": "errore: HTTP Error 403: Forbidden"
+     }
+    ]
+   }
+  }
+ ]
 }
