@@ -197,6 +197,29 @@
    "solo_titolo": true,
    "categoria": "Laboratori",
    "id": "a68"
+  },
+  "u1a126": {
+   "titolo": "Amazon: l'AI analizza i tuoi acquisti e arriva a conclusioni inaspettate",
+   "link": "https://www.hdblog.it/amazon/articoli/n675899/amazon-about-you-profilo-cliente/",
+   "data": "2026-11-08T08:55:00+02:00",
+   "testo": "La sezione About You raccoglie informazioni durante gli acquisti.",
+   "fonte": "HDblog",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Italia",
+   "id": "u1a126"
+  },
+  "u1a2": {
+   "titolo": "Frameboy by World Labs",
+   "link": "https://www.producthunt.com/products/marble-by-world-labs",
+   "sito": "https://www.producthunt.com/r/p/1306206?app_id=339",
+   "data": "2026-11-05T21:06:31-08:00",
+   "testo": "Interactive world exploration with Atlas",
+   "fonte": "Product Hunt (AI)",
+   "tipo": "vetrina",
+   "solo_titolo": false,
+   "categoria": "Strumenti",
+   "id": "u1a2"
   }
  },
  "fonti": [
@@ -662,8 +685,139 @@
   "disinfoupdate4112026",
   "eudisinfolabsapproachtofundraising",
   "acousticgeolocation",
-  "criminalarrestwarrantforosinttrolljessenickles"
+  "criminalarrestwarrantforosinttrolljessenickles",
+  "agentclan",
+  "frameboybyworldlabs",
+  "inkling2small",
+  "faatoretirefloppydisksinairtrafficcontrol",
+  "afarmersmangosaplingsweredyingheuploadedaphotofoundasolutioninseconds",
+  "bestaimarketingtoolsforsolofounders8picks2026",
+  "netflixaumentaiprezziinitaliaabbonamentifinoa2199euroeintantoarrivalaipersceglie",
+  "androidmcpelinuxsusnapdragonlasfidaadapplehomeview",
+  "chiarapancirolieducarealpensierocriticosir",
+  "solidworldgrouppresentasolidworks2027liaalserviziodellaprogettazioneindustriale",
+  "gemininotebookaggiungelibriditestogratisperstudiareconlai",
+  "comeusaregeminiliveconlafotocameraperfartiguidare",
+  "asusexpertbooka7arrivainitaliachassisinalluminiodisplayoled3k",
+  "moorethreadsupdatesaicubewithsmarthomecontrolandlocalainasmanagement",
+  "proartp16rtxsparkreviewscreenandaitests",
+  "ondeviceaiassistants",
+  "gliiphoneperdonodecinedigbdispaziodiarchiviazioneacausadiunafunzionalitàchepassa",
+  "reteinternetsusmartphoneassenteanchecontutteletaccheeccoilmotivo",
+  "bubbleupnptrasformailvecchioandroidinunalibreriamusicale",
+  "githubasvpnauthprovider",
+  "howdoyouhandlesecretsacrossyourselfhostedstuff",
+  "amneziavpnupdate202615favoriteslocationsort",
+  "isponsorblocktvskipssponsorsegmentsacrossyoutubetvclients",
+  "umlaunchesmontanasfirsthumancenteredaicareercertificate",
+  "deepmindrevealstwoflawsin1024bitrsa2048bitkeysstaysafe",
+  "deathasachoiceopenaisbrockmanreveals18monthmedicalforecast",
+  "nousresearchlaunchesarete27bandcutsqwenspropagandaratefrom22to1",
+  "whatyouneedtoknowaboutclaudesmakeranthropicipo",
+  "anthropicipoantticker163brevenuecontrol2026techinsiderorg",
+  "anthropics1lossnarrowsto13bfrom52b2026",
+  "anthropicclaudemdrulesarerequestshooksareenforced",
+  "anthropicsaysclaudewroteabout90ofclaudecodescodedisclosessixlayerreviewsystem",
+  "judgetsesaysanthropicsclaudemaxmarketingisplausiblymisleading",
+  "largelanguagemodelssurpasspassingthresholdonobgyncertificationexams",
+  "aichatbotlimits2026which20planlastslongesttechinsiderorg",
+  "mistrallarge4lechonkopenweightslicensepriceandbenchmarks",
+  "appleannouncessiriaiandmoreattimcookslastworldwidedevelopersconferenceabcnews",
+  "francesmistrallaunchesaimodelitsaysoutperformssomechineserivals",
+  "applesbudgetipad12leaka19chipappleintelligenceanda549pricetag",
+  "aideals2026everywaytosaveonaitoolsthatworks",
+  "theinventorofthebitterlessonhasabitterlessonforllmscalingenthusiasts",
+  "aicodingagentsstillneedhumancleanuponnearlythreeoutoffourtasksinarealworldtest",
+  "peronaciasanfranciscoeseattlenuoveopportunitàdicooperazioneconlitalia",
+  "parteilcantieredelprogrammaprogressistaunmeseperchiudere",
+  "guerraibridaattaccoaltunneldelbrenneroesmartbox",
+  "comedelegaremetàdellavoroaclaude5strategieconcrete",
+  "problemiconildigitaleterrestrepassaaicanalisatellitari",
+  "untelefonovintagediventaunassistenteaigrazieagemini",
+  "amazonlaianalizzaituoiacquistiearrivaaconclusioniinaspettate",
+  "ainelriskmanagementquattrocriteriperunagovernanceefficace",
+  "laicorrepiùvelocedellasuaaffidabilitàildivariochepreoccupa",
+  "garanteprivacyprotocollatalistanzadiaccessoagliattidiagenparlrichiestiidocumenti",
+  "robertoburioniammonimentodagaranteprivacycosaèsuccesso",
+  "ibuiltaninfiniteselfevolvingbackroomswithopus55evenidontknowwhatsinitanymore",
+  "claudism",
+  "opus55goesuponbenchmaxxingbench",
+  "crowdv1thecollaborativellm",
+  "oldunrelatedvisualsfalselysharedtoshowbhutansglaciallakeoutburst"
  ],
  "audio": "audio/2026-11-08.mp3",
- "durata": 96.9
+ "durata": 124.8,
+ "aggiornamenti": [
+  {
+   "generato": "2026-11-08T12:10:45+00:00",
+   "modello": "gemini-3.6-flash",
+   "testi_completi": 3,
+   "riassunto": {
+    "titolo_giorno": "Esplorazione di mondi 3D con Frameboy e l'analisi degli acquisti su Amazon",
+    "in_breve": "L'aggiornamento serale propone Frameboy, uno strumento che permette di esplorare ambienti virtuali interattivi. Tra i servizi di uso quotidiano, Amazon integra l'AI per analizzare le abitudini d'acquisto nella sezione About You.",
+    "citati": [
+     "Frameboy",
+     "Amazon"
+    ],
+    "da_provare": [
+     {
+      "cosa": "Frameboy",
+      "a_cosa_serve": "Consente di esplorare in modo interattivo mondi e ambienti virtuali 3D generati dall'AI tramite il sistema Atlas.",
+      "per_chi": "Tutti i giorni",
+      "ambito": "Creatività e 3D",
+      "come_iniziare": [],
+      "costo": "Non indicato",
+      "piattaforme": [
+       "Browser"
+      ],
+      "sul_dispositivo": false,
+      "come_sfruttarla": "",
+      "italiano": "Non indicato",
+      "difficolta": "Facile",
+      "temi": [
+       "Foto e immagini",
+       "Video"
+      ],
+      "fonti": [
+       "u1a2"
+      ],
+      "affidabilita": "Appena lanciato",
+      "prova": "https://www.producthunt.com/products/marble-by-world-labs"
+     }
+    ],
+    "osint": [],
+    "gemme": [],
+    "sezioni": [
+     {
+      "titolo": "Novità negli strumenti che già usi",
+      "notizie": [
+       {
+        "titolo": "Analisi degli acquisti con l'AI nella sezione About You",
+        "strumento": "Amazon",
+        "riassunto": "Amazon utilizza l'intelligenza artificiale per esaminare lo storico degli acquisti degli utenti all'interno della sezione About You, ricavando informazioni e sintesi sulle preferenze personali.",
+        "come_provarla": "",
+        "disponibilita": "Non indicato",
+        "fonti": [
+         "u1a126"
+        ],
+        "temi": [
+         "Ricerca e informazioni"
+        ],
+        "affidabilita": "Una fonte",
+        "solo_titoli": false
+       }
+      ]
+     }
+    ],
+    "formato": 2,
+    "controllo_siti": [
+     {
+      "cosa": "Frameboy",
+      "sito": "https://www.producthunt.com/r/p/1306206?app_id=339",
+      "esito": "errore: HTTP Error 403: Forbidden"
+     }
+    ]
+   }
+  }
+ ]
 }
