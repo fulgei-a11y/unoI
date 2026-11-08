@@ -220,6 +220,18 @@
    "solo_titolo": false,
    "categoria": "Strumenti",
    "id": "u1a2"
+  },
+  "u2a30": {
+   "titolo": "Andrej Karpathy built a curated video platform in a weekend using Claude and 20 years of Hacker News",
+   "link": "https://the-decoder.com/andrej-karpathy-built-a-curated-video-platform-in-a-weekend-using-claude-and-20-years-of-hacker-news/",
+   "data": "2026-11-08T14:23:00+00:00",
+   "testo": "Andrej Karpathy built a curated video platform in a weekend using Claude and 20 years of Hacker News Andrej Karpathy, OpenAI co-founder and current Anthropic AI researcher, built HackerTube over a weekend using Claude's Opus 5.5 model. Claude filtered 43 million comments from 20 years of Hacker News and distilled them into 6,454 videos that keep getting recommended there. The result is a \"significantly better viewing experience\" than YouTube's own recommendations, Karpathy writes on X. The site needs no login, shows a single mid-video frame instead of optimized thumbnails, and stores state locally in the browser. Right after, Karpathy built TristanTube, \"one-shotted with Claude Code in 3 minutes,\" with 47,000 videos drawn from a YouTube channel list by Tristan Hume. Karpathy says he let Claude Code handle nearly all the work, from data analysis to server setup. His only manual steps were a Google Cloud API key, a rented server, and buying the domain. Projects that used to take weeks can now be done in a few hours, Karpathy says. AI News Without the Hype – Curated by Humans Subscribe to THE DECODER for ad-free reading, a weekly AI newsletter, our exclusive \"AI Radar\" frontier report six times a year, full archive access, and access to our comment section. Subscribe now",
+   "fonte": "The Decoder",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Testate tech",
+   "id": "u2a30",
+   "testo_completo": true
   }
  },
  "fonti": [
@@ -743,10 +755,23 @@
   "claudism",
   "opus55goesuponbenchmaxxingbench",
   "crowdv1thecollaborativellm",
-  "oldunrelatedvisualsfalselysharedtoshowbhutansglaciallakeoutburst"
+  "oldunrelatedvisualsfalselysharedtoshowbhutansglaciallakeoutburst",
+  "fileruncanceledmylifetimelicenseafterirequestedareceipt",
+  "selfhosteddoorpanelepaperintercomintegrationandsonoschime",
+  "domainstructurehomeexamplecomorexamplecom",
+  "andrejkarpathybuiltacuratedvideoplatforminaweekendusingclaudeand20yearsofhackern",
+  "thebrainascomputermetaphorshapedmodernaibutmaybemisleadingtheconsciousnessdebate",
+  "dipendenzasocialgooglemetaetiktokcontrolacalifornia",
+  "ibuiltmyrestaurantswholeopsplatformwithclaudecodeinsteadofpayingforfivedifferent",
+  "gotauniquerecruitingemailtoday",
+  "chatgptknowsball",
+  "deargoditshappeningagain",
+  "probablyoldnewsbutanywebsiteyouhaveopencanreachyourlocalllmserverwhileyoubrowse",
+  "usershavestartedbuyingrtx5060ti16gbgraphicscardsenmasseforthesakeofai",
+  "doescensorshipexistincountryaccordingtovariousllms"
  ],
  "audio": "audio/2026-11-08.mp3",
- "durata": 124.8,
+ "durata": 143.5,
  "aggiornamenti": [
   {
    "generato": "2026-11-08T12:10:45+00:00",
@@ -815,6 +840,55 @@
       "cosa": "Frameboy",
       "sito": "https://www.producthunt.com/r/p/1306206?app_id=339",
       "esito": "errore: HTTP Error 403: Forbidden"
+     }
+    ]
+   }
+  },
+  {
+   "generato": "2026-11-08T17:00:30+00:00",
+   "modello": "gemini-3.6-flash",
+   "testi_completi": 2,
+   "riassunto": {
+    "titolo_giorno": "HackerTube: la piattaforma per guardare video curati dall'AI senza miniature acchiappaclick",
+    "in_breve": "Andrej Karpathy ha realizzato HackerTube, un servizio che seleziona i migliori video partendo da anni di discussioni online ed eliminando le copertine ingannevoli di YouTube. L'iniziativa mostra come i nuovi modelli di intelligenza artificiale permettano di creare in pochissimo tempo strumenti di fruizione dei contenuti personalizzati e puliti.",
+    "citati": [
+     "HackerTube"
+    ],
+    "da_provare": [
+     {
+      "cosa": "HackerTube",
+      "a_cosa_serve": "Una piattaforma web gratuita che seleziona e propone video di qualità analizzando le discussioni storiche della rete, sostituendo le miniature acchiappaclick con fotogrammi reali del filmato e senza richiedere alcuna registrazione.",
+      "per_chi": "Tutti i giorni",
+      "ambito": "Foto e video",
+      "come_iniziare": [],
+      "costo": "Gratis",
+      "piattaforme": [
+       "Browser"
+      ],
+      "sul_dispositivo": false,
+      "come_sfruttarla": "Trovare filmati informativi e di approfondimento evitando gli algoritmi tradizionali e le copertine ingannevoli di YouTube.",
+      "italiano": "Non indicato",
+      "difficolta": "Facile",
+      "temi": [
+       "Ricerca e informazioni",
+       "Foto e immagini",
+       "Video"
+      ],
+      "fonti": [
+       "u2a30"
+      ],
+      "affidabilita": "Una fonte",
+      "prova": ""
+     }
+    ],
+    "osint": [],
+    "gemme": [],
+    "sezioni": [],
+    "formato": 2,
+    "controllo_siti": [
+     {
+      "cosa": "HackerTube",
+      "esito": "nessun sito da aprire"
      }
     ]
    }
