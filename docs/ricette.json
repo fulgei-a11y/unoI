@@ -167,5 +167,61 @@
   "giorno": "2026-11-01",
   "generato": "2026-11-01T06:03:07+00:00",
   "modello": "gemini-3.8-flash"
+ },
+ {
+  "titolo": "Digitalizzare ricevute e documenti cartacei in report pronti per l'ufficio",
+  "obiettivo": "Trasformare foto di documenti e ricevute cartacee in tabelle ordinate e presentazioni aziendali senza copiare i dati a mano.",
+  "ambito": "Lavoro",
+  "ingredienti": [
+   {
+    "nome": "MiniCPM-OCR",
+    "descrizione": "Modello di intelligenza artificiale specializzato nell'estrazione e nell'analisi accurata di testo da documenti inclinati, foto da smartphone o fogli piegati.",
+    "piattaforme": [
+     "Browser",
+     "Windows"
+    ],
+    "costo": "Gratis",
+    "url": "giorni/2026-10-28.html#o1",
+    "locale": false,
+    "ruolo": "Estrae il testo grezzo e le cifre anche da foto scattate con lo smartphone o documenti inclinati"
+   },
+   {
+    "nome": "ContextGem 1.0",
+    "descrizione": "Combina modelli decisionali e modelli linguistici per estrarre con precisione tabelle, campi e dati da documenti testuali.",
+    "piattaforme": [
+     "Browser"
+    ],
+    "costo": "Non indicato",
+    "url": "https://www.producthunt.com/products/contextgem",
+    "locale": false,
+    "ruolo": "Riconosce tabelle, campi specifici e importi organizzandoli in dati strutturati"
+   },
+   {
+    "nome": "Ndoc",
+    "descrizione": "Unisce in un unico ambiente di lavoro digitale fogli di calcolo, presentazioni e analisi di testo guidate dall'intelligenza artificiale.",
+    "piattaforme": [
+     "Browser"
+    ],
+    "costo": "Non indicato",
+    "url": "giorni/2026-10-28.html#p1",
+    "locale": false,
+    "ruolo": "Elabora i fogli di calcolo e produce analisi e presentazioni guidate dall'AI"
+   }
+  ],
+  "passi": [
+   "Fotografa il documento o la fattura cartacea con il telefono e carica l'immagine in MiniCPM-OCR dal browser per estrarre tutto il testo.",
+   "Copia il testo ottenuto e incollalo in ContextGem 1.0 per estrarre automaticamente voci, importi, date e tabelle.",
+   "Trasferisci i dati puliti e ordinati all'interno dell'ambiente di lavoro di Ndoc.",
+   "Sfrutta l'AI di Ndoc per generare il foglio di calcolo definitivo, analizzare le spese e creare una presentazione riassuntiva per il team."
+  ],
+  "tempo": "10 minuti",
+  "livello": "Facile",
+  "costo": "Gratis con limiti",
+  "perche_conviene": "Elimina l'inserimento manuale dei dati ed evita errori di battitura nella preparazione di note spese e rendiconti.",
+  "tutto_in_locale": false,
+  "id": "r4",
+  "giorno": "2026-11-08",
+  "generato": "2026-11-08T05:25:44+00:00",
+  "modello": "gemini-3.8-flash"
  }
 ]
