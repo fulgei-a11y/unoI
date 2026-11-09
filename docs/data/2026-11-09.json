@@ -375,6 +375,30 @@
    "solo_titolo": true,
    "categoria": "Laboratori",
    "id": "a72"
+  },
+  "u2a110": {
+   "titolo": "Medium’s new TK app brings AI assistance directly into the writing process",
+   "link": "https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/",
+   "data": "2026-11-09T16:12:28+00:00",
+   "testo": "Online publishing platform Medium on Monday launched a new app, called TK, which aims to bring AI technology deeper into the writing process. The idea behind TK is to make it easier to turn ideas into written words by incorporating an AI assistant into the editor itself, allowing users to ask for help by typing “@TK” followed by their request or prompt. In publishing and journalism, the term “TK” serves as a placeholder used to mark where missing information can be added later. The “TK” stands for “to come,” but uses a “K” instead of “C” as there are few English words where the “tk” letter combination exists, making it stand out more easily in written text where it could be caught by proofreaders. In Medium’s app, TK takes on a new role as it tries to help users fill in the blanks. The company suggests the AI assistant could help answer questions that you might normally have to switch to another tab to quickly look up, like how many days are in a particular month. The app could also pull in bits of writing you had previously saved to the app when you were still fleshing out your ideas. In addition, Medium says TK will ship with particular skills for editorial feedback, headline feedback, and others that could match your draft to the style guide for Medium publications. Medium’s move to embrace AI in the early stages of writing could prove controversial at a time when the publishing and literary worlds have been reckoning with the role that artificial intelligence has played in the creation of new long-form prose. Multiple authors have lost book deals over suspicions that they used AI technology to help them write, while other literary awards have come under scrutiny after winners were suspected of writing with AI assistance. While writers have long used automated tools…",
+   "fonte": "TechCrunch",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Testate tech",
+   "id": "u2a110",
+   "testo_completo": true
+  },
+  "u2a56": {
+   "titolo": "Riviamigo - Self hosted Rivian data logging dashboard (new release 2026.11.1)",
+   "link": "https://www.reddit.com/r/selfhosted/comments/1xrtvw3/riviamigo_self_hosted_rivian_data_logging/",
+   "sito": "",
+   "data": "2026-11-09T15:01:02+00:00",
+   "testo": "Hey all! I’ve been using TeslaMate on my Tesla for years. It’s self-hosted and logs everything the car reports. When I got my Rivian I really missed it, so I built (oh god, the issues this phrase is going to cause, haha) my own: Riviamigo . It connects to your Rivian account, saves your vehicle’s data to your own database, and turns it into dashboards: Battery: SoC, range, charge limits, phantom …",
+   "fonte": "Reddit r/selfhosted",
+   "tipo": "community",
+   "solo_titolo": false,
+   "categoria": "Gemme",
+   "id": "u2a56"
   }
  },
  "fonti": [
@@ -843,16 +867,137 @@
   "a1launchesaigovernanceserviceformidmarketfirms",
   "howtotranscribeaudiototextinmicrosoftwordandonenote",
   "pelucheconlaifinalmenteanchelinfanziaèunaminieradidati",
-  "8reportingtipsforcoldcontactinginsiders"
+  "8reportingtipsforcoldcontactinginsiders",
+  "caviarcofoundersnewsportsaiappsnappisnowonandroid",
+  "metapreparingtolaunchmuseaiassistantinuk",
+  "worldaifilmfestivalwaiffarrivaanapolilarassegnadedicataalcinemarealizzatoconlint",
+  "samsungpreparaunanuovaappiadateilbenvenutoamemory",
+  "railtownailaunchesopensourcerailtracksswiftragframeworkforprivacyfirstondeviceai",
+  "googletpu8txand8imaxtargetprivateaiandhugecontext",
+  "anthropicsprivateaimodelhasbeenusedtoproveaquantumcomputingproblemthathadremaine",
+  "ondeviceaiassistants",
+  "ireplaced12bloatedappswithgeminiandfreedup5gbofstorage",
+  "flidemakejevlikedecisionmodelsupto95xfaster",
+  "riviamigoselfhostedriviandataloggingdashboardnewrelease2026111",
+  "wordpressownerautomatticlaunchesspacefastat5amonth",
+  "anthropiclaunchespersonalfinancefeatureforclaude",
+  "chasingnewfrontiersweseeanthropicaswellplacedtocapturevalueinanaiworld",
+  "studentmicrosoft365copilotrollouttimeline",
+  "aiagentsecurityneedsmorethanleastprivilege",
+  "samsungcouldsoonstartchargingforgalaxyaiwithanew499premiumsubscriptionupdated",
+  "samsungistestinga499monthlyfeeforgalaxyai",
+  "nemotronpersonasfinancejapanasyntheticdatasetcapturingjapansdemographicsandfinan",
+  "trumps60minutesinterviewtouchedonaisafetythreattoarrestanaiexec",
+  "disneyandadobearebuildinggenerativeaitoolstogether",
+  "holdupihadagreattimetalkingtotheriaaguy",
+  "jonathankanterisusingaitotakeonbigtech",
+  "mediumsnewtkappbringsaiassistancedirectlyintothewritingprocess",
+  "automatticdebutsaplatformtodeployvibecodingappsamidachanginginternet",
+  "nvidiaceosaffairbecomesanationalsecurityproblem",
+  "tencentsaichiefsaysaibioweaponsarecomingbutclosingoffmodelsisnttheanswer",
+  "airdacceleratesopenaiat125tgithubsmultiplayerharness",
+  "socialeminorimetagoogleetiktokfannocausaallacalifornia",
+  "instagramstimaaidelletàintuttoilmondo",
+  "jensenhuangloscandaloeilfuturodinvidiacosapotrebbeaccadere",
+  "comesfruttarealmassimouncomputerdagamingconlaiondevicevideo",
+  "piùimpreseusanolaipochenesfruttanolepossibilitàcosafrenailsalto",
+  "laicrescenelleimpreselaproduttivitàrestailproblemaitaliano",
+  "aiactegdprcomecoordinaregliobblighiditrasparenza",
+  "garanteprivacyavverteimediasuidatiditajani",
+  "arewenotallowedtoaskanyshtaboutbiologytoopus55",
+  "hewastherefortherambtw",
+  "youcannowtrainyourownllmswithlessmemoryonyourgaminggpus",
+  "isitworthitconnected9ps5stogetherforahugellminference",
+  "oldvideofalselylinkedtoanoiltankerfireinthestraitofhormuz",
+  "verifiedaigeneratedimagefalselyshowspmmodiyogiadityanathcelebratingdiwali",
+  "factcheckdoesthisviralvideoshowindiasfirstbullettrainsno",
+  "russianoccupiersbeginusingmockmilitarypositionstodeceiveaiequippeddrones"
  ],
  "audio": "audio/2026-11-09.mp3",
- "durata": 123.1,
+ "durata": 155.6,
  "aggiornamenti": [
   {
    "generato": "2026-11-09T14:06:13+00:00",
    "modello": "gemini-3.6-flash",
    "testi_completi": 0,
    "riassunto": null
+  },
+  {
+   "generato": "2026-11-09T16:28:03+00:00",
+   "modello": "gemini-3.6-flash",
+   "testi_completi": 9,
+   "riassunto": {
+    "titolo_giorno": "Medium lancia TK per scrivere e revisionare testi con l'AI",
+    "in_breve": "L'assistenza alla scrittura si sposta sempre più direttamente all'interno degli editor di testo. Con la nuova applicazione TK lanciata da Medium, è possibile richiamare l'AI durante la stesura per cercare informazioni, ricevere suggerimenti di stile e migliorare i propri articoli senza dover cambiare scheda.",
+    "citati": [
+     "TK"
+    ],
+    "da_provare": [
+     {
+      "cosa": "TK",
+      "a_cosa_serve": "È una nuova applicazione di scrittura creata da Medium che integra un assistente AI direttamente nell'editor. Digitando '@TK' seguito da una richiesta, è possibile cercare informazioni al volo, recuperare appunti o ricevere feedback editoriali su titoli e stile.",
+      "per_chi": "Lavoro e tutti i giorni",
+      "ambito": "Scrittura e documenti",
+      "come_iniziare": [],
+      "costo": "Non indicato",
+      "piattaforme": [
+       "Browser"
+      ],
+      "sul_dispositivo": false,
+      "come_sfruttarla": "Revisionare la struttura di un documento o ricevere suggerimenti per i titoli direttamente mentre si scrive.",
+      "italiano": "Non indicato",
+      "difficolta": "Facile",
+      "temi": [
+       "Scrittura e documenti",
+       "Lavoro e produttività",
+       "Assistenti e chatbot"
+      ],
+      "fonti": [
+       "u2a110"
+      ],
+      "affidabilita": "Una fonte",
+      "prova": ""
+     }
+    ],
+    "osint": [],
+    "gemme": [
+     {
+      "cosa": "Riviamigo",
+      "a_cosa_serve": "È una dashboard self-hosted che si collega al proprio account dei veicoli elettrici Rivian per salvare lo storico dei dati del veicolo e visualizzare grafici su ricariche, autonomia e consumo della batteria.",
+      "perche_gemma": "Consente di raccogliere e analizzare tutti i dati di viaggio del proprio veicolo conservandoli nel proprio database personale.",
+      "con_ai": "",
+      "piattaforme": [
+       "Browser"
+      ],
+      "self_hosted": true,
+      "costo": "Gratis",
+      "difficolta": "Media",
+      "temi": [
+       "Open source e self-hosting"
+      ],
+      "fonti": [
+       "u2a56"
+      ],
+      "affidabilita": "Da verificare",
+      "come_iniziare": [],
+      "sul_dispositivo": false,
+      "come_sfruttarla": "",
+      "prova": ""
+     }
+    ],
+    "sezioni": [],
+    "formato": 2,
+    "controllo_siti": [
+     {
+      "cosa": "TK",
+      "esito": "nessun sito da aprire"
+     },
+     {
+      "cosa": "Riviamigo",
+      "esito": "nessun sito da aprire"
+     }
+    ]
+   }
   }
  ]
 }
