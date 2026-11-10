@@ -491,6 +491,157 @@
    "categoria": "Testate tech",
    "id": "u3a124",
    "testo_completo": true
+  },
+  "u4a198": {
+   "titolo": "Sembra che eBay abbia bloccato gli agenti AI terzi, in particolare Meta Muse",
+   "link": "https://www.hdblog.it/android/articoli/n676582/ebay-blocca-agenti-ai-meta-muse/",
+   "data": "2026-11-10T18:45:00+02:00",
+   "testo": "Per ora non ci sono conferme ufficiali, ma ciò che riportano gli utenti sembra nel complesso inequivocabile.",
+   "fonte": "HDblog",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Italia",
+   "id": "u4a198"
+  },
+  "u4a116": {
+   "titolo": "Anthropic Takes On Google And Microsoft With Claude Sheets",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZXRWOExBd2xhc1VhNmZQY1lLQ2R6b3VhZ2kzVm1nMUJfb1RLbnNiaW5LcW1UVUdiQXRqRGlXZHFwODZMSHhsZC1JdXViZTNtUFh3a2JJWWNzdHFCYXlQMWFXeGNIbDVHOFJ3Ni1pRVRwZ0N4Njc0M2ZrVUxBR2FCaHFSMWZ1UFNPMzdKbnEzcUZwaE5BMXU0?oc=5",
+   "data": "2026-11-10T17:30:00+00:00",
+   "testo": "",
+   "fonte": "Engadget",
+   "tipo": "testata",
+   "solo_titolo": true,
+   "categoria": "Laboratori",
+   "id": "u4a116"
+  },
+  "u4a92": {
+   "titolo": "Gemini Intelligence: New features, on more devices",
+   "link": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
+   "data": "2026-11-10T19:00:00+00:00",
+   "testo": "Gemini Intelligence: New features, on more devices Gemini Intelligence 1 brings the best of Gemini to Android devices, helping your devices work harder for you. Earlier this year, we announced Gemini Intelligence, and this summer devices started rolling out — from the Pixel 11 to the Samsung Galaxy Z Fold8 Ultra, Z Fold8, Z Flip8 and S26 series. 2 Today, we’re introducing new features built for Gemini Intelligence, and expanding capabilities to more of Android’s most advanced devices. 3 Here’s a look at what’s new. Gemini Intelligence on more devices, including motorola signature 27 and Pixel 10 Gemini Intelligence is coming to even more devices. Motorola is introducing its first Gemini Intelligence device, motorola signature 27, which is available for pre-order in the U.S. on November 19. And with today’s Pixel Drop, Pixel 10, Pixel 10 Pro XL, and Pixel 10 Pro Fold get the latest features for Gemini Intelligence. Alongside this expansion, we’re bringing some of our favorite capabilities to more devices and regions, helping handle the busywork so you can focus on what matters. Rambler 4 — which turns spoken thoughts into clean, organized text in real-time — is now available on Pixel 10, Pixel 10 Pro, Pixel 10, Pro XL and Pixel 10 Pro Fold, as well as the new motorola signature 27. And task automation 5 — which lets you ask Gemini to handle logistics like ordering food, hailing rides, or booking reservations across your favorite apps — is expanding to the UK, India, and Japan. Build custom widgets with a prompt Create My Widget 6 , which is rolling out over the next few weeks, lets you design a personalized widget with a simple description in your own words — no coding required. Whether you want a dashboard for your upcoming trip, a monthly spending tracker, or a race d…",
+   "fonte": "Google (blog ufficiale)",
+   "tipo": "ufficiale",
+   "solo_titolo": false,
+   "categoria": "Laboratori",
+   "id": "u4a92",
+   "testo_completo": true
+  },
+  "u4a135": {
+   "titolo": "ChatGPT is getting verified AI ‘Business Agents’",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub",
+   "sito": "",
+   "data": "2026-11-10T13:00:00-05:00",
+   "testo": "ChatGPT is going to let you chat with verified “Business Agents” that represent a brand to help you with things like comparison shopping. The feature, available first to “eligible” e-commerce and online service businesses in the US, is launching as part of a suite of business-focused features in ChatGPT being announced today in beta. ChatGPT is getting verified AI ‘Business Agents’ ChatGPT’s new AI agents represent companies and can help with things like comparison shopping. You can start talking with a Business Agent if a business that has created one appears in a response from ChatGPT. While chatting with a custom agent, you can ask about a business’s offerings and ask follow-up questions, like asking about differences between two different products. Businesses can specify a Business Agent’s instructions and provide business context so that the agent knows how to respond. Chats with Business Agents will be clearly labeled and separate from your main ChatGPT conversation, OpenAI says. To help people know that they’re talking with an agent that actually represents the business, companies will be able to claim their organization and get verified through a feature called Business Hub. (OpenAI isn’t sharing specifics about its verification methods because there are different methods for different businesses, VP of monetization Benji Shomair said in a press briefing.) Business Hub will also let companies see insights such as mentions in ChatGPT responses and top “discovery topics” where their business pops up. “Today’s announcement is an early step in bringing businesses more deeply into ChatGPT,” OpenAI says in a blog post. “We’re starting with the foundations: accurate business information, useful insights and conversations that help people make informed decisions.” As t…",
+   "fonte": "The Verge",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Testate tech",
+   "id": "u4a135",
+   "testo_completo": true
+  },
+  "u4a87": {
+   "titolo": "Introducing Businesses in ChatGPT",
+   "link": "https://openai.com/index/introducing-businesses-chatgpt",
+   "data": "2026-11-10T10:00:00+00:00",
+   "testo": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
+   "fonte": "OpenAI",
+   "tipo": "ufficiale",
+   "solo_titolo": false,
+   "categoria": "Laboratori",
+   "id": "u4a87"
+  },
+  "u4a149": {
+   "titolo": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
+   "link": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
+   "data": "2026-11-10T18:49:52+00:00",
+   "testo": "In an effort to make ChatGPT an even better consumer discovery engine, OpenAI is launching a host of new features designed to help companies control how users interact with their businesses. On Tuesday, the company rolled out a Business Hub that will serve as a place where companies can create business profiles that — in a feature that greatly resembles the kind of profiles that Google and other search engines already offer — allow enterprises to verify and update information about their products and services. The feature is currently in beta. Eligible companies will also be able to create and launch a specialized business agent, which gives ChatGPT users the ability to ask questions about the business and its products. “As people turn to AI to discover products, compare options and make decisions, ChatGPT has become the platform for people and businesses to connect through AI,” the company said on Tuesday. “Today’s announcement is an early step in bringing businesses more deeply into ChatGPT.” In a move that calls to mind Google Analytics, the Business Hub will also give users access to limited business insights. These insights will reveal how ChatGPT users interact with their products — including profile views, business mentions, website clicks, and other metrics. Businesses will have to verify their profiles through a formal process, although the company did not share specifics of what that process would entail. Benji Shomair, OpenAI’s VP of Monetization, told journalists on Monday that there are “multiple verification methods that we use for different types of business in different markets.” OpenAI previously tried to position ChatGPT as an e-commerce hub by which users could buy products directly. This effort — which used a commission fee system — was viewed as a …",
+   "fonte": "TechCrunch",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Testate tech",
+   "id": "u4a149",
+   "testo_completo": true
+  },
+  "u4a100": {
+   "titolo": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdkN0VWFWT3BuM1RBTG1ZWVp6TWs3RVpNZ2JHSGp2Q0NmcEh6Z3p6anZYY1FYYXpSTXRYZ2hoX2dXY2MyaXdGSXptUFlxWXhMRmVyLVgwbEw0N05PTWJmMmF5bE9uYzF5RkhGOHpueGpuUzA3UE5mekh1UE1oWmp1dWhvWTVEaHhacXJkb0poVklsRWd1V2xWVkpuWlZBbDQ3X3RHajUzWmlabGM5Wml4Ni1KWDZLOV9PYlhPag?oc=5",
+   "data": "2026-11-10T17:30:00+00:00",
+   "testo": "",
+   "fonte": "TechCrunch",
+   "tipo": "testata",
+   "solo_titolo": true,
+   "categoria": "Laboratori",
+   "id": "u4a100"
+  },
+  "u4a195": {
+   "titolo": "Claude amplia la suite office AI: arrivano Meetings, Sheets e Whiteboards",
+   "link": "https://www.hdblog.it/tecnologia/articoli/n676598/claude-suite-produttivita-ai-sheets-meetings/",
+   "data": "2026-11-10T20:05:00+02:00",
+   "testo": "In altre parole: appunti durante le riunioni, fogli di calcolo, e gestione progetti collaborativa.",
+   "fonte": "HDblog",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Italia",
+   "id": "u4a195"
+  },
+  "u4a156": {
+   "titolo": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
+   "link": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
+   "data": "2026-11-10T21:12:59+00:00",
+   "testo": "Grok Build, the vibe-coding agent from SpaceXSI, is leaking data—some of it proprietary business information and other sensitive secrets—from thousands of its users, including the very same Elon Musk-owned company that offers the platform, new research shows. The information is revealed through links allowing Grok Build users to share their apps with others. Grok takes steps to randomize the URLs so only people who know the exact URL can access the data stored there. A design decision by developers of the platform, however, completely torpedoes that objective and makes it possible for anyone to enumerate thousands of live Grok Build projects. Except in rare cases, clicking those links opens the app and reveals all data associated with it. You had one job Research from security firm Claroc shows that the exposed data includes things like internal business plans, ad proposals, medical exam results, galley checklists from a celebrity cruise line, and employee names and ID numbers. Ironically, some of the sensitive data comes from two-dozen apps built by SpaceXSI (the name of the now-merged SpaceX and xAI) itself. A small sampling of the documents revealed in the SpaceXSI apps—Claroc found 24 of them—include an onboarding plan, marked confidential, for a new member of SpaceXSI’s enterprise sales team, a sales territory map of 594 accounts, internal system addresses for sales team tools, and advertising proposals. “We were shocked,” Claroc said in a Tuesday post. “The company that makes Grok had its own internal material open to anyone holding the link, and we had never been given it. Had the sales team bought a tool for this, it would have sat behind company sign-in, open only to the team. Built with AI, it went live open to anyone with the link. At the time this post went…",
+   "fonte": "Ars Technica",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Testate tech",
+   "id": "u4a156",
+   "testo_completo": true
+  },
+  "u4a165": {
+   "titolo": "OpenAI turns ChatGPT into a business directory with AI agents that handle customer questions",
+   "link": "https://the-decoder.com/openai-turns-chatgpt-into-a-business-directory-with-ai-agents-that-handle-customer-questions/",
+   "data": "2026-11-10T20:17:00+00:00",
+   "testo": "OpenAI is opening up ChatGPT as a business platform: through a new Business Hub, companies can claim their profile, add product data, and track how users interact with them. \"Business Agents\" let eligible US e-commerce providers talk to customers directly inside ChatGPT. The article OpenAI turns ChatGPT into a business directory with AI agents that handle customer questions appeared first on The …",
+   "fonte": "The Decoder",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Testate tech",
+   "id": "u4a165"
+  },
+  "u4a138": {
+   "titolo": "eBay appears to have shut the door on third-party AI agents",
+   "link": "https://www.theverge.com/tech/1030838/ebay-ai-agents-meta-muse-agentic-shopping",
+   "sito": "",
+   "data": "2026-11-10T11:20:30-05:00",
+   "testo": "eBay appears to have blocked AI agents, including Meta’s Muse, from browsing on the platform — the latest speed bump in the AI agent race. eBay appears to have shut the door on third-party AI agents Silicon Valley is promising an AI agent revolution, but retailers and service providers keep blocking them. A reader tells The Verge that for several weeks he’s had his Muse agent browse and curate a daily digest of watches for sale on platforms like eBay, including a link to listings, price, shipping details, and relevant notes about condition or style. This weekend, though, Muse was unable to pull any links or details from eBay, with Muse saying it was blocked from the site. The Verge was able to re-create the experience using other search requests, and in some cases we found that Muse instead directed users to outside sites that mirrored eBay listings. Shopping is frequently invoked as one area where AI agents can augment or improve the human-driven experience. Technology companies tout the use of agents to book travel, find deals, and even purchase goods and services on behalf of humans. But AI agents are regularly getting blocked from accessing retailers’ sites, calling into question how useful they can really be. eBay previously updated its user agreement to ban the use of tools like “buy-for-me agents” and “LLM-driven bots” that place orders without human review. Until recently, though, agents like Muse were able to browse the site and pull listings for users. AI is becoming embedded throughout the platform for the discovery, personalization, and selling process, eBay spokesperson Sybille St. Arromand told The Verge in an email. St. Arromand declined to directly answer whether eBay recently imposed new limits on AI agents. “As it pertains to third-parties, we take a …",
+   "fonte": "The Verge",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Testate tech",
+   "id": "u4a138",
+   "testo_completo": true
+  },
+  "u4a166": {
+   "titolo": "Anthropic turns Claude into a full workspace with Plugins, spreadsheets, whiteboards, and soon Meeting notes",
+   "link": "https://the-decoder.com/anthropic-turns-claude-into-a-full-workspace-with-plugins-spreadsheets-whiteboards-and-soon-meeting-notes/",
+   "data": "2026-11-10T19:48:40+00:00",
+   "testo": "Anthropic is expanding Claude with Sheets, Whiteboards, and Interactive Connectors, letting partners like Adobe and Atlassian embed their apps directly inside Claude. Anthropic says Claude Meetings, which can join calls and take notes, is coming soon. Step by step, Anthropic is turning Claude into a central work platform for teams that brings many other apps together in one place. The article Ant…",
+   "fonte": "The Decoder",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Testate tech",
+   "id": "u4a166"
+  },
+  "u4a93": {
+   "titolo": "Pixel 10 with Gemini Intelligence, custom widgets, and more in our November Pixel Drop",
+   "link": "https://blog.google/products-and-platforms/devices/pixel/november-2026-pixel-drop/",
+   "data": "2026-11-10T19:00:00+00:00",
+   "testo": "Pixel 10 with Gemini Intelligence, custom widgets, and more in our November Pixel Drop Our November Pixel Drop is here, with new and expanded features making your Pixel devices more personalized, intuitive, and handy. See how we’re bringing smarter automation, next-level personalization, and upgraded connectivity to your favorite devices. Updates start rolling out today and will continue over the next several weeks. Use Pixel 10 with Gemini Intelligence Gemini Intelligence is now available on Pixel 10 devices, bringing new capabilities like Rambler, personalized suggestions, and taking care of multi-step tasks — like placing your morning coffee order. Polish your messages with Rambler on Pixel 10: Voice typing just got a major upgrade. Rambler can automatically remove filler words like “um,” and format your thoughts into clear, polished text. Just speak naturally, review, and send. Complete multi-step tasks with Gemini: Whether you’re getting groceries, booking a ride, ordering takeout, or trying to find a reservation at your favorite restaurant, let Gemini handle the logistics so you can focus on other tasks. Now available in Japan, UK, and India. Receive proactive suggestions: From sharing your ETA with a tap when someone asks when you’ll arrive, to helping you find the perfect dinner spot, your Pixel anticipates what you need with timely information and suggested actions, so you can accomplish your daily tasks faster. 1 Also, coming soon to Pixel Watch 4. Create more personalized widgets: Ever find yourself wanting a widget that doesn’t seem to exist? Create personalized widgets, like a tracker to follow your monthly spending, a game day widget with your team colors, or a getaway countdown that automatically pulls in flight and reservation details. Your home screen …",
+   "fonte": "Google (blog ufficiale)",
+   "tipo": "ufficiale",
+   "solo_titolo": false,
+   "categoria": "Laboratori",
+   "id": "u4a93",
+   "testo_completo": true
   }
  },
  "fonti": [
@@ -1180,10 +1331,97 @@
   "dooridlaunches70secondphysicaladdressverificationtocombataiidentityfraud",
   "factcheckviralvideodoesnotshowamankickinganddamagingtarbeladamitsoldandunrelated",
   "whatelsayedsjourneymeansformuslimamericansdailysabah",
-  "theosintnewsletterissue130"
+  "theosintnewsletterissue130",
+  "getyourcodingagentoff2019javascriptontomodernwebprimitives",
+  "googlecloudlaunchesgeminiaitoolforhealthcare",
+  "universityofmichiganlaunchesaiappstore",
+  "10bestaiappsforiphonein2026testedranked",
+  "eyedapticlaunchesevaagenticaiassistantforpeoplewithlowvision",
+  "aterminiimereseinauguralinnovationhubroboticaeintelligenzaartificialealserviziod",
+  "instagramlanciaeffectbuilderbastaunafrasepercrearefiltri",
+  "mediumlanciatklappgratuitaconaipernoteebloggingprivato",
+  "claudepuòanalizzarecontibancariecartedicreditocisonorischiperlaprivacydegliutent",
+  "cosasageminiditeorapuoicontrollarloecambiareiricordi",
+  "applesharborappwillmakerunninglocalaiacrossmultiplemacstrivial",
+  "applehasnewmacappcomingtomakerunninglocalaimodelseasy",
+  "applepreparesharborapptolinkmacsforlocalaimodels",
+  "gigabytelaunchesaitopaerominipcforlocalaiworkloads",
+  "gigabyteexpandsitslocalaiportfoliowiththelaunchofaitopaeropoweredbynvidiartxspar",
+  "gigabyteaitopaerolailocalesifaminuscolaconrtxspark",
+  "valenciaspaininsimcityisometricview",
+  "a15mbselfhostednetflixandspotifyforyourmediaserver",
+  "whatcannotbeselfhosted",
+  "containeronionservicearootlesscontainerthatproxiesawebsiteasahiddenserviceonthet",
+  "btcpayserver247updatefixessecurityissuesurgingselfhostedmerchantstoupgradeimmedi",
+  "presisbringsselfhostedclassificationtoboostaisagentplatform",
+  "introducingbusinessesinchatgpt",
+  "geminiintelligencenewfeaturesonmoredevices",
+  "pixel10withgeminiintelligencecustomwidgetsandmoreinournovemberpixeldrop",
+  "anthropiclaunchesclaudemeetingstoturnworkplacediscussionsintoplansandtasks",
+  "googlecloudrollsoutgeminiforhealthcare",
+  "anthropiclaunchesworkplaceaitoolsincludingclaudesheets",
+  "anthropiclaunchesclaudemeetingsdaysbeforeipo",
+  "openailaunchesbusinesshubandbusinessagentsinchatgpt",
+  "assuritysmartlocatornowavailableinchatgptandclaudeasaireshapeshowdriverschooseco",
+  "googlecloudlaunchesgeminiforhealthcareasanenterpriseagenticorchestrationlayer",
+  "assuritylaunchescollisionrepairfacilitylocatorforchatgptandclaude",
+  "anthropicbringsclaudetogooglemeettotackletaskslive",
+  "anthropicsetfor13tnstockmarketdebutdespitecatastrophicaiwarning",
+  "anthropictakesongoogleandmicrosoftwithclaudesheets",
+  "anthropicwantsclaudetojoinyourmeetings",
+  "microsoftisnamedaleaderin2026gartnermagicquadrantforcrmcustomerengagementcenter",
+  "microsoftplansclaudeprocessinginsideeudataboundary",
+  "groksoctoberappestimatehits934millioncrosssurfacetallyhits1184million",
+  "samsungcouldsoonchargeyou499amonthtounlockyourgalaxyphonesaifeatures",
+  "elonmuskcallsclaudeopus55amasterpieceadmitsgrok48wontmatchit",
+  "deepseekagenticharnessreaches15millionusers",
+  "leakdetailssamsungsplansgalaxyaipremiumat5amonth",
+  "metaaiglassescangettoowarmfromwaterandsweatupdaterightnow",
+  "payforhuggingfacehubwithyourgooglecloudaccount",
+  "theusiswinningtheairacejensenhuangcouldhaveblownit",
+  "chatgptisgettingverifiedaibusinessagents",
+  "theindiegamecommunityisindisarrayoveraiandbigwalk",
+  "anthropichasitsownaipoweredofficesuitenow",
+  "ebayappearstohaveshutthedooronthirdpartyaiagents",
+  "openaiacquiresodessiatravelstartupcreatedbysonderfounder",
+  "openaianthropicfacenewoversightasnewyorksaisafetylawtakeseffect",
+  "all7anthropicfounderswilleachcashoutabout250minipo",
+  "ouratoacquireainativeprimarycarestartupcounselhealthfor625m",
+  "psiistryingtomakeabusinessoutofaidrivenscientificdiscovery",
+  "openairollsoutnewbusinessprofilesmakingchatgptjustalittlebitmorelikegoogle",
+  "nvidiaceojensenhuangsaffairwithallegedchinesespyatimeline",
+  "grokbuildcodingagentleaksoodlesofconfidentialinfosomebelongingtospacexsi",
+  "whathappenstomathematicswhenaibecomesanoracle",
+  "openaiturnschatgptintoabusinessdirectorywithaiagentsthathandlecustomerquestions",
+  "anthropicturnsclaudeintoafullworkspacewithpluginsspreadsheetswhiteboardsandsoonm",
+  "nvidiasmodelgr00t2watcheshumansonvideothenimaginesitselfastherobot",
+  "gemini4carbonarrivesjustintimetofeellikeyesterdaysnewsinthefastestmodelcycleyet",
+  "googledeepmindsgeminirobotics25scores96percentsortingmetalpartsinamercedesbenzas",
+  "ouraacquisisceunastartupdiintelligenzaartificialeinambitomedicoperoltre600milion",
+  "lianonsipuòfermareanewyorkciclodiconferenzeperilprogressoumano",
+  "binanceavvisabugdiiospermettelaccessoaiwallet",
+  "googlegemini4carbondisponibilepertutti",
+  "blackfriday7promptpernonfarsifregaredaglisconti",
+  "nvidiafbiavviaindagineegliazionistidenunciano",
+  "claudeamplialasuiteofficeaiarrivanomeetingssheetsewhiteboards",
+  "samsungprodurràunchipaia2nmcheconsumaappena5watt",
+  "openaipresentacontrolroombloccagliagentiaiin35secondi",
+  "sembracheebayabbiabloccatogliagentiaiterziinparticolaremetamuse",
+  "hocreatounappandroidconunagenteaidalmockupalprogetto",
+  "googlegemini4carbonèdisponibileprezzieaccesso",
+  "nonèunagaraconlaiilfuturodellavoropassadalladattamento",
+  "itsgettingsmarterfrfr",
+  "ibuiltawebcamxraymirrorwithclaudefable52",
+  "goodboy",
+  "nobodywonderingwhytheustakesnvidiaceoaffairpublic",
+  "llmgemini036",
+  "russianoccupiersbeginusingmockmilitarypositionstodeceiveaiequippeddronesrubryka",
+  "pirateriaanimeemangalanuovaguerrapassadaaistreamingepiattaformelegali",
+  "questovideodeimilitarispagnolichearrestanodeputaticorrottièfalso",
+  "osintofthailand"
  ],
  "audio": "audio/2026-11-10.mp3",
- "durata": 276.4,
+ "durata": 383.2,
  "aggiornamenti": [
   {
    "generato": "2026-11-10T05:24:23+00:00",
@@ -1561,6 +1799,123 @@
       "esito": "nessun sito da aprire"
      }
     ]
+   }
+  },
+  {
+   "generato": "2026-11-10T21:59:55+00:00",
+   "modello": "gemini-3.8-flash",
+   "testi_completi": 22,
+   "riassunto": {
+    "titolo_giorno": "Claude introduce fogli di calcolo e lavagne visive, mentre ChatGPT lancia i Business Agents",
+    "in_breve": "Claude amplia le proprie funzioni integrando strumenti di calcolo e aree visive di lavoro per gestire documenti e progetti senza cambiare applicazione, mentre ChatGPT sperimenta i profili verificati con Business Agents per dialogare con i marchi. Intanto Gemini aggiorna Android permettendo di generare widget su misura spiegando a parole ciò che serve.",
+    "citati": [
+     "Claude",
+     "ChatGPT",
+     "Gemini"
+    ],
+    "da_provare": [],
+    "osint": [],
+    "gemme": [],
+    "sezioni": [
+     {
+      "titolo": "Novità negli strumenti che già usi",
+      "notizie": [
+       {
+        "titolo": "Arrivano i fogli di calcolo Sheets, le lavagne visive e i connettori",
+        "strumento": "Claude",
+        "riassunto": "Anthropic trasforma Claude in un ambiente di produttività integrando Claude Sheets per la manipolazione di fogli di calcolo e Whiteboards per l'organizzazione visiva di idee e progetti. La piattaforma introduce inoltre connettori interattivi per usare servizi come Adobe e Atlassian direttamente nella chat, con l'arrivo pianificato di Claude Meetings per prendere appunti automatici durante le riunioni.",
+        "come_provarla": "",
+        "disponibilita": "Disponibile ora",
+        "fonti": [
+         "u4a100",
+         "u4a116",
+         "u4a166",
+         "u4a195"
+        ],
+        "temi": [
+         "Lavoro e produttività",
+         "Scrittura e documenti",
+         "Assistenti e chatbot"
+        ],
+        "affidabilita": "Confermata",
+        "solo_titoli": false
+       },
+       {
+        "titolo": "Debuttano i Business Agents per interagire con le aziende",
+        "strumento": "ChatGPT",
+        "riassunto": "OpenAI avvia la beta dei Business Agents all'interno di ChatGPT. Si tratta di assistenti creati direttamente dalle aziende (inizialmente e-commerce) e verificati tramite un apposito Business Hub per rispondere a domande del pubblico, confrontare caratteristiche e assistere nelle scelte d'acquisto. Le conversazioni con i profili aziendali rimangono separate rispetto alle chat ordinarie.",
+        "come_provarla": "Le chat con un Business Agent diventano accessibili quando un'attività abilitata compare in una risposta di ChatGPT.",
+        "disponibilita": "Non in Italia",
+        "fonti": [
+         "u4a87",
+         "u4a135",
+         "u4a149",
+         "u4a165"
+        ],
+        "temi": [
+         "Agenti AI",
+         "Assistenti e chatbot",
+         "OSINT e verifica"
+        ],
+        "affidabilita": "Fonte ufficiale",
+        "solo_titoli": false
+       },
+       {
+        "titolo": "Create My Widget crea scorciatoie su misura e Rambler pulisce la voce",
+        "strumento": "Gemini",
+        "riassunto": "Google aggiorna le funzionalità di Gemini sui dispositivi mobili Android. Con Create My Widget è possibile generare elementi grafici per la schermata home descrivendoli con una semplice frase (ad esempio per tracciare le spese o monitorare un conto alla rovescia di viaggio). La funzione vocale Rambler converte il parlato in testo ripulito in tempo reale, eliminando automaticamente esitazioni e intercalari.",
+        "come_provarla": "",
+        "disponibilita": "In arrivo",
+        "fonti": [
+         "u4a92",
+         "u4a93"
+        ],
+        "temi": [
+         "Assistenti e chatbot",
+         "Programmare senza codice",
+         "Scrittura e documenti"
+        ],
+        "affidabilita": "Fonte ufficiale",
+        "solo_titoli": false
+       }
+      ]
+     },
+     {
+      "titolo": "In breve",
+      "breve": true,
+      "notizie": [
+       {
+        "titolo": "eBay blocca gli agenti AI esterni per lo shopping automatico",
+        "riassunto": "eBay ha iniziato a bloccare l'accesso ad agenti AI di terze parti (tra cui Muse di Meta), impedendo ai bot di consultare annunci e aggregare prezzi per conto degli utenti.",
+        "fonti": [
+         "u4a138",
+         "u4a198"
+        ],
+        "temi": [
+         "Agenti AI"
+        ],
+        "affidabilita": "Confermata",
+        "solo_titoli": false
+       },
+       {
+        "titolo": "Falla di sicurezza in Grok Build espone i dati dei progetti creati dagli utenti",
+        "riassunto": "Una ricerca di sicurezza ha evidenziato che le applicazioni create con l'assistente Grok Build generano collegamenti web individuabili che rendono accessibili a chiunque file, piani di lavoro e dati riservati inseriti nei progetti.",
+        "fonti": [
+         "u4a156"
+        ],
+        "temi": [
+         "Privacy e sicurezza",
+         "Assistenti e chatbot",
+         "Ricerca e informazioni"
+        ],
+        "affidabilita": "Una fonte",
+        "solo_titoli": false
+       }
+      ]
+     }
+    ],
+    "formato": 2,
+    "controllo_siti": []
    }
   }
  ]
