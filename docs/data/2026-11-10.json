@@ -442,6 +442,55 @@
    "solo_titolo": false,
    "categoria": "Strumenti",
    "id": "u2a4"
+  },
+  "u3a68": {
+   "titolo": "Servo Browser Engine Continues Broadening Web Compatibility, New Features",
+   "link": "https://www.reddit.com/r/opensource/comments/1xpb5j6/servo_browser_engine_continues_broadening_web/",
+   "sito": "",
+   "data": "2026-11-06T12:05:06+00:00",
+   "testo": "submitted by /u/HimikoTogaFromUSSR [link] [comments]",
+   "fonte": "Reddit r/opensource",
+   "tipo": "community",
+   "solo_titolo": false,
+   "categoria": "Gemme",
+   "id": "u3a68"
+  },
+  "u3a85": {
+   "titolo": "Gemini 4 Carbon is now available",
+   "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/",
+   "data": "2026-11-10T16:00:00+00:00",
+   "testo": "Gemini 4 Carbon is now available Today, we’re making Gemini 4 Carbon available to developers, enterprises, scientists, and consumers. Carbon is our strongest model with frontier performance in cybersecurity capabilities and long-horizon agentic workflows across complex knowledge work, software engineering, and scientific reasoning. Two weeks ago, we released Carbon to a set of cybersecurity defenders via our Fairwind Program. Following our recent launch of Gemini 4 Argon, Carbon pushes the frontier even further. Argon remains the ideal choice for the majority of software engineering and knowledge work, while Carbon is built for tasks that test the limits of a model’s intelligence like complex, multi-step coding and debugging and open-ended scientific research and discovery — using more tokens than Argon to explore thoroughly, reason deeply, and run extended verification loops. Across independent benchmarks designed to test model performance in real workflows, Carbon pairs frontier accuracy with practical production economics. It ranks #1 on CursorBench 4.0, Perplexity’s WANDR, and Zapier’s AutomationBench at more than 2X lower cost per task compared to the next best external model. To put Carbon’s capabilities to work on larger and complex projects, we’re previewing /swarm in Google Antigravity, turning a single prompt into a coordinated team of agents you can track in real time. Developers can assign Carbon to roles that demand the deepest reasoning, like architectural design, coordination, and auditing, while pairing it with faster, lighter models across parallel isolated workspaces and adversarial verifiers that test every change. Gemini 4 Carbon is available via the API in Google AI Studio and Gemini for business for all paying developers and enterprises, at the sa…",
+   "fonte": "Google (blog ufficiale)",
+   "tipo": "ufficiale",
+   "solo_titolo": false,
+   "categoria": "Laboratori",
+   "id": "u3a85",
+   "testo_completo": true
+  },
+  "u3a86": {
+   "titolo": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+   "link": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
+   "data": "2026-11-10T14:00:00+00:00",
+   "testo": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps. Today at Adobe MAX, we announced we’re expanding our partnership with Adobe. Switching between apps to edit a PDF or fine-tune an image can quickly break your focus. Our partnership will bring Adobe’s creative and productivity tools directly into the Google products you use every day. It will also bring Google’s frontier AI models into Adobe’s apps. Here’s what’s coming: - Work faster with PDFs: You’ll soon have a direct pathway from Google Drive and Gmail into Adobe Acrobat, surfaced as a suggested app across both services, including an “Edit with” entry point in file previews. - Create right where you search and chat: Adobe is expanding its connectors in Gemini and Gemini Enterprise with Acrobat and additional creative tools. Adobe will also bring its creative tools to AI Mode in Google Search. - Powering creatives and enterprises: Businesses will be able to use Adobe’s CX Enterprise Coworker agent in Gemini Enterprise — an AI assistant that helps teams design graphics, work with PDFs, and launch marketing campaigns without switching apps. - Exploring editing experiences with DeepMind: Adobe and Google DeepMind will explore new editing capabilities for creative professionals, starting with an image model for Photoshop that could enable near-real-time edits.",
+   "fonte": "Google (blog ufficiale)",
+   "tipo": "ufficiale",
+   "solo_titolo": false,
+   "categoria": "Laboratori",
+   "id": "u3a86",
+   "testo_completo": true
+  },
+  "u3a124": {
+   "titolo": "Google releases Gemini 4 Carbon with agent ‘swarm’ feature",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout",
+   "sito": "",
+   "data": "2026-11-10T11:00:00-05:00",
+   "testo": "Google is rolling out its latest AI model, Gemini 4 Carbon, to the general public after releasing it to a select group of “cybersecurity defenders” two weeks ago. Google claims Carbon is its “strongest model” yet, and capable of competing with the very best systems from Anthropic and OpenAI. Google releases Gemini 4 Carbon with agent ‘swarm’ feature It ‘pushes the frontier even further’ than its last release, Argon. Google says Gemini 4 Carbon “pushes the frontier even further” than Argon, referring to the company’s other frontier model that launched only last month. The company said Argon will likely remain “the ideal choice for the majority of software engineering and knowledge work,” but that Carbon is “built for tasks that test the limits of a model’s intelligence,” such as complex, multi-step coding and open-ended scientific research. To highlight Carbon’s utility for long-horizon work involving AI agents, Google said it is also previewing a “swarm” feature on its agentic development platform Antigravity, which will let users turn a single prompt “into a coordinated team of agents.” Carbon is rolling out today via the Gemini API in Google AI Studio and Gemini for business for all paying developers and enterprises, Google said in a blog post. It will also be available to all Google AI Ultra subscribers in the Gemini app, the AI Mode in Search, and on Antigravity. It is not clear when — or if — Carbon will be available to lower tier subscribers or free users. As with the launch of Argon, Google is pricing Carbon very competitively. The model is launching with an introductory price of $2 per million input tokens and $10 per million output tokens, around a fifth the cost of OpenAI’s GPT-6 Astra and a quarter the cost of Anthropic’s Fable 5.2 model, which launched yest…",
+   "fonte": "The Verge",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Testate tech",
+   "id": "u3a124",
+   "testo_completo": true
   }
  },
  "fonti": [
@@ -1063,10 +1112,78 @@
   "lagermaniainveste50milionidieuronellosviluppodellintelligenzaartificiale",
   "mattarellalasanitàpubblicaèlaprioritàassoluta",
   "alviaprimacollaborazionedelcentrouecontrolefakenewsconongefactchecker",
-  "understandingphoneinfogasgoogledorksandsearchoutputneedtechnicalclarification"
+  "understandingphoneinfogasgoogledorksandsearchoutputneedtechnicalclarification",
+  "kettle",
+  "coreview",
+  "sonarlaunchesmcpbringingfreightmarketintelligenceinsideyouraiassistant",
+  "cronerintelligencelaunchesauditaccountingaiassistant",
+  "vispolaunchestalk2meanaiassistantthatanswersprospectiveclients247",
+  "newaitoolrevolutionizingamazonbookmarketingbookleopard",
+  "agenthon2026dagliagentiautonomiallaigenerativaperilmarketingatorinoarrivalhackat",
+  "gemini4carbonleaksuantigravityconlevariantilowmediumehigh",
+  "geminioratifaleggerecosaricordaditemanoninitalia",
+  "koraintroducesaifocusedoperatingsystemwithlocalaiandagenticworkspaces",
+  "gputaskmanshowsvramusageperprocessandaimodel",
+  "maxxlogixshipsoutcomecloudv2withmaxxowlsinwaymatchmaxxlaunchandprivateaioptions",
+  "samsunggallerysemplificalaccessoafotoevideosuidispositivigalaxy",
+  "ifinallydidanimmichrestoredrillherestheshortchecklistillactuallyfollownexttime",
+  "whatsthebestiphoneappforsshservermonitoring",
+  "servobrowserenginecontinuesbroadeningwebcompatibilitynewfeatures",
+  "contributorswanted",
+  "workatthefrontieraiseffectonfreelancework",
+  "gemini4carbonisnowavailablefordevelopers",
+  "gemini4carbonisnowavailable",
+  "werebringingadobescreativeandproductivitytoolsclosertoyoureverydaygoogleapps",
+  "introducingthemultimodalknowledgeagentbenchmark",
+  "googlecloudlaunchesgeminiforhealthcareunveilingnewagenticlayercapabilities",
+  "googlecloudlaunchesgeminiforhealthcareinpreview",
+  "veratolaunchesnewaicapabilitiesbuiltongooglecloudsgeminiforhealthcare",
+  "marcoranowavailableinchatgptandclaudeonesourceofbrandandcompanycontextformarketi",
+  "anthropiclaunchesclaudefable52andclaudemythos52withlowerpricingandadvancedagenti",
+  "anthropicheadsforlowerthanexpected13trillionvaluationinstockmarketdebut",
+  "exclusiveanthropiceyes14trillionipovaluationintestofwallstreetsaifervor",
+  "anthropictoseek13trillionvaluationinipo",
+  "anthropictargetsvaluationofupto14trillionforblockbusteripo",
+  "druvaprotectingmicrosoftcopilotbuiltagents",
+  "volkswagenscopilotrolloutaiisnottheobjective",
+  "literabringsdocumentcomparisonandfirmaisearchtomicrosoftcopilotforlegal",
+  "etisalatputsaionyourfacewithmetaglassesfromdh1160",
+  "decisionmodelsinhuggingface",
+  "googlereleasesgemini4carbonwithagentswarmfeature",
+  "anthropictargets14trillionipo",
+  "adobeisgoingallinonagenticai",
+  "photoshoplightroomandpremierearemakingiteasiertoremovethings",
+  "handsonwithringsnewaidronecameraforyourhome",
+  "theglobalpledgetouseaiforclimategoodisacrueljoke",
+  "googlebroadensitsaihardwareportfoliowithtwonewspecializedchips",
+  "metasaiagentmuselandsonapplewatchandandroidwearos",
+  "adobebringsaiagentsandnewcreativetoolstophotoshoppremiereandfirefly",
+  "anthropicsetsipopricerangeof70to78persharetoreachanimpliedvaluationof1404trillio",
+  "spotifysaidjgetsnewvoicespersonalitiesandanoptionforlesschatter",
+  "afterchallenginggooglesandroidwithcyanogenitscofoundertakesaimatwindowsforaiera",
+  "deepmindrevealsgeminirobotics25andopensafetybenchmarkasimovjailbreak",
+  "anthropicsfable52completes41percentofrealfreelancejobsupfrom25percentayearago",
+  "eightcountriesandtopailabsagreetoshutdownmechanismsinnewparisdeclaration",
+  "claudefable52metaembergooglesnewtpus",
+  "pathroboticsnellultimorounddifinanziamentovalutazionequadruplicataa25miliardidid",
+  "applecreatorstudiomenolimitiaicon50dollari",
+  "occhialimetaaichesiscaldanoconsudoreeacquacomeaggiornare",
+  "casonvidiajensenealicehuangalchipnonsicomanda",
+  "claudefable52progettaunsistemaoperativocompleto",
+  "effectbuilderdiinstagramcomecrearefiltriperlestoriesconlai",
+  "claudefable52emythos52dianthropiccosasannofare",
+  "divietisocialaiminorilesceltenelmondoeilbivioitaliano",
+  "smspromozionaleaccountabilityerichiestadicancellazionedb",
+  "insteadofcollectingdustclaudemakesyouroldkindleusefulagain",
+  "fable518isunusableonprohitmylimitafterone1promptcancelled",
+  "decisionmodeltoeditllmweightdirectlynotraining",
+  "dooridlaunches70secondphysicaladdressverificationtocombataiidentityfraud",
+  "factcheckviralvideodoesnotshowamankickinganddamagingtarbeladamitsoldandunrelated",
+  "whatelsayedsjourneymeansformuslimamericansdailysabah",
+  "theosintnewsletterissue130"
  ],
  "audio": "audio/2026-11-10.mp3",
- "durata": 229.7,
+ "durata": 276.4,
  "aggiornamenti": [
   {
    "generato": "2026-11-10T05:24:23+00:00",
@@ -1350,6 +1467,98 @@
       "trovate": [
        "Mac"
       ]
+     }
+    ]
+   }
+  },
+  {
+   "generato": "2026-11-10T16:27:09+00:00",
+   "modello": "gemini-3.5-flash-lite",
+   "testi_completi": 23,
+   "riassunto": {
+    "titolo_giorno": "Novità di oggi: Servo Browser Engine",
+    "in_breve": "Servo Browser Engine: Motore di rendering per il web open source sviluppato per offrire un'alternativa leggera e moderna focalizzata sulle prestazioni e sulla compatibilità.",
+    "citati": [
+     "Gemini 4 Carbon",
+     "Adobe Acrobat",
+     "Google Antigravity"
+    ],
+    "da_provare": [],
+    "osint": [],
+    "gemme": [
+     {
+      "cosa": "Servo Browser Engine",
+      "a_cosa_serve": "Motore di rendering per il web open source sviluppato per offrire un'alternativa leggera e moderna focalizzata sulle prestazioni e sulla compatibilità.",
+      "perche_gemma": "Progetto open source storico che continua ad ampliare la compatibilità web e offre una base tecnologica alternativa per la navigazione.",
+      "con_ai": "",
+      "piattaforme": [
+       "Windows",
+       "Mac",
+       "Linux"
+      ],
+      "self_hosted": false,
+      "costo": "Gratis",
+      "difficolta": "Media",
+      "temi": [
+       "Open source e self-hosting",
+       "Regole e leggi"
+      ],
+      "fonti": [
+       "u3a68"
+      ],
+      "affidabilita": "Da verificare",
+      "come_iniziare": [],
+      "sul_dispositivo": false,
+      "come_sfruttarla": "",
+      "prova": ""
+     }
+    ],
+    "sezioni": [
+     {
+      "titolo": "Novità negli strumenti che già usi",
+      "notizie": [
+       {
+        "titolo": "Google lancia il nuovo modello avanzato Gemini 4 Carbon",
+        "strumento": "Gemini",
+        "riassunto": "Google ha rilasciato Gemini 4 Carbon, un modello progettato per compiti complessi come la programmazione multi-step, la cybersicurezza e la ricerca scientifica. Include funzioni come lo 'swarm' di agenti in Google Antigravity per coordinare più assistenti su un unico progetto.",
+        "come_provarla": "Disponibile tramite API in Google AI Studio e per gli abbonati Google AI Ultra nella relativa app e in Antigravity.",
+        "disponibilita": "Disponibile ora",
+        "fonti": [
+         "u3a85",
+         "u3a124"
+        ],
+        "temi": [
+         "Agenti AI",
+         "Ricerca e informazioni",
+         "Assistenti e chatbot"
+        ],
+        "affidabilita": "Fonte ufficiale",
+        "solo_titoli": false
+       },
+       {
+        "titolo": "Arrivano gli strumenti Adobe integrati in Google Drive e Gmail",
+        "strumento": "Google Drive",
+        "riassunto": "Grazie a una partnership ampliata, gli strumenti di Adobe (tra cui Acrobat) arrivano direttamente dentro Google Drive e Gmail con collegamenti rapidi e opzioni 'Modifica con' nelle anteprime dei file.",
+        "come_provarla": "La funzione verrà introdotta prossimamente come collegamento suggerito nei servizi Google.",
+        "disponibilita": "In arrivo",
+        "fonti": [
+         "u3a86"
+        ],
+        "temi": [
+         "Scrittura e documenti",
+         "Lavoro e produttività"
+        ],
+        "affidabilita": "Fonte ufficiale",
+        "solo_titoli": false
+       }
+      ]
+     }
+    ],
+    "formato": 2,
+    "controllo_siti": [
+     {
+      "cosa": "Servo Browser Engine",
+      "esito": "nessun sito da aprire"
      }
     ]
    }
