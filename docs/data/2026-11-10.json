@@ -336,6 +336,17 @@
    "solo_titolo": true,
    "categoria": "Strumenti",
    "id": "a31"
+  },
+  "u1a81": {
+   "titolo": "Google rolls out Gemini Memory summary, letting users see what the AI chatbot remembers about them",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOREplX2ZoUkpXQl83Nl9pVEc5NDNHNkhySmp4dXNGSW52a1NxU1lUcl94aVVqWks2OXVfaGR5Ym8tOFV1dHp0eUNEem1FeWpFUi1mWFZ1ZnlEdm5aMm1Ua0toQVdLOVl5NG91WlJnc2pSOTFBQ2VtSC1yMGthMnpwMkdCN1FDY2vSAYcBQVVfeXFMTkRKZV9maFJKV0JfNzZfaVRHOTQzRzZIckpqeHVzRkludmtTcVNZVHJfeGlValpLNjl1X2hkeWJvLThVdXR6dHlDRHptRXlqRVItZlhWdWZ5RHZuWjJtVGtLaEFXSzlZeTRvdVpSZ3NqUjkxQUNlbUgtcjBrYTJ6cDJHQjdRQ2Nr?oc=5",
+   "data": "2026-11-10T01:21:00+00:00",
+   "testo": "",
+   "fonte": "Philstar Life",
+   "tipo": "minore",
+   "solo_titolo": true,
+   "categoria": "Laboratori",
+   "id": "u1a81"
   }
  },
  "fonti": [
@@ -832,8 +843,77 @@
   "disinfoupdate4112026",
   "eudisinfolabsapproachtofundraising",
   "blockchaintracinginvestigationtool",
-  "darksidedatabase"
+  "darksidedatabase",
+  "weeklyrecaprevenuetopstargetandaitoollaunchpilotcohort",
+  "creareunsitoounappsenzaprogrammarelanuovaiadiionosparteda1almese",
+  "amdmicrosoftshipprojectzenithonryzenaihaloa7300localaidevbox",
+  "googlemessaggipreparalamodificarapidadifotoevideoprimadellinvio",
+  "meowdisplayisiphonemirroringbutinreverse",
+  "migratingfromprotongooglewhatshouldiselfhostnext",
+  "anthropiclaunchesclaudefable52mythos52withfasterperformanceandstrongercodingcapa",
+  "anthropiclaunchesclaudefable52andmythos52fortoughtechnicaltasks",
+  "googlerollsoutgeminimemorysummarylettingusersseewhattheaichatbotremembersaboutth",
+  "anthropiclaunchesclaudefable52andmythos52withimprovedcodingreasoningandairesearc",
+  "anthropicnewslatestupdatesontheaicompanybehindclaudebloomberg",
+  "billgatesmicrosoftcopilotaipredictsasolcryptoexplosion",
+  "exploreanduseaiwithconfidenceresourcesforfacultyandstaff",
+  "howmuchdoesaicostin2026thecompletepricingcomparison",
+  "youriphonesshortcutsappisnoweasiertousethanever",
+  "davidellisonsaysaicouldbethebiggestcreativeunlockinmodernhistory",
+  "anthropicreportedlyplanstomoveforwardwithipoplans",
+  "piùimpreseusanolaipochenesfruttanolepossibilitàcosafrenailsalto",
+  "il24novembreuncorsooperativosuregistrodeitrattamentiinformativeprivacyconsensiev",
+  "possiblefalsepositivemalwareai695752146dllwrapexemsys2mingw",
+  "seinfeldaigeorgealsoenjoysthechinesemodelsminimaxh3",
+  "claudereleasedfable52destroysgemini4carboninalmosteverybenchmark",
+  "samepromptdeepseekv41flashvsqwen38fn94toksvs350toks",
+  "llmanthropic031",
+  "germanyaiosintinvestment50millionplannedformilitaryinternetanalysis",
+  "grecounicaltecnologieeiaperandareincontroaesigenzedellepersone"
  ],
  "audio": "audio/2026-11-10.mp3",
- "durata": 121.3
+ "durata": 140.4,
+ "aggiornamenti": [
+  {
+   "generato": "2026-11-10T05:24:23+00:00",
+   "modello": "gemini-3.5-flash-lite",
+   "testi_completi": 2,
+   "riassunto": {
+    "titolo_giorno": "Google Gemini introduce la memoria dei riassunti personali",
+    "in_breve": "Google ha iniziato a distribuire la funzione di riepilogo della memoria in Gemini, che permette agli utenti di visualizzare e controllare cosa l'assistente ricorda sul loro conto. È un passo avanti per capire e gestire i dati personali memorizzati dai chatbot.",
+    "citati": [
+     "Gemini"
+    ],
+    "da_provare": [],
+    "osint": [],
+    "gemme": [],
+    "sezioni": [
+     {
+      "titolo": "Novità negli strumenti che già usi",
+      "notizie": [
+       {
+        "titolo": "Arriva il riepilogo della memoria personale",
+        "strumento": "Gemini",
+        "riassunto": "Gli utenti possono ora vedere in modo chiaro quali informazioni e preferenze il chatbot ricorda sul loro conto, così da poter verificare e controllare i dati salvati.",
+        "come_provarla": "",
+        "disponibilita": "Disponibile ora",
+        "fonti": [
+         "u1a81"
+        ],
+        "temi": [
+         "Assistenti e chatbot",
+         "Privacy e sicurezza",
+         "Foto e immagini"
+        ],
+        "affidabilita": "Da verificare",
+        "solo_titoli": true
+       }
+      ]
+     }
+    ],
+    "formato": 2,
+    "controllo_siti": []
+   }
+  }
+ ]
 }
