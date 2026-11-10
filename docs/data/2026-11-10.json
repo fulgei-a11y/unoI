@@ -347,6 +347,101 @@
    "solo_titolo": true,
    "categoria": "Laboratori",
    "id": "u1a81"
+  },
+  "u2a69": {
+   "titolo": "IMPS: Self-hosted photo inventory for storage boxes, with printable QR labels",
+   "link": "https://www.reddit.com/r/selfhosted/comments/1xs1w9j/imps_selfhosted_photo_inventory_for_storage_boxes/",
+   "sito": "",
+   "data": "2026-11-09T19:55:37+00:00",
+   "testo": "My daughter and I wrote IMPS (Inventory Management Photo System) as a fun coding project together. We built it for our own household, and we're sharing it in case others find it useful. The idea is simple: find out what's in a box without taking it down and opening it. Add your items with photos, assign them to boxes, and print a label with the box number, name, and a QR code. Scan the label with…",
+   "fonte": "Reddit r/selfhosted",
+   "tipo": "community",
+   "solo_titolo": false,
+   "categoria": "Gemme",
+   "id": "u2a69"
+  },
+  "u2a59": {
+   "titolo": "Someone Was Here – Find out who used your Mac while you were away",
+   "link": "https://someonewashere.app/",
+   "data": "2026-11-09T18:50:56+00:00",
+   "testo": "Many thanks to my ex for inspiring my new MacOS app, Someone Was Here. It takes a photo of whoever uses your Mac while you're away, whether you left it unlocked or they know your password, and sends their photo to your iPhone if the face isn't yours. I built Someone Was Here as a menu bar app making use of Apple Vision and a local face recognition run via Core ML. It all runs locally on your Mac …",
+   "sito": "https://someonewashere.app/",
+   "fonte": "Show HN – progetti utili (gemme)",
+   "tipo": "vetrina",
+   "solo_titolo": false,
+   "categoria": "Gemme",
+   "id": "u2a59"
+  },
+  "u2a64": {
+   "titolo": "Anchor Notes: a self-hosted Google Keep alternative, now with a full redesign, highlights and a slash menu",
+   "link": "https://www.reddit.com/r/selfhosted/comments/1xsf0kh/anchor_notes_a_selfhosted_google_keep_alternative/",
+   "sito": "",
+   "data": "2026-11-10T05:45:12+00:00",
+   "testo": "(sorry, posted again since the previous post was removed) Anchor v0.18.0 is out, and it's a big one. The Android app is finally on Google Play, the iOS app is in public beta on TestFlight, and every screen of the web and mobile apps has a new design. Anchor has passed 1,400 stars on GitHub since my last post. A lot of the fixes in this release came from bug reports, so thanks to everyone who took…",
+   "fonte": "Reddit r/selfhosted",
+   "tipo": "community",
+   "solo_titolo": false,
+   "categoria": "Gemme",
+   "id": "u2a64"
+  },
+  "u2a133": {
+   "titolo": "Otter AI can now follow conversations across 30+ languages",
+   "link": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/",
+   "data": "2026-11-10T07:00:00+00:00",
+   "testo": "Otter.ai, the AI-powered note-taking tool, announced Tuesday that it’s expanding its multilingual capabilities, including a new multilingual transcription feature that can follow conversations as speakers switch between languages during the same meeting. The company is also adding support for 27 languages, its largest language expansion to date. Once the rollout is complete, Otter will support 31 languages in total, making the platform more accessible to international teams. The upcoming feature will automatically detect language changes and continue transcribing without requiring users to adjust settings. For example, a call could move from English to Korean to Portuguese, with Otter following the conversation throughout. The update aims to address a common challenge for global teams, where language differences can make meetings and collaboration more difficult. “Otter is breaking down language barriers so any company, no matter where they’re based, can build a system of record for the decisions for voice AI communication,” an Otter spokesperson told TechCrunch. Thirteen of the new languages are available now: Mandarin Chinese, Korean, German, Italian, Cantonese, Portuguese, Russian, Indonesian, Malay, Dutch, Turkish, Vietnamese, and Polish. The remaining 14 languages are coming soon and include Swedish, Danish, Finnish, Arabic, Hindi, Thai, Hebrew, Norwegian, Greek, Macedonian, Persian, Czech, Hungarian, and Romanian. The newly added languages run on Otter’s own speech models. The company told us it trained them using publicly available datasets and worked with native-speaking volunteers to review transcripts and check accuracy. The announcement comes as Otter continues to expand beyond transcription and into other workplace AI tools, following its $320 million fundi…",
+   "fonte": "TechCrunch",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Testate tech",
+   "id": "u2a133",
+   "testo_completo": true
+  },
+  "u2a7": {
+   "titolo": "Obsiva",
+   "link": "https://www.producthunt.com/products/obsiva",
+   "sito": "https://www.producthunt.com/r/p/1310530?app_id=339",
+   "data": "2026-11-09T11:41:51-08:00",
+   "testo": "Turn site pics + voice notes into a PDF inspection report",
+   "fonte": "Product Hunt (AI)",
+   "tipo": "vetrina",
+   "solo_titolo": false,
+   "categoria": "Strumenti",
+   "id": "u2a7"
+  },
+  "u2a3": {
+   "titolo": "Clive",
+   "link": "https://www.producthunt.com/products/clive",
+   "sito": "https://www.producthunt.com/r/p/1310729?app_id=339",
+   "data": "2026-11-09T16:23:22-08:00",
+   "testo": "Let Claude and other AI's set your iphone alarms",
+   "fonte": "Product Hunt (AI)",
+   "tipo": "vetrina",
+   "solo_titolo": false,
+   "categoria": "Strumenti",
+   "id": "u2a3"
+  },
+  "u2a168": {
+   "titolo": "Linux, exploit in circolazione per una falla critica in OpenSSH",
+   "link": "https://www.hdblog.it/linux/articoli/n676535/openssh-exploit-falla-linux-musl-sshole/",
+   "data": "2026-11-10T12:45:00+02:00",
+   "testo": "Se avete distro lightweight che usano la libreria musl vi conviene correre ai ripari nel più breve tempo possibile.",
+   "fonte": "HDblog",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Italia",
+   "id": "u2a168"
+  },
+  "u2a4": {
+   "titolo": "MoreFrame",
+   "link": "https://www.producthunt.com/products/moreframe",
+   "sito": "https://www.producthunt.com/r/p/1310535?app_id=339",
+   "data": "2026-11-09T11:44:36-08:00",
+   "testo": "Dual-screen recording and editing for Mac and Windows",
+   "fonte": "Product Hunt (AI)",
+   "tipo": "vetrina",
+   "solo_titolo": false,
+   "categoria": "Strumenti",
+   "id": "u2a4"
   }
  },
  "fonti": [
@@ -869,10 +964,109 @@
   "samepromptdeepseekv41flashvsqwen38fn94toksvs350toks",
   "llmanthropic031",
   "germanyaiosintinvestment50millionplannedformilitaryinternetanalysis",
-  "grecounicaltecnologieeiaperandareincontroaesigenzedellepersone"
+  "grecounicaltecnologieeiaperandareincontroaesigenzedellepersone",
+  "doverstartupjobs",
+  "quotedpart",
+  "clive",
+  "moreframe",
+  "inspobycontextdev",
+  "openring",
+  "obsiva",
+  "seldon",
+  "daytwo",
+  "mujoco4",
+  "zus",
+  "sidekickbyopen",
+  "appubot",
+  "hitpayagenticdiscovery",
+  "willder",
+  "labthreadlaunchesnewaitoolsandstrengthensplatformwithuniversalaiassistantcompati",
+  "labthreadlaunchesaitoolsanduniversalaiassistantconnectivity",
+  "risesalaunchesaiassistantthatunderstandscustomised1csystems",
+  "blasklaunchesaskblaskanaiassistantforigamingmarketintelligence",
+  "techtuesdaythecompleteguidetolowcodeandnocodeaiappbuildersin2026",
+  "9bestaiappbuildersfor2026sortedbywhatyourebuilding",
+  "singaporesnewaiappcheckswhatsappandtelegramchatsforscampatterns",
+  "unswdevelopedaitoolmakescomplexspatialdataeasiertouse",
+  "instagramlanciaeffectbuilderpercreareeffettidellestorieconlia",
+  "nuovaappsuzalocosìognicittadinovietnamitaavràunassistentevirtuale",
+  "adharvardiragazzifannolafilaperuncorsosenzaintelligenzaartificiale",
+  "projuventuteliaalserviziodellaconsulenzaaigenitori",
+  "googlegeminimostratuttociòchericordadivoiconilnuovoriepilogodellamemoria",
+  "geminimemorysummarycomevedereecancellareiricordi",
+  "intelligenzaartificialetradelegacognitivaepensierocritico",
+  "fable52gratissuprofinoal16novembrepoisipagaacrediti",
+  "claudefable52andmythos52whatanthropicreleased",
+  "questotermostatosmartfaidatefunzionasenzainternetoabbonamenti",
+  "appk72aiutaiportoghesiapreparareilkitdiemergenzapercatastrofi",
+  "achepuntoèarrivatalintelligenzaartificialeneglismartphone",
+  "fitbitsenseeversastopalleappeaiquadrantiditerzepartidal28novembre2026",
+  "someonewasherefindoutwhousedyourmacwhileyouwereaway",
+  "anchornotesaselfhostedgooglekeepalternativenowwithafullredesignhighlightsandasla",
+  "impsselfhostedphotoinventoryforstorageboxeswithprintableqrlabels",
+  "audiblesharshuljainselfhostedllmstackswastehalftheirgpussayingyestoolate",
+  "youtoocanbuildthisesp32s3planterthatshowsyourplantsstatuswithanemoji",
+  "yourselfhostedllmneedstosaynoharshuljainparvkhatriaudiblesapaiengineer",
+  "selfhostedllmvsapi070to200input2026",
+  "theoldestsysteminthebuildingusuallyisnttheonetoreplace",
+  "n8nn8n320",
+  "helpingcaregiversuseaiineverydaylife",
+  "closingtheaiguidancegapineducation",
+  "googlecloudlaunchesgeminiforhealthcare",
+  "googlelaunchesgeminiforhealthcareandhospitalslikenorthwellhopeitbringsdownyourme",
+  "googlegeminicannowtransformyourhandwrittennotesintoprofessionallookingpdfsandits",
+  "anthropiclaunchesclaudemythos52scoring763oncybersecuritybenchmarktoidentify0dayf",
+  "cognizantlaunchesclaudemanagedserviceswith25000professionals",
+  "anthropiclaunchesclaudefableandmythos52with20pricecut",
+  "metalaunchesmuseemberalowcostaimodelpricedlikeclaudehaiku55",
+  "googlecloudlaunchesgeminiforhealthcareaiplatforminpreview",
+  "savantlabslaunchessavvyforclaudeturningfinanceexpertiseintosharedworkflowagents",
+  "anthropiclaunchesfable52with20lowertokenprices",
+  "googlerollsoutgeminimemorysummarytoletyouseeandeditwhatitremembersaboutyou",
+  "anthropictargets14trillionvaluationinblockbusteripo",
+  "anthropicsclaudefable52beatsgpt6cyberinmultistagecyberattackbenchmark",
+  "anthropicsetspricerangeof70to78inupcomingipoasailabmarchestowardsnasdaq",
+  "differentworkflowsonetransformationhowmicrosoftindonesiaemployeesareputtingaitow",
+  "bestmicrosoftcopilottrainingforbusinessteamspalorenleadstheusprovidershortlist",
+  "thefinanceprofessionalsscaredofaimightjustbeusingthewrongtools",
+  "metasaiagentmuseexpandstoapplewatchandwearosenablingvoicecommandsfromthewrist",
+  "samsungtests5amonthgalaxyaipremiumsubscriptioninoneui95",
+  "orangelaunchesorangeiasclaudegeminimistralandgptcombinedinitsnewapps",
+  "cyberattacksthreatentomakeopensourceaialittlelessopenhuggingfaceexecwarns",
+  "otteraicannowfollowconversationsacross30languages",
+  "ukrainesfiberopticdronesgetsqueezedbyaidatacenterdemand",
+  "anthropickicksoffiporoadshowofferingsharesat70to78andtargetingatrilliondollarval",
+  "barachinisullaiservonoregoleglobalieunintesatraigrandi",
+  "jamesdysonaward2026premiatedueinvenzionicheindividuanoipericoliinvisibili",
+  "huaweiluterras2arrivaineuropailsistemaenergeticoconairiducelabolletta",
+  "linuxexploitincircolazioneperunafallacriticainopenssh",
+  "artexscopertioltre800strumentidihackingaiaccessibilisenzapassword",
+  "expriviavalidmindalleanzasullaiperlebanche",
+  "forensicsdegliagentiaicomericostruireistruzionieazioni",
+  "aiinsanitàchirispondedeglierrorilasceltapassadagliappalti",
+  "ainelcoachingcomecambiaillavorosenzaperderelarelazione",
+  "fascicolosanitariodai14annicosaprevedeilpareredelgaranteequalidatirestanoprotett",
+  "debitieprivacycosanonpossonofarelesocietàdirecuperocrediti",
+  "guysididit",
+  "hugefable52issue",
+  "openaiguardrailsdefeated",
+  "fable52notonlyhasguardrailsagainstaiaccelerationitscapabilitieswerecappedintrain",
+  "introducingoursmallestmostefficientmodelmuseember",
+  "quotingpromptingclaudefable52",
+  "yonkersrises",
+  "usingthesafeboxnetworktoprotectstorieslaurentrichard",
+  "verifflaunchespresenceverificationtool",
+  "videofromwestbengalfalselysharedasshowingkalipujamandapsetonfireinbangladesh",
+  "unrelatedvideofalselysharedtoshowfemaletouristbeingassaultedinindia",
+  "geolocationdeterminedwithbackgroundairplanenoise",
+  "photointherostovregiondroneshaltedtrafficonthebridgeoverthemiusriver",
+  "lagermaniainveste50milionidieuronellosviluppodellintelligenzaartificiale",
+  "mattarellalasanitàpubblicaèlaprioritàassoluta",
+  "alviaprimacollaborazionedelcentrouecontrolefakenewsconongefactchecker",
+  "understandingphoneinfogasgoogledorksandsearchoutputneedtechnicalclarification"
  ],
  "audio": "audio/2026-11-10.mp3",
- "durata": 140.4,
+ "durata": 229.7,
  "aggiornamenti": [
   {
    "generato": "2026-11-10T05:24:23+00:00",
@@ -913,6 +1107,251 @@
     ],
     "formato": 2,
     "controllo_siti": []
+   }
+  },
+  {
+   "generato": "2026-11-10T13:36:03+00:00",
+   "modello": "gemini-3.6-flash",
+   "testi_completi": 5,
+   "riassunto": {
+    "titolo_giorno": "Trascrizioni multilingue per Otter.ai e report automatici da foto con Obsiva",
+    "in_breve": "L'aggiornamento di oggi si concentra sulla produttività immediata: Otter.ai introduce la trascrizione automatica multilingue anche in italiano per seguire conversazioni che cambiano lingua, mentre Obsiva trasforma foto e appunti vocali in report d'ispezione pronti in PDF.",
+    "citati": [
+     "Otter.ai",
+     "Obsiva"
+    ],
+    "da_provare": [
+     {
+      "cosa": "MoreFrame",
+      "a_cosa_serve": "Consente di registrare e montare video catturando contemporaneamente due schermi distinti del proprio computer.",
+      "per_chi": "Lavoro e tutti i giorni",
+      "ambito": "Foto e video",
+      "come_iniziare": [],
+      "costo": "Non indicato",
+      "piattaforme": [
+       "Windows",
+       "Mac"
+      ],
+      "sul_dispositivo": false,
+      "come_sfruttarla": "Registrare video tutorial o presentazioni mostrando contemporaneamente due monitor o finestre differenti.",
+      "italiano": "Non indicato",
+      "difficolta": "Facile",
+      "temi": [
+       "Video",
+       "Lavoro e produttività",
+       "Foto e immagini"
+      ],
+      "fonti": [
+       "u2a4"
+      ],
+      "affidabilita": "Appena lanciato",
+      "prova": "https://www.producthunt.com/products/moreframe"
+     },
+     {
+      "cosa": "Obsiva",
+      "a_cosa_serve": "Trasforma le fotografie scattate durante un sopralluogo o un'ispezione, insieme alle note vocali registrate sul posto, in un report di controllo completo in formato PDF.",
+      "per_chi": "Lavoro",
+      "ambito": "Scrittura e documenti",
+      "come_iniziare": [],
+      "costo": "Non indicato",
+      "piattaforme": [],
+      "sul_dispositivo": false,
+      "come_sfruttarla": "Creare verbali di perizia o relazioni tecniche di cantiere mentre ci si trova sul posto senza dover riorganizzare gli appunti al computer.",
+      "italiano": "Non indicato",
+      "difficolta": "Facile",
+      "temi": [
+       "Scrittura e documenti",
+       "Lavoro e produttività",
+       "Foto e immagini"
+      ],
+      "fonti": [
+       "u2a7"
+      ],
+      "affidabilita": "Appena lanciato",
+      "prova": "https://www.producthunt.com/products/obsiva"
+     },
+     {
+      "cosa": "Clive",
+      "a_cosa_serve": "Permette all'assistente AI Claude e ad altri modelli di creare e programmare le sveglie e gli allarmi direttamente su iPhone.",
+      "per_chi": "Tutti i giorni",
+      "ambito": "Organizzazione",
+      "come_iniziare": [],
+      "costo": "Non indicato",
+      "piattaforme": [
+       "iPhone"
+      ],
+      "sul_dispositivo": false,
+      "come_sfruttarla": "Impostare orari e sveglie sul telefono chiedendolo all'AI a voce o via testo con linguaggio naturale.",
+      "italiano": "Non indicato",
+      "difficolta": "Facile",
+      "temi": [
+       "Assistenti e chatbot",
+       "Lavoro e produttività"
+      ],
+      "fonti": [
+       "u2a3"
+      ],
+      "affidabilita": "Appena lanciato",
+      "prova": "https://www.producthunt.com/products/clive"
+     }
+    ],
+    "osint": [],
+    "gemme": [
+     {
+      "cosa": "Anchor Notes",
+      "a_cosa_serve": "Un'applicazione open source da installare su un proprio server per prendere appunti, concepita come alternativa privata a Google Keep.",
+      "perche_gemma": "È gratuita, open source e offre il pieno controllo dei propri dati con app dedicate per Android, iOS e web.",
+      "con_ai": "",
+      "piattaforme": [
+       "Browser",
+       "Android",
+       "iPhone"
+      ],
+      "self_hosted": true,
+      "costo": "Gratis",
+      "difficolta": "Media",
+      "temi": [
+       "Open source e self-hosting",
+       "Lavoro e produttività",
+       "Scrittura e documenti"
+      ],
+      "fonti": [
+       "u2a64"
+      ],
+      "affidabilita": "Da verificare",
+      "come_iniziare": [],
+      "sul_dispositivo": false,
+      "come_sfruttarla": "",
+      "prova": ""
+     },
+     {
+      "cosa": "IMPS",
+      "a_cosa_serve": "Un sistema di gestione del magazzino domestico che permette di inventariare le scatole tramite foto e stampare etichette con codice QR.",
+      "perche_gemma": "Consente di sapere cosa contiene uno scatolone in garage o in soffitta scansionando il QR code senza doverlo aprire.",
+      "con_ai": "",
+      "piattaforme": [
+       "Browser"
+      ],
+      "self_hosted": true,
+      "costo": "Gratis",
+      "difficolta": "Media",
+      "temi": [
+       "Open source e self-hosting",
+       "Foto e immagini"
+      ],
+      "fonti": [
+       "u2a69"
+      ],
+      "affidabilita": "Da verificare",
+      "come_iniziare": [],
+      "sul_dispositivo": false,
+      "come_sfruttarla": "",
+      "prova": ""
+     },
+     {
+      "cosa": "Someone Was Here",
+      "a_cosa_serve": "Applicazione per Mac che scatta una foto a chiunque utilizzi il computer mentre si è assenti e la invia all'iPhone se la persona non viene riconosciuta.",
+      "perche_gemma": "Esegue il riconoscimento facciale interamente sul computer tramite Core ML senza inviare immagini online.",
+      "con_ai": "",
+      "piattaforme": [
+       "iPhone",
+       "Mac"
+      ],
+      "self_hosted": false,
+      "costo": "Non indicato",
+      "difficolta": "Facile",
+      "temi": [
+       "Privacy e sicurezza",
+       "AI sul dispositivo",
+       "Foto e immagini"
+      ],
+      "fonti": [
+       "u2a59"
+      ],
+      "affidabilita": "Appena lanciato",
+      "come_iniziare": [],
+      "sul_dispositivo": false,
+      "come_sfruttarla": "",
+      "prova": "https://someonewashere.app/",
+      "piattaforme_verificate": true
+     }
+    ],
+    "sezioni": [
+     {
+      "titolo": "Novità negli strumenti che già usi",
+      "notizie": [
+       {
+        "titolo": "Trascrizione automatica multilingue e supporto all'italiano",
+        "strumento": "Otter.ai",
+        "riassunto": "Otter ha aggiunto il supporto a 13 nuove lingue, tra cui l'italiano. Inoltre, la nuova funzione multilingue è in grado di rilevare automaticamente i cambi di lingua durante una riunione (ad esempio se si passa dall'italiano all'inglese) e continuare la trascrizione senza dover modificare le impostazioni.",
+        "come_provarla": "Le nuove lingue sono in fase di rilascio graduale per gli utenti della piattaforma.",
+        "disponibilita": "Disponibile ora",
+        "fonti": [
+         "u2a133"
+        ],
+        "temi": [
+         "Voce e audio",
+         "Lavoro e produttività"
+        ],
+        "affidabilita": "Una fonte",
+        "solo_titoli": false
+       }
+      ]
+     },
+     {
+      "titolo": "In breve",
+      "breve": true,
+      "notizie": [
+       {
+        "titolo": "Falla critica in OpenSSH per distro Linux leggere",
+        "riassunto": "È stato rilevato un exploit in circolazione che sfrutta una vulnerabilità in OpenSSH sulle distribuzioni Linux che impiegano la libreria musl, rendendo necessario l'aggiornamento immediato dei sistemi interessati.",
+        "fonti": [
+         "u2a168"
+        ],
+        "temi": [
+         "Privacy e sicurezza",
+         "Regole e leggi"
+        ],
+        "affidabilita": "Una fonte",
+        "solo_titoli": false
+       }
+      ]
+     }
+    ],
+    "formato": 2,
+    "controllo_siti": [
+     {
+      "cosa": "Anchor Notes",
+      "esito": "nessun sito da aprire"
+     },
+     {
+      "cosa": "IMPS",
+      "esito": "nessun sito da aprire"
+     },
+     {
+      "cosa": "Clive",
+      "sito": "https://www.producthunt.com/r/p/1310729?app_id=339",
+      "esito": "errore: HTTP Error 403: Forbidden"
+     },
+     {
+      "cosa": "Obsiva",
+      "sito": "https://www.producthunt.com/r/p/1310530?app_id=339",
+      "esito": "errore: HTTP Error 403: Forbidden"
+     },
+     {
+      "cosa": "MoreFrame",
+      "sito": "https://www.producthunt.com/r/p/1310535?app_id=339",
+      "esito": "errore: HTTP Error 403: Forbidden"
+     },
+     {
+      "cosa": "Someone Was Here",
+      "sito": "https://someonewashere.app/",
+      "pagina": 10216,
+      "trovate": [
+       "Mac"
+      ]
+     }
+    ]
    }
   }
  ]
