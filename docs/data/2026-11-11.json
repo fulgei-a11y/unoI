@@ -483,6 +483,78 @@
    "solo_titolo": false,
    "categoria": "Strumenti",
    "id": "a5"
+  },
+  "u1a11": {
+   "titolo": "Shot.video",
+   "link": "https://www.producthunt.com/products/shot-video",
+   "sito": "https://www.producthunt.com/r/p/1311330?app_id=339",
+   "data": "2026-11-10T03:14:30-08:00",
+   "testo": "Multi-camera videos with the phones you already own",
+   "fonte": "Product Hunt (AI)",
+   "tipo": "vetrina",
+   "solo_titolo": false,
+   "categoria": "Strumenti",
+   "id": "u1a11"
+  },
+  "u1a2": {
+   "titolo": "Mister Blocks",
+   "link": "https://www.producthunt.com/products/mister-blocks",
+   "sito": "https://www.producthunt.com/r/p/1312257?app_id=339",
+   "data": "2026-11-10T19:26:18-08:00",
+   "testo": "Take a picture of your LEGO and AI will make a build",
+   "fonte": "Product Hunt (AI)",
+   "tipo": "vetrina",
+   "solo_titolo": false,
+   "categoria": "Strumenti",
+   "id": "u1a2"
+  },
+  "u1a61": {
+   "titolo": "Announcing Linkwarden 2.17 - open-source collaborative bookmark manager to collect, read, annotate, and fully preserve what matters (+20k GitHub stars)",
+   "link": "https://www.reddit.com/r/selfhosted/comments/1xsuicw/announcing_linkwarden_217_opensource/",
+   "sito": "",
+   "data": "2026-11-10T18:24:55+00:00",
+   "testo": "Hello everyone! Daniel here, and I’m back with Linkwarden 2.17, with updates across the web app, the mobile app, and the browser extension. For those who are wondering, Linkwarden is an open-source collaborative bookmarking tool that keeps a permanent snapshot of the content of the links you save, so you can still access them even if the original content is no longer available. Linkwarden is avai…",
+   "fonte": "Reddit r/selfhosted",
+   "tipo": "community",
+   "solo_titolo": false,
+   "categoria": "Gemme",
+   "id": "u1a61"
+  },
+  "u1a9": {
+   "titolo": "Scribe v3 by ElevenLabs",
+   "link": "https://www.producthunt.com/products/elevenlabs",
+   "sito": "https://www.producthunt.com/r/p/1311828?app_id=339",
+   "data": "2026-11-10T10:18:20-08:00",
+   "testo": "Speech to text with 27% fewer errors in 90+ languages",
+   "fonte": "Product Hunt (AI)",
+   "tipo": "vetrina",
+   "solo_titolo": false,
+   "categoria": "Strumenti",
+   "id": "u1a9"
+  },
+  "u1a4": {
+   "titolo": "RigSpark",
+   "link": "https://www.producthunt.com/products/rigspark",
+   "sito": "https://www.producthunt.com/r/p/1312166?app_id=339",
+   "data": "2026-11-10T17:26:24-08:00",
+   "testo": "Know which AI to run on your own computer",
+   "fonte": "Product Hunt (AI)",
+   "tipo": "vetrina",
+   "solo_titolo": false,
+   "categoria": "Strumenti",
+   "id": "u1a4"
+  },
+  "u1a174": {
+   "titolo": "Adobe Max 2026: l’AI cancella riflessi, ombre e occhi chiusi",
+   "link": "https://www.punto-informatico.it/adobe-max-2026-ai-cancella-riflessi-ombre-occhi-chiusi/",
+   "data": "2026-11-11T09:29:59+00:00",
+   "testo": "Adobe ha sviluppato una nuova generazione di strumenti per rimuovere elementi indesiderati da immagini e video, come ombre, riflessi e occhi chiusi. Dopo un anno di lavoro, queste funzioni arrivano su Premiere, Photoshop e Lightroom. La parola d’ordine dell’edizione di quest’anno di Adobe MAX è: togliere, togliere, togliere. Generative Remove, Open Eyes e Relight: tutte le novità Adobe per cancellare e ritoccare Chi ha montato anche solo un video sa come ci sente quando è tutto perfetto, ma in alto compare l’asta con il microfono… Per questi casi arriva Generative Remove, in beta. Si seleziona l’oggetto, lo si traccia lungo il filmato e si clicca su Rimuovi. L’AI riempie il buco con dettagli che Adobe definisce “realistici”, mentre tutto il resto del fotogramma resta com’era. Il tutto direttamente sulla timeline, senza passare da altri software. I più attenti ricorderanno una demo simile, Project Frame Forward, mostrata l’anno scorso agli Sneaks, la vetrina dove Adobe tira fuori gli esperimenti ancora senza una casa. Questa volta l’esperimento ha trovato l’indirizzo. Premiere si porta a casa anche nuovi strumenti per ripulire le registrazioni scadenti, quelle con il vento, il frigorifero in sottofondo e il vicino che trapana o il cane che abbia disperato sul balcone. Il software separa dialoghi, musica, ambienti ed effetti in tracce distinte. Escono dalla fase sperimentale anche Generative Media, presentato all’inizio dell’anno, e il nuovo ambiente di correzione colore Color Mode, lanciato in beta ad aprile. Photoshop: la gomma che ragiona Il Remove Tool aggiornato capisce che un oggetto non è scollegato dagli altri elementi. Se si toglie una persona dalla spiaggia, deve sparire anche la sua ombra, e se si cancella un passante davanti a una vetrina, il riflesso nel vet…",
+   "fonte": "Punto Informatico",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Italia",
+   "id": "u1a174",
+   "testo_completo": true
   }
  },
  "fonti": [
@@ -1014,8 +1086,293 @@
   "eudisinfolabsapproachtofundraising",
   "blockchaintracinginvestigationtool",
   "osintofthailand",
-  "darksidedatabase"
+  "darksidedatabase",
+  "seedream55bybytedance",
+  "misterblocks",
+  "bondschat",
+  "rigspark",
+  "valin",
+  "xolace",
+  "earlybird",
+  "museemberbymeta",
+  "scribev3byelevenlabs",
+  "minimaxh3image",
+  "shotvideo",
+  "mitramcp",
+  "nodbyn8n",
+  "binqo",
+  "koreanformerprosecutordevelopslegalaitool",
+  "agodalaunchesaiassistantforseamlesstravelplanning",
+  "metalaunchesmuseaiassistantonapplewatchandwearossmartwatches",
+  "t2launcheslinaaiassistanttohandleincomingcalls",
+  "blasklaunchesaskblaskaiassistantfortheigamingmarket",
+  "automatticlanciaspacefastcreareappconlaidiventafacile",
+  "chatgptarrivasuapplecarplayconlultimoaggiornamento",
+  "lanuovamossadiinstagramifiltridellestorielicrealiaeportanovisibilitàalprofilo",
+  "tuổitrẻlancialanuovaversionedellappvivilenotizieamodotuo",
+  "comeusarechatgptperrisparmiaretempo5applicazionipratiche",
+  "harborappleplansamacappforlocalaiwithoutthecloud",
+  "appleharborapplocalaion4thunderbolt5macs2026",
+  "applesharborappwouldletmacsrunlocalaimodelstogether",
+  "appleharborturnsmacsintoprivateaiserverswithnocloudfees",
+  "applelavoraaunapppertrasformareimacindatacenteraiinlocale",
+  "applepreparaharborpiùmacinsiemeperfargiraremodellidiailocaleenormi",
+  "whataselfhosteddashboardlookslikeon315inchesofcoloureink",
+  "announcinglinkwarden217opensourcecollaborativebookmarkmanagertocollectreadannota",
+  "docktail18tailscaleservicesforyourdockercontainersnowwithcustompathsmultipleserv",
+  "märonefreeopensourceiosplayerforyourselfhostedaudiobookspodcastsmusicandradio",
+  "amneziawarnsselfhostedxrayserversneedalinuxkernelupdate",
+  "techtuesdaythecompleteguidetolowcodeandnocodeaiappbuildersin2026",
+  "selfhostedllmvsapi070to200input2026",
+  "n8nstable",
+  "chatgptplusforveteransandservicemembers",
+  "singaporeairlineselevatestravelworkwithopenaitechnology",
+  "microsoftstockfellafteranthropiclaunchesclaudesheetstorivalexcel",
+  "metasaimodelsnowavailableongooglecloud",
+  "googlelaunchesgemini4carbonasitsstrongestmodelforautonomousaiagents",
+  "googlerollsoutgemini4carbontoaiultrasubscribers",
+  "googlelaunchesaccesstogemini4carbonaimodel",
+  "introducinggeminiforhealthcare",
+  "anthropiclaunchesnewsuitsofaiofficeproductivitytoolsinrunuptoipo",
+  "googlecloudlaunchesgeminiforhealthcareasanenterpriseagenticorchestrationlayer",
+  "anthropichistorycontroversiesclaudeai",
+  "druvaexpandsairesiliencetorecoveraiagentsacrosstheenterprise",
+  "smikarlaunchesforageforsquirrelbringingarchivedsharepointcontentbackintosearchai",
+  "ibmandmicrosoftlaunchimagineenterpriseaiagentplatform",
+  "over35000grokbuiltappsexposedonlinesomeleakingconfidentialdataandpasswords",
+  "over35000appsbuiltwithgrokbuildexposedunprotectedincludingspacexsisownsalesmater",
+  "mistralaipricing2026vibeplansapiandlarge4costs",
+  "securityfirmsaysgrokbuildappsexposedmedicalexamssalesplansandstaffdata",
+  "nvidiascrisishascorporategovernanceexpertsreachingforthepopcorn",
+  "enterprisesalespushopenaisquarterlyrevenueto10billionthoughitstilltrailsanthropi",
+  "ukregulatorthreatensuniversitieswithsanctionsunlesstheyadoptaiproofexamformats",
+  "intelligenzagenerativaeprofessionigiuridicheuncorsoallacattolica",
+  "acquistidiffusiineuropaconlottimismosullai",
+  "techincorsatrainatodatechnoprobeestmamilano",
+  "grokbuildsveladatiriservatianchequellidispacexsi",
+  "appletvarrivalalinguadeisegnimalisnoncè",
+  "geminiintelligenceanchesupixel10emotorolasignature27",
+  "businessesinchatgptopenaistrizzalocchioalleaziende",
+  "adobemax2026laicancellariflessiombreeocchichiusi",
+  "jensenhuangloscandaloscuotenvidiagliultimisviluppieipossibiliscenari",
+  "unwiimotediventauntelecomandosmarthomeuniversalegrazieaesp32",
+  "claudeilpianoda20xinrealtàoffrivasolo6xanthropicfinisceintribunale",
+  "alexaviaweb3cosedaprovareconlassistenteaidiamazon",
+  "daunasempliceimmagineaunambiente3decconvidialyra20",
+  "gamepasssusteamdeckcisiamoancheseconqualchelimite",
+  "anthropicsfidamicrosoftofficearrivanoclaudesheetsedata",
+  "minorieaicomemisurareirischieproteggereipiùgiovani",
+  "redteamingdellaiagenticairischicheitestsuipromptnonvedono",
+  "recensionionlineiriassuntidellaidiconodavverolaverità",
+  "sanzionigaranteprivacyaposteedeutschebankinformativegdprnonconformi",
+  "videosorveglianzainaziendalastangatadelgarante",
+  "imadeaclaudecodemodthatdrawsalivemapofwhattheagentisdoing",
+  "fable52maxeditsusagetomakethisvideo",
+  "claudefable52canfinallygenerategoodpixelartanimation",
+  "fable52isacompetentelectricalengineer",
+  "claudefable52coordinatedmorethan1000aiagentstobuildaworkingoperatingsystemineigh",
+  "nvidiareportedlycancelsgeforcertx508024gblaunchbringsback16gbmodelovergddr7costs",
+  "microsoftresearchbackdooredanaiagentbydirectlyeditingfewerthan10dormantneurons",
+  "iaskedqwen38fntocreatemeallm",
+  "isthisrealaserbianinvestigativejournalistreflectsonthecountrysstunningelection",
+  "thisvideodoesntshowbulldozeractionagainstaccusedintripurabsfattack",
+  "questononèunbambinochefingediessereilfigliodiottodiversisoldatiucrainiuccisi"
  ],
  "audio": "audio/2026-11-11.mp3",
- "durata": 178.0
+ "durata": 246.0,
+ "aggiornamenti": [
+  {
+   "generato": "2026-11-11T12:59:19+00:00",
+   "modello": "gemini-3.6-flash",
+   "testi_completi": 6,
+   "riassunto": {
+    "titolo_giorno": "Mister Blocks trasforma i LEGO in progetti con l'AI e Adobe rinnova i suoi strumenti per rimuovere oggetti nei video",
+    "in_breve": "Tra le novità più utili di oggi troviamo Mister Blocks, un'applicazione capace di suggerire nuove costruzioni fotografando i mattoncini LEGO che si hanno in casa. Per i creativi, Adobe aggiorna Premiere e Photoshop introducendo strumenti avanzati per rimuovere elementi e ombre dai filmati e dagli scatti.",
+    "citati": [
+     "Mister Blocks",
+     "Adobe Premiere e Photoshop"
+    ],
+    "da_provare": [
+     {
+      "cosa": "Mister Blocks",
+      "a_cosa_serve": "Analizza una fotografia dei propri mattoncini LEGO sparsi e genera automaticamente un progetto di costruzione basato sui pezzi effettivamente a disposizione.",
+      "per_chi": "Tutti i giorni",
+      "ambito": "Casa e hobby",
+      "come_iniziare": [],
+      "costo": "Non indicato",
+      "piattaforme": [
+       "Browser"
+      ],
+      "sul_dispositivo": false,
+      "come_sfruttarla": "Ideare nuove creazioni e giochi con i mattoncini LEGO già presenti in casa.",
+      "italiano": "Non indicato",
+      "difficolta": "Facile",
+      "fonti": [
+       "u1a2"
+      ],
+      "temi": [
+       "Foto e immagini",
+       "Lavoro e produttività"
+      ],
+      "affidabilita": "Appena lanciato",
+      "prova": "https://www.producthunt.com/products/mister-blocks"
+     },
+     {
+      "cosa": "Shot.video",
+      "a_cosa_serve": "Permette di registrare video multi-camera sincronizzando più smartphone tra loro.",
+      "per_chi": "Lavoro e tutti i giorni",
+      "ambito": "Foto e video",
+      "come_iniziare": [],
+      "costo": "Non indicato",
+      "piattaforme": [
+       "Android",
+       "iPhone"
+      ],
+      "sul_dispositivo": false,
+      "come_sfruttarla": "Registrare interviste o eventi da angolazioni diverse utilizzando i telefoni a disposizione.",
+      "italiano": "Non indicato",
+      "difficolta": "Facile",
+      "fonti": [
+       "u1a11"
+      ],
+      "temi": [
+       "Video",
+       "Foto e immagini"
+      ],
+      "affidabilita": "Appena lanciato",
+      "prova": "https://www.producthunt.com/products/shot-video"
+     },
+     {
+      "cosa": "RigSpark",
+      "a_cosa_serve": "Analizza i componenti hardware del proprio computer e indica quali modelli di intelligenza artificiale è possibile far girare in locale.",
+      "per_chi": "Lavoro e tutti i giorni",
+      "ambito": "Ricerca e dati",
+      "come_iniziare": [],
+      "costo": "Non indicato",
+      "piattaforme": [
+       "Browser",
+       "Windows"
+      ],
+      "sul_dispositivo": false,
+      "come_sfruttarla": "Scoprire se il proprio PC ha i requisiti per far girare strumenti AI sul dispositivo senza inviare dati su internet.",
+      "italiano": "Non indicato",
+      "difficolta": "Facile",
+      "fonti": [
+       "u1a4"
+      ],
+      "temi": [
+       "AI sul dispositivo",
+       "Lavoro e produttività",
+       "Ricerca e informazioni"
+      ],
+      "affidabilita": "Appena lanciato",
+      "prova": "https://www.producthunt.com/products/rigspark"
+     },
+     {
+      "cosa": "Scribe v3",
+      "a_cosa_serve": "Nuovo modello di trascrizione da voce a testo sviluppato da ElevenLabs che riduce gli errori del 27% e supporta oltre 90 lingue.",
+      "per_chi": "Lavoro e tutti i giorni",
+      "ambito": "Voce e audio",
+      "come_iniziare": [],
+      "costo": "Non indicato",
+      "piattaforme": [
+       "Browser"
+      ],
+      "sul_dispositivo": false,
+      "come_sfruttarla": "Trascrivere al volo riunioni, interviste o note vocali con elevata accuratezza.",
+      "italiano": "Non indicato",
+      "difficolta": "Facile",
+      "fonti": [
+       "u1a9"
+      ],
+      "temi": [
+       "Voce e audio",
+       "Scrittura e documenti"
+      ],
+      "affidabilita": "Appena lanciato",
+      "prova": "https://www.producthunt.com/products/elevenlabs"
+     }
+    ],
+    "osint": [],
+    "gemme": [
+     {
+      "cosa": "Linkwarden",
+      "a_cosa_serve": "Gestore di segnalibri open source che salva copie integrali delle pagine web per poterle consultare anche se il sito originale va offline.",
+      "perche_gemma": "Open source e collaborativo, preserva uno snapshot completo dei link salvati senza dipendere da servizi terzi.",
+      "con_ai": "Conservare intere pagine web e articoli di ricerca da passare in un secondo momento agli assistenti AI per l'analisi.",
+      "piattaforme": [
+       "Browser"
+      ],
+      "self_hosted": true,
+      "costo": "Gratis",
+      "difficolta": "Media",
+      "temi": [
+       "Open source e self-hosting",
+       "Lavoro e produttività",
+       "AI sul dispositivo"
+      ],
+      "fonti": [
+       "u1a61"
+      ],
+      "affidabilita": "Da verificare",
+      "come_iniziare": [],
+      "sul_dispositivo": false,
+      "come_sfruttarla": "",
+      "prova": ""
+     }
+    ],
+    "sezioni": [
+     {
+      "titolo": "Novità negli strumenti che già usi",
+      "notizie": [
+       {
+        "titolo": "Arrivano le funzioni AI per rimuovere oggetti dai video e cancellare ombre e riflessi",
+        "strumento": "Adobe Premiere e Photoshop",
+        "riassunto": "Adobe porta in Premiere la funzione Generative Remove, che permette di tracciare e cancellare elementi indesiderati lungo un video riempiendo lo sfondo in modo coerente, oltre alla separazione automatica delle tracce audio. In Photoshop e Lightroom arrivano aggiornamenti per cancellare automaticamente ombre e riflessi mantenendo intatti i dettagli dello scatto.",
+        "come_provarla": "Le nuove funzioni sono disponibili nelle versioni aggiornate e in beta dei programmi della suite Adobe.",
+        "disponibilita": "Disponibile ora",
+        "fonti": [
+         "u1a174"
+        ],
+        "temi": [
+         "Foto e immagini",
+         "Video",
+         "Voce e audio"
+        ],
+        "affidabilita": "Una fonte",
+        "solo_titoli": false
+       }
+      ]
+     }
+    ],
+    "formato": 2,
+    "controllo_siti": [
+     {
+      "cosa": "Linkwarden",
+      "esito": "nessun sito da aprire"
+     },
+     {
+      "cosa": "Shot.video",
+      "sito": "https://www.producthunt.com/r/p/1311330?app_id=339",
+      "esito": "errore: HTTP Error 403: Forbidden"
+     },
+     {
+      "cosa": "Scribe v3",
+      "sito": "https://www.producthunt.com/r/p/1311828?app_id=339",
+      "esito": "errore: HTTP Error 403: Forbidden"
+     },
+     {
+      "cosa": "RigSpark",
+      "sito": "https://www.producthunt.com/r/p/1312166?app_id=339",
+      "esito": "errore: HTTP Error 403: Forbidden"
+     },
+     {
+      "cosa": "Mister Blocks",
+      "sito": "https://www.producthunt.com/r/p/1312257?app_id=339",
+      "esito": "errore: HTTP Error 403: Forbidden"
+     }
+    ]
+   }
+  }
+ ]
 }
