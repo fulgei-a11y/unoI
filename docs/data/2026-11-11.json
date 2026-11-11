@@ -555,6 +555,41 @@
    "categoria": "Italia",
    "id": "u1a174",
    "testo_completo": true
+  },
+  "u2a89": {
+   "titolo": "Talk it through with Gemini, now on Apple CarPlay",
+   "link": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-on-apple-carplay/",
+   "data": "2026-11-11T17:00:00+00:00",
+   "testo": "Talk it through with Gemini, now on Apple CarPlay For millions of people, the daily commute averages about an hour behind the wheel. While voice assistants have long been great for quick tasks like playing a playlist or getting directions home, all that quiet time on the road is also an opportunity to catch up, prepare for what’s ahead, or simply think out loud. Following our rollout on Android Auto and cars with Google built-in, today we’re bringing the Gemini app directly to Apple CarPlay. Now, iOS users can have natural, free-flowing conversations with Gemini Live right from their car’s display — hands-free, so you can get more done while keeping your hands on the wheel and your eyes on the road. Pick up where you left off — or start a fresh conversation We designed Gemini on CarPlay to work like a conversational driving companion that minimizes distraction. When you tap the Gemini app icon on your CarPlay screen or side rail, you can easily pick up where you left off with a recent chat or start a fresh conversation. You can talk back and forth with Gemini at your own pace — interrupting to add a detail, changing the subject, or pausing when you need to focus on an exit. Make the most of your drive Whether you’re commuting or setting out on a road trip, Gemini on CarPlay helps you be more productive during your ride. Here are a few ways to make the most of your drive: - Get ready for the day ahead: Use your morning commute to see what's coming up and walk into your first meeting prepared. Ask Gemini what's on your calendar, when you need to leave for your next appointment, or talk through what you want to say before you arrive. - Try saying: \"What does my day look like?\" or \"Help me prep for my 10am with the design team.\" - Talk through your inbox: Because Gemini co…",
+   "fonte": "Google (blog ufficiale)",
+   "tipo": "ufficiale",
+   "solo_titolo": false,
+   "categoria": "Laboratori",
+   "id": "u2a89",
+   "testo_completo": true
+  },
+  "u2a37": {
+   "titolo": "Gemini sta arrivando su Apple CarPlay",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMEdobWV3dXI1ZjNETkNUazd2OHMxSEdZRDVwTmlKdFRNdzNUbXhoRFNCZlhRSjdIRVlWN1pmSEJ4UDJXZDktT0lYRmVDd2ZoMVJSUjdIb0hKSjFLa2EyQ0FSeWtGbmRBOGMwLVo4a2V2YVdrR012YWt0czBRR3hRdC14cUpQZUVwUE9pTW5xUm42S3I1UXVV?oc=5",
+   "data": "2026-11-11T19:06:17+00:00",
+   "testo": "",
+   "fonte": "HDblog.it",
+   "tipo": "testata",
+   "solo_titolo": true,
+   "categoria": "Strumenti",
+   "id": "u2a37"
+  },
+  "u2a60": {
+   "titolo": "Yogurt – Free, private, open-source alternative to Granola",
+   "link": "https://github.com/FrigadeHQ/yogurt",
+   "data": "2026-11-11T15:33:06+00:00",
+   "testo": "Hey HN, I’m Eric and I want to share an OSS project that I’ve been building in my free time. Yogurt is a free, MIT licensed desktop app that uses on-device AI models to transcribe, summarize, and chat with your meetings. Here's a quick demo video: https://www.youtube.com/watch?v=BFfbXAwRq98 Similar to Granola, Yogurt runs in the background and does not join your calls. But unlike Granola, Yogurt …",
+   "sito": "https://github.com/FrigadeHQ/yogurt",
+   "fonte": "Show HN – progetti utili (gemme)",
+   "tipo": "vetrina",
+   "solo_titolo": false,
+   "categoria": "Gemme",
+   "id": "u2a60"
   }
  },
  "fonti": [
@@ -1176,10 +1211,130 @@
   "iaskedqwen38fntocreatemeallm",
   "isthisrealaserbianinvestigativejournalistreflectsonthecountrysstunningelection",
   "thisvideodoesntshowbulldozeractionagainstaccusedintripurabsfattack",
-  "questononèunbambinochefingediessereilfigliodiottodiversisoldatiucrainiuccisi"
+  "questononèunbambinochefingediessereilfigliodiottodiversisoldatiucrainiuccisi",
+  "kladapaintappyourcodingagentcandrivesourceavailable",
+  "googleaddsgeminivoiceaiassistanttoapplecarplay",
+  "11bestaiappbuildersin2026rankedandcompared",
+  "thisagencybuiltanaitooltomakeitspeoplebetterattheirjobsdoemployeeswantin",
+  "bluephonegivesgooglespixel10proanaiassistantthatgoesbeyondgemini",
+  "lloydsunveilsaitooltospotdocumenterrorsforukexporters",
+  "montrealwomanwithalshearsherownvoiceagainthankstoaiapp",
+  "metasmuseaicomestoapplewatchesandandroidwearossmartwearables",
+  "inauguratooggiilmicrosoftpavilionlanuovasededimicrosoftaromaperaccelerarelafront",
+  "alexaperloshoppingarrivainitaliaaiutaascegliereeconfrontareiprodotti",
+  "coreweavelanciaunserviziodidatabasepericlientidellintelligenzaartificiale",
+  "alexaperloshoppingarrivainitaliacosèecomefunzionailnuovoassistenteai",
+  "halterilcollaresmartpervacchecheeliminairecinti",
+  "trafrigoriferichesisurriscaldanoefalsiallarminuclearièarrivataunepidemiadiattacc",
+  "checosèclaudemeetingsecomecambiagooglemeetconlai",
+  "geministaarrivandosuapplecarplay",
+  "comeusarelaiegooglesheetspermonitoraregliscontidelblackfriday",
+  "pixeldropnovembre2026cosaarrivainitalia",
+  "googlepixeldropdinovembre2026geminiintelligencearrivasuipixel10edebuttapixeltag",
+  "samsunggallerysisincronizzaconlospaziogoogle",
+  "irecreatedpaperspleasebutyouredecidingwhichycstartupstofund",
+  "yogurtfreeprivateopensourcealternativetogranola",
+  "godboltinafloatingwindowforneovimccrust",
+  "blackopsiistaticallyrecompiledtonativearm64macos",
+  "pidockwifiaraspberrypi5routerwithtwowificardspiholeandwebdashboard",
+  "doyouuseyourowncaselfsignedcertificatesforyourselfhostedservices",
+  "budibase40buildagentsappsautomationsonyourowninfrastructure",
+  "selfhostedgleanalternativejustranked1onenterpriseragbenchaheadofthelistedsystems",
+  "iditchedadobeacrobatforaselfhostedalternativeandiwontbegoingbackhowtogeek",
+  "immichisagooglephotosalternativeyoucanhostyourself",
+  "lnbitsflawupdateto170androtateyourkeys",
+  "jiostarschiefarchitectonaidiscoveryat500muserscale",
+  "geminidecisionsapifastcalibratedmultimodaldecisions",
+  "talkitthroughwithgemininowonapplecarplay",
+  "googlesnovemberpixeldropbringsgeminiintelligencetothepixel10andlaunchesthe2999pi",
+  "onthisdayinspacenov111966nasalaunchesgemini12missionwithastronauticonsbuzzaldrin",
+  "googlesgeminichatbotisnowavailableonapplecarplay",
+  "googlelaunchesgeminidecisionsapiforrapidaichoices",
+  "googlelaunchesgeminidecisionsapiforfastmultimodalchoices",
+  "googlelaunchesgeminidecisionsapiformultimodalaiworkflows",
+  "withipoloominganthropiclaunchesnewaimodelsworkplacetools",
+  "googlecloudrollsoutgeminiforhealthcareinpreviewtargetingadministrativebacklog",
+  "anthropiclaunchesclaudemeetingswhiteboardsandsheetsinmajorpushintoworkplacesoftw",
+  "anthropiclaunchesclaudefable52andmythos52toacceleratetechtasks",
+  "claudetrafficsurges24inoctoberasanthropicipoloomsbeatingairivals",
+  "anthropictargetsworkplacecollaborationwithclaudemeetings",
+  "anthropicsclaudefable52builtashooterin1promptbutittook8hoursand550",
+  "anthropicjeopardizesnvidiascudamoatasitsclaudemythosmodeltookonly3daystofigureou",
+  "microsoftprovidesfasteranswerstocomplexlicensingquestionsusingazureaiservicesand",
+  "idcquantanowworksinsidemicrosoftcopilot",
+  "bringyourbusinesscontexttochatgptclaudemicrosoftcopilotcoworkandgrokbot",
+  "literabringsdocumentcomparisonandfirmaisearchtomicrosoftcopilotforlegal",
+  "armaninobuildsanaiappfactoryonmicrosoftfoundrycuttingproductiontime89",
+  "gopufflaunchesfirstfullyintegrateddeliveryexperienceonspacexsisgrokbot",
+  "metaaicheatsheetfeaturespricingandhowtouseit",
+  "grokbot10launcheswithslackintegrationandvideocallsupport",
+  "grokbuiltappsexposedpatientdataplaintextpasswordsandspacexsisownsalespipeline",
+  "grokbuildpublicappsanddataexposedviadns",
+  "tokenpoolingawaretrainingformultivectorembeddingmodels",
+  "unitedwontletyouraiagentbookyourflight",
+  "googlestabletopaiexperimentletsyoubuildcustomcollaborationapps",
+  "googlesalphagenome2zoomsinonthecellularrootsofdisease",
+  "adobesaiexperimentsletyouwalkaroundinphotosandinterviewyourcharacters",
+  "whythedatacenteryoudreadmightneverevenbebuilt",
+  "metaislosingitslongtimeheadofinfrastructure",
+  "howbacklashandredtapecontinuetoslowdatacenterspostbluewave",
+  "coreweaveturnstocustomerprepaymentsshortercontractstofundaigrowth",
+  "with720mroundbritainsfractilegetsalegupintheraceforaichips",
+  "congresstocalljensenhuangintoanswerforallegedchinesespyaffair",
+  "isjensenhuangsbadbehaviormorecommonplacethanitseems",
+  "openaisquarterlyrevenuereportedlycrosses10bforthefirsttime",
+  "databricksnewaiagenttellsceoalighodsitheunvarnishedtruth",
+  "pluraiwantstohelpaiagentsworkbetterusingthesameapproachthathelpedgetselfdrivingc",
+  "taiwanschipmakinggianttsmctoinvest1binanthropicopenai",
+  "bigwalkusedaitofixabugnowtheindiegamingworldishavingareckoning",
+  "googledeepmindjustmathematicallyverifiedkeypartsofsignal",
+  "googlejoinsthedecisionmodelwavewithgeminidecision1scoring1000questionsinasinglep",
+  "uscorporateaispendinghitsanewhighinoctoberbutgrowthslowsto165percent",
+  "googledeepmindsalphaproofcodeverifiedsignalscryptographiccoreinfourweeksinsteado",
+  "helsingbuiltanaisystemthatpreparestargetsforweaponssystemsandsayseverydecisionwi",
+  "anthropicsaysaiiserodingnvidiascudaleadcuttinganamdchipswitchfrommonthstothreeda",
+  "usdatabrokersaresellinghalfabilliondollarsinrltrainingenvironmentstochineseailab",
+  "deeplwantsrealtimetranslationtofinallycapturesarcasmandmoodshifts",
+  "gemini4carbonclaudesheetsantigravityswarm",
+  "anthropicsfidagoogleworkplaceemicrosoftoffice",
+  "migliaiadichipaidinvidiaincinarestrizioniinutili",
+  "le7paroledellaichetuttiusanoepochisannospiegare",
+  "cadiamodalperosullaguerraibridaharagionecrosetto",
+  "obblighiesanzioniperleaziendeaiinaustralia",
+  "claudemeetingspartecipaalleriunionisugooglemeet",
+  "koraèilnuovoosaibasatosulinuxchevuolesfidarewindows",
+  "gptlivecambialamodalitàvocaledichatgpt",
+  "openaipuntasulturismoacquisitalastartupaiodessia",
+  "effettogtavilogitechregalaungiornodiferieaidipendentipergiocare",
+  "openailanciabusinesshubchatgptdiventapiùsimileagoogle",
+  "itermicipotrebberosparireentroil2040ilceodimercedesspiegailfuturodeimotori",
+  "aidovefunzionadavveroedoverestafragile",
+  "attacchiaifrigoriferiperchéilverorischioarrivadaimanutentori",
+  "modellidecisionaliaicomeportarlineiflussidilavoroaziendali",
+  "garantedellaprivacysiapreilcasosullapropostadiaumentodistipendiofinoa50milaeuro",
+  "musesleepbanduserswerenttoldtheirbraindatawastrainingai",
+  "theonlyaithatcanbeofhelp",
+  "whatdoido",
+  "claudehelpedmeorganizemylegaldatabaseintoapublicarchivewith300000searchablemilit",
+  "ramaltman",
+  "theydidnteventrytohideit",
+  "opensourceselfdrivingishere",
+  "modttkciarisharassingthissub",
+  "nvidiageforcertx508024gbreportedlycancelled16gbmodelremains",
+  "microsoftfilesapatentapplicationtotrainaimodelsonidleconsumergpus",
+  "awsemulator",
+  "browsetoolssimonwillisonnetbytag",
+  "anthropicsiporoadshowvideo",
+  "factcheckdoesthisvideoshowrecentdiwalicelebrationsindubaino",
+  "googledeepmindhassuccessfullyformallyverifiedthesecurityofthesignalprotocolusing",
+  "successfulneptuneflamingoandstormshadowstrikesdoubledthisfallosintcountshows",
+  "novateksustlugaterminalburnsafterovernightdroneraidosint",
+  "africainvestigativejournalismlabstrengthensinvestigativereportingkonradadenauers",
+  "satelliteimageshaveemergedshowingasecondstrikeonprotonusingneptunemissiles",
+  "loscambiosocialincuimuskdiceabillgatesdinoncostringerloacompraremicrosoftèfalso"
  ],
  "audio": "audio/2026-11-11.mp3",
- "durata": 246.0,
+ "durata": 277.9,
  "aggiornamenti": [
   {
    "generato": "2026-11-11T12:59:19+00:00",
@@ -1370,6 +1525,92 @@
       "cosa": "Mister Blocks",
       "sito": "https://www.producthunt.com/r/p/1312257?app_id=339",
       "esito": "errore: HTTP Error 403: Forbidden"
+     }
+    ]
+   }
+  },
+  {
+   "generato": "2026-11-11T23:06:04+00:00",
+   "modello": "gemini-3.5-flash-lite",
+   "testi_completi": 28,
+   "riassunto": {
+    "titolo_giorno": "Gemini arriva su Apple CarPlay e Yogurt porta l'AI locale per le riunioni",
+    "in_breve": "L'intelligenza artificiale entra ufficialmente nell'abitacolo dell'auto con l'arrivo di Gemini su Apple CarPlay, permettendo di chiacchierare in modo naturale durante gli spostamenti. Sul fronte degli strumenti open source per il computer, debutta Yogurt, un'applicazione desktop che trascrive e riassume le riunioni in locale usando modelli sul dispositivo.",
+    "citati": [
+     "Gemini",
+     "Yogurt"
+    ],
+    "da_provare": [
+     {
+      "cosa": "Yogurt",
+      "a_cosa_serve": "Un'applicazione desktop open source che registra, trascrive e riassume le riunioni in locale sul computer senza partecipare direttamente alle chiamate online.",
+      "per_chi": "Lavoro e tutti i giorni",
+      "ambito": "Voce e audio",
+      "come_iniziare": [
+       "Scarica l'applicazione desktop open source",
+       "Avvia l'app in background durante le riunioni"
+      ],
+      "costo": "Gratis",
+      "piattaforme": [
+       "Windows",
+       "Mac",
+       "Linux"
+      ],
+      "sul_dispositivo": true,
+      "come_sfruttarla": "Trascrivere e riassumere i verbali delle riunioni in modo privato senza inviare i dati audio online.",
+      "italiano": "Non indicato",
+      "difficolta": "Facile",
+      "fonti": [
+       "u2a60"
+      ],
+      "temi": [
+       "Voce e audio",
+       "AI sul dispositivo",
+       "Open source e self-hosting"
+      ],
+      "affidabilita": "Appena lanciato",
+      "prova": "https://github.com/FrigadeHQ/yogurt",
+      "piattaforme_verificate": true
+     }
+    ],
+    "osint": [],
+    "gemme": [],
+    "sezioni": [
+     {
+      "titolo": "Novità negli strumenti che già usi",
+      "notizie": [
+       {
+        "titolo": "Gemini arriva su Apple CarPlay",
+        "strumento": "Gemini",
+        "riassunto": "L'app Gemini sbarca su Apple CarPlay, consentendo agli utenti iPhone di usare conversazioni vocali naturali e hands-free direttamente dal display dell'auto per gestire impegni, riassunti e messaggi durante gli spostamenti.",
+        "come_provarla": "Tocca l'icona dell'app Gemini sullo schermo di Apple CarPlay o sulla barra laterale dell'auto.",
+        "disponibilita": "Disponibile ora",
+        "fonti": [
+         "u2a89",
+         "u2a37"
+        ],
+        "temi": [
+         "Voce e audio",
+         "Assistenti e chatbot",
+         "Scrittura e documenti"
+        ],
+        "affidabilita": "Fonte ufficiale",
+        "solo_titoli": false
+       }
+      ]
+     }
+    ],
+    "formato": 2,
+    "controllo_siti": [
+     {
+      "cosa": "Yogurt",
+      "sito": "https://github.com/FrigadeHQ/yogurt",
+      "pagina": 233471,
+      "trovate": [
+       "Windows",
+       "Mac",
+       "Linux"
+      ]
      }
     ]
    }
