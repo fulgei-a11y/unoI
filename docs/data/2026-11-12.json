@@ -407,6 +407,30 @@
    "solo_titolo": false,
    "categoria": "Community",
    "id": "u1a195"
+  },
+  "u2a171": {
+   "titolo": "Bing permette di disattivare l’AI, ma cambia il motore di ricerca…",
+   "link": "https://www.punto-informatico.it/bing-permette-disattivare-ai-cambia-motore-ricerca/",
+   "data": "2026-11-12T14:35:39+00:00",
+   "testo": "Microsoft ha deciso di dare agli utenti un modo per liberarsi delle risposte generate dall’AI, e i metodi sono due. Uno è scomodo, l’altro nasconde un tranello. Negli ultimi anni Bing si è riempito di funzioni basate sull’intelligenza artificiale, a cominciare dalle risposte generate che compaiono accanto ai risultati tradizionali. Ogni tanto sono utili, ogni tanto no. Microsoft ammette in un post sul blog, pubblicato ieri, che dalle sue ricerche emerge una cosa piuttosto ovvia: c’è chi vuole il riassunto pronto e chi preferisce scorrere i link, confrontare le fonti e farsi un’idea per conto proprio. I secondi, a quanto pare, esistono ancora. L’estensione che disattiva le risposte generate dall’AI (e porta con sé Bing) La soluzione numero uno si chiama Microsoft Bing AI Search Choice. È un’estensione per Chrome e Edge, per ora in anteprima. Una volta installata, mette a disposizione un interruttore per abilitare o disabilitare le risposte AI di Bing. La scelta vale per tutte le ricerche, quindi non bisogna ripeterla a ogni domanda. Fin qui tutto bene. Poi si legge la riga in piccolo: installare l’estensione imposta Bing come motore di ricerca predefinito del browser. Cioè, per chiedere a Bing di essere meno invadente, gli si regala anche la porta di casa. Una richiesta del tutto superflua per chi voleva solo un po’ di silenzio. Perché dovrebbe servire un’estensione per una cosa così elementare? Bastava un interruttore nelle impostazioni di Bing, e magari uno bene in vista nella pagina dei risultati. Nessun download, nessun cambio di browser, nessuna trattativa. Invece no, si passa dal Chrome Web Store. L’operatore -ai La seconda via non richiede installazioni. Basta aggiungere -ai alla fine della ricerca, per esempio migliori portatili 2026 -ai, e Bing restituisce i ri…",
+   "fonte": "Punto Informatico",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Italia",
+   "id": "u2a171",
+   "testo_completo": true
+  },
+  "u2a138": {
+   "titolo": "Cyberattack on Fireworks AI allowed hackers to access Notion customers’ chat transcripts",
+   "link": "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/",
+   "data": "2026-11-12T15:02:28+00:00",
+   "testo": "A cyberattack at Fireworks AI has exposed some of its customers’ data, the company has confirmed. Fireworks AI, a platform that developers use to access and use open AI models, said an attacker breached its cloud provider to gain access to a Fireworks development system, which allowed access to some of its customers’ data. The company said in its latest security advisory that the cybercriminals took Fireworks’ customers’ billing information and some datasets. Fireworks touts tens of thousands of customers worldwide using its platform, including legal tech company Harvey and AI company Cursor. At least one confirmed affected customer is online document editor and notetaker Notion, which said in a disclosure that the breach affected around 1% of its own customers. Notion said that Fireworks alerted the company to a security incident and later confirmed that the hackers had stolen some Notion customer data. On November 3, Notion said it disconnected its systems from Fireworks, deleted the data stored in its systems, and stopped all connectivity between the two. Notion confirmed this week that the hackers took chat transcripts of its Notion AI customers who used the “Insights” feature. The company said that the transcripts include “any input to or output from the model that was written to the chat is included in that chat transcript,” but added that much of the data was unattributable and could not be determined from which customer it was obtained. The breach at Fireworks AI shows how tech companies are reliant on other tech providers for their own offerings, and how cyberattacks can, as a result, spill over into other customers. Fireworks said that it believes the hackers are financially motivated and that their goals are focused on selling tokens from breaching access to…",
+   "fonte": "TechCrunch",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Testate tech",
+   "id": "u2a138",
+   "testo_completo": true
   }
  },
  "fonti": [
@@ -1035,10 +1059,52 @@
   "bangladeshpoliceijmagreetostrengthenstrategicpartnershipagainsthumantraffickingo",
   "securitymanageranalistagiuristafilosofotecnicoocomunicatore",
   "dueaereiquasiimpercettibilinellaudiocosìunoyoutuberhageolocalizzatoilframmentodi",
-  "ilvideodelsegretariodelladifesaingleseinminigonnaaunacerimoniaufficialeèfalso"
+  "ilvideodelsegretariodelladifesaingleseinminigonnaaunacerimoniaufficialeèfalso",
+  "ringolaunchescharliethefirstaiassistantforsynclicensingthatlivesonwhatsapp",
+  "servicenowlaunchesaitooltospeedupcrmmigrations",
+  "alexaperloshoppingarrivainitaliaaiutaascegliereeconfrontareiprodotti",
+  "claudecodeecodexentranonellacentralinadiunajeepdel1994",
+  "nvidiasinterimceoisitscfoanddatacentersdwarfgamingrevenueareyouasworriedasiamfor",
+  "results2026selfhostusersurveyselfhst",
+  "anunknowndeviceonmywifinowpingsmyphoneinunder20seconds",
+  "jcrewlaunchesclaudepoweredstyleadvisorforoutfitshopping",
+  "googlelaunchesgeminidecision1apifor1000questionspercall",
+  "freightrightlaunchesfreightrightmcpforchatgpt",
+  "anthropicsclaudeaiblockspokémonfangamesovercopyrightconcernswhatchanged",
+  "anthropicbansclaudebuiltfakesitesaimedatgamingaianswers",
+  "stolenclaudeapikeyscanturnclaudecodeintoaremotecontrolledimplant",
+  "microsoftbingtoutstwomethodstoturnoffaiinsearchbutnotasearchsetting",
+  "metaaiglassescanoverheatwhenwet5modelsneedupdate130",
+  "bestfreeaimodelsin2026whichonescostnothingandwheretousethem",
+  "grokbuildsecuritylapseexposesover35000aiappsandspacexdata",
+  "thedefinitivefinetuningguidefor3dgenerationmodels",
+  "readnvidiasinternalemailsabouttheextraordinarilydifficultperiodamidceoshakeup",
+  "nvidiaceojensenhuanghasresignedwhathappensnext",
+  "ireviewedtheapplehomeviewaskmeanything",
+  "nvidiaceojensenhuangresignsamidspyaffairscandals",
+  "trumpfloatsapplechairmantimcookasjensenhuangssuccessor",
+  "jensenhuangisoutatnvidiawhoiscolettekresshisinterimreplacement",
+  "norwestpushesdeeperintoaiwithnew4bfund",
+  "cyberattackonfireworksaiallowedhackerstoaccessnotioncustomerschattranscripts",
+  "googlepushesprivacyangleasgeminipoweredsmartglassesdebutstartingat395",
+  "jensenhuangresignsasnvidiaceoafterespionagescandalwipesout14trillioninmarketvalu",
+  "grokbot10alphagenome2geminidecisions",
+  "confindustriaaltoadriaticoattivailprontosoccorsocyberattack",
+  "spacexilpianodimuskperalimentarelaiconlenergiadelsole",
+  "bingpermettedidisattivarelaimacambiailmotorediricerca",
+  "ourainveste625milioninellasalutedigitaleaiemedicidisponibiliattraversolanello",
+  "genzaiecreativitàlafotografiadellenovogenerationcreationreport",
+  "foxconnricaviincrescitadel46liphoneduopotrebbevenderepiùdelprevisto",
+  "jensenhuangsidimettedanvidiacolettekressèlanuovaceoadinterim",
+  "menoformazionemenovocecosìanchelaiemarginaledonne",
+  "modellidecisionaliaigooglesfidaopenaichioffrecosa",
+  "aimasterpiecejustdropped",
+  "fable52builtthissceneinblender",
+  "nvidiasjensenhuangresignsasceocolettekressnamedinterim",
+  "factcheckviralvideoofwomantouristbeingassaultedinindiaisactuallyfromuzbekistan"
  ],
  "audio": "audio/2026-11-12.mp3",
- "durata": 186.0,
+ "durata": 224.1,
  "aggiornamenti": [
   {
    "generato": "2026-11-12T13:57:36+00:00",
@@ -1192,6 +1258,68 @@
       "esito": "errore: HTTP Error 403: Forbidden"
      }
     ]
+   }
+  },
+  {
+   "generato": "2026-11-12T16:31:58+00:00",
+   "modello": "gemini-3.6-flash",
+   "testi_completi": 11,
+   "riassunto": {
+    "titolo_giorno": "Come disattivare i riassunti AI su Bing e la falla di sicurezza su Notion AI",
+    "in_breve": "Nell'aggiornamento del pomeriggio vediamo come disattivare le risposte generate dall'AI nelle ricerche di Bing utilizzando un semplice comando o un'estensione. Segnaliamo inoltre un incidente di sicurezza che ha coinvolto i dati di trascrizione di Notion AI.",
+    "citati": [
+     "Bing",
+     "Notion AI"
+    ],
+    "da_provare": [],
+    "osint": [],
+    "gemme": [],
+    "sezioni": [
+     {
+      "titolo": "Novità negli strumenti che già usi",
+      "notizie": [
+       {
+        "titolo": "Come disattivare i riassunti generate dall'AI nelle ricerche",
+        "strumento": "Bing",
+        "riassunto": "Microsoft Bing offre due modalità per nascondere i riassunti e i box generati dall'AI dai risultati di ricerca. È possibile aggiungere l'operatore `-ai` alla fine di una query oppure installare l'estensione per browser 'Microsoft Bing AI Search Choice' che aggiunge un interruttore per disabilitare l'AI.",
+        "come_provarla": "Aggiungi l'operatore `-ai` al termine della ricerca su Bing (ad esempio 'migliori portatili 2026 -ai') oppure installa l'estensione dal Chrome Web Store.",
+        "disponibilita": "Disponibile ora",
+        "fonti": [
+         "u2a171"
+        ],
+        "temi": [
+         "Ricerca e informazioni",
+         "Assistenti e chatbot",
+         "Scrittura e documenti"
+        ],
+        "affidabilita": "Una fonte",
+        "solo_titoli": false
+       }
+      ]
+     },
+     {
+      "titolo": "In breve",
+      "breve": true,
+      "notizie": [
+       {
+        "titolo": "Falla di sicurezza presso un fornitore espone le chat di Notion AI",
+        "riassunto": "Un attacco informatico ai sistemi del fornitore Fireworks AI ha esposto le trascrizioni delle chat di alcuni utenti di Notion AI che utilizzavano la funzione Insights.",
+        "fonti": [
+         "u2a138"
+        ],
+        "temi": [
+         "Privacy e sicurezza",
+         "Assistenti e chatbot",
+         "Voce e audio"
+        ],
+        "affidabilita": "Una fonte",
+        "solo_titoli": false
+       }
+      ]
+     }
+    ],
+    "formato": 2,
+    "controllo_siti": []
    }
   }
  ]
