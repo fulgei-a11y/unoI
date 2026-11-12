@@ -431,6 +431,103 @@
    "categoria": "Testate tech",
    "id": "u2a138",
    "testo_completo": true
+  },
+  "u3a72": {
+   "titolo": "Securo maintainer here: 8 months of work, and the results so far",
+   "link": "https://www.reddit.com/r/selfhosted/comments/1xunhqd/securo_maintainer_here_8_months_of_work_and_the/",
+   "sito": "",
+   "data": "2026-11-12T20:17:40+00:00",
+   "testo": "Hey selfhosted, It's my pleasure to finally post here for the first time, after seeing posts talking about and recommending my (still baby, but serious) project :) I am Tássio, maintainer of Securo, a self-hosted personal and small-business finance manager, 100% open source under AGPL-3.0. It has been 8 months since the first commit, and this time I wrote the numbers by hand for the photo. What h…",
+   "fonte": "Reddit r/selfhosted",
+   "tipo": "community",
+   "solo_titolo": false,
+   "categoria": "Gemme",
+   "id": "u3a72"
+  },
+  "u3a144": {
+   "titolo": "Google’s latest Search upgrade promises better answers to your most complicated questions",
+   "link": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/",
+   "data": "2026-11-12T19:27:45+00:00",
+   "testo": "Google Search is getting better at understanding complicated questions, including those with multiple parts, highly specific requests, or confusing typos. The updates are coming via the company’s newly released Gemini 4 Hydrogen model, which Google claims is its “biggest model improvement to Search yet.” While Google’s frontier models, Gemini 4 Carbon and Gemini 4 Argon, are best at deep reasoning for hard problems, Hydrogen is designed for fast execution across a variety of agentic workflows, or tasks in which an AI carries out multiple steps on its own, the company explained in an announcement. The idea behind the model’s release is that using the most powerful model isn’t always needed — sometimes a faster, cheaper, and reasonably smart one will do. Google says Hydrogen completes tasks 2.5 times faster than Gemini 3.8 Flash, its previous fast model, but it’s still pretty smart, even beating the more powerful Gemini 4 Argon on one broad intelligence benchmark, the Artificial Analysis Intelligence Index, at its default high thinking level. In Search, Hydrogen brings several improvements, including a better understanding of user intent, the ability to offer more helpful links and visual responses, and better answers across the different languages supported by Google’s AI Mode. In terms of intent, Google says Hydrogen can handle more nuanced and complicated questions more quickly. This means people can ask their questions in their natural train of thought, including those that have multiple parts or that include highly specific requests. Hydrogen is also better at navigating hard-to-understand typos, Google says. Because of its improvements and better ability to follow instructions and call the right tools, Hydrogen is able to more precisely address each part of a user’…",
+   "fonte": "TechCrunch",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Testate tech",
+   "id": "u3a144",
+   "testo_completo": true
+  },
+  "u3a148": {
+   "titolo": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
+   "link": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/",
+   "data": "2026-11-12T17:17:58+00:00",
+   "testo": "United Airlines said it will restrict access to AI agents seeking to book flights and manage reservations on their users’ behalf, citing a risk to cybersecurity and undermining federal regulations. The airline is the latest American corporate giant to prevent customers from using AI agents and autonomous assistants to access their systems. The move comes as airlines and banks are struggling to differentiate between real customers and AI systems operating on their behalf, such as when users share their logins with their AI assistants. Sharing passwords with apps and assistants can create security risks if those credentials get leaked or exposed. United warns that “sharing account credentials with personal, third-party, AI assistants can expose sensitive information, and actions taken by these tools may result in unintended purchases, account changes, or use of MileagePlus miles.” The airline also warns of a risk of violating federal aviation rules, such as requiring that a human completes flight check-ins to acknowledge that their bags do not contain banned substances. “As a result, United is taking steps to restrict access — directly within our digital platforms and indirectly via travel agencies and aggregators — to prohibit use by unauthorized, third-party personal AI agents or assistants,” the airline said in a statement. “This work includes updates to our booking, ticketing and distribution policies.” The airline’s move follows a warning from banks, including Bank of America, which last week urged customers not to share their passwords with their AI assistants.",
+   "fonte": "TechCrunch",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Testate tech",
+   "id": "u3a148",
+   "testo_completo": true
+  },
+  "u3a131": {
+   "titolo": "Google’s new Gemini model is better at understanding complicated questions",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
+   "sito": "",
+   "data": "2026-11-12T16:55:32-05:00",
+   "testo": "Google says its new Gemini 4 Hydrogen model can give more helpful answers to complex questions, including \"questions with multiple parts, hard-to-understand typos, or highly specific requests.\" The new model can break down your questions and address each part in its responses. It's available starting today in search, the Gemini app, all tiers of Google […]",
+   "fonte": "The Verge",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Testate tech",
+   "id": "u3a131"
+  },
+  "u3a90": {
+   "titolo": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+   "link": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
+   "data": "2026-11-12T18:00:00+00:00",
+   "testo": "Google Search gets a major upgrade with Gemini 4 Hydrogen Today, Google Search is bringing cutting-edge intelligence to everyone with Gemini 4 Hydrogen. This is the biggest model upgrade to Search yet. Hydrogen is now available globally in Google Search for all users, delivering more helpful, visual, and intuitive responses with improved model capabilities: - Better understanding of intent: Search can now handle even more nuanced and complicated questions, quickly understanding what you need. Just ask in your natural flow of thought — including questions with multiple parts, hard-to-understand typos, or highly specific requests. With deeper instruction following and tool calling, Search more precisely follows what you want and gives you relevant responses that address each part of your question. - Improved query fan-out and linking: Hydrogen’s advanced reasoning supercharges our query fan-out technique in Search, connecting you to a broader range of helpful links than before. By more thoroughly understanding your question and conducting simultaneous queries across all the relevant subtopics, Search helps you find sites you previously might not have discovered. - More visual responses: You get highly adaptive, visual, and easy-to-scan responses that are uniquely relevant to your needs — at the speed of Search. You’ll see more images, structured responses, comparison tables, and custom tools built for you. - Richer language understanding: No matter what language you ask in, you’ll now get more highly nuanced and helpful responses across all supported AI Mode languages. Try out Gemini 4 Hydrogen in Search today.",
+   "fonte": "Google (blog ufficiale)",
+   "tipo": "ufficiale",
+   "solo_titolo": false,
+   "categoria": "Laboratori",
+   "id": "u3a90",
+   "testo_completo": true
+  },
+  "u3a150": {
+   "titolo": "Phota Labs uses AI to turn everyday photos into professional-looking shots",
+   "link": "https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots/",
+   "data": "2026-11-12T17:00:00+00:00",
+   "testo": "A new iOS app called Phota Labs gives users access to a personal AI photo assistant that turns everyday snapshots into images that look like they were taken by a professional photographer, all while preserving the authenticity of the image. Rather than giving consumers yet another photo-editing tool, Phota Labs aims to use advances in AI to automate the editing process so it’s easier for anyone to get access to better photos. The a16z-backed startup was founded by Cecilia Zhang and Zach Xia, who met at Adobe while working on computational photography products, including Project Indigo, Lightroom, and Photoshop. The duo saw a gap in the editing tools on the market and believed that although editing tools can be powerful for enhancing photos, they aren’t very effective at fixing a photo that wasn’t captured well in the first place. Phota Labs changes that by focusing on fixing the shot itself while preserving the natural appearances of those in the image. “Phota is your personal photo assistant that can make great photos for any moment you want to keep before you even ask, which means that it’s a very proactive experience,” Zhang told TechCrunch in an interview. “Think of it almost like a photographer or virtual photographer who looks over your camera roll and tries to understand what’s happening and how they could have taken that photo for you on the spot for that scene.” The idea is to use AI to transform photos, whether that’s turning a wide-angle group photo into a tighter portrait or transforming a selfie into a regular shot. Users can choose from different photography styles that determine how AI transforms their images, ranging from subtle edits that preserve the original lens and composition to more dramatic transformations that introduce effects like fish-eye le…",
+   "fonte": "TechCrunch",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Testate tech",
+   "id": "u3a150",
+   "testo_completo": true
+  },
+  "u3a64": {
+   "titolo": "My $300 embroidery machine needed a subscription, so I built my own app",
+   "link": "https://github.com/simpsoka/zigzag",
+   "data": "2026-11-12T17:02:42+00:00",
+   "testo": "ZigZag is a visual embroidery editor built in Rust for performance, with built-in MCP (Model Context Protocol) support so AI agents can create and edit designs alongside you. Turn SVG artwork into stitches, fine-tune it in the editor, and export PES, DST, EXP, JEF, or VP3 for broad compatibility with embroidery machines—or send designs directly to a Brother Skitch (PP1) over Bluetooth. Draw in Illustrator, draw in ZigZag, or let an agent draw. The Rust engine and zigzag command-line tool power the same workflow outside the editor. zigzag-demo.mp4 Stitching on a Brother Skitch (PP1) Download the video (MP4, 1080p) · Original post on X. For Apple Silicon and Intel Macs, macOS 11 or later. Open the DMG, then drag ZigZag into Applications. The release is signed and notarized by Apple. No Rust installation is needed. Download ZigZag for Windows — the ZigZag-<version>-x86_64-windows.zip asset on the latest release. For 64-bit Windows 10 (version 1709 or later) and Windows 11. Unzip it and double-click ZigZag.exe. Windows SmartScreen warns on apps without a Microsoft-trusted signature the first time they run; click More info → Run anyway. No Rust installation is needed. Release notes and checksums · Publishing a release zigzag/ src/svg.rs SVG import (usvg): fill and stroke parts, transforms, text src/document/ editable document; settings saved back into SVG ids, layout edits as SVG transforms, lettering src/params.rs stitch settings tokens + fabric presets src/stitch/fill.rs tatami fill (scanline sections, staggered rows) src/stitch/satin.rs satin columns: two rails, auto-satin, underlays, short stitches src/stitch/stroke.rs running / triple-run stitch src/boolean.rs polygon booleans and offsets (i_overlay) src/design.rs planner: overlap removal, cap order, routing, trims src…",
+   "sito": "https://github.com/simpsoka/zigzag",
+   "fonte": "Show HN – progetti utili (gemme)",
+   "tipo": "vetrina",
+   "solo_titolo": false,
+   "categoria": "Gemme",
+   "id": "u3a64",
+   "testo_completo": true
+  },
+  "u3a94": {
+   "titolo": "Get quick answers from Gemini on any website.",
+   "link": "https://blog.google/innovation-and-ai/products/gemini-app/research-with-gemini-in-chrome/",
+   "data": "2026-11-12T17:00:00+00:00",
+   "testo": "Get quick answers from Gemini on any website. Use Gemini in Chrome to get the answers you need without opening another tab. Here's how. - Click the Gemini icon in your Chrome toolbar to open the side panel. - Ask Gemini to summarize a dense report, compare product details, or explain complicated topics in plain language — all while keeping your spot.",
+   "fonte": "Google (blog ufficiale)",
+   "tipo": "ufficiale",
+   "solo_titolo": false,
+   "categoria": "Laboratori",
+   "id": "u3a94",
+   "testo_completo": true
   }
  },
  "fonti": [
@@ -1101,10 +1198,109 @@
   "aimasterpiecejustdropped",
   "fable52builtthissceneinblender",
   "nvidiasjensenhuangresignsasceocolettekressnamedinterim",
-  "factcheckviralvideoofwomantouristbeingassaultedinindiaisactuallyfromuzbekistan"
+  "factcheckviralvideoofwomantouristbeingassaultedinindiaisactuallyfromuzbekistan",
+  "jackdorseysquarematesaitoollaunchesforallsquaresellers",
+  "screenburngrouplaunchesaitooltowritefullmicrodramaseasons",
+  "googleportalintelligenzaartificialesuapplecarplayconlappgemini",
+  "cop31quandolintelligenzaartificialediventalanuovasfidaclimatica",
+  "suinstagramoraèpossibilecrearefiltriconlaigrazieaeffectbuilder",
+  "geminilivearrivasucarplaypuoigestiremaileappuntamentiinauto",
+  "monicamondolianoncispaventiusataeticamentepuòservireperilbenecomune",
+  "pianospostamenticasalavoroentroil31dicembresondaggioecalcoloco2conmicrosoftforms",
+  "applesharborappcouldmakerunninglocalaionmaceasier",
+  "applewantstoturnyourmacintoaprivateaiserver",
+  "asusannunciailminipcascentqn10",
+  "familylinkcantstopgeminifromdoingyourkidshomeworkbut5settingsmakeitharder",
+  "microsoftwantsdevelopersspendinglesstimefixingaimistakes",
+  "my300embroiderymachineneededasubscriptionsoibuiltmyownapp",
+  "securomaintainerhere8monthsofworkandtheresultssofar",
+  "tryingtogetfamilymusicandaudiobooksoffspotifyandaudibleopensourcestuffthatseemst",
+  "anopenlettertonvidiasnextceoitstimetoopensourcecuda",
+  "selfhostedclaudemanagedagentskeepsagentcredentialsinyourenvironment",
+  "anthropiclaunchesselfhostedclaudemanagedagentsinprivatebeta",
+  "anthropicletscustomersselfhostclaudemanagedagents",
+  "googlesearchgetsamajorupgradewithgemini4hydrogen",
+  "gemini4hydrogeneverydaycodingandagenticworkflowsfordevelopers",
+  "introducinggemini4hydrogen",
+  "scientistsareusinggoogleaitohelprestoregiantkelpforests",
+  "getquickanswersfromgeminionanywebsite",
+  "googlerollsoutgemini4hydrogenfinallyreplacing38flash",
+  "anthropiclaunchesclaudeformanufacturing",
+  "withipoloominganthropiclaunchesclaudeproductformanufacturers",
+  "openairollsoutchatgptbusinessprofiles",
+  "chatgptlaunchesgooglelikeprofilesforbusinesses",
+  "googlelaunchesgemini4hydrogenforfastercodingandagentictasks",
+  "googlelaunchesgemini4hydrogenforeverydayagenticworkflows",
+  "googlelaunchesgemini4hydrogenforagenticcoding",
+  "advisorstakenoteasopenailauncheschatgptbusinessprofiles",
+  "webflowlaunchesnewmcpconnectorformicrosoftcopilot",
+  "anthropiclaunchesclaudeformanufacturingmidiporoadshow",
+  "anthropicsipoisaboutsixtimesoversubscribed",
+  "claudemeetingsletsanthropicsaijoinyourvideocalls",
+  "anthropicopenaisuedforallegedlyinfringinginventorsneuralnetworkpatents",
+  "claudeaipredictsamonsterxrpmoveaheadofanthropicipo",
+  "anthropicsclaudemeetingsbetaputsanaiinyourvideocalls",
+  "anthropiclaunchesclaudemeetingsbetaforlivevideocalls",
+  "microsoftworkstoaddressmassiveoutageacrosscopilotteams",
+  "ortecusesmicrosoft365copilottoturnlogisticsexpertiseintofastertrusteddecisions",
+  "ismicrosoftdownrightnowmicrosoftoutageshitoutlookcopilotmore",
+  "ismicrosoftoutlookdownwhatcompanysaysaboutmicrosoft365outage",
+  "microsoftoutageaffectingoutlookteamscopilotandmore",
+  "perplexityaisuedoverundisclosedusagecapsonpaidsubscriptionfeatures",
+  "grokbot10launcheswithsharedbotsinslackteamsandmeetings",
+  "alicehuangscompaniesreportedlyinvestindeepseekandpromiseitnvidiachips",
+  "grokbotcannowreadandsendmessagesonyourmac",
+  "llmonanllmnativemarkuplanguagenowingranite413band8b",
+  "googlesnewgeminimodelisbetteratunderstandingcomplicatedquestions",
+  "noaiagentsdidnotdiscoverapreviouslyunknownmayasite",
+  "ohpalantirisprogressivenowisit",
+  "thejensenhuangscandalishardlyover",
+  "aichatbotsarerecommendingfakeretailwebsitesstudyfinds",
+  "moregamedevelopersarestartingtousegenerativeai",
+  "jensenhuangisoutwhatdidchinawantfromhim",
+  "nebiusteststheneocloudplaybookwith40billioninplannedspending",
+  "jensenhuangwashavingathirdaffairreutersreports",
+  "googleslatestsearchupgradepromisesbetteranswerstoyourmostcomplicatedquestions",
+  "nectarlaunchesanaiagenttoautomatecreatordiscoveryandoutreachforbrands",
+  "jensenhuangsexitputsnvidiassupportforopensourceinquestion",
+  "huggingfaceceovowstokeepfightingforopensourceaiafterjensenhuangsexit",
+  "unitedairlinesblocksaiagentsfrombookingflightscitingcybersecurityrisks",
+  "softbanksbilliondollarlossmayhaveputacaponaisnaturalgasambitions",
+  "photalabsusesaitoturneverydayphotosintoprofessionallookingshots",
+  "jensenhuangagreestotestifybeforecongress",
+  "fivewaysjensenhuangsousterfromnvidiacoulddamagetheaiindustry",
+  "arslivewhatdroneattacksondatacentersmeanformodernlifeinthecloud",
+  "googlefacescallsforaimoratoriumsinschoolsaftergeminipilotbacklash",
+  "nvidiaprivatelyconfirmeditcouldtrackchipstofightsmugglingevenasindustrypubliclyq",
+  "googlesgemini4hydrogenoutscoresthebiggerargonjustfourweeksafteritslaunch",
+  "openaisdatasuggeststhatfrontiermodelsarehidingtheirthoughtsbecausedevelopersopti",
+  "bolandceseacostanuovoecosistemadelliatutelicompetitivitàediritti",
+  "mediasetpresentamialagenteiachelavorainsintoniacongliumani",
+  "occhialismartdiapplesenzadisplayillancionel2027",
+  "googleaprelevenditedeglismartglasscongemini",
+  "gemini4carbon5usiconcretieipromptdaprovaresubito",
+  "trumpproponetimcookcomenuovoleaderdinvidia",
+  "microsoftdownproblemiaoutlook365copilotxboxetantialtriservizi",
+  "nuovabmwi350xdrivelaneueklassesiconfrontaconlastoriavideo",
+  "adobemax2026conlaipuoientrarenellefotoeparlarecoipersonaggi",
+  "rtx5080da24gbnvidiaciripensalegddr7costanotroppo",
+  "autousatele5truffepiùdiffuseineuropaeperlequalièmegliodrizzareleantenne",
+  "newsletterdel12novembre2026",
+  "possiblefalsepositivemalwareai695752146dllwrapexemsys2mingw",
+  "bestnewsiveseentoday",
+  "mygamegotremovedfromgamedevsubsforusingaisoheresexactlyhowimadeitwithclaude",
+  "hellonicetomeetyournamehere",
+  "arewenotallowedtoevenaskbasicbiologyquestions",
+  "sothiswillbetrueincoupleofyears",
+  "theregulationoflocalaicouldshouldbeviewedasthelargestcensorshipimplementationint",
+  "anupdatetoourcolumnaboutcaliforniasailaw",
+  "thenumberoftankersbeingloadedattherussianportofustlugahasnearlyhalved",
+  "europesmissingwatchdogshowboththedsaandtheaiactarefailingonenforcement",
+  "skiptracingin2026howmuchcanyoustilldofromadeskvsinthefield",
+  "cananyonehelpwithcheaterapps"
  ],
  "audio": "audio/2026-11-12.mp3",
- "durata": 224.1,
+ "durata": 304.2,
  "aggiornamenti": [
   {
    "generato": "2026-11-12T13:57:36+00:00",
@@ -1320,6 +1516,187 @@
     ],
     "formato": 2,
     "controllo_siti": []
+   }
+  },
+  {
+   "generato": "2026-11-12T22:28:33+00:00",
+   "modello": "gemini-3.6-flash",
+   "testi_completi": 29,
+   "riassunto": {
+    "titolo_giorno": "Debutta Gemini 4 Hydrogen nella Ricerca Google e arrivano nuovi strumenti creativi",
+    "in_breve": "La Ricerca Google si aggiorna con il modello Gemini 4 Hydrogen, capace di analizzare quesiti articolati e mostrare risposte visive. Nel campo della creatività arrivano Phota Labs per ritoccare le foto su iPhone e ZigZag per progettare ricami con l'AI su PC.",
+    "citati": [
+     "Google Search",
+     "Phota Labs",
+     "ZigZag"
+    ],
+    "da_provare": [
+     {
+      "cosa": "ZigZag",
+      "a_cosa_serve": "Un'applicazione per progettare e modificare disegni di ricamo a partire da immagini vettoriali SVG. Integra il supporto per agenti AI che possono creare o modificare i motivi insieme all'utente.",
+      "per_chi": "Lavoro e tutti i giorni",
+      "ambito": "Creatività e hobby",
+      "come_iniziare": [
+       "Scarica l'archivio ZIP per Windows o il pacchetto DMG per Mac ed esegui l'applicazione",
+       "Importa una grafica vettoriale in formato SVG o fai generare il disegno all'agente AI",
+       "Esporta lo schema nel formato compatibile con la tua macchina da ricamo (es. PES, DST, EXP)"
+      ],
+      "costo": "Gratis",
+      "piattaforme": [
+       "Windows",
+       "Mac"
+      ],
+      "sul_dispositivo": false,
+      "come_sfruttarla": "Creare e personalizzare motivi di ricamo da inviare direttamente alle macchine da cucire compatibili.",
+      "italiano": "Non indicato",
+      "difficolta": "Facile",
+      "temi": [
+       "Agenti AI",
+       "Open source e self-hosting",
+       "Foto e immagini"
+      ],
+      "fonti": [
+       "u3a64"
+      ],
+      "affidabilita": "Appena lanciato",
+      "prova": "https://github.com/simpsoka/zigzag",
+      "piattaforme_verificate": true
+     },
+     {
+      "cosa": "Phota Labs",
+      "a_cosa_serve": "Un'applicazione fotografica guidata dall'AI che trasforma gli scatti quotidiani in immagini di qualità professionale, correggendo inquadratura e illuminazione senza alterare i tratti delle persone.",
+      "per_chi": "Tutti i giorni",
+      "ambito": "Foto e video",
+      "come_iniziare": [],
+      "costo": "Non indicato",
+      "piattaforme": [
+       "iPhone"
+      ],
+      "sul_dispositivo": false,
+      "come_sfruttarla": "Ricavare ritratti definiti da foto di gruppo o scatti veloci mantenendo un aspetto naturale.",
+      "italiano": "Non indicato",
+      "difficolta": "Facile",
+      "temi": [
+       "Foto e immagini",
+       "Assistenti e chatbot",
+       "Video"
+      ],
+      "fonti": [
+       "u3a150"
+      ],
+      "affidabilita": "Una fonte",
+      "prova": ""
+     }
+    ],
+    "osint": [],
+    "gemme": [
+     {
+      "cosa": "Securo",
+      "a_cosa_serve": "Un gestore di finanze personali e per piccole attività open source, progettato per essere installato sul proprio server locale o privato.",
+      "perche_gemma": "Ti permette di tenere traccia di entrate e uscite senza condividere dati finanziari con servizi cloud esterni.",
+      "con_ai": "",
+      "piattaforme": [
+       "Browser"
+      ],
+      "self_hosted": true,
+      "costo": "Gratis",
+      "difficolta": "Media",
+      "temi": [
+       "Privacy e sicurezza",
+       "Open source e self-hosting",
+       "AI sul dispositivo"
+      ],
+      "fonti": [
+       "u3a72"
+      ],
+      "affidabilita": "Da verificare",
+      "come_iniziare": [],
+      "sul_dispositivo": false,
+      "come_sfruttarla": "",
+      "prova": ""
+     }
+    ],
+    "sezioni": [
+     {
+      "titolo": "Novità negli strumenti che già usi",
+      "notizie": [
+       {
+        "titolo": "Arriva il modello Gemini 4 Hydrogen nella Ricerca Google",
+        "strumento": "Google Search",
+        "riassunto": "Google introduce Gemini 4 Hydrogen nella Ricerca per rispondere meglio a domande articolate e con più richieste contemporanee. Il sistema genera risposte più visive con tabelle e immagini e gestisce con maggiore precisione gli errori di battitura.",
+        "come_provarla": "Fai una ricerca su Google ponendo una domanda complessa o dettagliata.",
+        "disponibilita": "Disponibile ora",
+        "fonti": [
+         "u3a90",
+         "u3a131",
+         "u3a144"
+        ],
+        "temi": [
+         "Ricerca e informazioni",
+         "Assistenti e chatbot",
+         "Foto e immagini"
+        ],
+        "affidabilita": "Fonte ufficiale",
+        "solo_titoli": false
+       },
+       {
+        "titolo": "Gemini integrato nel pannello laterale del browser",
+        "strumento": "Google Chrome",
+        "riassunto": "Attraverso il pannello laterale di Chrome è possibile interrogare Gemini per riassumere articoli complessi, confrontare prodotti o spiegare argomenti direttamente sulla scheda aperta, senza cambiare pagina.",
+        "come_provarla": "Clicca sull'icona di Gemini nella barra degli strumenti di Chrome per aprire la barra laterale.",
+        "disponibilita": "Disponibile ora",
+        "fonti": [
+         "u3a94"
+        ],
+        "temi": [
+         "Assistenti e chatbot",
+         "Lavoro e produttività"
+        ],
+        "affidabilita": "Fonte ufficiale",
+        "solo_titoli": false
+       }
+      ]
+     },
+     {
+      "titolo": "In breve",
+      "breve": true,
+      "notizie": [
+       {
+        "titolo": "United Airlines vieta l'uso di agenti AI per le prenotazioni",
+        "riassunto": "La compagnia aerea ha bloccato l'accesso agli agenti AI esterni per la prenotazione e gestione dei voli a causa dei rischi di sicurezza legati al riutilizzo delle password dei passeggeri.",
+        "fonti": [
+         "u3a148"
+        ],
+        "temi": [
+         "Agenti AI",
+         "Privacy e sicurezza"
+        ],
+        "affidabilita": "Una fonte",
+        "solo_titoli": false
+       }
+      ]
+     }
+    ],
+    "formato": 2,
+    "controllo_siti": [
+     {
+      "cosa": "Phota Labs",
+      "esito": "nessun sito da aprire"
+     },
+     {
+      "cosa": "Securo",
+      "esito": "nessun sito da aprire"
+     },
+     {
+      "cosa": "ZigZag",
+      "sito": "https://github.com/simpsoka/zigzag",
+      "pagina": 379833,
+      "trovate": [
+       "Windows",
+       "Mac"
+      ]
+     }
+    ]
    }
   }
  ]
