@@ -1,0 +1,872 @@
+{
+ "giorno": "2026-11-12",
+ "generato": "2026-11-12T05:24:53+00:00",
+ "modello": "gemini-3.6-flash",
+ "testi_completi": 32,
+ "riassunto": {
+  "titolo_giorno": "Apple lavora a Harbor per l'AI locale su Mac e DeepL traduce le emozioni vocali",
+  "in_breve": "Apple sta sviluppando Harbor per consentire l'esecuzione di modelli AI locali e privati sui Mac senza passare dal cloud. Nel frattempo DeepL aggiorna la sua traduzione vocale per mantenere tono e sarcasmo dell'interlocutore, mentre Google sperimenta Tabletop per creare strumenti di lavoro a parole.",
+  "citati": [
+   "Apple Harbor",
+   "DeepL Voice",
+   "Tabletop di Google"
+  ],
+  "da_provare": [
+   {
+    "cosa": "Tabletop di Google",
+    "a_cosa_serve": "Un esperimento AI di Google per creare hub e plance di collaborazione personalizzate descrivendo a parole ciò di cui si ha bisogno.",
+    "per_chi": "Lavoro e tutti i giorni",
+    "ambito": "Organizzazione e lavoro",
+    "come_iniziare": [],
+    "costo": "Non indicato",
+    "piattaforme": [
+     "Browser"
+    ],
+    "sul_dispositivo": false,
+    "come_sfruttarla": "Creare una plancia personalizzata per coordinare progetti di lavoro o organizzare attività di gruppo senza programmare.",
+    "italiano": "Non indicato",
+    "difficolta": "Facile",
+    "temi": [
+     "Lavoro e produttività",
+     "Assistenti e chatbot",
+     "Scrittura e documenti"
+    ],
+    "fonti": [
+     "a133"
+    ],
+    "affidabilita": "Una fonte",
+    "prova": ""
+   },
+   {
+    "cosa": "DeepL Voice",
+    "a_cosa_serve": "Servizio di traduzione vocale in tempo reale aggiornato con il nuovo modello Aure, in grado di trasferire emozione, tono, sarcasmo e ritmo del parlato originale nella lingua tradotta.",
+    "per_chi": "Lavoro e tutti i giorni",
+    "ambito": "Voce e audio",
+    "come_iniziare": [],
+    "costo": "Non indicato",
+    "piattaforme": [
+     "Browser"
+    ],
+    "sul_dispositivo": false,
+    "come_sfruttarla": "Tradurre conversazioni dal vivo o riunioni online senza perdere le sfumature emotive del discorso.",
+    "italiano": "Sì",
+    "difficolta": "Facile",
+    "temi": [
+     "Voce e audio",
+     "Lavoro e produttività"
+    ],
+    "fonti": [
+     "a163"
+    ],
+    "affidabilita": "Una fonte",
+    "prova": ""
+   },
+   {
+    "cosa": "Project Screen Test di Adobe",
+    "a_cosa_serve": "Strumento creativo che permette di configurare e dirigere personaggi virtuali conversando a voce prima di generare provini e video animati.",
+    "per_chi": "Lavoro",
+    "ambito": "Video e immagini",
+    "come_iniziare": [],
+    "costo": "Non indicato",
+    "piattaforme": [
+     "Browser"
+    ],
+    "sul_dispositivo": false,
+    "come_sfruttarla": "Intervistare a voce un avatar virtuale per definirne personalità ed espressività prima di creare contenuti video.",
+    "italiano": "Non indicato",
+    "difficolta": "Facile",
+    "temi": [
+     "Video",
+     "Foto e immagini",
+     "Voce e audio"
+    ],
+    "fonti": [
+     "a135"
+    ],
+    "affidabilita": "Una fonte",
+    "prova": ""
+   },
+   {
+    "cosa": "MiniMax H3-Image",
+    "a_cosa_serve": "Modello di intelligenza artificiale per la generazione rapida di immagini in risoluzione 4K in 10 secondi.",
+    "per_chi": "Lavoro e tutti i giorni",
+    "ambito": "Foto e immagini",
+    "come_iniziare": [],
+    "costo": "Non indicato",
+    "piattaforme": [],
+    "sul_dispositivo": false,
+    "come_sfruttarla": "Generare rapidamente immagini e grafiche ad alta definizione per presentazioni e social media.",
+    "italiano": "Non indicato",
+    "difficolta": "Facile",
+    "temi": [
+     "Foto e immagini"
+    ],
+    "fonti": [
+     "a11"
+    ],
+    "affidabilita": "Appena lanciato",
+    "prova": "https://www.producthunt.com/products/minimax"
+   }
+  ],
+  "osint": [],
+  "gemme": [
+   {
+    "cosa": "Tesserae",
+    "a_cosa_serve": "Piattaforma per progettare dashboard personalizzate via browser e trasmetterle a schermi e-ink a colori.",
+    "perche_gemma": "Gratuita, open source, utilizzabile via Docker o Home Assistant senza bisogno di creare un account.",
+    "con_ai": "",
+    "piattaforme": [
+     "Browser"
+    ],
+    "self_hosted": true,
+    "costo": "Gratis",
+    "difficolta": "Media",
+    "temi": [
+     "Open source e self-hosting",
+     "Lavoro e produttività"
+    ],
+    "fonti": [
+     "a68"
+    ],
+    "affidabilita": "Da verificare",
+    "come_iniziare": [],
+    "sul_dispositivo": false,
+    "come_sfruttarla": "",
+    "prova": ""
+   }
+  ],
+  "sezioni": [
+   {
+    "titolo": "Novità negli strumenti che già usi",
+    "notizie": [
+     {
+      "titolo": "In arrivo l'app Harbor per eseguire AI locale su Mac",
+      "strumento": "Apple Harbor",
+      "riassunto": "Apple sta lavorando all'applicazione Harbor per Mac, pensata per trasformare i computer in server AI locali ed eseguire grandi modelli senza inviare dati al cloud e senza usare la riga di comando.",
+      "come_provarla": "",
+      "disponibilita": "In arrivo",
+      "fonti": [
+       "a56",
+       "a44",
+       "a47"
+      ],
+      "temi": [
+       "AI sul dispositivo",
+       "Privacy e sicurezza"
+      ],
+      "affidabilita": "Una fonte",
+      "solo_titoli": true
+     },
+     {
+      "titolo": "Alexa per lo Shopping arriva ufficialmente in Italia",
+      "strumento": "Amazon Alexa",
+      "riassunto": "Debutta anche in Italia il nuovo assistente vocale AI Alexa per lo Shopping, studiato per guidare gli utenti con consigli su misura durante gli acquisti.",
+      "come_provarla": "",
+      "disponibilita": "Disponibile ora",
+      "fonti": [
+       "a32"
+      ],
+      "temi": [
+       "Assistenti e chatbot",
+       "Lavoro e produttività",
+       "Voce e audio"
+      ],
+      "affidabilita": "Una fonte",
+      "solo_titoli": true
+     }
+    ]
+   },
+   {
+    "titolo": "In breve",
+    "breve": true,
+    "notizie": [
+     {
+      "titolo": "ChatGPT ritirerà le vecchie modalità vocali",
+      "riassunto": "OpenAI ritirerà le modalità vocali Standard e Avanzata di ChatGPT l'11 dicembre 2026 per migrare tutti gli utenti sulla nuova voce GPT-Live.",
+      "fonti": [
+       "a180"
+      ],
+      "temi": [
+       "Assistenti e chatbot",
+       "Voce e audio"
+      ],
+      "affidabilita": "Una fonte",
+      "solo_titoli": false
+     }
+    ]
+   }
+  ],
+  "formato": 2,
+  "controllo_siti": [
+   {
+    "cosa": "Tabletop di Google",
+    "esito": "nessun sito da aprire"
+   },
+   {
+    "cosa": "DeepL Voice",
+    "esito": "nessun sito da aprire"
+   },
+   {
+    "cosa": "Project Screen Test di Adobe",
+    "esito": "nessun sito da aprire"
+   },
+   {
+    "cosa": "Tesserae",
+    "esito": "nessun sito da aprire"
+   },
+   {
+    "cosa": "MiniMax H3-Image",
+    "sito": "https://www.producthunt.com/r/p/1311715?app_id=339",
+    "esito": "errore: HTTP Error 403: Forbidden"
+   }
+  ]
+ },
+ "articoli": {
+  "a47": {
+   "titolo": "Apple wants to turn your Mac into a private AI server without making you touch the Terminal",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWHE3TjdJcG9ndmx3RThacHNxNDd1V0poU3Nud1IzNWFha0FZVFB3RkhidmFvUnltYUxhLWFJaGREOEtESl85TjNmb2xJZVJsOXVOVnR1dmU4bm1MR184YkVrdHZhS0xURVYteTNxVUJBYnpHbkJvcTd1M0hHYWphS0tXaGFPX1BhMlk4ZFc2d0pBdW1XYVdjUHFYT2VEWTdOTDRjX1hfbVlmTURORjJzOTA0VzNRQXhOdkM0VDBLNU1iN2dPZ1hjcGhwc1E?oc=5",
+   "data": "2026-11-11T11:59:19+00:00",
+   "testo": "",
+   "fonte": "Digital Trends",
+   "tipo": "minore",
+   "solo_titolo": true,
+   "categoria": "Strumenti",
+   "id": "a47"
+  },
+  "a44": {
+   "titolo": "Harbor: Apple Plans a Mac App for Local A.I. Without the Cloud",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5uNEFfcHJMSEVjMG1mU1k4eFhQMXFPUzhXTzRsd0VWdWwwOWlDRjZmd1F1em9JX00zZXZKcl9NcXR0X0laUHN6andma2RFWmZUQUlJN0w1LWluOHhxYUVVbUxISmhXUlZTT2w5bA?oc=5",
+   "data": "2026-11-11T10:58:33+00:00",
+   "testo": "",
+   "fonte": "www.trendingtopics.eu",
+   "tipo": "minore",
+   "solo_titolo": true,
+   "categoria": "Strumenti",
+   "id": "a44"
+  },
+  "a32": {
+   "titolo": "Alexa per lo Shopping arriva in Italia, cos'è e come funziona il nuovo assistente AI",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNFJKY1h6T0t5cEFFLWZLUVpWX3o0b3BqdG1KS0FTYzhnRWhadTc2MTFIMXdRbkNJWUhGb2E2TGdGZFE5R0FmSE1QU1IzQkM5WTBJc2ZWTjFMZ1hJdjhhaG9vdDlBSVVOamxNQWNsekhJcmxRYXYyOXc5aU9QWW12SXFGYw?oc=5",
+   "data": "2026-11-11T15:19:31+00:00",
+   "testo": "",
+   "fonte": "Sky TG24",
+   "tipo": "testata",
+   "solo_titolo": true,
+   "categoria": "Strumenti",
+   "id": "a32"
+  },
+  "a56": {
+   "titolo": "Apple lavora a un'app per trasformare i Mac in datacenter AI in locale",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTlJvRDV6aVd1NjZyMXNPMVFnajRxLVR3ZXZoU295RHc1SG9idTNKTWtmOWRKNUpWXzRUeDNwMF9sUTM4NWcxci14WEExeVNYNDVoNmE0Nkl0LXFzV0pMX2dxOGhqYXY1VUdFRFRMZjYzTmltbXl6bl9YUkpJQkk1anNLOEc0WG5xVkhwaw?oc=5",
+   "data": "2026-11-11T10:46:16+00:00",
+   "testo": "",
+   "fonte": "HDblog.it",
+   "tipo": "testata",
+   "solo_titolo": true,
+   "categoria": "Strumenti",
+   "id": "a56"
+  },
+  "a133": {
+   "titolo": "Google’s Tabletop AI experiment lets you build custom collaboration apps",
+   "link": "https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability",
+   "sito": "",
+   "data": "2026-11-11T11:00:00-05:00",
+   "testo": "Google has cooked up a new experimental AI tool called Tabletop that generates customized collaborative hubs to help you coordinate with family, and friends. The Tabletop platform shares some visual similarities with workplace management apps like Asana and Monday, but with a built-in AI feature that allows you to vibecode personalized interactive tools by describing […]",
+   "fonte": "The Verge",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Testate tech",
+   "id": "a133"
+  },
+  "a180": {
+   "titolo": "GPT-Live: cambia la modalità vocale di ChatGPT",
+   "link": "https://www.punto-informatico.it/gpt-live-cambia-modalita-vocale-chatgpt/",
+   "data": "2026-11-11T13:40:57+00:00",
+   "testo": "OpenAI ritira le modalità vocali Standard e Avanzata di ChatGPT l'11 dicembre 2026 e passa tutti a GPT-Live. Cosa succede alle conversazioni. The post GPT-Live: cambia la modalità vocale di ChatGPT appeared first on Punto Informatico .",
+   "fonte": "Punto Informatico",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Italia",
+   "id": "a180"
+  },
+  "a11": {
+   "titolo": "MiniMax H3-Image",
+   "link": "https://www.producthunt.com/products/minimax",
+   "sito": "https://www.producthunt.com/r/p/1311715?app_id=339",
+   "data": "2026-11-10T08:35:28-08:00",
+   "testo": "Bringing 4K image generation into the 10-second era",
+   "fonte": "Product Hunt (AI)",
+   "tipo": "vetrina",
+   "solo_titolo": false,
+   "categoria": "Strumenti",
+   "id": "a11"
+  },
+  "a135": {
+   "titolo": "Adobe’s AI experiments let you walk around in photos and interview your characters",
+   "link": "https://www.theverge.com/tech/1031505/adobe-max-2026-sneaks-experiments-ai",
+   "sito": "",
+   "data": "2026-11-11T09:00:00-05:00",
+   "testo": "Some of the most impressive tech that Adobe showcases at its annual Max conference each year is the experimental features it’s developing, and the latest of those tools are being announced today: they can transform images into explorable 3D scenes, design AI characters by talking to them, and turn photo editing into a copy/paste process. Adobe’s AI experiments let you walk around in photos and interview your characters Here are some of the experimental ‘sneaks’ being showcased at Adobe Max. The first (and weirdest, in my opinion) is Project Screen Test, which is designed to make AI-generated characters easier to develop and use for video content. Instead of just describing how the character should sound and behave in text prompts, the tool lets you talk to the character and direct them in an audition-like environment. You start by describing some base personality traits, such as “anxious, shy, awkward,” and giving the character a voice, either by selecting a preset, describing how it sounds in a prompt, or uploading sample audio for it to reference. You can then expand its persona in further detail by conversing with the character as if you’re talking on FaceTime, outlining its backstory, temperament, goals, flaws, fears, movement quirks and more. Once you’re happy, the tool lets you generate animated screen tests with the character by describing an environment or scenario you want to put them in. This is currently a standalone creative exercise, and it’s not clear how (or if) it could feature in any of Adobe’s existing AI video tools. The results provided a more identifiable and consistent personality compared to many soulless animated AI characters I’ve seen, but that’s the entire reason this exists — AI video generation provides far less creative control compared to…",
+   "fonte": "The Verge",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Testate tech",
+   "id": "a135",
+   "testo_completo": true
+  },
+  "a68": {
+   "titolo": "What a self-hosted dashboard looks like on 31.5 inches of colour e-ink",
+   "link": "https://www.reddit.com/r/selfhosted/comments/1xtaf06/what_a_selfhosted_dashboard_looks_like_on_315/",
+   "sito": "",
+   "data": "2026-11-11T06:18:43+00:00",
+   "testo": "I maintain Tesserae, a self-hosted server for e-ink dashboards. You compose a dashboard in the browser, the server renders it headless, and it pushes the frame to your panels. It's AGPL-3.0, runs as a Docker container or Home Assistant add-on, and needs no account. The frame is a Fraimic Large Canvas, a 31.5\" colour e-ink display. Two dashboards are in rotation on it: The project's own numbers fo…",
+   "fonte": "Reddit r/selfhosted",
+   "tipo": "community",
+   "solo_titolo": false,
+   "categoria": "Gemme",
+   "id": "a68"
+  },
+  "a163": {
+   "titolo": "DeepL wants real-time translation to finally capture sarcasm and mood shifts",
+   "link": "https://the-decoder.com/with-its-new-voice-model-deepl-voice-now-translates-intonation-and-speaking-speed-into-other-languages-as-well/",
+   "data": "2026-11-11T13:50:30+00:00",
+   "testo": "DeepL wants real-time translation to finally capture sarcasm and mood shifts DeepL Voice's real-time translations are about to sound a lot more natural. The company's new Aure model carries over tone, emotion, emphasis, and speaking pace from the original speaker's voice into the target language. Until now, DeepL Voice generated translated speech from a static voice sample captured at the start of a conversation. That meant it couldn't pick up on mood shifts or sarcasm. Aure works differently, continuously analyzing both the translated text and the original audio as the conversation unfolds. During training, DeepL separates voice identity, speech melody, and content so each component can be transferred into the new language independently. Reinforcement learning keeps accents out of the output. Aure runs automatically in DeepL Voice for Online Meetings, In-Person Conversations, and the DeepL API. At launch, the model supports English, German, Spanish, French, Italian, Japanese, Portuguese, and Korean. DeepL first rolled out voice preservation in September. In May, the company cut about 250 jobs to restructure around smaller, AI-powered teams as part of what it called becoming an \"AI-native\" company. DeepL also acquired the team behind audio streaming specialist Mixhalo to bolster its real-time speech translation. Block is chasing a similar goal of capturing meaning beyond words. The company recently unveiled Dessa, a speech model designed to detect emotions and sarcasm directly from audio. AI News Without the Hype – Curated by Humans Subscribe to THE DECODER for ad-free reading, a weekly AI newsletter, our exclusive \"AI Radar\" frontier report six times a year, full archive access, and access to our comment section. Subscribe now",
+   "fonte": "The Decoder",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Testate tech",
+   "id": "a163",
+   "testo_completo": true
+  }
+ },
+ "fonti": [
+  {
+   "nome": "Product Hunt (AI)",
+   "ok": true,
+   "presi": 15
+  },
+  {
+   "nome": "Show HN (nuovi progetti)",
+   "ok": true,
+   "presi": 2
+  },
+  {
+   "nome": "Nuove app AI (internazionale)",
+   "ok": true,
+   "presi": 10
+  },
+  {
+   "nome": "Nuove app AI (Italia)",
+   "ok": true,
+   "presi": 8
+  },
+  {
+   "nome": "Novità AI da provare (Italia)",
+   "ok": true,
+   "presi": 8
+  },
+  {
+   "nome": "AI sul dispositivo (internazionale)",
+   "ok": true,
+   "presi": 8
+  },
+  {
+   "nome": "AI sul dispositivo (Italia)",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "Android Police (AI su Android)",
+   "ok": true,
+   "presi": 3
+  },
+  {
+   "nome": "Windows Central (AI su Windows)",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "Ollama (nuove versioni)",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "Open WebUI (nuove versioni)",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "Show HN – progetti utili (gemme)",
+   "ok": true,
+   "presi": 6
+  },
+  {
+   "nome": "Reddit r/selfhosted",
+   "ok": true,
+   "presi": 6
+  },
+  {
+   "nome": "Reddit r/opensource",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "Alternative open source (Google News)",
+   "ok": true,
+   "presi": 6
+  },
+  {
+   "nome": "n8n (nuove versioni)",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "Immich (nuove versioni)",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "OpenAI",
+   "ok": true,
+   "presi": 3
+  },
+  {
+   "nome": "Google (blog ufficiale)",
+   "ok": true,
+   "presi": 4
+  },
+  {
+   "nome": "Google Gemini (blog)",
+   "ok": true,
+   "presi": 3
+  },
+  {
+   "nome": "Nuove funzioni AI (Google News)",
+   "ok": true,
+   "presi": 12
+  },
+  {
+   "nome": "Anthropic / Claude",
+   "ok": true,
+   "presi": 6
+  },
+  {
+   "nome": "Microsoft Copilot",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "Altri assistenti AI (Perplexity, Mistral, Meta AI…)",
+   "ok": true,
+   "presi": 8
+  },
+  {
+   "nome": "Hugging Face (modelli e strumenti aperti)",
+   "ok": true,
+   "presi": 3
+  },
+  {
+   "nome": "Mistral AI",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "The Verge",
+   "ok": true,
+   "presi": 9
+  },
+  {
+   "nome": "TechCrunch",
+   "ok": true,
+   "presi": 12
+  },
+  {
+   "nome": "Ars Technica",
+   "ok": true,
+   "presi": 6
+  },
+  {
+   "nome": "MIT Technology Review",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "The Decoder",
+   "ok": true,
+   "presi": 8
+  },
+  {
+   "nome": "TLDR AI (newsletter)",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "ANSA",
+   "ok": true,
+   "presi": 6
+  },
+  {
+   "nome": "Wired Italia",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "Il Sole 24 Ore Tecnologia",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "Punto Informatico",
+   "ok": true,
+   "presi": 11
+  },
+  {
+   "nome": "HDblog",
+   "ok": true,
+   "presi": 4
+  },
+  {
+   "nome": "AI4Business",
+   "ok": true,
+   "presi": 4
+  },
+  {
+   "nome": "Agenda Digitale (AI)",
+   "ok": true,
+   "presi": 3
+  },
+  {
+   "nome": "Garante Privacy e AI",
+   "ok": true,
+   "presi": 3
+  },
+  {
+   "nome": "Malwarebytes (app e truffe AI)",
+   "ok": true,
+   "presi": 2
+  },
+  {
+   "nome": "Reddit",
+   "ok": true,
+   "presi": 8
+  },
+  {
+   "nome": "Reddit (AI locale)",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "Simon Willison (prove pratiche di strumenti AI)",
+   "ok": true,
+   "presi": 4
+  },
+  {
+   "nome": "Bellingcat (guide e strumenti)",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "GIJN (guide per giornalisti investigativi, via Google News)",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "OSINT – verifica e fact-checking (internazionale)",
+   "ok": true,
+   "presi": 4
+  },
+  {
+   "nome": "OSINT – nuovi strumenti (internazionale)",
+   "ok": true,
+   "presi": 4
+  },
+  {
+   "nome": "OSINT – strumenti (Italia)",
+   "ok": true,
+   "presi": 2
+  },
+  {
+   "nome": "Facta (fact-checking, contenuti falsi e AI)",
+   "ok": true,
+   "presi": 3
+  },
+  {
+   "nome": "Week in OSINT (Sector035)",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "The OSINT Newsletter",
+   "ok": true,
+   "presi": 2
+  },
+  {
+   "nome": "IDMO (osservatorio italiano sulla disinformazione)",
+   "ok": true,
+   "presi": 2
+  },
+  {
+   "nome": "EU DisinfoLab",
+   "ok": true,
+   "presi": 2
+  },
+  {
+   "nome": "Reddit (OSINT)",
+   "ok": true,
+   "presi": 3
+  },
+  {
+   "nome": "Hacker News (OSINT)",
+   "ok": true,
+   "presi": 0
+  }
+ ],
+ "visti": [
+  "xolace",
+  "valin",
+  "misterblocks",
+  "mitramcp",
+  "nodbyn8n",
+  "museemberbymeta",
+  "scribev3byelevenlabs",
+  "bondschat",
+  "shotvideo",
+  "earlybird",
+  "minimaxh3image",
+  "rigspark",
+  "binqo",
+  "inspobycontextdev",
+  "mujoco4",
+  "kladapaintappyourcodingagentcandrivesourceavailable",
+  "getyourcodingagentoff2019javascriptontomodernwebprimitives",
+  "bytedancepreparesmetasmuselikeagentinpushtocloseaigap",
+  "11bestaiappbuildersin2026rankedandcompared",
+  "thisagencybuiltanaitooltomakeitspeoplebetterattheirjobsdoemployeeswantin",
+  "koreanformerprosecutordevelopslegalaitool",
+  "montrealwomanwithalshearsherownvoiceagainthankstoaiapp",
+  "bluephonegivesgooglespixel10proanaiassistantthatgoesbeyondgemini",
+  "lloydsunveilsaitooltospotdocumenterrorsforukexporters",
+  "metasmuseaicomestoapplewatchesandandroidwearossmartwearables",
+  "agodalaunchesaiassistantforseamlesstravelplanning",
+  "meetalexaforshoppingyourpersonalisedaiassistantonamazon",
+  "inauguratooggiilmicrosoftpavilionlanuovasededimicrosoftaromaperaccelerarelafront",
+  "automatticlanciaspacefastcreareappconlaidiventafacile",
+  "coreweavelanciaunserviziodidatabasepericlientidellintelligenzaartificiale",
+  "geminioraconosceletueabitudinielesfruttaquandoguidi",
+  "alexaperloshoppingarrivainitaliacosèecomefunzionailnuovoassistenteai",
+  "halterilcollaresmartpervacchecheeliminairecinti",
+  "eurunanuovavitaperlexpadiglionenatoaprelasededimicrosoftaroma",
+  "arrivanoicassonetticonlanuovacalottaanchenelcentrodimestre",
+  "checosèclaudemeetingsecomecambiagooglemeetconlai",
+  "geministaarrivandosuapplecarplay",
+  "comeusarelaiegooglesheetspermonitoraregliscontidelblackfriday",
+  "pixeldropnovembre2026cosaarrivainitalia",
+  "claudepuòanalizzarecontibancariecartedicreditocisonorischiperlaprivacydegliutent",
+  "geminiintelligencearrivasuipixel10sicreanowidgetaparolemalautomazionedeitasknona",
+  "googlepixeldropdinovembre2026geminiintelligencearrivasuipixel10edebuttapixeltag",
+  "geminimemorysummarycomecontrollareemodificareiricordi",
+  "harborappleplansamacappforlocalaiwithoutthecloud",
+  "appleharborturnsmacsintoprivateaiserverswithnocloudfees",
+  "applesharborappwillmakerunninglocalaiacrossmultiplemacstrivial",
+  "applewantstoturnyourmacintoaprivateaiserverwithoutmakingyoutouchtheterminal",
+  "applehasnewmacappcomingtomakerunninglocalaimodelseasy",
+  "applesupcomingharborapppromiseseasierwaytorunlocalaionyourmacs",
+  "applesclaristestingharborappforlocalaionmacs",
+  "datacolaunchesprivateaiplatformanddatamarketplacefeaturing91datasetsfrom25provid",
+  "korapresentaundesktoplinuxconiasuldispositivoperipcsnapdragon",
+  "perplexityportablecomputerportalailocalesullegpunvidiartxprivacyepotenzasenzaclo",
+  "applepreparaharborpiùmacinsiemeperfargiraremodellidiailocaleenormi",
+  "samsunggallerysisincronizzaconlospaziogoogle",
+  "applelavoraaunapppertrasformareimacindatacenteraiinlocale",
+  "androidautoisgettingakillergeminifeatureeverydriveractuallywants",
+  "samsungcouldgivebixbygeministyleautonomousagentpowerswithoneui95",
+  "geminimakestheleaptoapplecarplay",
+  "microsoftadmitspeopledontwantaiinsearchreleasesnewtoolstoletyouturnitoffonbingus",
+  "openwebuiv0130",
+  "irecreatedpaperspleasebutyouredecidingwhichycstartupstofund",
+  "yogurtfreeprivateopensourcealternativetogranola",
+  "godboltinafloatingwindowforneovimccrust",
+  "blackopsiistaticallyrecompiledtonativearm64macos",
+  "valenciaspaininsimcityisometricview",
+  "a15mbselfhostednetflixandspotifyforyourmediaserver",
+  "whataselfhosteddashboardlookslikeon315inchesofcoloureink",
+  "pidockwifiaraspberrypi5routerwithtwowificardspiholeandwebdashboard",
+  "docktail18tailscaleservicesforyourdockercontainersnowwithcustompathsmultipleserv",
+  "mediaserverdashboardv2",
+  "doyouuseyourowncaselfsignedcertificatesforyourselfhostedservices",
+  "selfhostedgleanalternativejustranked1onenterpriseragbenchaheadofthelistedsystems",
+  "synapticsappearstouselegalthreatstoblockopensourcedisplaylinkdriver",
+  "anyoneelsecompletelydonewithsmartphonesbeingantiprivacyblackboxeswhydidweletthep",
+  "project2027anrfctorebuildpublictechusingtheeconomicsofopensource",
+  "contributorswanted",
+  "servobrowserenginecontinuesbroadeningwebcompatibilitynewfeatures",
+  "iditchedadobeacrobatforaselfhostedalternativeandiwontbegoingbackhowtogeek",
+  "amneziawarnsselfhostedxrayserversneedalinuxkernelupdate",
+  "immichisagooglephotosalternativeyoucanhostyourself",
+  "whatishermesagentdefinitionfeaturesandhowitworks",
+  "theenemystruckshevchenkivskyidistrictwithadroneuav",
+  "btcpayserver247updatefixessecurityissuesurgingselfhostedmerchantstoupgradeimmedi",
+  "n8nstable",
+  "immichv340",
+  "gilberttobinrethinksthebusinessoflawwithai",
+  "chatgptplusforveteransandservicemembers",
+  "jiostarschiefarchitectonaidiscoveryat500muserscale",
+  "geminidecisionsapifastcalibratedmultimodaldecisions",
+  "talkitthroughwithgemininowonapplecarplay",
+  "geminiintelligencenewfeaturesonmoredevices",
+  "pixel10withgeminiintelligencecustomwidgetsandmoreinournovemberpixeldrop",
+  "introducingthemultimodalknowledgeagentbenchmark",
+  "gemini4carbonisnowavailable",
+  "werebringingadobescreativeandproductivitytoolsclosertoyoureverydaygoogleapps",
+  "googlegemininowavailableonapplecarplaywithhandsfreeaifeatures",
+  "onthisdayinspacenov111966nasalaunchesgemini12missionwithastronauticonsbuzzaldrin",
+  "googlesnovemberpixeldropbringsgeminiintelligencetothepixel10andlaunchesthe2999pi",
+  "googlelaunchesgeminidecisionsapiforrapidaichoices",
+  "googlesgeminichatbotisnowavailableonapplecarplay",
+  "googlebringsgeminiaitoapplecarplay",
+  "googlecloudlaunchesgeminiforhealthcareintegratingaiworkflowsacrossepicoracleheal",
+  "googlelaunchesgeminidecisionsapiformultimodalaiworkflows",
+  "googlelaunchesgeminidecisionsapiforfastmultimodalchoices",
+  "withipoloominganthropiclaunchesnewaimodelsworkplacetools",
+  "metasaimodelsnowavailableongooglecloud",
+  "googlecloudrollsoutgeminiforhealthcareinpreviewtargetingadministrativebacklog",
+  "claudetrafficsurges24inoctoberasanthropicipoloomsbeatingairivals",
+  "metasaibotwontrevolutionizeyourfinances",
+  "anthropictargetsworkplacecollaborationwithclaudemeetings",
+  "anthropicsaysaiiserodingnvidiascudaleadcuttinganamdchipswitchfrommonthstothreeda",
+  "whatyouneedtoknowaboutclaudesmakeranthropicipo",
+  "anthropicsclaudefable52builtashooterin1promptanditonlytook8hoursand550",
+  "kpmgscaletrustedenterpriseaiinthailandthroughmicrosoftcopilotandmicrosoftagent36",
+  "bringyourbusinesscontexttochatgptclaudemicrosoftcopilotcoworkandgrokbot",
+  "idcquantanowworksinsidemicrosoftcopilot",
+  "literabringsdocumentcomparisonandfirmaisearchtomicrosoftcopilotforlegal",
+  "carrierdeliversconsistenthumancenteredemployeesupportwithmicrosoft365copilot",
+  "over35000grokbuiltappsexposedonlinesomeleakingconfidentialdataandpasswords",
+  "deepseekapipricing20260151moffpeakchatfree",
+  "metaaicheatsheetfeaturespricingandhowtouseit",
+  "gopufflaunchesfirstfullyintegrateddeliveryexperienceonspacexsisgrokbot",
+  "grokbot10launcheswithslackintegrationandvideocallsupport",
+  "grokbuiltappsexposedpatientdataplaintextpasswordsandspacexsisownsalespipeline",
+  "over35000appsbuiltwithgrokbuildexposedunprotectedincludingspacexsisownsalesmater",
+  "grokappbuilderleft35578appsopentoanyonewiththelink",
+  "botpsyondevicepersonalassistantwithasubbillionparameteragenticlanguagemodel",
+  "tokenpoolingawaretrainingformultivectorembeddingmodels",
+  "payforhuggingfacehubwithyourgooglecloudaccount",
+  "nvidiaisreportedlypreparingtofirejensenhuang",
+  "unitedwontletyouraiagentbookyourflight",
+  "googlestabletopaiexperimentletsyoubuildcustomcollaborationapps",
+  "googlesalphagenome2zoomsinonthecellularrootsofdisease",
+  "adobesaiexperimentsletyouwalkaroundinphotosandinterviewyourcharacters",
+  "theusiswinningtheairacejensenhuangcouldhaveblownit",
+  "chatgptisgettingverifiedaibusinessagents",
+  "theindiegamecommunityisindisarrayoveraiandbigwalk",
+  "anthropichasitsownaipoweredofficesuitenow",
+  "whocouldreplacejensenhuangahighlyunscientificlistofpossiblesuccessors",
+  "theunfoldingjensenhuangscandalatimeline",
+  "nvidiasstockdropsasboardreportedlyprepstooustceojensenhuang",
+  "jensenhuangaccusedofhavinganotheraffairwithannvidiaexec",
+  "whythedatacenteryoudreadmightneverevenbebuilt",
+  "metaislosingitslongtimeheadofinfrastructure",
+  "howbacklashandredtapecontinuetoslowdatacenterspostbluewave",
+  "coreweaveturnstocustomerprepaymentsshortercontractstofundaigrowth",
+  "with720mroundbritainsfractilegetsalegupintheraceforaichips",
+  "congresstocalljensenhuangintoanswerforallegedchinesespyaffair",
+  "isjensenhuangsbadbehaviormorecommonplacethanitseems",
+  "openaisquarterlyrevenuereportedlycrosses10bforthefirsttime",
+  "taiwanschipmakinggianttsmctoinvest1binanthropicopenai",
+  "bigwalkusedaitofixabugnowtheindiegamingworldishavingareckoning",
+  "googledeepmindjustmathematicallyverifiedkeypartsofsignal",
+  "ringcamerasgomobileasamazondebutsaipoweredsecuritydroneandrobot",
+  "grokbuildcodingagentleaksoodlesofconfidentialinfosomebelongingtospacexsi",
+  "whathappenstomathematicswhenaibecomesanoracle",
+  "googlejoinsthedecisionmodelwavewithgeminidecision1scoring1000questionsinasinglep",
+  "uscorporateaispendinghitsanewhighinoctoberbutgrowthslowsto165percent",
+  "googledeepmindsalphaproofcodeverifiedsignalscryptographiccoreinfourweeksinsteado",
+  "helsingbuiltanaisystemthatpreparestargetsforweaponssystemsandsayseverydecisionwi",
+  "usdatabrokersaresellinghalfabilliondollarsinrltrainingenvironmentstochineseailab",
+  "deeplwantsrealtimetranslationtofinallycapturesarcasmandmoodshifts",
+  "enterprisesalespushopenaisquarterlyrevenueto10billionthoughitstilltrailsanthropi",
+  "ukregulatorthreatensuniversitieswithsanctionsunlesstheyadoptaiproofexamformats",
+  "gemini4carbonclaudesheetsantigravityswarm",
+  "ouraacquisisceunastartupdiintelligenzaartificialeinambitomedicoperoltre600milion",
+  "intelligenzagenerativaeprofessionigiuridicheuncorsoallacattolica",
+  "lianonsipuòfermareanewyorkciclodiconferenzeperilprogressoumano",
+  "acquistidiffusiineuropaconlottimismosullai",
+  "techincorsatrainatodatechnoprobeestmamilano",
+  "technoprobericaviacceleranoneinovemesiaggiornatoiltargetperlafinedellanno",
+  "anthropicsfidagoogleworkplaceemicrosoftoffice",
+  "migliaiadichipaidinvidiaincinarestrizioniinutili",
+  "le7paroledellaichetuttiusanoepochisannospiegare",
+  "cadiamodalperosullaguerraibridaharagionecrosetto",
+  "obblighiesanzioniperleaziendeaiinaustralia",
+  "claudemeetingspartecipaalleriunionisugooglemeet",
+  "koraèilnuovoosaibasatosulinuxchevuolesfidarewindows",
+  "gptlivecambialamodalitàvocaledichatgpt",
+  "grokbuildsveladatiriservatianchequellidispacexsi",
+  "appletvarrivalalinguadeisegnimalisnoncè",
+  "geminiintelligenceanchesupixel10emotorolasignature27",
+  "businessesinchatgptopenaistrizzalocchioalleaziende",
+  "openaipuntasulturismoacquisitalastartupaiodessia",
+  "effettogtavilogitechregalaungiornodiferieaidipendentipergiocare",
+  "openailanciabusinesshubchatgptdiventapiùsimileagoogle",
+  "itermicipotrebberosparireentroil2040ilceodimercedesspiegailfuturodeimotori",
+  "matricedidelegaaiautonomiasupervisioneefirmaumana",
+  "anthropicsfidamicrosoftofficearrivanoclaudesheetsedata",
+  "expriviavalidmindalleanzasullaiperlebanche",
+  "riflessivitàalgoritmicacomelaiimitailpensieroriflessivo",
+  "attacchiaifrigoriferiperchéilverorischioarrivadaimanutentori",
+  "aidovefunzionadavveroedoverestafragile",
+  "modellidecisionaliaicomeportarlineiflussidilavoroaziendali",
+  "videosorveglianzainaziendalastangatadelgarante",
+  "sanzionigaranteprivacyaposteedeutschebankinformativegdprnonconformi",
+  "garantedellaprivacysiapreilcasosullapropostadiaumentodistipendiofinoa50milaeuro",
+  "musesleepbanduserswerenttoldtheirbraindatawastrainingai",
+  "scammersuseaigeneratedimagesofmissingpetstoextortowners",
+  "theonlyaithatcanbeofhelp",
+  "whatdoido",
+  "howtofailanaijobinterview",
+  "cycleneverends",
+  "newbenchmarkjustdropped",
+  "theydidnteventrytohideit",
+  "ramaltman",
+  "ibuiltatinywindowstaskbarwidgetwithclaudecodethatshowsyourclaude5handweeklyusage",
+  "nvidiaispreparingtooustnvidiaceojensenhuang",
+  "nvidiareportedlycancelsgeforcertx508024gblaunchbringsback16gbmodelovergddr7costs",
+  "opensourceselfdrivingishere",
+  "microsoftfilesapatentapplicationtotrainaimodelsonidleconsumergpus",
+  "modttkciarisharassingthissub",
+  "awsemulator",
+  "browsetoolssimonwillisonnetbytag",
+  "anthropicsiporoadshowvideo",
+  "llmgemini036",
+  "usingthesafeboxnetworktoprotectstorieslaurentrichard",
+  "filmingtheauthoritiesknowyourrights",
+  "artículos",
+  "8reportingtipsforcoldcontactinginsiders",
+  "isthisrealaserbianinvestigativejournalistreflectsonthecountrysstunningelection",
+  "thisvideodoesntshowbulldozeractionagainstaccusedintripurabsfattack",
+  "factcheckdoesthisvideoshowrecentdiwalicelebrationsindubaino",
+  "googledeepmindhassuccessfullyformallyverifiedthesecurityofthesignalprotocolusing",
+  "defimarketjournalpublishesguidetopigbutcheringvsromancescams",
+  "successfulneptuneflamingoandstormshadowstrikesdoubledthisfallosintcountshows",
+  "novateksustlugaterminalburnsafterovernightdroneraidosint",
+  "africainvestigativejournalismlabstrengthensinvestigativereportingkonradadenauers",
+  "satelliteimageshaveemergedshowingasecondstrikeonprotonusingneptunemissiles",
+  "lagermaniainveste50milionidieuronellosviluppodellintelligenzaartificiale",
+  "decriptoafuturoremoto2026il12novembreallacittàdellascienzaconlestartupdicampania",
+  "quantisonodavveroifemminicidiinitalia",
+  "loscambiosocialincuimuskdiceabillgatesdinoncostringerloacompraremicrosoftèfalso",
+  "questovideodeimilitarispagnolichearrestanodeputaticorrottièfalso",
+  "theosintnewsletterissue130",
+  "theosintnewsletterissue129",
+  "alviaprimacollaborazionedelcentrouecontrolefakenewsconongefactchecker",
+  "barachinisullaiservonoregoleglobalieunintesatraigrandi",
+  "disinfoupdate4112026",
+  "eudisinfolabsapproachtofundraising",
+  "blockchaintracinginvestigationtool",
+  "osintofthailand",
+  "darksidedatabase"
+ ],
+ "audio": "audio/2026-11-12.mp3",
+ "durata": 115.1
+}
