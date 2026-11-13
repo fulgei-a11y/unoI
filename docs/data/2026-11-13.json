@@ -1,0 +1,790 @@
+{
+ "giorno": "2026-11-13",
+ "generato": "2026-11-13T05:33:09+00:00",
+ "modello": "gemini-3.5-flash-lite",
+ "testi_completi": 35,
+ "riassunto": {
+  "titolo_giorno": "Gemini arriva su Apple CarPlay e Google lancia il modello Gemini 4 Hydrogen",
+  "in_breve": "L'intelligenza artificiale entra stabilmente nell'auto con l'arrivo dell'app Gemini su Apple CarPlay, permettendo di gestire impegni e messaggi a voce. Intanto Google presenta Gemini 4 Hydrogen, un modello pensato per flussi di lavoro rapidi e compiti quotidiani.",
+  "citati": [
+   "Gemini",
+   "Gemini 4 Hydrogen"
+  ],
+  "da_provare": [
+   {
+    "cosa": "Tabletop di Google",
+    "a_cosa_serve": "Crea applicazioni personalizzate sfruttando l'intelligenza artificiale per organizzare viaggi, feste, spese e attività di gruppo.",
+    "per_chi": "Tutti i giorni",
+    "ambito": "Organizzazione",
+    "come_iniziare": [],
+    "costo": "Non indicato",
+    "piattaforme": [
+     "Browser"
+    ],
+    "sul_dispositivo": false,
+    "come_sfruttarla": "Organizzare le spese condivise di un viaggio o coordinare le attività di gruppo senza fogli di calcolo manuali.",
+    "italiano": "Non indicato",
+    "difficolta": "Facile",
+    "fonti": [
+     "a184"
+    ],
+    "temi": [
+     "Lavoro e produttività",
+     "Ricerca e informazioni",
+     "Programmare senza codice"
+    ],
+    "affidabilita": "Una fonte",
+    "prova": ""
+   }
+  ],
+  "osint": [],
+  "gemme": [
+   {
+    "cosa": "AgentRun",
+    "a_cosa_serve": "Piattaforma open source per gestire ed eseguire agenti autonomi dotati di ambienti di esecuzione isolati.",
+    "perche_gemma": "Gratis, open source e pensata per far evolvere e testare agenti intelligenti in autonomia.",
+    "con_ai": "Permette di eseguire script e flussi di lavoro AI complessi in un ambiente protetto.",
+    "piattaforme": [
+     "Browser"
+    ],
+    "self_hosted": true,
+    "costo": "Gratis",
+    "difficolta": "Media",
+    "temi": [
+     "Open source e self-hosting",
+     "Agenti AI"
+    ],
+    "fonti": [
+     "a64"
+    ],
+    "affidabilita": "Appena lanciato",
+    "come_iniziare": [],
+    "sul_dispositivo": false,
+    "come_sfruttarla": "",
+    "prova": "https://github.com/Parcha-ai/agentrun/blob/main/README.md",
+    "piattaforme_verificate": true
+   }
+  ],
+  "sezioni": [
+   {
+    "titolo": "Novità negli strumenti che già usi",
+    "notizie": [
+     {
+      "titolo": "Gemini sbarca su Apple CarPlay",
+      "strumento": "Gemini",
+      "riassunto": "L'assistente Google arriva ufficialmente su Apple CarPlay. Si può usare la voce per riassumere mail, controllare l'agenda di Calendar o cercare ristoranti lungo il percorso senza staccare le mani dal volante.",
+      "come_provarla": "Aggiorna l'app Gemini su iPhone, apri Gemini Live una volta e collega l'iPhone all'auto.",
+      "disponibilita": "Disponibile ora",
+      "fonti": [
+       "a181",
+       "a28",
+       "a38"
+      ],
+      "temi": [
+       "Assistenti e chatbot",
+       "Lavoro e produttività",
+       "Voce e audio"
+      ],
+      "affidabilita": "Una fonte",
+      "solo_titoli": false
+     },
+     {
+      "titolo": "Arriva Gemini 4 Hydrogen",
+      "strumento": "Gemini",
+      "riassunto": "Google lancia un nuovo modello della famiglia Gemini, pensato per offrire maggiore velocità ed efficienza nei compiti quotidiani e nella scrittura di codice, sostituendo le vecchie versioni Flash.",
+      "come_provarla": "Disponibile in Google AI Studio, API e per gli abbonati ai piani Pro e Ultra.",
+      "disponibilita": "Disponibile ora",
+      "fonti": [
+       "a91",
+       "a92",
+       "a99"
+      ],
+      "temi": [
+       "Assistenti e chatbot",
+       "Programmare senza codice"
+      ],
+      "affidabilita": "Fonte ufficiale",
+      "solo_titoli": false
+     }
+    ]
+   },
+   {
+    "titolo": "In breve",
+    "breve": true,
+    "notizie": [
+     {
+      "titolo": "Proteste negli Stati Uniti contro l'uso forzato di Gemini nelle scuole",
+      "riassunto": "Famiglie e associazioni protestano in diverse città americane contro la decisione di Google di integrare stabilmente l'intelligenza artificiale nelle ricerche scolastiche senza un'opzione per disattivarla.",
+      "fonti": [
+       "a155"
+      ],
+      "temi": [
+       "Assistenti e chatbot"
+      ],
+      "affidabilita": "Una fonte",
+      "solo_titoli": false
+     }
+    ]
+   }
+  ],
+  "formato": 2,
+  "controllo_siti": [
+   {
+    "cosa": "Tabletop di Google",
+    "esito": "nessun sito da aprire"
+   },
+   {
+    "cosa": "AgentRun",
+    "sito": "https://github.com/Parcha-ai/agentrun/blob/main/README.md",
+    "pagina": 435501,
+    "trovate": [
+     "Browser"
+    ]
+   }
+  ]
+ },
+ "articoli": {
+  "a155": {
+   "titolo": "Google faces calls for AI moratoriums in schools after Gemini pilot backlash",
+   "link": "https://arstechnica.com/tech-policy/2026/11/families-fight-to-keep-googles-disturbing-ai-off-school-issued-chromebooks/",
+   "data": "2026-11-12T18:57:45+00:00",
+   "testo": "CHICAGO—Families joined protests in seven cities nationwide on Wednesday, rallying against what they see as Google’s bid to entrench its AI models in schools, turn kids of all ages into Gemini guinea pigs, and hook them on AI. The backlash follows a Google statement last week, confirming that there will be no way for students to use Google Search without AI. While Google claimed it was giving schools “more choice, not less”—by turning off Search, Gemini, and Gemini Notebook by default—it would not provide an option that allowed Search without AI. For students, the only way to avoid interacting with AI was to remember to add “-ai” to every query, parents worried. In Chicago, many families showed up to protest Google, despite cold, rainy weather. Waving signs, dozens of protesters marched up to Google’s downtown office as workers seemed to be leaving for the day, shouting chants like “Hey Google, nice try, we don’t want your Gemini” and “Hey, Google, leave our kids alone!” Called to action by a nonprofit grassroots advocacy group, the Illinois Families for Public Schools (ILFPS), some parents and students had previously won a major AI fight. In August, the group pressured Chicago Public Schools (CPS) to pull out of a Gemini pilot that would have roped in all high school students districtwide—without consulting parents. And now, ILFPS is demanding a moratorium on AI until risks to students are better understood and CPS can draft a policy to protect students from potential learning setbacks or more harmful outcomes from engaging Google’s AI bots. If the group wins, it will join cities like Los Angeles and New York City in cautiously banning AI in schools.",
+   "fonte": "Ars Technica",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Testate tech",
+   "id": "a155",
+   "testo_completo": true
+  },
+  "a92": {
+   "titolo": "Introducing Gemini 4 Hydrogen",
+   "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+   "data": "2026-11-12T18:00:00+00:00",
+   "testo": "Introducing Gemini 4 Hydrogen Today, we’re introducing Gemini 4 Hydrogen, bringing cutting-edge intelligence to everyone — with speed and efficiency for everyday coding and agentic workflows. While our frontier models, Gemini 4 Carbon and Gemini 4 Argon, excel at deep, long-horizon reasoning on your hardest problems, Hydrogen is built for rapid execution across diverse agentic workflows. With Hydrogen, we’re also bringing Gemini 4 to everyone — for all tiers of Google AI Studio, the Gemini API, Gemini for business, the Gemini app, Google Search, and paid Google AI Pro and Ultra subscribers in Google Antigravity. Hydrogen surpasses Argon on the Artificial Analysis Intelligence Index at its default high thinking level (51 vs. 50, and reaching 54 at its highest xhigh thinking setting), while often completing tasks faster than models in its class. Gemini 4 Hydrogen is priced flat across its entire 1 million-token context window at $1.50 per million input tokens and $7.50 per million output tokens. Unlocking efficiencies in multi-model workloads In real-world software development, while teams rely on frontier models like Carbon and Argon for deep architectural judgment when designing systems or untangling subtle bugs, they still need a fast, disciplined execution model for writing code, running tests, and verifying changes. Hydrogen is built to stand on its own as a model for everyday work — or to pair with Carbon and Argon as the high-efficiency execution engine in multi-model workflows. To help make this multi-model collaboration automatic, we’re introducing Orchestrator in Google Antigravity. Rather than using a single model from start to finish, Orchestrator dynamically switches between models like Carbon and Hydrogen within the same session. On Terminal-Bench 4.0, Orch…",
+   "fonte": "Google (blog ufficiale)",
+   "tipo": "ufficiale",
+   "solo_titolo": false,
+   "categoria": "Laboratori",
+   "id": "a92",
+   "testo_completo": true
+  },
+  "a91": {
+   "titolo": "Gemini 4 Hydrogen: everyday coding and agentic workflows for developers",
+   "link": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-4-hydrogen/",
+   "data": "2026-11-12T18:00:00+00:00",
+   "testo": "Gemini 4 Hydrogen: everyday coding and agentic workflows for developers Starting today, developers can build with Gemini 4 Hydrogen, bringing cutting-edge intelligence to everyone — with speed and efficiency for everyday coding and agentic workflows. Built for rapid iteration, Hydrogen handles repository coding and debugging, interactive web development, and multimodal workflows — running standalone across four configurable thinking levels or alongside frontier models like Gemini 4 Carbon and Gemini 4 Argon. With tighter instruction following and fewer fabricated claims, it helps you ship cleaner, production-ready code faster. Start building with the Gemini API in Google AI Studio and Android Studio, Gemini for business, or, if you are a paid Google AI Pro or Ultra subscriber, try it in Google Antigravity. - Check out the Gemini API What’s New Guide for model details, setup instructions, and thinking-level controls. - Read the Google Antigravity blog to see how new features like Orchestrator pair Hydrogen with Gemini 4 Carbon.",
+   "fonte": "Google (blog ufficiale)",
+   "tipo": "ufficiale",
+   "solo_titolo": false,
+   "categoria": "Laboratori",
+   "id": "a91",
+   "testo_completo": true
+  },
+  "a64": {
+   "titolo": "AgentRun – open-source, Self-improving Managed Agents",
+   "link": "https://github.com/Parcha-ai/agentrun/blob/main/README.md",
+   "data": "2026-11-12T18:15:48+00:00",
+   "testo": "We (GREP.AI, YC F26) are open-sourcing AgentRun and turning it into a full managed agents platform. Read more about it in this post: https://agentrun.ai/blog/introducing-agentrun-run-smarter-ag... . It includes what we originally built for our own agent harness: - Self-improving agents - Web-grounded workflows - A range of sandboxes and computer environments - Thousands of tools and integrations …",
+   "sito": "https://github.com/Parcha-ai/agentrun/blob/main/README.md",
+   "fonte": "Show HN – progetti utili (gemme)",
+   "tipo": "vetrina",
+   "solo_titolo": false,
+   "categoria": "Gemme",
+   "id": "a64"
+  },
+  "a28": {
+   "titolo": "Google porta l’intelligenza artificiale su Apple CarPlay con l’app Gemini",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMW1CaUhaWnZhZVUtcFZ6SWhkclJVd2FmLWlLUGMwcXpBaHZTSVpEbm9uTVF4QkxOYnJ6Nm91WWpFeUswNzJiZHBXSU9LRGw3SXAzU3FrYlBFanltUnJqbU03cnhoQV9qM0ZmQXN3U3lEQUE4dlAyZExHVmFWSm5FTk0xUld5N0x2T1ZTazIyVFFSN3VaUEtxdDZfT0VWa0cwQUJ6QWVoUQ?oc=5",
+   "data": "2026-11-12T11:19:06+00:00",
+   "testo": "",
+   "fonte": "SaggiaMente",
+   "tipo": "minore",
+   "solo_titolo": true,
+   "categoria": "Strumenti",
+   "id": "a28"
+  },
+  "a181": {
+   "titolo": "Gemini arriva su Apple CarPlay: cosa si può chiedere",
+   "link": "https://www.punto-informatico.it/gemini-apple-carplay-cosasi-puo-chiedere/",
+   "data": "2026-11-12T11:02:11+00:00",
+   "testo": "Google porta Gemini su Apple CarPlay. Ci è arrivato con un certo ritardo, dopo aver bussato prima alla porta di Android Auto, ma ora è seduto anche sul sedile dei guidatori con l’iPhone. Google lo chiama il vostro “compagno di guida conversazionale”. Si parla a voce, senza mani, e si ottengono risposte invece di una lista di link. Un mese fa le funzioni di Personal Intelligence erano sbarcate su Android Auto. Adesso lo stesso trattamento tocca a CarPlay, con un rilascio globale che parte oggi per chi ha Gemini installato sull’iPhone. Gemini su Apple CarPlay, cosa gli si può chiedere mentre si guida Gli esempi di Google sono quelli di una giornata normale. Ci si può far riassumere una catena di mail, ci si può far dire quando è il prossimo appuntamento su Google Calendar, o chiedere un ristorante lungo il percorso. C’è anche spazio per le curiosità da traffico lento, tipo come funzionano le batterie allo stato solido delle auto elettriche. Se l’agenda è un campo di battaglia, c’è la formula magica: Dammi il mio riepilogo di oggi . Gemini elenca gli impegni della mattina prima che si trovi parcheggio, così si arriva in ufficio sapendo già che alle dieci c’è una riunione. Si può anche interromperlo a metà frase o cambiare argomento di colpo, senza che si offenda. Tutto resta sincronizzato con il telefono, quindi la conversazione segue quando si scende dall’auto. Come attivare Gemini La procedura è breve, ma l’ordine conta. Prima di tutto bisogna aggiornare l’app Gemini dall’App Store e concedere l’accesso al microfono. Poi, prima di collegare l’iPhone all’auto, aprire una volta Gemini Live. Una volta collegati, basta toccare l’icona di Gemini sul display del cruscotto o sulla barra laterale. Da lì si riprende anche una chat già iniziata. Gemini su Chrome guarda le schede …",
+   "fonte": "Punto Informatico",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Italia",
+   "id": "a181",
+   "testo_completo": true
+  },
+  "a99": {
+   "titolo": "Google launches Gemini 4 Hydrogen — a faster, smarter, pricier Flash successor",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUXRuQUZkeks1RVIwa2htVHJkZUlGby1iLTE5Wnh0UzZDSy1neDZyRU1WRkJRR1VnMzNLb0o3QzdmZkhmcTN0SnlGN09wU3BQVkJ1bk1oMFQwYk03eEsyQVhybEY5eE5RWllKTlhsblRTNms5MXFNSWF2UFFhSS05OWxuaTByM2dqSXY1LS1ncGlGTnFFQ2V0WnRRU3ZsWVVuSkJrZkVWWFprZW96TUE?oc=5",
+   "data": "2026-11-12T22:30:23+00:00",
+   "testo": "",
+   "fonte": "VentureBeat",
+   "tipo": "testata",
+   "solo_titolo": true,
+   "categoria": "Laboratori",
+   "id": "a99"
+  },
+  "a184": {
+   "titolo": "Tabletop di Google crea app con l’AI per organizzare viaggi e spese",
+   "link": "https://www.punto-informatico.it/tabletop-google-crea-app-ai-organizzare-viaggi-spese/",
+   "data": "2026-11-12T08:46:24+00:00",
+   "testo": "Tabletop di Google crea app personalizzate con l'AI per organizzare viaggi, feste, spese e attività di gruppo. Ecco come funziona. The post Tabletop di Google crea app con l’AI per organizzare viaggi e spese appeared first on Punto Informatico .",
+   "fonte": "Punto Informatico",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Italia",
+   "id": "a184"
+  },
+  "a38": {
+   "titolo": "Gemini Live arriva su Apple CarPlay con disponibilità globale",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONW5WTm55MFlsb1pQVXhmNl9TUVVnNlBaaGw3ZnFNRERyWHdXTWdsUzM0SFhZcWNaRXlOVC14TExGNDZBb0pHQjh3UWVaY1p0VnV6aXFwNFBjdWhrZExRQzRYakJ1ZU81MUJ2LWF1cl9WMWRtQ2l3cUl5SjVhU0dxa0ZhelVjSHJza20ycjU2Mkg3ZUxxdWVJdw?oc=5",
+   "data": "2026-11-12T06:10:58+00:00",
+   "testo": "",
+   "fonte": "XiaomiToday.it",
+   "tipo": "minore",
+   "solo_titolo": true,
+   "categoria": "Strumenti",
+   "id": "a38"
+  }
+ },
+ "fonti": [
+  {
+   "nome": "Product Hunt (AI)",
+   "ok": true,
+   "presi": 15
+  },
+  {
+   "nome": "Show HN (nuovi progetti)",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "Nuove app AI (internazionale)",
+   "ok": true,
+   "presi": 10
+  },
+  {
+   "nome": "Nuove app AI (Italia)",
+   "ok": true,
+   "presi": 8
+  },
+  {
+   "nome": "Novità AI da provare (Italia)",
+   "ok": true,
+   "presi": 8
+  },
+  {
+   "nome": "AI sul dispositivo (internazionale)",
+   "ok": true,
+   "presi": 8
+  },
+  {
+   "nome": "AI sul dispositivo (Italia)",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "Android Police (AI su Android)",
+   "ok": true,
+   "presi": 4
+  },
+  {
+   "nome": "Windows Central (AI su Windows)",
+   "ok": true,
+   "presi": 3
+  },
+  {
+   "nome": "Ollama (nuove versioni)",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "Open WebUI (nuove versioni)",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "Show HN – progetti utili (gemme)",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "Reddit r/selfhosted",
+   "ok": true,
+   "presi": 6
+  },
+  {
+   "nome": "Reddit r/opensource",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "Alternative open source (Google News)",
+   "ok": true,
+   "presi": 6
+  },
+  {
+   "nome": "n8n (nuove versioni)",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "Immich (nuove versioni)",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "OpenAI",
+   "ok": true,
+   "presi": 2
+  },
+  {
+   "nome": "Google (blog ufficiale)",
+   "ok": true,
+   "presi": 6
+  },
+  {
+   "nome": "Google Gemini (blog)",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "Nuove funzioni AI (Google News)",
+   "ok": true,
+   "presi": 12
+  },
+  {
+   "nome": "Anthropic / Claude",
+   "ok": true,
+   "presi": 6
+  },
+  {
+   "nome": "Microsoft Copilot",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "Altri assistenti AI (Perplexity, Mistral, Meta AI…)",
+   "ok": true,
+   "presi": 8
+  },
+  {
+   "nome": "Hugging Face (modelli e strumenti aperti)",
+   "ok": true,
+   "presi": 3
+  },
+  {
+   "nome": "Mistral AI",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "The Verge",
+   "ok": true,
+   "presi": 10
+  },
+  {
+   "nome": "TechCrunch",
+   "ok": true,
+   "presi": 12
+  },
+  {
+   "nome": "Ars Technica",
+   "ok": true,
+   "presi": 6
+  },
+  {
+   "nome": "MIT Technology Review",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "The Decoder",
+   "ok": true,
+   "presi": 9
+  },
+  {
+   "nome": "TLDR AI (newsletter)",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "ANSA",
+   "ok": true,
+   "presi": 6
+  },
+  {
+   "nome": "Wired Italia",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "Il Sole 24 Ore Tecnologia",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "Punto Informatico",
+   "ok": true,
+   "presi": 9
+  },
+  {
+   "nome": "HDblog",
+   "ok": true,
+   "presi": 6
+  },
+  {
+   "nome": "AI4Business",
+   "ok": true,
+   "presi": 4
+  },
+  {
+   "nome": "Agenda Digitale (AI)",
+   "ok": true,
+   "presi": 3
+  },
+  {
+   "nome": "Garante Privacy e AI",
+   "ok": true,
+   "presi": 3
+  },
+  {
+   "nome": "Malwarebytes (app e truffe AI)",
+   "ok": true,
+   "presi": 2
+  },
+  {
+   "nome": "Reddit",
+   "ok": true,
+   "presi": 8
+  },
+  {
+   "nome": "Reddit (AI locale)",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "Simon Willison (prove pratiche di strumenti AI)",
+   "ok": true,
+   "presi": 4
+  },
+  {
+   "nome": "Bellingcat (guide e strumenti)",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "GIJN (guide per giornalisti investigativi, via Google News)",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "OSINT – verifica e fact-checking (internazionale)",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "OSINT – nuovi strumenti (internazionale)",
+   "ok": true,
+   "presi": 6
+  },
+  {
+   "nome": "OSINT – strumenti (Italia)",
+   "ok": true,
+   "presi": 3
+  },
+  {
+   "nome": "Facta (fact-checking, contenuti falsi e AI)",
+   "ok": true,
+   "presi": 3
+  },
+  {
+   "nome": "Week in OSINT (Sector035)",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "The OSINT Newsletter",
+   "ok": true,
+   "presi": 2
+  },
+  {
+   "nome": "IDMO (osservatorio italiano sulla disinformazione)",
+   "ok": true,
+   "presi": 2
+  },
+  {
+   "nome": "EU DisinfoLab",
+   "ok": true,
+   "presi": 2
+  },
+  {
+   "nome": "Reddit (OSINT)",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "Hacker News (OSINT)",
+   "ok": true,
+   "presi": 0
+  }
+ ],
+ "visti": [
+  "marqly70",
+  "insight7voiceaiagents",
+  "crossfade",
+  "diditmcp",
+  "foxpit",
+  "adobeaiassistant",
+  "harnessmemory",
+  "grokbot10",
+  "offstagecloud",
+  "bondschat",
+  "misterblocks",
+  "xolace",
+  "scribev3byelevenlabs",
+  "mitramcp",
+  "earlybird",
+  "kladapaintappyourcodingagentcandrivesourceavailable",
+  "labthreadlaunchesnewaitoolsandstrengthensplatformwithuniversalaiassistantcompati",
+  "ringolaunchescharliethefirstaiassistantforsynclicensingthatlivesonwhatsapp",
+  "jackdorseysquarematesaitoollaunchesforallsquaresellers",
+  "ocbclaunchesaiassistantforbusinessaccountmaintenance",
+  "servicenowlaunchesaitooltospeedupcrmmigrations",
+  "anydaylaunchesfreeexploittotalaitoolwith200reportedexploits",
+  "screenburngrouplaunchesaitooltowritefullmicrodramaseasons",
+  "ocbclaunchesaiassistantforbusinessbankingplatform",
+  "ifflaunchesaitoolforfoodandbeverageconceptgeneration",
+  "kvslaunchesspecialaitooltotrackstudentperformanceattendanceacrossschools",
+  "acop31arrivalantalyaaipledge",
+  "googleportalintelligenzaartificialesuapplecarplayconlappgemini",
+  "competenzedigitalinellepmiticinesidalladiagnosiallaformazione",
+  "mediasetaccelerasullintelligenzaartificialedebuttamialassistentedigitalepertutta",
+  "windtreajazzinncapitale2026datiintelligenzaartificialeeconnettivitàalserviziodel",
+  "suinstagramoraèpossibilecrearefiltriconlaigrazieaeffectbuilder",
+  "geminilivearrivasucarplaypuoigestiremaileappuntamentiinauto",
+  "monicamondolianoncispaventiusataeticamentepuòservireperilbenecomune",
+  "pixeldropnovembre2026cosaarrivainitalia",
+  "comeusareclaudeseoicomandielavisibilitànellericercheai",
+  "geministaarrivandosuapplecarplay",
+  "geminilivearrivasuapplecarplaycondisponibilitàglobale",
+  "pianospostamenticasalavoroentroil31dicembresondaggioecalcoloco2conmicrosoftforms",
+  "claudecodeecodexentranonellacentralinadiunajeepdel1994",
+  "teslacybercabineuropaledatedeltourequandoarrivainitalia",
+  "googlegeminiarrivasuapplecarplay",
+  "ihopedlocalaicouldsavemetimebutispentalldaygettingnowhere",
+  "applesharborappcouldmakerunninglocalaionmaceasier",
+  "applewantstoturnyourmacintoaprivateaiserver",
+  "tetherlaunchesondeviceaiagentbotpsyclaimswinoverlargerqwenthatqwensownscorenarro",
+  "adobetoexpandondeviceaideepenmicrosofttiesbuilddisneyonlymodel",
+  "heartbotailaunchesanyinsightedgeendingthetradeoffbetweenprivateaiandagenticprodu",
+  "openaibringslocalaiprocessingtoindiaexpandsdataresidencyoptionsforapiusers",
+  "datacolaunchesprivateaiplatformanddatamarketplacefeaturing91datasetsfrom25provid",
+  "allarmibombanellescuoleesupermercatihackeratinellemarcheunafamigliasudiecièsenza",
+  "asusannunciailminipcascentqn10",
+  "lintelligenzaartificialerispondealletelefonatealpostotuolanuovasvoltasoftwaredeg",
+  "gigabyteaitopaeroilpccompattoperlintelligenzaartificialelocale",
+  "haipagatoarrivalappchetiricordaipedaggidipedemontana",
+  "androidautoisgettingakillergeminifeatureeverydriveractuallywants",
+  "geminiforhomeupdatemakesyoursmartdisplayalotmoreuseful",
+  "geminimakestheleaptoapplecarplay",
+  "5phonejobsistilltrustgeminiandclaudewithafter8monthsofagenticai",
+  "nvidiasinterimceoisitscfoanddatacentersdwarfgamingrevenueareyouasworriedasiamfor",
+  "microsoftwantsdevelopersspendinglesstimefixingaimistakes",
+  "microsoftadmitspeopledontwantaiinsearchreleasesnewtoolstoletyouturnitoffonbingus",
+  "openwebuiv0130",
+  "agentrunopensourceselfimprovingmanagedagents",
+  "my300embroiderymachineneededasubscriptionsoibuiltmyownapp",
+  "irecreatedpaperspleasebutyouredecidingwhichycstartupstofund",
+  "yogurtfreeprivateopensourcealternativetogranola",
+  "godboltinafloatingwindowforneovimccrust",
+  "securomaintainerhere8monthsofworkandtheresultssofar",
+  "results2026selfhostusersurveyselfhst",
+  "m720qtinyasadiynashomelabmostreliablesataexpansionfor4drives",
+  "asimplewaytokeepyourselfhostedwebsiteaccessibleduringoutages",
+  "newprojectmegathreadweekof12nov2026",
+  "tryingtoblockadsandtrackersoneverydeviceathomeincludingthesmarttvselfhosteddnsop",
+  "synapticsappearstouselegalthreatstoblockopensourcedisplaylinkdriver",
+  "anopenlettertonvidiasnextceoitstimetoopensourcecuda",
+  "anyoneelsecompletelydonewithsmartphonesbeingantiprivacyblackboxeswhydidweletthep",
+  "project2027anrfctorebuildpublictechusingtheeconomicsofopensource",
+  "jetbrainsrenewedtheirsupportforgodotenginethrough2027",
+  "selfhostedclaudemanagedagentskeepsagentcredentialsinyourenvironment",
+  "ijustbuiltaselfhostedalternativetogooglephotosforfreeandimnotgoingbackhowtogeek",
+  "anunknowndeviceonmywifinowpingsmyphoneinunder20seconds",
+  "anthropiclaunchesselfhostedclaudemanagedagentsinprivatebeta",
+  "anthropicletscustomersselfhostclaudemanagedagents",
+  "rhizomepartnerswithelectronicartsintermixaftervimeocensoring",
+  "n8nstable",
+  "immichv340",
+  "supportingresearchonaiandchildrenssafety",
+  "gilberttobinrethinksthebusinessoflawwithai",
+  "googlesearchgetsamajorupgradewithgemini4hydrogen",
+  "gemini4hydrogeneverydaycodingandagenticworkflowsfordevelopers",
+  "introducinggemini4hydrogen",
+  "scientistsareusinggoogleaitohelprestoregiantkelpforests",
+  "getquickanswersfromgeminionanywebsite",
+  "geminidecisionsapifastcalibratedmultimodaldecisions",
+  "talkitthroughwithgemininowonapplecarplay",
+  "googlerollsoutgemini4hydrogenfinallyreplacing38flash",
+  "googlecloudrollsoutgeminiforhealthcare",
+  "googlelaunchesgemini4hydrogenafastersmarterpricierflashsuccessor",
+  "anthropiclaunchesclaudeformanufacturing",
+  "googlelaunchesgemini4hydrogentargetsfasteraiworkflows",
+  "withipoloominganthropiclaunchesclaudeproductformanufacturers",
+  "openairollsoutchatgptbusinessprofiles",
+  "chatgptlaunchesgooglelikeprofilesforbusinesses",
+  "googlelaunchesgemini4hydrogenforproandultrausers",
+  "googlelaunchesgemini4hydrogenforeverydayagenticworkflows",
+  "googlelaunchesgemini4hydrogenforfastercodingandagentictasks",
+  "googlelaunchesgemini4hydrogenforfasteraicoding",
+  "jimcramerhasthreelingeringquestionsaboutanthropicaheadofitshistoricipo",
+  "anthropicsclaudetopsairankingsasopenailimitscybermodel",
+  "claudemeetingsletsanthropicsaijoinyourvideocalls",
+  "anthropicsipoisaboutsixtimesoversubscribed",
+  "anthropicbringsclaudeintogooglemeettodraftdocumentsandwhiteboardsduringyourmeeti",
+  "anthropicopenaisuedforallegedlyinfringinginventorsneuralnetworkpatents",
+  "microsoftworkstoaddressmassiveoutageacrosscopilotteams",
+  "microsoftoutagemicrosoft365teamsoutlookcopilotallimpacted",
+  "ortecusesmicrosoft365copilottoturnlogisticsexpertiseintofastertrusteddecisions",
+  "ismicrosoftoutlookdownwhatcompanysaysaboutmicrosoft365outage",
+  "ismicrosoftdownrightnowmicrosoftoutageshitoutlookcopilotmore",
+  "metasaiagentmuselaunchesphonecalldelegationfeatureforpaidsubscribersintheus",
+  "perplexityaisuedoverundisclosedusagecapsonpaidsubscriptionfeatures",
+  "gopufflaunchesfullyintegrateddeliveryexperiencethroughspacexsisaiagent",
+  "grokbuildflawexposeddatafromthousandsofappsincludingspacexsisown",
+  "grokbot10launcheswithsharedbotsinslackteamsandmeetings",
+  "alicehuangscompaniesreportedlyinvestindeepseekandpromiseitnvidiachips",
+  "nologinneededover35000grokappswerepubliclyaccessible",
+  "tuyalaunchestuyaclouddevicesformetasaiagentmuse",
+  "llmonanllmnativemarkuplanguagenowingranite413band8b",
+  "thedefinitivefinetuningguidefor3dgenerationmodels",
+  "botpsyondevicepersonalassistantwithasubbillionparameteragenticlanguagemodel",
+  "googlesnewgeminimodelisbetteratunderstandingcomplicatedquestions",
+  "noaiagentsdidnotdiscoverapreviouslyunknownmayasite",
+  "ohpalantirisprogressivenowisit",
+  "thejensenhuangscandalishardlyover",
+  "aichatbotsarerecommendingfakeretailwebsitesstudyfinds",
+  "moregamedevelopersarestartingtousegenerativeai",
+  "jensenhuangisoutwhatdidchinawantfromhim",
+  "readnvidiasinternalemailsabouttheextraordinarilydifficultperiodamidceoshakeup",
+  "nvidiaceojensenhuanghasresignedwhathappensnext",
+  "ireviewedtheapplehomeviewaskmeanything",
+  "democratslaunchnvidiainvestigationwritescathingletteronhuangsschemewithtrump",
+  "musecannowplacecallstousbusinessesifyoupay",
+  "theunfoldingjensenhuangscandalatimeline",
+  "nebiusteststheneocloudplaybookwith40billioninplannedspending",
+  "jensenhuangwashavingathirdaffairreutersreports",
+  "googleslatestsearchupgradepromisesbetteranswerstoyourmostcomplicatedquestions",
+  "nectarlaunchesanaiagenttoautomatecreatordiscoveryandoutreachforbrands",
+  "jensenhuangsexitputsnvidiassupportforopensourceinquestion",
+  "huggingfaceceovowstokeepfightingforopensourceaiafterjensenhuangsexit",
+  "unitedairlinesblocksaiagentsfrombookingflightscitingcybersecurityrisks",
+  "softbanksbilliondollarlossmayhaveputacaponaisnaturalgasambitions",
+  "photalabsusesaitoturneverydayphotosintoprofessionallookingshots",
+  "faaexpandsaiadvicetomanageairtrafficcongestionacrossentireusairspace",
+  "arslivewhatdroneattacksondatacentersmeanformodernlifeinthecloud",
+  "googlefacescallsforaimoratoriumsinschoolsaftergeminipilotbacklash",
+  "googlepushesprivacyangleasgeminipoweredsmartglassesdebutstartingat395",
+  "taiwanschipmakinggianttsmctoinvest1binanthropicopenai",
+  "bigwalkusedaitofixabugnowtheindiegamingworldishavingareckoning",
+  "nvidiaprivatelyconfirmeditcouldtrackchipstofightsmugglingevenasindustrypubliclyq",
+  "googlesgemini4hydrogenoutscoresthebiggerargonjustfourweeksafteritslaunch",
+  "openaisdatasuggeststhatfrontiermodelsarehidingtheirthoughtsbecausedevelopersopti",
+  "jensenhuangresignsasnvidiaceoafterespionagescandalwipesout14trillioninmarketvalu",
+  "elevenlabsscribev3liveusesconversationalcontexttostopvoiceagentsfromcuttingoffca",
+  "googledeepmindshiftsgenomicsaifrombulktissuepredictionstosinglecelltyperesolutio",
+  "australiasproposedaisafetybillwouldforcefrontiermodelmakerstoopenuptoindependent",
+  "googlejoinsthedecisionmodelwavewithgeminidecision1scoring1000questionsinasinglep",
+  "uscorporateaispendinghitsanewhighinoctoberbutgrowthslowsto165percent",
+  "googledeepmindsalphaproofcodeverifiedsignalscryptographiccoreinfourweeksinsteado",
+  "grokbot10alphagenome2geminidecisions",
+  "intelligenzaartificialenellescuoleokdelgaranteprivacy",
+  "conferenzaatorontosulrapportotraintelligenzaartificialeescienzeumanistiche",
+  "confindustriaaltoadriaticoattivailprontosoccorsocyberattack",
+  "bolandceseacostanuovoecosistemadelliatutelicompetitivitàediritti",
+  "scottibankitaliadagliagentiianuovesfideacommercioefinanzadigitali",
+  "esprinetsoffreinborsadopoicontibeneimarginiattenzioneascorte",
+  "occhialismartdiapplesenzadisplayillancionel2027",
+  "googleaprelevenditedeglismartglasscongemini",
+  "gemini4carbon5usiconcretieipromptdaprovaresubito",
+  "spacexilpianodimuskperalimentarelaiconlenergiadelsole",
+  "bingpermettedidisattivarelaimacambiailmotorediricerca",
+  "geminiarrivasuapplecarplaycosasipuòchiedere",
+  "socialmediabanestesoa150piattaformenelregnounito",
+  "gmailgeminiarrivaatuttigliutentiworkspace",
+  "tabletopdigooglecreaappconlaiperorganizzareviaggiespese",
+  "trumpproponetimcookcomenuovoleaderdinvidia",
+  "microsoftdownproblemiaoutlook365copilotxboxetantialtriservizi",
+  "nuovabmwi350xdrivelaneueklassesiconfrontaconlastoriavideo",
+  "adobemax2026conlaipuoientrarenellefotoeparlarecoipersonaggi",
+  "rtx5080da24gbnvidiaciripensalegddr7costanotroppo",
+  "autousatele5truffepiùdiffuseineuropaeperlequalièmegliodrizzareleantenne",
+  "decisiondrivenmarketinglaiasupportodellescelteaziendali",
+  "matricedidelegaaiautonomiasupervisioneefirmaumana",
+  "anthropicsfidamicrosoftofficearrivanoclaudesheetsedata",
+  "expriviavalidmindalleanzasullaiperlebanche",
+  "modellidecisionaliaigooglesfidaopenaichioffrecosa",
+  "menoformazionemenovocecosìanchelaiemarginaledonne",
+  "governancedelcloudtrasovranitàdigitalecostieai",
+  "newsletterdel12novembre2026",
+  "ilprossimogarantedellaprivacydovràtornareadarecertezzeacittadinieimprese",
+  "intelligenzaartificialenellescuolevialiberadelgaranteprivacyaldecretomimaccessip",
+  "musesleepbanduserswerenttoldtheirbraindatawastrainingai",
+  "possiblefalsepositivemalwareai695752146dllwrapexemsys2mingw",
+  "absolutecinematicrealityweliverightnow",
+  "bestnewsiveseentoday",
+  "mygamegotremovedfromgamedevsubsforusingaisoheresexactlyhowimadeitwithclaude",
+  "3rdaffair",
+  "aimasterpiecejustdropped",
+  "arewenotallowedtoevenaskbasicbiologyquestions",
+  "hellonicetomeetyournamehere",
+  "theofficeaijensenhuanggetsanewjobatdundermifflinwatchtilltheend",
+  "jensenhuangsmistakewasbeingtooprolocalaiwhichwasathreattocompanieslikeclosedaian",
+  "sothiswillbetrueincoupleofyears",
+  "nvidiasjensenhuangresignsasceocolettekressnamedinterim",
+  "cmp170hxnowfullyunlockabkeandmorefull120smstechieusesvoltageglitchinghacktoturn2",
+  "jensentodayatnvidiaboardmeeting",
+  "llmgemini037",
+  "awsemulator",
+  "browsetoolssimonwillisonnetbytag",
+  "anthropicsiporoadshowvideo",
+  "usingthesafeboxnetworktoprotectstorieslaurentrichard",
+  "filmingtheauthoritiesknowyourrights",
+  "artículos",
+  "8reportingtipsforcoldcontactinginsiders",
+  "isthisrealaserbianinvestigativejournalistreflectsonthecountrysstunningelection",
+  "howonenewsroombuiltanaifactcheckingtoolforzambiaselection",
+  "anupdatetoourcolumnaboutcaliforniasailaw",
+  "oldvideooflanddisputeinpakistanfalselysharedascommunalincidentinbangladesh",
+  "factcheckviralvideoofwomantouristbeingassaultedinindiaisactuallyfromuzbekistan",
+  "factcheckviralvisualsdonotshowviolenceinbalochistantheyareunrelatedandold",
+  "armycidlookingfornewcommercialsoftwaretoolstomonitordarknetencryptedmessagingpla",
+  "thenextglobalcrisiswillbefilmedcanaimakesenseofit",
+  "thenumberoftankersbeingloadedattherussianportofustlugahasnearlyhalved",
+  "russiafiresiskandersatukraineasatelliteimageshowswhatukrainesmissilesleftofabuil",
+  "bangladeshpoliceijmagreetostrengthenstrategicpartnershipagainsthumantraffickingo",
+  "satelliteimageshaveemergedshowingasecondstrikeonprotonusingneptunemissiles",
+  "securitymanageranalistagiuristafilosofotecnicoocomunicatore",
+  "dueaereiquasiimpercettibilinellaudiocosìunoyoutuberhageolocalizzatoilframmentodi",
+  "decriptoafuturoremoto2026il12novembreallacittàdellascienzaconlestartupdicampania",
+  "loscambiosocialincuimuskdiceabillgatesdinoncostringerloacompraremicrosoftèfalso",
+  "questovideodeimilitarispagnolichearrestanodeputaticorrottièfalso",
+  "ilvideodelsegretariodelladifesaingleseinminigonnaaunacerimoniaufficialeèfalso",
+  "theosintnewsletterissue130",
+  "theosintnewsletterissue129",
+  "alviaprimacollaborazionedelcentrouecontrolefakenewsconongefactchecker",
+  "barachinisullaiservonoregoleglobalieunintesatraigrandi",
+  "disinfoupdate4112026",
+  "europesmissingwatchdogshowboththedsaandtheaiactarefailingonenforcement",
+  "blockchaintracinginvestigationtool",
+  "skiptracingin2026howmuchcanyoustilldofromadeskvsinthefield",
+  "osintofthailand",
+  "searchingmyaccountscommentswhichilostontiktok",
+  "darksidedatabase"
+ ],
+ "audio": "audio/2026-11-13.mp3",
+ "durata": 88.9
+}
