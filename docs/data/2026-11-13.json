@@ -330,6 +330,63 @@
    "solo_titolo": false,
    "categoria": "Strumenti",
    "id": "u1a5"
+  },
+  "u2a84": {
+   "titolo": "Introducing ChatGPT Wallet",
+   "link": "https://openai.com/index/introducing-chatgpt-wallet",
+   "data": "2026-11-13T15:00:00+00:00",
+   "testo": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
+   "fonte": "OpenAI",
+   "tipo": "ufficiale",
+   "solo_titolo": false,
+   "categoria": "Laboratori",
+   "id": "u2a84"
+  },
+  "u2a97": {
+   "titolo": "Google Rolls Out Gemini 4 Hydrogen to Replace Gemini 3.8 Flash",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQT1NERGxyTzlCem5ZZUI4SVdqM3NLeUhjWkg2dEVnWU1LU2x0MW9LcjZUano3TGxHVlN1WURqVjQ2dXBCcWdKblhxNXQ1bDJmRHkxc1dyOWRuS1BMZUkzMmtIYjdBUjZZWUlCT0ROa2RQd01hMUkxV294RzVyVGNEQ1pKTEwzeGpIbllJd3lYa0toZnE3LVJja0tzREZyQQ?oc=5",
+   "data": "2026-11-13T13:07:00+00:00",
+   "testo": "",
+   "fonte": "Technology Org",
+   "tipo": "minore",
+   "solo_titolo": true,
+   "categoria": "Laboratori",
+   "id": "u2a97"
+  },
+  "u2a135": {
+   "titolo": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+   "link": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+   "data": "2026-11-13T16:00:12+00:00",
+   "testo": "ChatGPT can now shop for you. On Friday, OpenAI launched a new wallet feature that lets its agents, called dots, help you decide what to buy and then complete the purchase on your behalf. The option will initially be available to a limited number of U.S. ChatGPT Pro subscribers, ages 18 and up, with a U.S.-issued Visa, Mastercard, or American Express. OpenAI says that users are fully in control of the purchases, as they’re able to review the items, the total, and the payment card that will be used to complete the transaction before the checkout occurs. In addition, users will approve the purchases directly with a security check like Face ID or a fingerprint, which creates a record of their transaction. The addition comes as consumer-facing AI tools are working to find the right product-market fit, in terms of how they can help people be more efficient as they complete various tasks. While companies like DoorDash and Uber have so far reported low numbers of orders placed by AI agents, Meta’s Muse, which now has over 10 million users, has seen AI-assisted shopping become a top activity on its app. Other personal AI agents, like Instinct, also support making purchases on users’ behalf. It’s no surprise, then, that OpenAI would want to enter this space more with an agentic shopping feature of its own. To get started, ChatGPT subscribers add their eligible payment cards to the new ChatGPT Wallet, then ask their dot to help with a purchase. (This setup is a one-time thing; users don’t have to re-enter their payment information every time they buy.) When it’s time to transact, ChatGPT’s Wallet charges the selected card using a payment token, which is a substitute for the user’s actual card details, so that information isn’t shared with either the dot or the merchant. The merc…",
+   "fonte": "TechCrunch",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Testate tech",
+   "id": "u2a135",
+   "testo_completo": true
+  },
+  "u2a172": {
+   "titolo": "App generate con l’AI: condividere il link può esporre i dati sensibili",
+   "link": "https://www.punto-informatico.it/app-generate-ai-condividere-link-puo-esporre-dati-sensibili/",
+   "data": "2026-11-13T15:01:35+00:00",
+   "testo": "L’AI generativa sa programmare, e anche bene. Si chiede a un’app su misura per la propria azienda o per un progetto, e in pochi minuti si ottiene. Poi si condivide con un link, come si fa con tutto. Ecco il punto: quel link non resta tra sé e il destinatario. Si può mandare a una sola persona e c’è comunque la possibilità che l’indirizzo sia noto a chi non l’ha mai ricevuto. Il guaio è che le app generate dall’AI, ogni tanto, dentro hanno roba che non dovrebbe vedere nessuno. Prima Meta, poi Grok A ottobre la società Claroc ha trovato app create con Muse, l‘agente di Meta, che chiunque conoscesse il link poteva aprire. Meta, a quanto pare, ha già sistemato la questione. Questa settimana è toccato a Grok. Claroc ha individuato più di 35.000 applicazioni create con lo strumento di xAI e aperte a chiunque avesse l’indirizzo. Nessuno le aveva mandato quei link. Non c’è stata alcuna intrusione o password indovinata. Il meccanismo è banale. Ogni app pubblicata su Grok ha un indirizzo suo, del tipo .grok.me. Quando qualcuno ci clicca, il suo computer deve capire dove si trovi quel nome e lo chiede a un resolver DNS, che è un po’ l’elenco telefonico di Internet. Qui entra in gioco una categoria di servizi poco conosciuta, i DNS passivi. Raccolgono queste richieste dai resolver che gestiscono, oppure comprano i dati da chi li ha. Come spiega Claroc, già dal primo utilizzo del link da parte del destinatario legittimo, il nome finisce in un indice commerciale. Basta un clic, e il proprio indirizzo “riservato” è schedato in un registro che chiunque può consultare, magari pagando. Dentro le app: dai giochini agli ospedali Con questo metodo Claroc è riuscita ad aprire 24 app interne di SpaceXSI con informazioni riservate. Ha trovato anche app di altre organizzazioni, tra cui un ospe…",
+   "fonte": "Punto Informatico",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Italia",
+   "id": "u2a172",
+   "testo_completo": true
+  },
+  "u2a98": {
+   "titolo": "Google rolls out Gemini 4 Hydrogen to Search in its biggest model upgrade to date",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTHZMM2MyTUxncmNkclM2Q0hzOUJkTnlWZmR3WUpUcnVtc0xmNzEwWWV1TXFyQjk4ZWZSb0ZiSWhHVW93RlpuN1ZEYmxRUWd3eXR5N2R2eFJaOXlsQjZzZmRXZHFKNHlFbGNzMEtiV2dsTWNQTEpJelpweG05RGtCN2UzZENabzRBZjJsWTVaNk0wMFlHUnRuazNKRzJvbjYzNllIcA?oc=5",
+   "data": "2026-11-13T12:31:47+00:00",
+   "testo": "",
+   "fonte": "Marketing4eCommerce",
+   "tipo": "minore",
+   "solo_titolo": true,
+   "categoria": "Laboratori",
+   "id": "u2a98"
   }
  },
  "fonti": [
@@ -947,10 +1004,68 @@
   "tankerloadingsatrussiasustlugaportfallnearly50oj",
   "russianoffensiveslowssharplyasheavylosseslimitterritorialgainsinukraineoj",
   "quanteinformazionipersonalisilascianoonlinelosvelanordvpn",
-  "perchénonhasensodirecheglistupriaumentanoperviadellimmigrazione"
+  "perchénonhasensodirecheglistupriaumentanoperviadellimmigrazione",
+  "danillilaunchesanaiapptoaskshopbuildwebsitesandstartabusiness",
+  "servicenowlaunchesaitooltospeedcrmmigrationsbyinvestingcom",
+  "10bestaiappbuildersiveusedin2026andwhateachonegetswrong",
+  "gemini4hydrogenwhatfreeusersandgoogleaiplusget",
+  "cronerintelligencelaunchesaivirtualassistantforauditaccounting",
+  "congoogletabletoplaicreastrumentiinterattividaunprompt",
+  "openailanciachatgptwalletlintelligenzaartificialepotràacquistareepagarepercontod",
+  "sirinonsaràpiùlastessaapplepuntasugliagentiaiepreparagrandinovità",
+  "iodecidolamacchinamiaiutacomelagenzusadavveroliaquandocrea",
+  "shuftilaunchespatentedondeviceaiageverificationtakinguserprivacyconcernsoutofthe",
+  "iwantedanexcuseformyslowstravarunsbutgeminigavemearealitycheckinstead",
+  "uptimekumatoomanyfalsepositivenotifications",
+  "thelowcomplexitystackselfhostingwithopensusemicroosandpodman",
+  "adjustmentnewprojectshowcaserecurringthread",
+  "introducingchatgptwallet",
+  "openailauncheschatgptwalletallowingitsdotsaiagentstomakepurchasesforusers",
+  "openailauncheschatgptwalletenablingdotagentstomakepurchases",
+  "openailaunchesbusinessprofilesinchatgptwhatitmeansfortheinsuranceindustry",
+  "openailauncheschatgptwalletlettingaiagentspayforpurchases",
+  "openailauncheschatgptwallettoenablepaymentswithaiagentsdots",
+  "openailauncheschatgptwalletforagentassistedpurchases",
+  "googlerollsoutgemini4hydrogentoreplacegemini38flash",
+  "googlerollsoutgemini4hydrogentosearchinitsbiggestmodelupgradetodate",
+  "openailauncheschatgptwalletforpurchasesbyitsdotsagents",
+  "alookunderthehoodofanthropicsplansrevealsbigspendingahead",
+  "claudesuffersmajoroutageasmicrosoftstrugglestorestoreoutlook",
+  "claudegoesdownasmicrosoft365outagedragson",
+  "claudegetsmanufacturingplugintoreadplantrecordsanddiagnosesbreakdowns",
+  "ismicrosoftstilldownimpactsfeltincolorado",
+  "gopufflaunchesorderingintegrationwithgrokbot",
+  "grokbuilddataexposurewhatclarocfoundinapps",
+  "llamacppv100astrongerfoundationforthelocalaiecosystem",
+  "whatsreallyatstakeinthejensenhuangsaga",
+  "claudesduetagentisalittleneuroticandsurprisinglyhelpful",
+  "chatgptsnewwalletletsaiagentsshopandcheckoutforyou",
+  "elevenlabsnewappcombinesmeetingnotetakinganddictationforteams",
+  "nearly70percentofusagenciesusegenerativeaiandunionsarefinallycatchingupwithguard",
+  "formeropenairesearchersayshefoundnvidiablackwellfingerprintshiddeninsidesixchine",
+  "anthropicsipoissixtimesoversubscribedandontracktobecomethelargestpublicofferingi",
+  "metasmusenowcallsbusinessesforyoubutmanycompaniesmightjusthangupontheai",
+  "openaientersthecybersecuritymarketwithtwodaybreakproducts",
+  "gemini4hydrogenselfhostedclaudeagentsreplitagentcommerce",
+  "chrobinsonlancialintelligenzaartificialesnellaleanaiperlespedizionimarittimeiltr",
+  "microsoftproblemiaoutlookteamsecopilotlaziendaciavviciniamoallanormalità",
+  "appgenerateconlaicondividereillinkpuòesporreidatisensibili",
+  "housefishingcosèlatruffadellefotodicaseritoccateconlai",
+  "claudedownil13novembretuttigliaggiornamentirisolto",
+  "jensenquantocèdiveronellacrisidiramegpucausatadallai",
+  "msimegxilmonitoroledda360hzcheoffrefunzioniintelligenti",
+  "laièlostresstestdellasovranitàdigitalemolteimpreseinritardo",
+  "aiascuolapseudonimizzazionedatipersonalierischiperglistudenti",
+  "lenuoveregoleagidsullainellapaapronounproblemadiresponsabilità",
+  "aiascuolapareregarantelemisureperproteggereglialunni",
+  "hopital",
+  "llamacppv10ishere",
+  "lagermaniainveste50milionidieuronellosviluppodellintelligenzaartificiale",
+  "noquestononèlattentatoredicracoviachepartecipaaunamanifestazioneantirazzista",
+  "inuoviagentiaisonotroppocariniperessereinnocui"
  ],
  "audio": "audio/2026-11-13.mp3",
- "durata": 146.2,
+ "durata": 189.2,
  "aggiornamenti": [
   {
    "generato": "2026-11-13T13:19:46+00:00",
@@ -1151,6 +1266,103 @@
      {
       "cosa": "Claude Meetings",
       "sito": "https://www.producthunt.com/r/p/1314781?app_id=339",
+      "esito": "errore: HTTP Error 403: Forbidden"
+     }
+    ]
+   }
+  },
+  {
+   "generato": "2026-11-13T16:28:07+00:00",
+   "modello": "gemini-3.5-flash-lite",
+   "testi_completi": 11,
+   "riassunto": {
+    "titolo_giorno": "ChatGPT Wallet: l’intelligenza artificiale ora può fare acquisti per te",
+    "in_breve": "OpenAI ha introdotto ChatGPT Wallet, una funzione che consente agli agenti AI di completare acquisti e pagamenti per conto degli utenti in modo sicuro. Intanto Google ha rilasciato Gemini 4 Hydrogen nella sua Ricerca, segnando un importante passo avanti per i modelli linguistici nei motori di ricerca.",
+    "citati": [
+     "ChatGPT Wallet",
+     "Gemini 4 Hydrogen"
+    ],
+    "da_provare": [
+     {
+      "cosa": "ChatGPT Wallet",
+      "a_cosa_serve": "Permette agli agenti AI (chiamati 'dots') di aiutarti negli acquisti e completare i pagamenti al posto tuo dopo la tua approvazione.",
+      "per_chi": "Tutti i giorni",
+      "ambito": "Organizzazione",
+      "come_iniziare": [
+       "Aggiungi le tue carte di pagamento idonee al nuovo portafoglio digitale ChatGPT Wallet",
+       "Chiedi al tuo agente dot di aiutarti con un acquisto specifico",
+       "Verifica i dettagli e approva la transazione tramite un controllo di sicurezza come Face ID o impronta digitale"
+      ],
+      "costo": "Non indicato",
+      "piattaforme": [
+       "Browser"
+      ],
+      "sul_dispositivo": false,
+      "come_sfruttarla": "Delegare gli acquisti ripetitivi o la ricerca e l'acquisto di prodotti online direttamente tramite la chat.",
+      "italiano": "Non indicato",
+      "difficolta": "Facile",
+      "fonti": [
+       "u2a84",
+       "u2a135"
+      ],
+      "temi": [
+       "Agenti AI",
+       "Assistenti e chatbot"
+      ],
+      "affidabilita": "Fonte ufficiale",
+      "prova": "https://openai.com/index/introducing-chatgpt-wallet"
+     }
+    ],
+    "osint": [],
+    "gemme": [],
+    "sezioni": [
+     {
+      "titolo": "Novità negli strumenti che già usi",
+      "notizie": [
+       {
+        "titolo": "Arriva Gemini 4 Hydrogen nella Ricerca Google",
+        "strumento": "Google Gemini",
+        "riassunto": "Google ha iniziato a distribuire il nuovo modello avanzato Gemini 4 Hydrogen all'interno della Ricerca Google, sostituendo le versioni precedenti per offrire risposte ancora più avanzate e integrate.",
+        "come_provarla": "",
+        "disponibilita": "Disponibile ora",
+        "fonti": [
+         "u2a97",
+         "u2a98"
+        ],
+        "temi": [
+         "Ricerca e informazioni",
+         "Assistenti e chatbot"
+        ],
+        "affidabilita": "Da verificare",
+        "solo_titoli": true
+       }
+      ]
+     },
+     {
+      "titolo": "In breve",
+      "breve": true,
+      "notizie": [
+       {
+        "titolo": "Rischio dati sensibili nelle app generate dall'AI",
+        "riassunto": "Una ricerca di sicurezza ha evidenziato che diverse applicazioni create tramite strumenti di intelligenza artificiale e condivise tramite link presentavano indirizzi esposti e dati accessibili tramite i motori di ricerca DNS.",
+        "fonti": [
+         "u2a172"
+        ],
+        "temi": [
+         "Ricerca e informazioni",
+         "Privacy e sicurezza"
+        ],
+        "affidabilita": "Una fonte",
+        "solo_titoli": false
+       }
+      ]
+     }
+    ],
+    "formato": 2,
+    "controllo_siti": [
+     {
+      "cosa": "ChatGPT Wallet",
+      "sito": "https://openai.com/index/introducing-chatgpt-wallet",
       "esito": "errore: HTTP Error 403: Forbidden"
      }
     ]
