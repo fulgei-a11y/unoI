@@ -387,6 +387,29 @@
    "solo_titolo": true,
    "categoria": "Laboratori",
    "id": "u2a98"
+  },
+  "u3a180": {
+   "titolo": "Patenti e dati rubati a migliaia di autisti Uber, la violazione tramite il provider Fireworks AI",
+   "link": "https://www.hdblog.it/sicurezza/articoli/n676993/patenti-dati-rubati-autisti-uber-violazione/",
+   "data": "2026-11-13T17:35:00+02:00",
+   "testo": "Il data breach che ha colpito Fireworks AI ha coinvolto anche Uber: rubate informazioni e patenti a migliaia di suoi autisti negli USA.",
+   "fonte": "HDblog",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Italia",
+   "id": "u3a180"
+  },
+  "u3a85": {
+   "titolo": "Connect Google Wallet to Gemini for personal finance insights",
+   "link": "https://blog.google/innovation-and-ai/products/gemini-app/google-wallet-gemini-app/",
+   "data": "2026-11-13T17:00:00+00:00",
+   "testo": "Connect Google Wallet to Gemini for personal finance insights Personal Intelligence in Gemini securely connects information from apps you already use — like Gmail, Photos, YouTube, and Search — to make your experience more personalized and helpful. Today, we’re adding Google Wallet to the list of connected apps so you can get more tailored responses around personal finance. Understand and plan your finances with Google Wallet Rolling out today for all Gemini app users in the U.S., you can connect Google Wallet for responses informed by your spending habits. You also have the option to securely link your financial accounts from your credit cards and banks to Wallet via Plaid to unlock deeper insights. Jump into Gemini and tag @Google Wallet to ask questions around personal finance, budgeting and more. Here are some things to try: - Visualize spending: Questions like “can we review my spending from last quarter so I can save $1,000 over the next three months?” enable Gemini to generate dynamic charts tracking cash flow, asset allocation, and budgets directly in your chat. - Find forgotten subscriptions: If you ask \"what subscriptions am I still paying for, and did any of them go up in price this year?\" Gemini finds recurring charges across your linked accounts and flags price increases. - Budget for the holidays: When you ask \"how much did I spend on gifts and travel last year? Use that to help me set a holiday budget for this year,\" Gemini will look at your transactions from the last year and suggest a budget tailored to you. Google Wallet in Gemini is rolling out across web and mobile, for Gemini app users on both Android and iOS. Stay in control We’ve built these tools with security and privacy at the center. If you choose to connect your Wallet (under Connected Apps …",
+   "fonte": "Google (blog ufficiale)",
+   "tipo": "ufficiale",
+   "solo_titolo": false,
+   "categoria": "Laboratori",
+   "id": "u3a85",
+   "testo_completo": true
   }
  },
  "fonti": [
@@ -1062,10 +1085,77 @@
   "llamacppv10ishere",
   "lagermaniainveste50milionidieuronellosviluppodellintelligenzaartificiale",
   "noquestononèlattentatoredicracoviachepartecipaaunamanifestazioneantirazzista",
-  "inuoviagentiaisonotroppocariniperessereinnocui"
+  "inuoviagentiaisonotroppocariniperessereinnocui",
+  "73stringslaunchesaitoolforprivatemarketsreporting",
+  "iffsaitoolspeedsupproductconceptcreation",
+  "tadataaiassistantinslackprospectresearchworkflowautomation",
+  "meritocraziaitaliaalgovernoealparlamentolanuovaleggefinanziariavarimisurestruttu",
+  "comeusareswarminantigravityguidaaiteamdiagentiinparallelo",
+  "igavealocalaimodelcontrolofmywindowspcandithandlesthechoresihate",
+  "whyprivateaiismoreimportantthanever",
+  "solanalaunchesprivateaitoolswithonchainhardwarechecks",
+  "llamacppreachesversion10forlocalaitools",
+  "androidautoabbandonaandroid9e10ilrequisitominimodiventaandroid11",
+  "samsungsgalaxyaisubscriptionisdeadbeforeitsevenarrived",
+  "this32gb1850ryzenai9laptopjustcrashedto999foronedayonly",
+  "isometricsfapixelartmapofthesfbayarea",
+  "musixmatchthreatensnavidromemusixmatchplugin",
+  "6yearsofselfhostinghitwithramcorruption",
+  "dnscollectorv337isout",
+  "plmailneedsinputonupcomingfeatures",
+  "ireplacedgooglekeepwithaselfhostednotesappthatworkslikeatimelineofthoughts",
+  "claimyourgooglecloudcreditsingoogleaistudio",
+  "connectgooglewallettogeminiforpersonalfinanceinsights",
+  "chatgptlauncheswalletfeatureallowinguserstopaywithagents",
+  "openailauncheschatgptwalletclaimingitsasafewaytohaveaishopforyou",
+  "openailauncheschatgptwallet",
+  "openailauncheschatgptwalletforagentpurchases",
+  "mckinneycolauncheschatgptpluginforconveniencestores",
+  "lendprolauncheschatgptpluginforretailfinancing",
+  "howtolistyourhotelonchatgpt",
+  "openailauncheschatgptwalletaiagentscannowshopandmakepurchasesforusers",
+  "anthropicclaudedownwhyitsaiditwasunabletoauthenticatecode",
+  "anthropicnewslatestupdatesontheaicompanybehindclaudebloomberg",
+  "whyanthropicsdarioamodeihasangeredopenaiandotheraipeers",
+  "whatcananthropicsclaudeformanufacturingdo",
+  "legaltechrundownliteraintroducespluginsformicrosoftcopilotforlegalthomsonreuters",
+  "whenwillthemicrosoftoutlookoutagebefixedwhatweknowfriday",
+  "microsoftoutagedisruptsbusinessesgovernmentsworldwideforasecondday",
+  "perplexitybringsaiagentsfeaturecalledteammatestothemac",
+  "deepseekturnsitswholeappintoanapiwithsearchfilereadingvoiceandsafetybuiltin",
+  "deepseekopensitsfullapptoolkittodevelopersthroughitsapi",
+  "appleintelligencebringsaivideofeaturestohomesecuritycamerasbutonlyonpremiumiclou",
+  "perplexitybringsteammatestomacformaxsubscribers",
+  "perplexitybringsteammatesaiagentstoitsmacapp",
+  "buildarobotpickandplacesimulationwithsimreadyassets",
+  "xybenchhelpingwiththeproblembehindthequestion",
+  "chatgptwalletletsopenaisdotsagentsmakepurchasesforyou",
+  "aiagentstartuplangchainhits3bvaluation",
+  "exportbannednvidiachipsarebehindchinasmostpowerfulaimodelsuhohjensen",
+  "openaiboardmemberworriesanaitakeoverofsocietycouldbemonthsaway",
+  "jensenhuangsousterlikelytracesbacktonvidiasriskybusinesspracticesmorethanhispers",
+  "openairebuiltaishoppingfromscratchwithchatgptwallet",
+  "banksbarchineseandhongkonginvestorsfromanthropicipooverusexportcontrols",
+  "anthropicsclaudeformanufacturingplugsaidirectlyintofactorysoftwaretoautomateindu",
+  "mazzeopisadiventinododiuncerneuropeodellia",
+  "chatgptwalletgliagentiaieffettuanoacquisti",
+  "comeusareclaudecodeperscoprirecosarallentailpc",
+  "patentiedatirubatiamigliaiadiautistiuberlaviolazionetramiteilproviderfireworksai",
+  "euaiactemanifatturaitrepilastriperessereconformi",
+  "daconfcommerciomilanoilcodicedicondottaperusarelai",
+  "contentmarketingeaicomeconquistarelutentedigitale",
+  "cfocomecambianoresponsabilitàecompetenzeconaiecybersecurity",
+  "fable52paintinginmspaint",
+  "chatgptrandomlysentmeanunsolicitedfollowupmessage",
+  "jensenhuangsinginghisresignation2026colorized",
+  "dayinthelifeofjensenhuang",
+  "anthropicafterrealizingitcanjustbuynvidiawithitsipomoney",
+  "howcopernicusmakesclimatedatasimpleandeasytounderstand",
+  "lagosdecides2027factcheckingclaimsatthebusinessdaylagosstategovernorshipgebate",
+  "instagramusernamedecoding"
  ],
  "audio": "audio/2026-11-13.mp3",
- "durata": 189.2,
+ "durata": 226.7,
  "aggiornamenti": [
   {
    "generato": "2026-11-13T13:19:46+00:00",
@@ -1366,6 +1456,65 @@
       "esito": "errore: HTTP Error 403: Forbidden"
      }
     ]
+   }
+  },
+  {
+   "generato": "2026-11-13T22:10:10+00:00",
+   "modello": "gemini-3.6-flash",
+   "testi_completi": 10,
+   "riassunto": {
+    "titolo_giorno": "Gemini si integra con le app personali per l'analisi delle spese",
+    "in_breve": "Gemini aggiunge l'integrazione per analizzare le abitudini di spesa e rintracciare gli abbonamenti attivi direttamente in chat. Sul fronte della sicurezza, una violazione presso il provider Fireworks AI ha comportato la fuga di dati personali.",
+    "citati": [
+     "Gemini",
+     "Fireworks AI"
+    ],
+    "da_provare": [],
+    "osint": [],
+    "gemme": [],
+    "sezioni": [
+     {
+      "titolo": "Novità negli strumenti che già usi",
+      "notizie": [
+       {
+        "titolo": "Integrazione con il portafoglio digitale per l'analisi delle spese",
+        "strumento": "Gemini",
+        "riassunto": "L'assistente può collegarsi all'app del portafoglio digitale per analizzare i flussi di cassa, individuare abbonamenti dimenticati che hanno subito rincari e creare grafici dinamici per la pianificazione del budget personale.",
+        "come_provarla": "Collegando l'app dalle impostazioni delle applicazioni connesse in Gemini e menzionandola direttamente nella chat.",
+        "disponibilita": "Non in Italia",
+        "fonti": [
+         "u3a85"
+        ],
+        "temi": [
+         "Assistenti e chatbot",
+         "Lavoro e produttività"
+        ],
+        "affidabilita": "Fonte ufficiale",
+        "solo_titoli": false
+       }
+      ]
+     },
+     {
+      "titolo": "In breve",
+      "breve": true,
+      "notizie": [
+       {
+        "titolo": "Falla di sicurezza in Fireworks AI espone i dati di migliaia di autisti Uber",
+        "riassunto": "Un data breach subito dal provider di intelligenza artificiale Fireworks AI ha provocato il furto di patenti di guida e dati personali di migliaia di autisti negli Stati Uniti.",
+        "fonti": [
+         "u3a180"
+        ],
+        "temi": [
+         "Privacy e sicurezza"
+        ],
+        "affidabilita": "Una fonte",
+        "solo_titoli": false
+       }
+      ]
+     }
+    ],
+    "formato": 2,
+    "controllo_siti": []
    }
   }
  ]
