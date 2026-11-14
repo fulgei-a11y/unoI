@@ -216,6 +216,40 @@
    "solo_titolo": false,
    "categoria": "Strumenti",
    "id": "u1a4"
+  },
+  "u2a168": {
+   "titolo": "Facebook, Garante privacy sanziona Meta per 805 milioni: uso inappropriato delle immagini dei cellulari",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTGNvdXF1Mms5djNjOEx4SXdQU3FMWGVaYzBPdXZNOGpFcmFJUjRkUFBVdmUxTnJDVHdGdy1BX01JNDFrbWgtZ1BTNnBNMnVkRU55S1ltZHdVRUlPTmZnT08yejN2dzdZUGhnS3lQTWplZXROMDE0NVJKUFB5TGpqRDdTLWxIcm5XVmNBWlQ4R0EyYTJLTnZqZC15Snc?oc=5",
+   "data": "2026-11-14T13:02:27+00:00",
+   "testo": "",
+   "fonte": "Il Sole 24 ORE",
+   "tipo": "testata",
+   "solo_titolo": true,
+   "categoria": "Italia",
+   "id": "u2a168"
+  },
+  "u2a64": {
+   "titolo": "Inkheart 1.5 - UI Refresh, full-text search, and multi-document reader tabs",
+   "link": "https://www.reddit.com/r/selfhosted/comments/1xw2dqs/inkheart_15_ui_refresh_fulltext_search_and/",
+   "sito": "",
+   "data": "2026-11-14T13:26:55+00:00",
+   "testo": "AI disclosure: the app has been developed by hand since 2023, the new features added this year have been developed with AI assistance. A detailed breakdown of how AI has been used can be read in the disclosure comment. Gitlab: https://gitlab.com/Nystik/inkheart Live demo: https://inkheart-demo.thiefling.com I shared this earlier this year in January, and it's about time to provide an update on wh…",
+   "fonte": "Reddit r/selfhosted",
+   "tipo": "community",
+   "solo_titolo": false,
+   "categoria": "Gemme",
+   "id": "u2a64"
+  },
+  "u2a169": {
+   "titolo": "Garante Privacy sanziona Meta per 805 milioni: “Attraverso Facebook accedeva alle foto degli utenti senza consenso”",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeHo4ZF9MbWw2VDY5SVUySHN5eUg3TFB6aGxacjRHQ2VxcEh0eE44di1GaENLdTI5Ymw5dU13RlVSeWk0WHBiSUpTXzduM1hZejh2Y0xiblJoZVNEallhSm41T1BXVUVJOWNScXNKSGx2ZHhFNW53amFVcmJrcF9WY0ctckVNdVA2cGtiMktSVVpvd1VENTdCYWlHeW5FVWxwN0Z3?oc=5",
+   "data": "2026-11-14T12:47:36+00:00",
+   "testo": "",
+   "fonte": "Il Fatto Quotidiano",
+   "tipo": "testata",
+   "solo_titolo": true,
+   "categoria": "Italia",
+   "id": "u2a169"
   }
  },
  "fonti": [
@@ -786,10 +820,36 @@
   "cxmtalmosttriplingramproductionfrom2025to2028",
   "stories",
   "ijspotlightrussiasanctions",
-  "mattarellalasanitàpubblicaèlaprioritàassoluta"
+  "mattarellalasanitàpubblicaèlaprioritàassoluta",
+  "aicompanybehindfaassmarttooldenieslinktogroundstopduffyconfirms",
+  "companybehindfaasaitoolsaystechdidntcausegroundstop",
+  "truffainpsfalsositodiffusoviasmsattenzioneallappcheinstallavirus",
+  "newmacappaimstosimplifylocalaimodelsteardownrevealsmacbookprodetailsoledipadairr",
+  "xboxoriginale25giochiarrivanosupcoperazionenostalgia",
+  "inkheart15uirefreshfulltextsearchandmultidocumentreadertabs",
+  "apachecve2026119618cvss98mod_http2rcequickcheckmitigationifyourdistrohasntshippe",
+  "redhatworkingtoimprovememorytieringforqemuvmstosaveram",
+  "trustchatgptwithyourpaymentsopenairollsoutchatgptwallet",
+  "openailauncheschatgptwallettoletaiagentsshopwithoutcrypto",
+  "openailauncheschatgptwallettoletaiagentsmakepurchases",
+  "openailauncheschatgptwalletexcludescryptopayments",
+  "anthropicnewslatestupdatesontheaicompanybehindclaudebloomberg",
+  "anthropicwantsyoutobuildonclaudetheresacatch",
+  "anthropiciposparks2xleveragedetffilingaswallstreetpreparesfornasdaqdebut",
+  "copilotvschatgpt20plusvs500protier2026",
+  "perplexityteammatesarriveinthemacappformaxusers",
+  "theopenaiboardmemberwhofiredsamaltmansayswestillcanttrustaiceos",
+  "facebookgaranteprivacysanzionametaper805milioniusoinappropriatodelleimmaginideic",
+  "garanteprivacysanzionametaper805milioniattraversofacebookaccedevaallefotodegliut",
+  "imagine",
+  "ibuiltaswimmableunderwaterworldinone97kbhtmlfilewithfable52",
+  "gemini4kryptonisbeingtestedinarenaarena",
+  "employeesstartedapetitiontoreinstatejensenhuangasnvidiasceoelonmuskisamongthesig",
+  "deepseekflashmaxisthefirstmodeltoreach1onchallengingswesweepbugfindingbenchmark",
+  "howlongarewegonnadependbunchofmodelcreatorslikeqwengemmanvidiaetcfor100bmodels"
  ],
  "audio": "audio/2026-11-14.mp3",
- "durata": 124.1,
+ "durata": 150.7,
  "aggiornamenti": [
   {
    "generato": "2026-11-14T12:22:51+00:00",
@@ -896,6 +956,79 @@
       "sito": "https://isometricsf.com/",
       "pagina": 16790,
       "trovate": []
+     }
+    ]
+   }
+  },
+  {
+   "generato": "2026-11-14T16:30:11+00:00",
+   "modello": "gemini-3.6-flash",
+   "testi_completi": 1,
+   "riassunto": {
+    "titolo_giorno": "Multa record a Meta per le foto degli utenti e il lettore di documenti Inkheart 1.5",
+    "in_breve": "Il Garante della Privacy ha sanzionato Meta per l'accesso non autorizzato alle foto dei cellulari tramite l'applicazione Facebook. Sul fronte degli strumenti open source aggiornati spicca Inkheart 1.5, una soluzione per organizzare e consultare testi in un'unica interfaccia.",
+    "citati": [
+     "Meta",
+     "Inkheart 1.5"
+    ],
+    "da_provare": [],
+    "osint": [],
+    "gemme": [
+     {
+      "cosa": "Inkheart 1.5",
+      "a_cosa_serve": "Offre un'interfaccia con lettore multi-documento a schede e ricerca nel testo completo per consultare e gestire file di testo estesi.",
+      "perche_gemma": "È un progetto open source self-hosted, gratuito e progettato per la lettura e l'organizzazione dei documenti senza tracciamento dei dati.",
+      "con_ai": "Permette di consultare e organizzare grandi volumi di testi da riassumere o analizzare successivamente con assistenti AI.",
+      "piattaforme": [
+       "Browser"
+      ],
+      "self_hosted": true,
+      "costo": "Gratis",
+      "difficolta": "Media",
+      "temi": [
+       "Open source e self-hosting",
+       "Scrittura e documenti",
+       "Ricerca e informazioni"
+      ],
+      "fonti": [
+       "u2a64"
+      ],
+      "affidabilita": "Da verificare",
+      "come_iniziare": [],
+      "sul_dispositivo": false,
+      "come_sfruttarla": "",
+      "prova": ""
+     }
+    ],
+    "sezioni": [
+     {
+      "titolo": "In breve",
+      "breve": true,
+      "notizie": [
+       {
+        "titolo": "Maxi sanzione del Garante Privacy a Meta",
+        "riassunto": "Il Garante Privacy ha sanzionato Meta per 805 milioni di euro a causa dell'accesso non autorizzato alle foto salvate sui dispositivi degli utenti tramite Facebook.",
+        "fonti": [
+         "u2a168",
+         "u2a169"
+        ],
+        "temi": [
+         "Foto e immagini",
+         "Privacy e sicurezza",
+         "Regole e leggi"
+        ],
+        "affidabilita": "Confermata",
+        "solo_titoli": true,
+        "come_provarla": ""
+       }
+      ]
+     }
+    ],
+    "formato": 2,
+    "controllo_siti": [
+     {
+      "cosa": "Inkheart 1.5",
+      "esito": "nessun sito da aprire"
      }
     ]
    }
