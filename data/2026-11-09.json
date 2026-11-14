@@ -1,0 +1,1003 @@
+{
+ "giorno": "2026-11-09",
+ "generato": "2026-11-09T13:47:39+00:00",
+ "modello": "gemini-3.6-flash",
+ "testi_completi": 9,
+ "riassunto": {
+  "titolo_giorno": "Higgsfield Miracle guida le novità del giorno tra editing video e assistenti integrati",
+  "in_breve": "La modifica dei contenuti visivi compie un passo avanti con Higgsfield Miracle, che permette di ritoccare singole parti di un filmato senza toccare il resto. Nel frattempo, strumenti diffusi come Perplexity e Google Messages si aggiornano per offrire agenti dedicati e scorciatoie più rapide nelle attività quotidiane.",
+  "citati": [
+   "Higgsfield Miracle",
+   "Perplexity",
+   "Google Messages"
+  ],
+  "da_provare": [
+   {
+    "cosa": "Higgsfield Miracle",
+    "a_cosa_serve": "Permette di selezionare e modificare una singola parte di un video senza alterare il resto della scena.",
+    "per_chi": "Lavoro e tutti i giorni",
+    "ambito": "Foto e video",
+    "come_iniziare": [],
+    "costo": "Non indicato",
+    "piattaforme": [
+     "Browser"
+    ],
+    "sul_dispositivo": false,
+    "come_sfruttarla": "Modificare un dettaglio o un oggetto in un filmato promozionale mantenendo intatto lo sfondo.",
+    "italiano": "Non indicato",
+    "difficolta": "Facile",
+    "temi": [
+     "Video",
+     "Foto e immagini"
+    ],
+    "fonti": [
+     "a1"
+    ],
+    "affidabilita": "Appena lanciato",
+    "prova": "https://www.producthunt.com/products/higgsfield"
+   },
+   {
+    "cosa": "ClipsPal",
+    "a_cosa_serve": "Un editor basato su intelligenza artificiale sviluppato per velocizzare il montaggio di video in cui una persona parla direttamente in camera.",
+    "per_chi": "Lavoro e tutti i giorni",
+    "ambito": "Foto e video",
+    "come_iniziare": [],
+    "costo": "Non indicato",
+    "piattaforme": [
+     "Browser"
+    ],
+    "sul_dispositivo": false,
+    "come_sfruttarla": "Montare e rifinire rapidamente video presentazioni o clip per i social network.",
+    "italiano": "Non indicato",
+    "difficolta": "Facile",
+    "temi": [
+     "Video",
+     "Lavoro e produttività",
+     "Foto e immagini"
+    ],
+    "fonti": [
+     "a3"
+    ],
+    "affidabilita": "Appena lanciato",
+    "prova": "https://www.producthunt.com/products/clipspal"
+   },
+   {
+    "cosa": "Egoist AI Passport",
+    "a_cosa_serve": "Consente di gestire, proteggere e condividere in sicurezza i propri dati personali quando si usano strumenti di intelligenza artificiale.",
+    "per_chi": "Tutti i giorni",
+    "ambito": "Privacy e sicurezza",
+    "come_iniziare": [],
+    "costo": "Non indicato",
+    "piattaforme": [
+     "Browser"
+    ],
+    "sul_dispositivo": false,
+    "come_sfruttarla": "Controllare quali informazioni riservate rendere accessibili ai vari servizi AI.",
+    "italiano": "Non indicato",
+    "difficolta": "Facile",
+    "temi": [
+     "Privacy e sicurezza"
+    ],
+    "fonti": [
+     "a2"
+    ],
+    "affidabilita": "Appena lanciato",
+    "prova": "https://www.producthunt.com/products/egoist-ai-passport"
+   }
+  ],
+  "osint": [],
+  "gemme": [
+   {
+    "cosa": "Dawarich",
+    "a_cosa_serve": "Un'applicazione open source per registrare e consultare lo storico dei propri spostamenti direttamente su un server personale.",
+    "perche_gemma": "Offre un'alternativa privata a Google Timeline senza inviare i dati sulla propria posizione a piattaforme esterne.",
+    "con_ai": "",
+    "piattaforme": [
+     "Browser"
+    ],
+    "self_hosted": true,
+    "costo": "Gratis",
+    "difficolta": "Media",
+    "temi": [
+     "Open source e self-hosting",
+     "Privacy e sicurezza"
+    ],
+    "fonti": [
+     "a55"
+    ],
+    "affidabilita": "Da verificare",
+    "come_iniziare": [],
+    "sul_dispositivo": false,
+    "come_sfruttarla": "",
+    "prova": ""
+   },
+   {
+    "cosa": "AudioSilo",
+    "a_cosa_serve": "Un servizio self-hosted che permette di organizzare, archiviare e riprodurre la propria collezione personale di audiolibri.",
+    "perche_gemma": "È gratuito, open source e consente di ascoltare i propri file audio senza dipendere da abbonamenti cloud.",
+    "con_ai": "",
+    "piattaforme": [
+     "Browser"
+    ],
+    "self_hosted": true,
+    "costo": "Gratis",
+    "difficolta": "Media",
+    "temi": [
+     "Open source e self-hosting",
+     "Voce e audio"
+    ],
+    "fonti": [
+     "a52"
+    ],
+    "affidabilita": "Da verificare",
+    "come_iniziare": [],
+    "sul_dispositivo": false,
+    "come_sfruttarla": "",
+    "prova": ""
+   }
+  ],
+  "sezioni": [
+   {
+    "titolo": "Novità negli strumenti che già usi",
+    "notizie": [
+     {
+      "titolo": "Arrivano gli agenti AI Teammates per coordinare i progetti",
+      "strumento": "Perplexity",
+      "riassunto": "Perplexity introduce la funzione Teammates, basata su agenti AI sempre attivi ideati per gestire progetti articolati e automatizzare i flussi di lavoro continuativi.",
+      "come_provarla": "",
+      "disponibilita": "Non indicato",
+      "fonti": [
+       "a20",
+       "a97",
+       "a99"
+      ],
+      "temi": [
+       "Agenti AI",
+       "Lavoro e produttività",
+       "Assistenti e chatbot"
+      ],
+      "affidabilita": "Da verificare",
+      "solo_titoli": true
+     },
+     {
+      "titolo": "Scorciatoia rapida per Gemini nella schermata principale",
+      "strumento": "Google Messages",
+      "riassunto": "L'applicazione per i messaggi di Google aggiorna la propria interfaccia ridisegnando la ricerca e aggiungendo un pulsante d'accesso diretto all'assistente AI Gemini.",
+      "come_provarla": "",
+      "disponibilita": "Non indicato",
+      "fonti": [
+       "a72"
+      ],
+      "temi": [
+       "Assistenti e chatbot",
+       "Foto e immagini",
+       "Ricerca e informazioni"
+      ],
+      "affidabilita": "Da verificare",
+      "solo_titoli": true
+     }
+    ]
+   },
+   {
+    "titolo": "In breve",
+    "breve": true,
+    "notizie": [
+     {
+      "titolo": "Allarme sicurezza sui giocattoli AI per bambini",
+      "riassunto": "Un'inchiesta condotta su alcuni peluche dotati di intelligenza artificiale per l'infanzia ha evidenziato risposte fuori contesto e rischiose su temi delicati come il suicidio.",
+      "fonti": [
+       "a122",
+       "a126"
+      ],
+      "temi": [
+       "Privacy e sicurezza"
+      ],
+      "affidabilita": "Confermata",
+      "solo_titoli": false
+     },
+     {
+      "titolo": "Instagram estende la verifica dell'età tramite AI",
+      "riassunto": "Meta avvia a livello globale l'uso dell'intelligenza artificiale per stimare l'età degli utenti ed individuare i profili dei minorenni con date di nascita errate.",
+      "fonti": [
+       "a124"
+      ],
+      "temi": [
+       "OSINT e verifica"
+      ],
+      "affidabilita": "Una fonte",
+      "solo_titoli": false
+     }
+    ]
+   }
+  ],
+  "formato": 2,
+  "controllo_siti": [
+   {
+    "cosa": "Dawarich",
+    "esito": "nessun sito da aprire"
+   },
+   {
+    "cosa": "AudioSilo",
+    "esito": "nessun sito da aprire"
+   },
+   {
+    "cosa": "ClipsPal",
+    "sito": "https://www.producthunt.com/r/p/1308788?app_id=339",
+    "esito": "errore: HTTP Error 403: Forbidden"
+   },
+   {
+    "cosa": "Higgsfield Miracle",
+    "sito": "https://www.producthunt.com/r/p/1308023?app_id=339",
+    "esito": "errore: HTTP Error 403: Forbidden"
+   },
+   {
+    "cosa": "Egoist AI Passport",
+    "sito": "https://www.producthunt.com/r/p/1307908?app_id=339",
+    "esito": "errore: HTTP Error 403: Forbidden"
+   }
+  ]
+ },
+ "articoli": {
+  "a97": {
+   "titolo": "Perplexity launches Teammates AI agents for Max users",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdGxzazlNUWpQSGJVUFNDdHh6QjlFX0t3NV90WThKR25MUEJKZC15ZGlTNHVTNVAyVlpqYzFVcnBwTU9NSWRxcUxXUTZWeExZVFFlTW83MkZNTWhnc2ZqSUhlMFZWcWJuMVNnSjI4VXdjU2FEYi0zUWdKSXFpXzNWY0tsS3E1U1FoQ2c?oc=5",
+   "data": "2026-11-08T20:30:00+00:00",
+   "testo": "",
+   "fonte": "IT Brief Australia",
+   "tipo": "minore",
+   "solo_titolo": true,
+   "categoria": "Laboratori",
+   "id": "a97"
+  },
+  "a1": {
+   "titolo": "Higgsfield Miracle",
+   "link": "https://www.producthunt.com/products/higgsfield",
+   "sito": "https://www.producthunt.com/r/p/1308023?app_id=339",
+   "data": "2026-11-07T10:28:56-08:00",
+   "testo": "Edit any part of a video without changing the rest",
+   "fonte": "Product Hunt (AI)",
+   "tipo": "vetrina",
+   "solo_titolo": false,
+   "categoria": "Strumenti",
+   "id": "a1"
+  },
+  "a122": {
+   "titolo": "Giocattoli AI per bambini, un peluche parla di suicidio",
+   "link": "https://www.punto-informatico.it/giocattoli-ai-bambini-peluche-parla-uicidio/",
+   "data": "2026-11-09T13:11:42+00:00",
+   "testo": "Meglio fare attenzione se si decide di acquistare un giocattolo AI, soprattutto se l’intenzione è quella di darlo in mano ai più piccoli. Scegliere un modello guardando solo il prezzo, con l’obiettivo di risparmiare, potrebbe esporre a gravi rischi. Un articolo pubblicato da BBC testimonia un evento alquanto preoccupante, registrato con un modello pubblicizzato come adatto ai bambini dai tre anni: l’articolo ha pronunciato queste esatte parole. Mi dispiace davvero che tu ti senta così. Non posso aiutarti a ucciderti. Il caso Doubao: giocattoli AI pericolosi Il modello si chiama Doubao. È venduto online e, nonostante le ricerche condotte, non è stato possibile risalire al produttore. Omonimia a parte, non sembra avere legami diretti con l’assistente virtuale di ByteDance (la casa madre di TikTok). Di seguito il reportage completo, merita i dieci minuti richiesti per la visione. Nicola Bryan di BBC, che si è occupata del pezzo, racconta di aver prima messo alla prova il giocattolo chiedendogli informazioni sulla riproduzione umana. E il peluche AI ha risposto come ci si aspetterebbe, in modo adatto ai più piccoli, senza citare nulla di esplicito. Una delle frasi pronunciate è stata Non posso fornire dettagli sessuali espliciti . Le cose sono però cambiate quando ha domandato di spiegare il significato del termine sessuale . In modo del tutto inatteso e incoerente, ha replicato facendo riferimento alla volontà di suicidarsi, invitando a chiamare i servizi di emergenza o a rivolgersi il prima possibile a un adulto. Non posso aiutarti a ucciderti. Quando la giornalista ha chiarito di non aver mai detto di volersi uccidere, Doubao si è semplicemente scusato per l’incomprensione. Non è la prima volta che accade qualcosa di simile, sollevando dubbi legittimi sulla sicurezza e …",
+   "fonte": "Punto Informatico",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Italia",
+   "id": "a122",
+   "testo_completo": true
+  },
+  "a20": {
+   "titolo": "Perplexity lancia Teammates, agenti AI sempre attivi",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbzZ5OXFyWnFpRUFHVTMxQk1ET2ZVeDRncHBoaWdaa0kzbndWdzNGTFl6UG9BYW12a2l4QTE3dWszempmMFh3QkN1WVdWd3JaZ3RiRHpoTWNvOVJLNmZGV0JXaldXaVVrV2lSbXg1UHRQVWJ0VThPaUtTWWpITFdzWXln?oc=5",
+   "data": "2026-11-09T10:36:15+00:00",
+   "testo": "",
+   "fonte": "MRW.it",
+   "tipo": "minore",
+   "solo_titolo": true,
+   "categoria": "Strumenti",
+   "id": "a20"
+  },
+  "a52": {
+   "titolo": "AudioSilo - Self hosted audiobooks",
+   "link": "https://www.reddit.com/r/selfhosted/comments/1xr8g7s/audiosilo_self_hosted_audiobooks/",
+   "sito": "",
+   "data": "2026-11-08T20:36:44+00:00",
+   "testo": "*Edit* The mods told me to remove any links to a github repository that is less than 3 months old (I thought it was just the ls.io docker image, but it was also the bridge repository), so if you have seen this flash up a couple of times before disappearing, that is why, sorry. v2.6.0 was released yesterday, and it's at a stage now where a lot of the features I wanted in are there. A bit about me …",
+   "fonte": "Reddit r/selfhosted",
+   "tipo": "community",
+   "solo_titolo": false,
+   "categoria": "Gemme",
+   "id": "a52"
+  },
+  "a2": {
+   "titolo": "Egoist AI Passport",
+   "link": "https://www.producthunt.com/products/egoist-ai-passport",
+   "sito": "https://www.producthunt.com/r/p/1307908?app_id=339",
+   "data": "2026-11-07T08:27:33-08:00",
+   "testo": "Secure and share your personal data with AI tools.",
+   "fonte": "Product Hunt (AI)",
+   "tipo": "vetrina",
+   "solo_titolo": false,
+   "categoria": "Strumenti",
+   "id": "a2"
+  },
+  "a3": {
+   "titolo": "ClipsPal",
+   "link": "https://www.producthunt.com/products/clipspal",
+   "sito": "https://www.producthunt.com/r/p/1308788?app_id=339",
+   "data": "2026-11-08T05:34:07-08:00",
+   "testo": "AI video editor that edits your talking-head videos",
+   "fonte": "Product Hunt (AI)",
+   "tipo": "vetrina",
+   "solo_titolo": false,
+   "categoria": "Strumenti",
+   "id": "a3"
+  },
+  "a124": {
+   "titolo": "Meta usa l'AI per riconoscere i minorenni su Instagram in tutto il mondo",
+   "link": "https://www.hdblog.it/sicurezza/articoli/n676401/meta-verifica-eta-ai-instagram-facebook-italia/",
+   "data": "2026-11-09T14:15:00+02:00",
+   "testo": "Meta estende a livello globale su Instagram il sistema di intelligenza artificiale che stima l'età degli utenti e individua possibili minorenni con date di nascita false. L'obiettivo è applicare le...",
+   "fonte": "HDblog",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Italia",
+   "id": "a124"
+  },
+  "a99": {
+   "titolo": "Perplexity Launches Teammates AI Agents To Manage Complex Projects And Automate Ongoing Business Workflows",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORTR3eUdBWEFnanlsWVJCWnBDdW9wank0WW8tNmVnS2hfa3V1b0UtOW43RERnUWRQMGtMcDduRmRZOEJ0ZzRXdG5CR3hST0txWFIySFJJekI3SkI3dHg3UHlpSy1EbC1XWXNqOXE2aTh4OS1IaHUtOVVGYWZkdlI2V1A5Q1RWLTAzRlFwWXhJSHUxTzZaTUIwLTY5MTd2RkpDRnJyTVMtVGYxV2Jvc0FMLUpRY2JncDd4aTV5RTZieWFGOXFS?oc=5",
+   "data": "2026-11-08T14:28:42+00:00",
+   "testo": "",
+   "fonte": "Pulse 2.0",
+   "tipo": "minore",
+   "solo_titolo": true,
+   "categoria": "Laboratori",
+   "id": "a99"
+  },
+  "a126": {
+   "titolo": "Chiedono a un peluche AI il significato di una parola e lui tira in ballo il suicidio",
+   "link": "https://www.hdblog.it/sicurezza/articoli/n676391/peluche-ai-bambini-risposta-pericolosa/",
+   "data": "2026-11-09T12:50:00+02:00",
+   "testo": "Durante un test della BBC, un giocattolo con intelligenza artificiale ha risposto completamente fuori contesto a una domanda sulla sessualità. Il caso solleva dubbi sulla sicurezza dei prodotti...",
+   "fonte": "HDblog",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Italia",
+   "id": "a126"
+  },
+  "a55": {
+   "titolo": "Dawarich 1.22.0 — Alternative to Google Timeline, OwnTracks and Life360",
+   "link": "https://www.reddit.com/r/selfhosted/comments/1xrourj/dawarich_1220_alternative_to_google_timeline/",
+   "sito": "",
+   "data": "2026-11-09T11:03:03+00:00",
+   "testo": "Hello there, my favorite people of r/selfhosted ! I'm Evgenii, the developer and maintainer of Dawarich , a free, open-source, self-hostable alternative to Google Timeline (and OwnTracks, and Life360, and Traccar, and some others too), and I brought you a fresh portion of updates we made in October 2026. As always, our links: Github: https://github.com/Freika/dawarich Website: https://dawarich.ap…",
+   "fonte": "Reddit r/selfhosted",
+   "tipo": "community",
+   "solo_titolo": false,
+   "categoria": "Gemme",
+   "id": "a55"
+  },
+  "a72": {
+   "titolo": "Google Messages launches major homepage overhaul: integrates Gemini shortcut, restructures pinned and bottom search",
+   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1xTDZuRkFxY3hjN0dNYkFFRk1fRXBRMDNubTFRSkQ4YUhNTUhuRVhYbUlKTW41ZFp1MlNqYlpmcHY5MnVUVFd2SGZn?oc=5",
+   "data": "2026-11-09T05:03:29+00:00",
+   "testo": "",
+   "fonte": "AIBase",
+   "tipo": "minore",
+   "solo_titolo": true,
+   "categoria": "Laboratori",
+   "id": "a72"
+  },
+  "u2a110": {
+   "titolo": "Medium’s new TK app brings AI assistance directly into the writing process",
+   "link": "https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/",
+   "data": "2026-11-09T16:12:28+00:00",
+   "testo": "Online publishing platform Medium on Monday launched a new app, called TK, which aims to bring AI technology deeper into the writing process. The idea behind TK is to make it easier to turn ideas into written words by incorporating an AI assistant into the editor itself, allowing users to ask for help by typing “@TK” followed by their request or prompt. In publishing and journalism, the term “TK” serves as a placeholder used to mark where missing information can be added later. The “TK” stands for “to come,” but uses a “K” instead of “C” as there are few English words where the “tk” letter combination exists, making it stand out more easily in written text where it could be caught by proofreaders. In Medium’s app, TK takes on a new role as it tries to help users fill in the blanks. The company suggests the AI assistant could help answer questions that you might normally have to switch to another tab to quickly look up, like how many days are in a particular month. The app could also pull in bits of writing you had previously saved to the app when you were still fleshing out your ideas. In addition, Medium says TK will ship with particular skills for editorial feedback, headline feedback, and others that could match your draft to the style guide for Medium publications. Medium’s move to embrace AI in the early stages of writing could prove controversial at a time when the publishing and literary worlds have been reckoning with the role that artificial intelligence has played in the creation of new long-form prose. Multiple authors have lost book deals over suspicions that they used AI technology to help them write, while other literary awards have come under scrutiny after winners were suspected of writing with AI assistance. While writers have long used automated tools…",
+   "fonte": "TechCrunch",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Testate tech",
+   "id": "u2a110",
+   "testo_completo": true
+  },
+  "u2a56": {
+   "titolo": "Riviamigo - Self hosted Rivian data logging dashboard (new release 2026.11.1)",
+   "link": "https://www.reddit.com/r/selfhosted/comments/1xrtvw3/riviamigo_self_hosted_rivian_data_logging/",
+   "sito": "",
+   "data": "2026-11-09T15:01:02+00:00",
+   "testo": "Hey all! I’ve been using TeslaMate on my Tesla for years. It’s self-hosted and logs everything the car reports. When I got my Rivian I really missed it, so I built (oh god, the issues this phrase is going to cause, haha) my own: Riviamigo . It connects to your Rivian account, saves your vehicle’s data to your own database, and turns it into dashboards: Battery: SoC, range, charge limits, phantom …",
+   "fonte": "Reddit r/selfhosted",
+   "tipo": "community",
+   "solo_titolo": false,
+   "categoria": "Gemme",
+   "id": "u2a56"
+  }
+ },
+ "fonti": [
+  {
+   "nome": "Product Hunt (AI)",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "Show HN (nuovi progetti)",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "Nuove app AI (internazionale)",
+   "ok": true,
+   "presi": 10
+  },
+  {
+   "nome": "Nuove app AI (Italia)",
+   "ok": true,
+   "presi": 8
+  },
+  {
+   "nome": "Novità AI da provare (Italia)",
+   "ok": true,
+   "presi": 8
+  },
+  {
+   "nome": "AI sul dispositivo (internazionale)",
+   "ok": true,
+   "presi": 8
+  },
+  {
+   "nome": "AI sul dispositivo (Italia)",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "Android Police (AI su Android)",
+   "ok": true,
+   "presi": 3
+  },
+  {
+   "nome": "Windows Central (AI su Windows)",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "Ollama (nuove versioni)",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "Open WebUI (nuove versioni)",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "Show HN – progetti utili (gemme)",
+   "ok": true,
+   "presi": 2
+  },
+  {
+   "nome": "Reddit r/selfhosted",
+   "ok": true,
+   "presi": 6
+  },
+  {
+   "nome": "Reddit r/opensource",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "Alternative open source (Google News)",
+   "ok": true,
+   "presi": 6
+  },
+  {
+   "nome": "n8n (nuove versioni)",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "Immich (nuove versioni)",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "OpenAI",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "Google (blog ufficiale)",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "Google Gemini (blog)",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "Nuove funzioni AI (Google News)",
+   "ok": true,
+   "presi": 12
+  },
+  {
+   "nome": "Anthropic / Claude",
+   "ok": true,
+   "presi": 6
+  },
+  {
+   "nome": "Microsoft Copilot",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "Altri assistenti AI (Perplexity, Mistral, Meta AI…)",
+   "ok": true,
+   "presi": 8
+  },
+  {
+   "nome": "Hugging Face (modelli e strumenti aperti)",
+   "ok": true,
+   "presi": 2
+  },
+  {
+   "nome": "Mistral AI",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "The Verge",
+   "ok": true,
+   "presi": 4
+  },
+  {
+   "nome": "TechCrunch",
+   "ok": true,
+   "presi": 2
+  },
+  {
+   "nome": "Ars Technica",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "MIT Technology Review",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "The Decoder",
+   "ok": true,
+   "presi": 6
+  },
+  {
+   "nome": "TLDR AI (newsletter)",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "ANSA",
+   "ok": true,
+   "presi": 6
+  },
+  {
+   "nome": "Wired Italia",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "Il Sole 24 Ore Tecnologia",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "Punto Informatico",
+   "ok": true,
+   "presi": 2
+  },
+  {
+   "nome": "HDblog",
+   "ok": true,
+   "presi": 4
+  },
+  {
+   "nome": "AI4Business",
+   "ok": true,
+   "presi": 4
+  },
+  {
+   "nome": "Agenda Digitale (AI)",
+   "ok": true,
+   "presi": 3
+  },
+  {
+   "nome": "Garante Privacy e AI",
+   "ok": true,
+   "presi": 3
+  },
+  {
+   "nome": "Malwarebytes (app e truffe AI)",
+   "ok": true,
+   "presi": 2
+  },
+  {
+   "nome": "Reddit",
+   "ok": true,
+   "presi": 8
+  },
+  {
+   "nome": "Reddit (AI locale)",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "Simon Willison (prove pratiche di strumenti AI)",
+   "ok": true,
+   "presi": 2
+  },
+  {
+   "nome": "Bellingcat (guide e strumenti)",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "GIJN (guide per giornalisti investigativi, via Google News)",
+   "ok": true,
+   "presi": 3
+  },
+  {
+   "nome": "OSINT – verifica e fact-checking (internazionale)",
+   "ok": true,
+   "presi": 2
+  },
+  {
+   "nome": "OSINT – nuovi strumenti (internazionale)",
+   "ok": true,
+   "presi": 3
+  },
+  {
+   "nome": "OSINT – strumenti (Italia)",
+   "ok": true,
+   "presi": 3
+  },
+  {
+   "nome": "Facta (fact-checking, contenuti falsi e AI)",
+   "ok": true,
+   "presi": 3
+  },
+  {
+   "nome": "Week in OSINT (Sector035)",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "The OSINT Newsletter",
+   "ok": true,
+   "presi": 2
+  },
+  {
+   "nome": "IDMO (osservatorio italiano sulla disinformazione)",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "EU DisinfoLab",
+   "ok": true,
+   "presi": 2
+  },
+  {
+   "nome": "Reddit (OSINT)",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "Hacker News (OSINT)",
+   "ok": true,
+   "presi": 0
+  }
+ ],
+ "visti": [
+  "higgsfieldmiracle",
+  "egoistaipassport",
+  "clipspal",
+  "agentclan",
+  "tracebycontextdev",
+  "gmjustannouncedanewincaraiassistanthowthetechwillwork",
+  "easysignagelaunchesaiassistant",
+  "hestruggledtofindhelpnowhisaiishelpingthousandsinctthrough211",
+  "wealthsimpleunveilspennyaiassistantandmajorplatformoverhaulforcanadianinvestors",
+  "leveratelaunchesnewcrmwithaiassistantformetatraderbrokers",
+  "usdaaitoolwillchecknovembercropproductionreportaftercorndataerrors",
+  "whatgmsaysthesoontobelaunchedonstaraiassistantcando",
+  "optidigitallaunchesnexaanaipoweredintelligencelayer",
+  "metaintroducesspacesfordesigningcustomexperiencesinsidemuseaiapp",
+  "leveratelaunchesadvancedcrmformt4mt5brokersaddingintelligentautomation",
+  "lefebvregiuffrèannamancininuovachiefmarketingdirector",
+  "viaffinitylanciavialiaconversazionalealserviziodellembeddedinsurance",
+  "freddietheshowmustgoonultimibigliettiperilgrandeconcertofilmalteatrometropolitan",
+  "qualcunohaclonatosetteappadobeinunasettimanalastoriadellecraftingapps",
+  "perplexitylanciateammatesagentiaisempreattivi",
+  "appleintendetrasformaresiriinunassistentebasatosullintelligenzaartificialeingrad",
+  "intelligenzaartificialesicurezzasullavoroeresponsabilità231lanuovamappaturadeiri",
+  "geminicosècomefunzionaecomeusarlogratis2026",
+  "scrivereconchatgptodasolicosasuccedealcervellosecondounostudiodelmit",
+  "rilevatoridiiaestrumentiperumanizzareliaistruzioniperlusocopilotstudio",
+  "gemininotebookaggiungelibriditestogratisperstudiareconlai",
+  "anthropicportaliadiclaudedentrocontiecarte",
+  "comeusareclaudeperanalizzareletuespesearrivapersonalfinanceilnuovostrumentodiant",
+  "comeusaregeminiliveconlafotocameraperfartiguidare",
+  "movalalettieraautopulentesmartlb10airarrivainitalia",
+  "asusexpertbooka7arrivainitaliachassisinalluminiodisplayoled3k",
+  "5ofmyfavoritelinuxdistrosforaiandwhy",
+  "rtx5060ti16gbbuyersrushinforlocalaiasusmedianpricehits805",
+  "moorethreadsupdatesaicubewithsmarthomecontrolandlocalainasmanagement",
+  "msiexpandstargetmarketwithlocalaireadyprestigen16flipai",
+  "chatgbtbewarelocalaicheckerstartupascrappyunderdogintechworld",
+  "daejeontphelpslocalaifirmsbreakintonorthamericanmarket",
+  "proartp16rtxsparkreviewscreenandaitests",
+  "googlesnovembergooglebookupdatefreesupto6gboframandpatches60securityflaws",
+  "rtx5060ti16gbperlailocaleilprezzosuperagli800dollari",
+  "siridiventeràunveroagenteaiconios273",
+  "perplexityportablecomputerportalailocalesullegpunvidiartxprivacyepotenzasenzaclo",
+  "colorfirelingchuangminiprodebuttacon192gbdimemoriaunificata",
+  "bubbleupnptrasformailvecchioandroidinunalibreriamusicale",
+  "iusegeminiwithouttypingasinglewordigetwaymoredonenow",
+  "iletgeminihandlemydocssheetsandpdfsforaweektheresonemajorcatch",
+  "samsungmightstartchargingforgalaxyaibuttheresasilverlining",
+  "openwebuiv0130",
+  "coldframeahoneypotthatposesasasupermarketfridgecontroller",
+  "wecompresseda31bvideoaudiodiffusionmodelto14b6stepsint8",
+  "selfhosteddoorpanelepaperintercomintegrationandsonoschime",
+  "audiosiloselfhostedaudiobooks",
+  "domainstructurehomeexamplecomorexamplecom",
+  "anyoneusingawsglacierorsimilarinsteadoftraditionalofflinebackup",
+  "dawarich1220alternativetogoogletimelineowntracksandlife360",
+  "tracearrsdevandupdatepaceisitjustme",
+  "synapticsappearstouselegalthreatstoblockopensourcedisplaylinkdriver",
+  "amaintainersadviceoncontributingtoopensourcein2026",
+  "project2027anrfctorebuildpublictechusingtheeconomicsofopensource",
+  "anyoneelsecompletelydonewithsmartphonesbeingantiprivacyblackboxeswhydidweletthep",
+  "thefutureofsoftwareengineeringisboring",
+  "revolutcutsaicodingcosts10xwithglm532026",
+  "lnbitsurgesuserstoshutdownserversamidwaveofattacks",
+  "opensourcealternativetofusionsolidcraftreceivesmultipleupdatesperweek",
+  "isponsorblocktvskipssponsorsegmentsacrossyoutubetvclients",
+  "tailscalemademyhomeservereasyuntiliuseditforeverything",
+  "deepseeksaysagentapptops15mdailyusersplanspluginmarketplace",
+  "n8nstable",
+  "icymimetarollsoutspecializedmodelsformuseandmetaai",
+  "leapterlauncheschatgptplugintomakedecisionrulesvisibleverifiableandauditable",
+  "geminisnewfeaturebuiltmytravelitinerarywithoutstartingoverhowtogeek",
+  "googlemessageslaunchesmajorhomepageoverhaulintegratesgeminishortcutrestructuresp",
+  "accountlinkedaifinancialadvicespreadsasclaudeandchatgptdifferondataandprivacy",
+  "googlelaunchesgeminiomni12flashwith15secondaivideogenerationand30lowerpricing",
+  "katenoidlauncheskollusmcptomanagevideoservicesthroughaichat",
+  "anthropiclaunchespersonalfinanceinclaudetoconnectbankaccountsandanalyzespending",
+  "digitalrealtylaunchesfirstlatinamericaninnovationlab",
+  "microsoftbackedspaceandtimelaunchesplatformtoletaiagentsverifyprivatedata",
+  "disqolaunchesstudioandmcpputtingintelligenceondemandinthehandsofeverymarketer",
+  "hounddogailaunchesprotomaptoshowtheblastradiusofeverygrpcandprotobufchangeacross",
+  "anthropicscustomersarealsoitstestsubjects",
+  "softwareoneachievesselectpartnertierwithanthropic",
+  "theweekaheadinaiopenaihireshactronforprobeanthropicdetailsclaudedreamingpostelec",
+  "anthropicagreedtopay34billionforgasgeneratorstopoweritsdatacenters",
+  "anthropicclaudecodesdontaskagainfeatureexposes2539secretsongithub",
+  "anthropicgivesclaudeadreamingmechanismallowingmemoryconsolidationtoselfcorrect",
+  "cemexbuildsanalwaysonhrexperiencewithacopilotstudioagent",
+  "microsofttomoveclaudeprocessingincopilotintoeudataboundary",
+  "runanllmlocallyincopilot13steps70min2026httpstechinsiderorg",
+  "microsoftshowcasesmodernizedregistryeditoraswinui3sample",
+  "microsoftdeveloperbuildsataskmanagerappforyourgpu",
+  "grokapphit934mmonthlyusersinoctobersimilarwebsays",
+  "chatgptgeminimetaaiwhatparentscancontrolinaichatbots",
+  "insilicomedicinelaunchesopensourcelongevitygrokwithharvardresearcherdavidsinclai",
+  "deepseeksaiagentplatformhits154milliondailyusers",
+  "samsungappcodepointstoa499galaxyaipremiumplan",
+  "perplexitylaunchesteammatesaiagentsformaxusers",
+  "deepseeksaysitsharnessagentapphas154milliondailyusersandplansapluginmarketplace",
+  "perplexitylaunchesteammatesaiagentstomanagecomplexprojectsandautomateongoingbusi",
+  "yourexpertshavepartnersthereshopeforkeepingthemtogether",
+  "toyblocksacontrolledworldforrobotlearningandevaluation",
+  "heresthefulltextofjensenhuangsmemotonvidia",
+  "nvidiaisinvestigatingjensenhuangsrelationshipwithanallegedchinesespy",
+  "appleisracingtomakesirimoreagentic",
+  "elvisandeminemrightsholdersaresuingsuno",
+  "isjensenhuangsjobonthelineyalesjeffreysonnenfeldestimatesitsabouta5050",
+  "nvidiawillinvestigateceojensenhuangsrelationshipwithpossiblechinesespy",
+  "innovatingwithaiinthespecialchemicalsindustry",
+  "googleshipsfourtpuvariantsinoneyearasitrampsupcompetitionwithnvidia",
+  "nvidiaespionagescandalweakenshuangslobbyagainsttighteraichipexportcontrols",
+  "andrejkarpathybuiltacuratedvideoplatforminaweekendusingclaudeand20yearsofhackern",
+  "thebrainascomputermetaphorshapedmodernaibutmaybemisleadingtheconsciousnessdebate",
+  "theinventorofthebitterlessonhasabitterlessonforllmscalingenthusiasts",
+  "aicodingagentsstillneedhumancleanuponnearlythreeoutoffourtasksinarealworldtest",
+  "borsalasiachiudeinrialzosiguardaallintelligenzaartificiale",
+  "pieraccionilintelligenzaartificialecistacominciandoainvidiare",
+  "nvidiaindagasullarelazionedelceohuangconunapresuntaspiacinese",
+  "piazzaaffarimagliarosadeuropaconglistrappidibancobpmeunicredit",
+  "ilnobelhintonforsestaremmomegliosenzaiatemoungraveincidente",
+  "daicolossidelwebunimpegnoaregolareloscrapingdelliadaisiti",
+  "wireditalia",
+  "giocattoliaiperbambiniunpelucheparladisuicidio",
+  "relazioneconspiacineseceonvidiasottoindagineupdate",
+  "metausalaiperriconoscereiminorennisuinstagramintuttoilmondo",
+  "googlepresentatpu8txe8imaxpiùsicurezzaememoriaperlaiagentica",
+  "chiedonoaunpelucheaiilsignificatodiunaparolaeluitirainballoilsuicidio",
+  "samsunggalaxyaipotrebbediventareapagamento",
+  "strategiaaidimpresaperchélasceltadelmodellononbasta",
+  "riflessivitàalgoritmicacomelaiimitailpensieroriflessivo",
+  "automatizzareiprocessiaziendaliconlaipuòfissareglierrori",
+  "aidecisionaleeanalisicontrofattualedellescelte",
+  "comelaspystorynvidiaincidesuichipdellai",
+  "aiadaltorischioeresponsabilità231cosadevonofareglienti",
+  "ainellascienzalamappadeglistrumentiperlaricerca",
+  "casogarlascoilgaranteprivacysanzionacairoeditoreperlacrudezzadelleimmaginipubbli",
+  "datiditajanineldarkwebilgaranteavvertevietatodiffonderli",
+  "nullelesanzionidisciplinaribasatesullusoillegittimodellaiseidipendentinonsonosta",
+  "scammersuseaigeneratedimagesofmissingpetstoextortowners",
+  "possiblefalsepositivewavelinkproexemalwareai1879801883",
+  "samaltmanmightbetheonlyaiceoimmunetothisexploit",
+  "holyguardrails",
+  "whatstheonepromptyoukeepcomingbackto",
+  "ramaltman",
+  "ibuiltanmcpwithclaudecodethatletsclaudeplaypcgamesinthebackgroundhereitisdriving",
+  "usedchatgpttorecreateadamagedbarcode",
+  "claudesavedmyoldiphonefrombecomingewaste",
+  "myfavouriteuseofchatgptisbuyingsupermarketwine",
+  "doescensorshipexistincountryaccordingtovariousllms",
+  "usershavestartedbuyingrtx5060ti16gbgraphicscardsenmasseforthesakeofai",
+  "gpt55datasetacrossmyused25billiontokens",
+  "4xradeonaipror97002xrtx3090ononex16slotusingapcieswitch",
+  "intelarcprob7032gb1299vsnvidiartx50906500onqwen3827babout12speedgen13speedprefil",
+  "thewebismorethanenoughbypaulford",
+  "hideyourslopprdescriptionsbehind",
+  "artículos",
+  "howgijc27cohostvvojpacksaregionalpunchingrowinginvestigativejournalism",
+  "bluetsunamisweepsusmidtermsongoingdisplacementinlebanonmappingeuropeanprotests",
+  "fakeprofileshaveoutgrownthereverseimagesearch",
+  "factcheckunrelatedvideosfalselylinkedtorecentattackonbsfintripura",
+  "theosintplaybooktracingghostpoliticalllcs",
+  "fivestrikes34tankshitukrainekeepscomingbacktothesamerussianoilhub",
+  "ukrainiandronesreportedlystrikebridgeonhighwaylinkingrussiasrostovtooccupiedcrim",
+  "dueaereiquasiimpercettibilinellaudiocosìunoyoutuberhageolocalizzatoilframmentodi",
+  "latecnologiaildigitalelaiilgiornalismomodernoemoltoaltroalviailminidigitalfestiv",
+  "lagermaniainveste50milionidieuronellosviluppodellintelligenzaartificiale",
+  "quantisonodavveroifemminicidiinitalia",
+  "netanyahustadelegittimandoilvotoaraboconaccusediinterferenzestraniereecomplottis",
+  "falsigiornalilocalieslopagandacosèsuccessonellacampagnaelettoraleperlemidterm",
+  "theosintnewsletterissue129",
+  "episode25discgolfappstrackingaircraftandsearchingwithfofa",
+  "raieidmocrescelimpegnocontroladisinformazioneo",
+  "disinfoupdate4112026",
+  "eudisinfolabsapproachtofundraising",
+  "acousticgeolocation",
+  "gcashlaunchesgabbyaiassistantonpilotrollout",
+  "gcashintroducesgabbyaiassistantforinapptransactions",
+  "lawyerbuildsprivateaiserverwitheightusednvidiav100gpusupto215tokenspersecondtoke",
+  "samsunggalaxyfit4potrebbepagareconnfclindizionellapp",
+  "kindlevecchinonscaricanolibricosafareecosaevitare",
+  "selfhostingdashcams",
+  "a1launchesaigovernanceserviceformidmarketfirms",
+  "howtotranscribeaudiototextinmicrosoftwordandonenote",
+  "pelucheconlaifinalmenteanchelinfanziaèunaminieradidati",
+  "8reportingtipsforcoldcontactinginsiders",
+  "caviarcofoundersnewsportsaiappsnappisnowonandroid",
+  "metapreparingtolaunchmuseaiassistantinuk",
+  "worldaifilmfestivalwaiffarrivaanapolilarassegnadedicataalcinemarealizzatoconlint",
+  "samsungpreparaunanuovaappiadateilbenvenutoamemory",
+  "railtownailaunchesopensourcerailtracksswiftragframeworkforprivacyfirstondeviceai",
+  "googletpu8txand8imaxtargetprivateaiandhugecontext",
+  "anthropicsprivateaimodelhasbeenusedtoproveaquantumcomputingproblemthathadremaine",
+  "ondeviceaiassistants",
+  "ireplaced12bloatedappswithgeminiandfreedup5gbofstorage",
+  "flidemakejevlikedecisionmodelsupto95xfaster",
+  "riviamigoselfhostedriviandataloggingdashboardnewrelease2026111",
+  "wordpressownerautomatticlaunchesspacefastat5amonth",
+  "anthropiclaunchespersonalfinancefeatureforclaude",
+  "chasingnewfrontiersweseeanthropicaswellplacedtocapturevalueinanaiworld",
+  "studentmicrosoft365copilotrollouttimeline",
+  "aiagentsecurityneedsmorethanleastprivilege",
+  "samsungcouldsoonstartchargingforgalaxyaiwithanew499premiumsubscriptionupdated",
+  "samsungistestinga499monthlyfeeforgalaxyai",
+  "nemotronpersonasfinancejapanasyntheticdatasetcapturingjapansdemographicsandfinan",
+  "trumps60minutesinterviewtouchedonaisafetythreattoarrestanaiexec",
+  "disneyandadobearebuildinggenerativeaitoolstogether",
+  "holdupihadagreattimetalkingtotheriaaguy",
+  "jonathankanterisusingaitotakeonbigtech",
+  "mediumsnewtkappbringsaiassistancedirectlyintothewritingprocess",
+  "automatticdebutsaplatformtodeployvibecodingappsamidachanginginternet",
+  "nvidiaceosaffairbecomesanationalsecurityproblem",
+  "tencentsaichiefsaysaibioweaponsarecomingbutclosingoffmodelsisnttheanswer",
+  "airdacceleratesopenaiat125tgithubsmultiplayerharness",
+  "socialeminorimetagoogleetiktokfannocausaallacalifornia",
+  "instagramstimaaidelletàintuttoilmondo",
+  "jensenhuangloscandaloeilfuturodinvidiacosapotrebbeaccadere",
+  "comesfruttarealmassimouncomputerdagamingconlaiondevicevideo",
+  "piùimpreseusanolaipochenesfruttanolepossibilitàcosafrenailsalto",
+  "laicrescenelleimpreselaproduttivitàrestailproblemaitaliano",
+  "aiactegdprcomecoordinaregliobblighiditrasparenza",
+  "garanteprivacyavverteimediasuidatiditajani",
+  "arewenotallowedtoaskanyshtaboutbiologytoopus55",
+  "hewastherefortherambtw",
+  "youcannowtrainyourownllmswithlessmemoryonyourgaminggpus",
+  "isitworthitconnected9ps5stogetherforahugellminference",
+  "oldvideofalselylinkedtoanoiltankerfireinthestraitofhormuz",
+  "verifiedaigeneratedimagefalselyshowspmmodiyogiadityanathcelebratingdiwali",
+  "factcheckdoesthisviralvideoshowindiasfirstbullettrainsno",
+  "russianoccupiersbeginusingmockmilitarypositionstodeceiveaiequippeddrones"
+ ],
+ "audio": "audio/2026-11-09.mp3",
+ "durata": 155.6,
+ "aggiornamenti": [
+  {
+   "generato": "2026-11-09T14:06:13+00:00",
+   "modello": "gemini-3.6-flash",
+   "testi_completi": 0,
+   "riassunto": null
+  },
+  {
+   "generato": "2026-11-09T16:28:03+00:00",
+   "modello": "gemini-3.6-flash",
+   "testi_completi": 9,
+   "riassunto": {
+    "titolo_giorno": "Medium lancia TK per scrivere e revisionare testi con l'AI",
+    "in_breve": "L'assistenza alla scrittura si sposta sempre più direttamente all'interno degli editor di testo. Con la nuova applicazione TK lanciata da Medium, è possibile richiamare l'AI durante la stesura per cercare informazioni, ricevere suggerimenti di stile e migliorare i propri articoli senza dover cambiare scheda.",
+    "citati": [
+     "TK"
+    ],
+    "da_provare": [
+     {
+      "cosa": "TK",
+      "a_cosa_serve": "È una nuova applicazione di scrittura creata da Medium che integra un assistente AI direttamente nell'editor. Digitando '@TK' seguito da una richiesta, è possibile cercare informazioni al volo, recuperare appunti o ricevere feedback editoriali su titoli e stile.",
+      "per_chi": "Lavoro e tutti i giorni",
+      "ambito": "Scrittura e documenti",
+      "come_iniziare": [],
+      "costo": "Non indicato",
+      "piattaforme": [
+       "Browser"
+      ],
+      "sul_dispositivo": false,
+      "come_sfruttarla": "Revisionare la struttura di un documento o ricevere suggerimenti per i titoli direttamente mentre si scrive.",
+      "italiano": "Non indicato",
+      "difficolta": "Facile",
+      "temi": [
+       "Scrittura e documenti",
+       "Lavoro e produttività",
+       "Assistenti e chatbot"
+      ],
+      "fonti": [
+       "u2a110"
+      ],
+      "affidabilita": "Una fonte",
+      "prova": ""
+     }
+    ],
+    "osint": [],
+    "gemme": [
+     {
+      "cosa": "Riviamigo",
+      "a_cosa_serve": "È una dashboard self-hosted che si collega al proprio account dei veicoli elettrici Rivian per salvare lo storico dei dati del veicolo e visualizzare grafici su ricariche, autonomia e consumo della batteria.",
+      "perche_gemma": "Consente di raccogliere e analizzare tutti i dati di viaggio del proprio veicolo conservandoli nel proprio database personale.",
+      "con_ai": "",
+      "piattaforme": [
+       "Browser"
+      ],
+      "self_hosted": true,
+      "costo": "Gratis",
+      "difficolta": "Media",
+      "temi": [
+       "Open source e self-hosting"
+      ],
+      "fonti": [
+       "u2a56"
+      ],
+      "affidabilita": "Da verificare",
+      "come_iniziare": [],
+      "sul_dispositivo": false,
+      "come_sfruttarla": "",
+      "prova": ""
+     }
+    ],
+    "sezioni": [],
+    "formato": 2,
+    "controllo_siti": [
+     {
+      "cosa": "TK",
+      "esito": "nessun sito da aprire"
+     },
+     {
+      "cosa": "Riviamigo",
+      "esito": "nessun sito da aprire"
+     }
+    ]
+   }
+  }
+ ]
+}

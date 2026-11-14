@@ -1,0 +1,110 @@
+{
+ "giorno": "2026-10-25",
+ "formato": 2,
+ "titolo": "Più privacy per le chat e arrivano le AI locali su misura",
+ "in_breve": "Questa settimana i grandi assistenti puntano su riservatezza e integrazione: ChatGPT introduce le chat protette da PIN e biometria, mentre Claude crea direttamente documenti d'ufficio e Gemini si integra con i dati personali in auto. Al contempo crescono gli strumenti capaci di lavorare direttamente sul dispositivo, garantendo autonomia e controllo.",
+ "notizie": [
+  {
+   "titolo": "ChatGPT protegge le conversazioni con PIN e biometria",
+   "racconto": "OpenAI ha aggiunto la possibilità di bloccare singole conversazioni riservate impostando un codice a quattro cifre o sbloccandole con l'impronta o il volto. Le chat protette vengono isolate dalla cronologia principale e dalla barra di ricerca, con una memoria separata che non comunica con le sessioni standard.",
+   "perche_conta": "Consente di prestare il telefono o condividere lo schermo senza rischiare che altri leggano dialoghi privati o informazioni personali.",
+   "rif": [
+    [
+     "2026-10-20",
+     "u2n1"
+    ],
+    [
+     "2026-10-21",
+     "u2n1"
+    ]
+   ]
+  },
+  {
+   "titolo": "Gemini porta la Personal Intelligence su Android Auto",
+   "racconto": "L'assistente vocale di Google si collega ora ai dati personali dell'utente presenti in Gmail, Calendar, Maps e Foto mentre si è alla guida. In questo modo è possibile chiedere lo stato del proprio volo o le indicazioni stradali per un appuntamento imminente senza dover digitare nulla a mano.",
+   "perche_conta": "Evita distrazioni al volante automatizzando la ricerca di dettagli pratici custoditi nelle email e nel calendario.",
+   "rif": [
+    [
+     "2026-10-21",
+     1
+    ],
+    [
+     "2026-10-22",
+     2
+    ]
+   ]
+  },
+  {
+   "titolo": "Claude crea fogli di calcolo e presentazioni pronti all'uso",
+   "racconto": "L'assistente Claude è ora in grado di compilare e formattare in modo autonomo file di fogli di calcolo e diapositive complete. Il sistema non si limita più a rispondere con testo da copiare, ma impagina direttamente i documenti per il lavoro d'ufficio.",
+   "perche_conta": "Fa risparmiare tempo eliminando i passaggi manuali di impaginazione e inserimento dati nelle presentazioni aziendali.",
+   "rif": [
+    [
+     "2026-10-25",
+     1
+    ]
+   ]
+  },
+  {
+   "titolo": "Gemini Notebook potenzia slide, video riassuntivi e accesso dalle chat",
+   "racconto": "Notebook introduce la possibilità di rivedere scalette e note di regia prima del rendering finale di diapositive e video riassuntivi generati dai propri appunti. Inoltre, l'intero archivio dei blocchi note personali può ora essere richiamato e consultato direttamente dall'interfaccia di conversazione abituale di Gemini.",
+   "perche_conta": "Permette di correggere la struttura dei contenuti prima di crearli e di consultare le proprie fonti senza dover cambiare schermata.",
+   "rif": [
+    [
+     "2026-10-20",
+     1
+    ],
+    [
+     "2026-10-25",
+     2
+    ]
+   ]
+  },
+  {
+   "titolo": "Microsoft rimuove la priorità automatica di Copilot da Outlook",
+   "racconto": "È iniziata la dismissione di Copilot Prioritize, la funzione di Outlook che valutava l'urgenza dei messaggi in arrivo e organizzava la posta in automatico. Il ritiro verrà completato a metà novembre 2026 su tutti i client della piattaforma.",
+   "perche_conta": "La selezione dei messaggi urgenti nella posta elettronica torna a essere una gestione interamente manuale a carico dell'utente.",
+   "rif": [
+    [
+     "2026-10-23",
+     "u1n1"
+    ]
+   ]
+  }
+ ],
+ "da_provare": [
+  {
+   "cosa": "ShogunAI",
+   "a_cosa_serve": "Permette di avere un assistente AI autonomo che elabora compiti avanzati direttamente sul computer Windows, senza appoggiarsi al cloud.",
+   "rif": "2026-10-24#provare-1",
+   "giorno": "2026-10-24"
+  },
+  {
+   "cosa": "PrivOS",
+   "a_cosa_serve": "Una piattaforma accessibile da browser ed eseguibile in locale che raggruppa chat, documenti, gestione di attività in stile Kanban e agenti AI.",
+   "rif": "2026-10-22#provare-1",
+   "giorno": "2026-10-22"
+  },
+  {
+   "cosa": "Canva Craft",
+   "a_cosa_serve": "Funzione integrata in Canva che progetta la struttura prima di generarla, ideale per creare poster, locandine e post social con scritte nitide ed elementi modificabili.",
+   "rif": "2026-10-23#provare-1",
+   "giorno": "2026-10-23"
+  },
+  {
+   "cosa": "Bits",
+   "a_cosa_serve": "Un agente AI personale open source e gratuito nel browser, pensato per completare incarichi ed eseguire commissioni pratiche al posto tuo.",
+   "rif": "2026-10-23#provare-4",
+   "giorno": "2026-10-23"
+  },
+  {
+   "cosa": "Rilevatore di filigrana Meta",
+   "a_cosa_serve": "Strumento investigativo gratuito che analizza in circa trenta secondi immagini, video o audio per individuare la filigrana invisibile dei contenuti generati da Meta.",
+   "rif": "2026-10-20#osint-1",
+   "giorno": "2026-10-20"
+  }
+ ],
+ "modello": "gemini-3.8-flash",
+ "tendenze": "I dati del radar mostrano l'improvvisa comparsa con volumi elevati dei temi 'Privacy e sicurezza' (9 segnalazioni) e 'Ricerca e informazioni' (11 segnalazioni), insieme a un forte balzo dell'open source e del self-hosting (da 0 a 12). Al tempo stesso continuano a crescere i temi legati all'AI sul dispositivo e alla produttività. Un esempio concreto di questa attenzione alla tutela dei dati personali è l'introduzione da parte di ChatGPT del blocco delle conversazioni tramite PIN e riconoscimento biometrico.",
+ "generato": "2026-10-25T05:49:49+00:00"
+}

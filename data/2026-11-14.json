@@ -1,0 +1,904 @@
+{
+ "giorno": "2026-11-14",
+ "generato": "2026-11-14T05:32:11+00:00",
+ "modello": "gemini-3.8-flash",
+ "testi_completi": 34,
+ "riassunto": {
+  "titolo_giorno": "ElevenAI unisce trascrizione e appunti per le riunioni, mentre Claude Duet organizza il lavoro quotidiano",
+  "in_breve": "ElevenLabs lancia in anteprima ElevenAI, una nuova applicazione che unisce la presa di appunti nelle riunioni e una dettatura vocale ripulita in oltre 90 lingue. Nel frattempo debutta Claude Duet, l'agente personale di Anthropic che seleziona i compiti prioritari e li propone sotto forma di schede, confermando l'evoluzione dell'AI verso assistenti operativi sempre più autonomi.",
+  "citati": [
+   "ElevenAI",
+   "Claude Duet"
+  ],
+  "da_provare": [
+   {
+    "cosa": "ElevenAI",
+    "a_cosa_serve": "Registra le riunioni prendendo appunti automatici, permette di interrogare le conversazioni passate e include una funzione di dettatura vocale ripulita da usare in qualsiasi applicazione.",
+    "per_chi": "Lavoro",
+    "ambito": "Voce e audio",
+    "come_iniziare": [
+     "Iscriversi alla lista di accesso anticipato sul sito di ElevenLabs"
+    ],
+    "costo": "Non indicato",
+    "piattaforme": [],
+    "sul_dispositivo": false,
+    "come_sfruttarla": "Dettare email o documenti al computer senza errori e ritrovare subito i punti chiave discussi durante le riunioni.",
+    "italiano": "Sì",
+    "difficolta": "Facile",
+    "temi": [
+     "Voce e audio",
+     "Lavoro e produttività",
+     "Scrittura e documenti"
+    ],
+    "fonti": [
+     "a132"
+    ],
+    "affidabilita": "Una fonte",
+    "prova": ""
+   },
+   {
+    "cosa": "Claude Duet",
+    "a_cosa_serve": "Un assistente basato su agenti autonomi per professionisti e piccole attività che si collega ai programmi di lavoro e di messaggistica, evidenziando le priorità e suggerendo azioni rapide tramite schede interattive.",
+    "per_chi": "Lavoro",
+    "ambito": "Organizzazione",
+    "come_iniziare": [],
+    "costo": "A pagamento",
+    "piattaforme": [
+     "iPhone"
+    ],
+    "sul_dispositivo": false,
+    "come_sfruttarla": "Rivedere le incombenze più urgenti della giornata con un semplice gesto di scorrimento.",
+    "italiano": "Non indicato",
+    "difficolta": "Facile",
+    "temi": [
+     "Agenti AI",
+     "Lavoro e produttività",
+     "Assistenti e chatbot"
+    ],
+    "fonti": [
+     "a121"
+    ],
+    "affidabilita": "Una fonte",
+    "prova": ""
+   }
+  ],
+  "osint": [],
+  "gemme": [],
+  "sezioni": [
+   {
+    "titolo": "Novità negli strumenti che già usi",
+    "notizie": [
+     {
+      "titolo": "Meta Muse ora telefona alle attività commerciali per conto degli utenti",
+      "strumento": "Muse",
+      "riassunto": "L'agente AI di Meta può effettuare telefonate reali per conto dell'utente verso negozi o ristoranti negli Stati Uniti, occupandosi ad esempio di prenotazioni o richieste di informazioni. La funzione è riservata agli abbonati a pagamento.",
+      "come_provarla": "",
+      "disponibilita": "Non in Italia",
+      "fonti": [
+       "a136",
+       "a152"
+      ],
+      "temi": [
+       "Agenti AI",
+       "Assistenti e chatbot"
+      ],
+      "affidabilita": "Confermata",
+      "solo_titoli": false
+     }
+    ]
+   },
+   {
+    "titolo": "In breve",
+    "breve": true,
+    "notizie": [
+     {
+      "titolo": "Housefishing: cresce la truffa delle case ritoccate con l'AI",
+      "riassunto": "Si diffonde l'housefishing, la pratica scorretta negli annunci immobiliari di modificare le foto con l'AI per far sembrare stanze e appartamenti più grandi e luminosi di quanto siano dal vivo.",
+      "fonti": [
+       "a167"
+      ],
+      "temi": [
+       "Foto e immagini",
+       "Privacy e sicurezza"
+      ],
+      "affidabilita": "Una fonte",
+      "solo_titoli": false
+     }
+    ]
+   }
+  ],
+  "formato": 2,
+  "controllo_siti": [
+   {
+    "cosa": "ElevenAI",
+    "esito": "nessun sito da aprire"
+   },
+   {
+    "cosa": "Claude Duet",
+    "esito": "nessun sito da aprire"
+   }
+  ]
+ },
+ "articoli": {
+  "a136": {
+   "titolo": "Muse can now place calls to US businesses — if you pay",
+   "link": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
+   "data": "2026-11-12T22:22:28+00:00",
+   "testo": "After initially testing the feature in September, Meta’s consumer AI agent Muse is now able to place calls to U.S. businesses on behalf of its users. However, only paid subscribers have access to the feature, the company says. Meta’s Muse, which now has over 10 million users, the company said last month, has been working to make consumer AI a mainstream product for everyday users. Placing calls is one of the ways it aims to get there, as it could handle another task on people’s to-do lists. Notes Alexandr Wang, Meta’s chief AI officer and head of its Superintelligence Labs division, the feature could be used to take care of calls people don’t want to make, like those to their cable company, the DMV, or to a restaurant that doesn’t offer online reservations. Previously, only a select number of Muse early adopters were able to try this feature after asking the AI for access. Now, anyone who pays for Muse can make this type of request. Currently, Muse subscription plans start at $20 per month for 500 million Muse tokens per week. Heavier AI users can opt to pay $100 per month for 3 billion tokens. Muse is not the only AI agent able to place calls to businesses; the startup Instinct has been offering a similar option, as has Google’s Gemini. However, while the AI tools are now certainly capable of handling the task, the reception on the other end of the line can be mixed. Many businesses and receptionists hang up on calls from AI agents as soon as they identify that it’s not a human on the phone. But with AI now better able to mimic a real human voice, being able to tell the difference between a customer and an AI working on the customer’s behalf will get tougher. Despite the challenges, this feature is one that could appeal to consumers who have grown frustrated with the …",
+   "fonte": "TechCrunch",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Testate tech",
+   "id": "a136",
+   "testo_completo": true
+  },
+  "a132": {
+   "titolo": "ElevenLabs’ new app combines meeting note-taking and dictation for teams",
+   "link": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/",
+   "data": "2026-11-13T14:44:48+00:00",
+   "testo": "In the last few months, Fireflies, Wispr Flow, and Granola have all released competing capabilities in the dictation and meeting note-taking space. The newest entrant in that category is voice AI giant ElevenLabs, which this week released an experimental app called ElevenAI that combines meeting note-taking, dictation, and agent integration. Launched during its 11/11 Summit in New York, ElevenAI is still in preview, and you have to sign up for early access instead of just downloading an app. ElevenLabs, valued at $22 billion, is very much positioning this as a product that lives within a team as compared to a productivity tool for an individual. ElevenAI packs all the features typically found in other apps in the category. It can take meeting notes across your meetings and notify other participants that the conversation is being recorded. Users can query data across meetings and get live assistance during a chat, helping them recall a key detail from older conversations. ElevenLabs also allows companies to integrate ElevenAgent and take follow-up actions such as writing a draft email based on meeting notes. Plus, there’s a dictation feature, which lets users convert speech to cleaned-up text in any app with support for over 90 languages. The company said that the app is capable of understanding industry-specific terms across dictation and meeting transcription. ElevenAI allows the company to use its own model as a showcase and also utilize its agent platforms for better context funneling. The startup’s positioning might not be to directly compete in the productivity market, but rather to give enterprise teams an option to not buy licenses to a notetaker and use its solution instead. All meeting-related tools are rushing to become central knowledge hubs for companies wh…",
+   "fonte": "TechCrunch",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Testate tech",
+   "id": "a132",
+   "testo_completo": true
+  },
+  "a152": {
+   "titolo": "Meta's Muse now calls businesses for you, but many companies might just hang up on the AI",
+   "link": "https://the-decoder.com/metas-muse-now-calls-businesses-for-you-but-many-companies-might-just-hang-up-on-the-ai/",
+   "data": "2026-11-13T15:12:44+00:00",
+   "testo": "Meta's AI agent Muse can now call businesses on behalf of paying US subscribers, handling everything from cable providers to restaurants. The agent already has over 10 million users, according to Meta's AI chief Alexandr Wang. Google Gemini, Instinct, and xAI's Grok Bot offer the same feature, but many businesses hang up as soon as they detect an AI on the line. The article Meta's Muse now calls …",
+   "fonte": "The Decoder",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Testate tech",
+   "id": "a152"
+  },
+  "a167": {
+   "titolo": "Housefishing: cos’è la truffa delle foto di case ritoccate con l’AI",
+   "link": "https://www.punto-informatico.it/housefishing-cose-truffa-foto-case-ritoccate-ai/",
+   "data": "2026-11-13T14:07:12+00:00",
+   "testo": "Olivia Nicole ha preso qualche ora di permesso al lavoro, ha attraversato mezza Londra e si è fermata davanti a una porta. Poi ha controllato il numero civico, e l’ha ricontrollato di nuovo. Perché la casa che aveva davanti, semplicemente, non era quella che aveva visto online. Housefishing: la casa in foto non è quella reale ed è tutta colpa dell’AI Olivia cercava una casa con cinque camere nel sud-ovest di Londra, e su Rightmove, uno dei portali immobiliari più battuti del Regno Unito, un annuncio le era sembrato quello giusto. Dal vivo, racconta alla BBC, le stanze erano molto più piccole che nelle foto, l’arredamento tutt’altro, e certi dettagli strutturali non tornavano. Dietro il divano c’era una sezione di parete in rilievo che nelle immagini non esisteva. Le finestre sembravano passate in lavatrice a 90 gradi. Lei ha fatto l’unica cosa sensata: ha tirato fuori il telefono e ha fotografato tutto per il confronto. Il verdetto è stato netto. Le immagini dell’annuncio erano state ritoccate con l’intelligenza artificiale. Olivia si è sentita presa in giro e ha concluso che l’agente le aveva fatto perdere tempo. Difficile darle torto. Il fenomeno ha già un nome, housefishing, che è un cugino stretto del catfishing, cioè fingersi qualcun altro sui social per abbindolare il prossimo. Qui si trucca la casa per farla sembrare un’altra. Più grande, più luminosa, più moderna, con interni da rivista patinata. Peccato che, una volta aperta la porta, il glamour sparisca nel giro di pochi secondi. Ritoccare le foto di un immobile non è una novità. Gli agenti usano da sempre obiettivi grandangolari che dilatano le stanze, e Photoshop non ha mai conosciuto riposo. La differenza, fa notare la BBC, è che adesso l’AI rende tutto più facile e alla portata di chiunque. Per falsificar…",
+   "fonte": "Punto Informatico",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Italia",
+   "id": "a167",
+   "testo_completo": true
+  },
+  "a121": {
+   "titolo": "Claude’s Duet agent is a little neurotic and surprisingly helpful",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on",
+   "sito": "",
+   "data": "2026-11-13T09:00:00-05:00",
+   "testo": "Normally, the products I test don’t offer to help me write up my experience with them. Duet is different. Claude’s Duet agent is a little neurotic and surprisingly helpful Duet is a decent helper, if a little jumpy at times. Claude Duet is Anthropic’s AI agent for consumers, the latest attempt by an AI company to try to convince us that agents can be useful for people who don’t write code. It’s been an interesting couple of months: Instinct gave us an impressive text-based assistant, Meta offered us its cute little guy, Muse, to help us buy things, and OpenAI gave us the more work-oriented Dots. Claude Duet is even more focused on work than those. It’s also more consumer-friendly than Claude Cowork, which was more consumer-friendly than Claude Code — the coding agent that kicked off a whole hype cycle earlier this year. I’ve been testing it over the past week as I navigate a busy travel and work schedule. At turns it has been truly useful, kind of a nag, and very eager to write about itself. Duet is still a “research preview” according to Anthropic, and access is limited to Pro, Max, and Ultra subscribers in the US, with a waitlist to join. It’s not here to order you burritos, either; it’s for “professionals and small business owners” and is meant to use its judgment about what needs your attention most. Like Meta’s Muse, Duet has its own app. (If you’re keeping score at home, yes, it has been updated to fully support the iPhone Duo). Duet uses Claude’s characteristically cheery, minimalist design. The app is consumer-friendly and approachable. Once you’ve connected all the productivity and chat services you want, it’ll look for ways to help out with and suggest them as cards you can swipe left or right to hide or accept — kind of a to-do list Tinder. In the name of te…",
+   "fonte": "The Verge",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Testate tech",
+   "id": "a121",
+   "testo_completo": true
+  },
+  "u1a58": {
+   "titolo": "Live map of U.S. flights during tonight's FAA nationwide ground stop",
+   "link": "https://grounds.top/",
+   "data": "2026-11-13T23:17:39+00:00",
+   "testo": "grounds.top: FAA nationwide ground stop, Nov 13, 2026 Now—airline flights in the airin the air—of normal departuresof normal departures—departures missed since 3:30 pmdepartures missed Loading—--:--:-- Eastern On Nov 13, 2026 the FAA ordered a ground stop at every U.S. airport at 3:54 PM ET. This page shows tracked flights over the U.S., live and replayable, against the same time a week earlier. Live— ET— grounds.top Commercial flights: Airport departures, last 30 min vs a week earlier: Hold Ctrl and scroll to zoom Loading flight history… Commercial flights: Airport departures, last 30 min vs a week earlier: Rotate your phone for a bigger map Commercial flights airborne — — Missing from the sky — flights that were airborne at this time last Friday Airliners climbing out — — Departures missed since 3:30 pm (est.) — — Flight positions: adsb.fi community ADS-B network. Airport delay feed: FAA NAS Status. An independent, unofficial page, not affiliated with the FAA. Hover or tap a dot to identify the aircraft. Jump toor drag the timeline The shutdown so far Read from the tracking data, not from official announcements. Times are Eastern. Recovery by airport Departures in the 30 minutes before the selected time, as a share of the same half-hour a week earlier, at the 16 largest airports. An airport counts as back once it holds three-quarters of its usual departures for two readings in a row. Departure backlog by airport Estimated commercial departures missed since 3:30 pm ET: the count for the same hours a week earlier minus this week's, from tracking data. On the right, how many left, out of the number a week earlier. Dot: departures in the last 30 minutes (red almost none, amber reduced, green near normal). Airborne by carrier Aircraft in the air at the selected time. The …",
+   "sito": "https://grounds.top/",
+   "fonte": "Show HN – progetti utili (gemme)",
+   "tipo": "vetrina",
+   "solo_titolo": false,
+   "categoria": "Gemme",
+   "id": "u1a58",
+   "testo_completo": true
+  },
+  "u1a59": {
+   "titolo": "Isometric SF – A pixel-art map of the SF Bay Area",
+   "link": "https://isometricsf.com/",
+   "data": "2026-11-13T17:58:37+00:00",
+   "testo": "Technical Write-up: https://www.justinchavez.com/blog/isometric-sf-how/ Hi HN! Showcasing this fun project. I took 1300 square miles of the SF Bay Area from Google Photorealistic 3D Tiles and transformed them into a cohesive pixel map. It's really fun to explore and stumble upon various famous landmarks like Apple Park, Palace of Fine Arts, or UC Berkeley. The technicals involve using Nano Banana…",
+   "sito": "https://isometricsf.com/",
+   "fonte": "Show HN – progetti utili (gemme)",
+   "tipo": "vetrina",
+   "solo_titolo": false,
+   "categoria": "Gemme",
+   "id": "u1a59"
+  },
+  "u1a4": {
+   "titolo": "Businesses in ChatGPT",
+   "link": "https://www.producthunt.com/products/openai",
+   "sito": "https://www.producthunt.com/r/p/1315068?app_id=339",
+   "data": "2026-11-13T00:53:51-08:00",
+   "testo": "Help customers discover your business through ChatGPT",
+   "fonte": "Product Hunt (AI)",
+   "tipo": "vetrina",
+   "solo_titolo": false,
+   "categoria": "Strumenti",
+   "id": "u1a4"
+  }
+ },
+ "fonti": [
+  {
+   "nome": "Product Hunt (AI)",
+   "ok": true,
+   "presi": 12
+  },
+  {
+   "nome": "Show HN (nuovi progetti)",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "Nuove app AI (internazionale)",
+   "ok": true,
+   "presi": 10
+  },
+  {
+   "nome": "Nuove app AI (Italia)",
+   "ok": true,
+   "presi": 8
+  },
+  {
+   "nome": "Novità AI da provare (Italia)",
+   "ok": true,
+   "presi": 8
+  },
+  {
+   "nome": "AI sul dispositivo (internazionale)",
+   "ok": true,
+   "presi": 8
+  },
+  {
+   "nome": "AI sul dispositivo (Italia)",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "Android Police (AI su Android)",
+   "ok": true,
+   "presi": 4
+  },
+  {
+   "nome": "Windows Central (AI su Windows)",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "Ollama (nuove versioni)",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "Open WebUI (nuove versioni)",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "Show HN – progetti utili (gemme)",
+   "ok": false,
+   "errore": "HTTP Error 502: Bad Gateway",
+   "presi": 0
+  },
+  {
+   "nome": "Reddit r/selfhosted",
+   "ok": true,
+   "presi": 6
+  },
+  {
+   "nome": "Reddit r/opensource",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "Alternative open source (Google News)",
+   "ok": true,
+   "presi": 6
+  },
+  {
+   "nome": "n8n (nuove versioni)",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "Immich (nuove versioni)",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "OpenAI",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "Google (blog ufficiale)",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "Google Gemini (blog)",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "Nuove funzioni AI (Google News)",
+   "ok": true,
+   "presi": 12
+  },
+  {
+   "nome": "Anthropic / Claude",
+   "ok": true,
+   "presi": 6
+  },
+  {
+   "nome": "Microsoft Copilot",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "Altri assistenti AI (Perplexity, Mistral, Meta AI…)",
+   "ok": true,
+   "presi": 8
+  },
+  {
+   "nome": "Hugging Face (modelli e strumenti aperti)",
+   "ok": true,
+   "presi": 3
+  },
+  {
+   "nome": "Mistral AI",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "The Verge",
+   "ok": true,
+   "presi": 9
+  },
+  {
+   "nome": "TechCrunch",
+   "ok": true,
+   "presi": 12
+  },
+  {
+   "nome": "Ars Technica",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "MIT Technology Review",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "The Decoder",
+   "ok": true,
+   "presi": 10
+  },
+  {
+   "nome": "TLDR AI (newsletter)",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "ANSA",
+   "ok": true,
+   "presi": 6
+  },
+  {
+   "nome": "Wired Italia",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "Il Sole 24 Ore Tecnologia",
+   "ok": true,
+   "presi": 2
+  },
+  {
+   "nome": "Punto Informatico",
+   "ok": true,
+   "presi": 6
+  },
+  {
+   "nome": "HDblog",
+   "ok": true,
+   "presi": 2
+  },
+  {
+   "nome": "AI4Business",
+   "ok": true,
+   "presi": 4
+  },
+  {
+   "nome": "Agenda Digitale (AI)",
+   "ok": true,
+   "presi": 3
+  },
+  {
+   "nome": "Garante Privacy e AI",
+   "ok": true,
+   "presi": 3
+  },
+  {
+   "nome": "Malwarebytes (app e truffe AI)",
+   "ok": true,
+   "presi": 2
+  },
+  {
+   "nome": "Reddit",
+   "ok": true,
+   "presi": 8
+  },
+  {
+   "nome": "Reddit (AI locale)",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "Simon Willison (prove pratiche di strumenti AI)",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "Bellingcat (guide e strumenti)",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "GIJN (guide per giornalisti investigativi, via Google News)",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "OSINT – verifica e fact-checking (internazionale)",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "OSINT – nuovi strumenti (internazionale)",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "OSINT – strumenti (Italia)",
+   "ok": true,
+   "presi": 4
+  },
+  {
+   "nome": "Facta (fact-checking, contenuti falsi e AI)",
+   "ok": true,
+   "presi": 3
+  },
+  {
+   "nome": "Week in OSINT (Sector035)",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "The OSINT Newsletter",
+   "ok": true,
+   "presi": 2
+  },
+  {
+   "nome": "IDMO (osservatorio italiano sulla disinformazione)",
+   "ok": true,
+   "presi": 2
+  },
+  {
+   "nome": "EU DisinfoLab",
+   "ok": true,
+   "presi": 2
+  },
+  {
+   "nome": "Reddit (OSINT)",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "Hacker News (OSINT)",
+   "ok": true,
+   "presi": 0
+  }
+ ],
+ "visti": [
+  "avenappagent",
+  "paxper",
+  "trainnmcp",
+  "gemini4hydrogen",
+  "gatrends",
+  "claudemeetings",
+  "marqly70",
+  "crossfade",
+  "foxpit",
+  "grokbot10",
+  "diditmcp",
+  "offstagecloud",
+  "aipoweredcoffeerunsandservicevisitsarecomingtoriviansin2027",
+  "danillilaunchesanaiapptoaskshopbuildwebsitesandstartabusiness",
+  "10bestaiappbuildersiveusedin2026andwhateachonegetswrong",
+  "73stringslaunchesaitoolforprivatemarketsreporting",
+  "nontechylexingtonmombuildsaiappforotherbusymoms",
+  "cnnanalystongroundstoptoomuchofcoincidencenewaitooljustlaunched",
+  "faatapsaitoeaseairtrafficjamsforcharlottesairportaheadofholidayrush",
+  "nationwidegroundstophappenedjustasfaarolledoutnewaitool",
+  "metaaismartglassesbeingtestedby21pennstateprofs",
+  "tadataaiassistantinslackprospectresearchworkflowautomation",
+  "congoogletabletoplaicreastrumentiinterattividaunprompt",
+  "openailanciachatgptwalletperconsentireagliagentidiintelligenzaartificialedieffet",
+  "meritocraziaitaliaalgovernoealparlamentolanuovaleggefinanziariavarimisurestruttu",
+  "openailanciachatgptwalletlintelligenzaartificialepotràacquistareepagarepercontod",
+  "googlelanciagemini4hydrogenvelocitàenuovistrumentiperlaricercaeilcoding",
+  "acop31arrivalantalyaaipledge",
+  "sirinonsaràpiùlastessaapplepuntasugliagentiaiepreparagrandinovità",
+  "monicamondolianoncispaventiusataeticamentepuòservireperilbenecomune",
+  "comeusareswarminantigravityguidaaiteamdiagentiinparallelo",
+  "comeusareclaudefable52configurazionesforzocosto",
+  "gmailcomeusaregeminiehelpmewriteinworkspaceconlefunzioniai",
+  "gemini4carbonapiapagamentodisponibileinitalia",
+  "comeusaredueaccountclaudecodesullostessocomputer",
+  "pixeldropnovembre2026cosaarrivainitalia",
+  "arrivaclaudemeetingsclaudeentranelleriunionisugooglemeet",
+  "openailanciaipagamentitramiteiainchatgptconvisamastercardeamex",
+  "igavealocalaimodelcontrolofmywindowspcandithandlesthechoresihate",
+  "solanalaunchesprivateaitoolswithonchainhardwarechecks",
+  "bestdesktopsforlocalaiin2026labtestedleaderboard",
+  "whyprivateaiismoreimportantthanever",
+  "shuftilaunchespatentedondeviceaiageverificationtakinguserprivacyconcernsoutofthe",
+  "radicalnumericslaunchesofflineaitoflagengineeredpathogens",
+  "applesharborappcouldmakerunninglocalaionmaceasier",
+  "llamacppreachesversion10forlocalaitools",
+  "cmp170hxhackeratalaschedaminerariadiventaunaa100da80gb",
+  "perplexityportablecomputerportalailocalesullegpunvidiartxprivacyepotenzasenzaclo",
+  "asustorcmsprometteunasolaconsolepergestirefinoa2000nas",
+  "whatsappperandroidsuggerisceicontenutirecenticomedisattivarelafunzione",
+  "androidautoabbandonaandroid9e10ilrequisitominimodiventaandroid11",
+  "geminicannowtellyouwhereyourmoneyisgoingandhowtosavemoreofit",
+  "5phonejobsistilltrustgeminiandclaudewithafter8monthsofagenticai",
+  "samsungsgalaxyaisubscriptionisdeadbeforeitsevenarrived",
+  "familylinkcantstopgeminifromdoingyourkidshomeworkbut5settingsmakeitharder",
+  "this32gb1850ryzenai9laptopjustcrashedto999foronedayonly",
+  "openwebuiv0130",
+  "selfhostedaircraftcontrol",
+  "ipostedmydiagramascodehomelabmapawhilebackiuseitsomuchathomeandatworknowthatiwro",
+  "musixmatchthreatensnavidromemusixmatchplugin",
+  "taskviewv1582massiveupdaterealtimeupdatesuicalendarattachments",
+  "6yearsofselfhostinghitwithramcorruption",
+  "m3u4megotanuioverhaulv3update",
+  "jetbrainsrenewedtheirsupportforgodotenginethrough2027",
+  "anyoneelsecompletelydonewithsmartphonesbeingantiprivacyblackboxeswhydidweletthep",
+  "contributorswanted",
+  "dawarichfreeopensourceselfhostablealternativetogoogletimeline",
+  "adjustmentnewprojectshowcaserecurringthread",
+  "ireplacedgooglekeepwithaselfhostednotesappthatworkslikeatimelineofthoughts",
+  "selfhostedclaudemanagedagentskeepsagentcredentialsinyourenvironment",
+  "ijustbuiltaselfhostedalternativetogooglephotosforfreeandimnotgoingbackhowtogeek",
+  "anthropiclaunchesselfhostedclaudemanagedagentsinprivatebeta",
+  "claudemanagedagentsnowselfhostedonyourservers",
+  "anthropicletscustomersselfhostclaudemanagedagents",
+  "n8nstable",
+  "immichv340",
+  "introducingchatgptwallet",
+  "claimyourgooglecloudcreditsingoogleaistudio",
+  "connectgooglewallettogeminiforpersonalfinanceinsights",
+  "googlesearchgetsamajorupgradewithgemini4hydrogen",
+  "gemini4hydrogeneverydaycodingandagenticworkflowsfordevelopers",
+  "introducinggemini4hydrogen",
+  "getquickanswersfromgeminionanywebsite",
+  "openailauncheschatgptwalletallowingitsdotsaiagentstomakepurchasesforusers",
+  "chatgptlauncheswalletfeatureallowinguserstopaywithagents",
+  "openailauncheschatgptwalletlettingaiagentspayforpurchases",
+  "openailauncheschatgptwalletforagentpurchases",
+  "openailauncheschatgptwalletlettingdotsagentsbuywithuserapproval22outletscompared",
+  "openailauncheschatgptwallettoenablepaymentswithaiagentsdots",
+  "openailauncheschatgptwalletenablingdotagentstomakepurchases",
+  "openailaunchesbusinessprofilesinchatgptwhatitmeansfortheinsuranceindustry",
+  "lendprolauncheschatgptpluginforretailfinancing",
+  "openailauncheschatgptwallet",
+  "openailauncheschatgptwalletclaimingitsasafewaytohaveaishopforyou",
+  "openailaunchesaipaymentsinchatgptwithvisamastercardandamex",
+  "whyanthropicsdarioamodeihasangeredopenaiandotheraipeers",
+  "anthropicinlondonaiandscience",
+  "anthropicclaudedownwhyitsaiditwasunabletoauthenticatecode",
+  "anthropicintroducesclaudefable52mythos52",
+  "anthropicships4officetoolstorivalmicrosoft2026",
+  "anthropicnowletsyouselfhostclaudemanagedagentsthecatch8hourstoactifitflagsasafet",
+  "rockwellautomationcutsfactorydefects35asaispreadsacrossitsworkforce",
+  "microsoftoutagemicrosoft365teamsoutlookcopilotallimpacted",
+  "legaltechrundownliteraintroducespluginsformicrosoftcopilotforlegalthomsonreuters",
+  "updatedmicrosoft365issuesnowintermittent",
+  "cantaccessoutlookorteamsmicrosoftissufferingamajoroutage",
+  "perplexityteammatesbringautonomousaiagentstothemacapp",
+  "deepseekopensfullsuiteofappapislettingdevelopersreplicateitsentireappwithoneclic",
+  "perplexitybringsaiagentsfeaturecalledteammatestothemac",
+  "deepseekopensitsfullapptoolkittodevelopersthroughitsapi",
+  "deepseekturnsitswholeappintoanapiwithsearchfilereadingvoiceandsafetybuiltin",
+  "deepseekopensitsappssearchfileocrandvoicetoolsasapissodeveloperscanrebuildtheapp",
+  "perplexitybringsteammatestomacformaxsubscribers",
+  "appleintelligencebringsaivideofeaturestohomesecuritycamerasbutonlyonpremiumiclou",
+  "buildarobotpickandplacesimulationwithsimreadyassets",
+  "xybenchhelpingwiththeproblembehindthequestion",
+  "llamacppv100astrongerfoundationforthelocalaiecosystem",
+  "amazonhasaplantoindextheworldsonlineshoppingdata",
+  "chatgptwalletletsopenaisdotsagentsmakepurchasesforyou",
+  "whatsreallyatstakeinthejensenhuangsaga",
+  "claudesduetagentisalittleneuroticandsurprisinglyhelpful",
+  "letstalkaboutjensenhuangsmanyaffairs",
+  "googlesnewgeminimodelisbetteratunderstandingcomplicatedquestions",
+  "noaiagentsdidnotdiscoverapreviouslyunknownmayasite",
+  "ohpalantirisprogressivenowisit",
+  "thejensenhuangscandalishardlyover",
+  "jensenhuangsdepartureblastsbigholeinaistartupfundingvcsandfounderssay",
+  "aiagentstartuplangchainhits3bvaluation",
+  "exportbannednvidiachipsarebehindchinasmostpowerfulaimodelsuhohjensen",
+  "chatgptsnewwalletletsaiagentsshopandcheckoutforyou",
+  "theunfoldingjensenhuangscandalatimeline",
+  "elevenlabsnewappcombinesmeetingnotetakinganddictationforteams",
+  "israelsvcsseeopportunityforchallengersinnvidiasturmoil",
+  "jensenhuangdidntshowconfidenceinhissuccessorreportsays",
+  "democratslaunchnvidiainvestigationwritescathingletteronhuangsschemewithtrump",
+  "musecannowplacecallstousbusinessesifyoupay",
+  "nebiusteststheneocloudplaybookwith40billioninplannedspending",
+  "jensenhuangwashavingathirdaffairreutersreports",
+  "faaexpandsaiadvicetomanageairtrafficcongestionacrossentireusairspace",
+  "openaiboardmemberworriesanaitakeoverofsocietycouldbemonthsaway",
+  "arslivewhatdroneattacksondatacentersmeanformodernlifeinthecloud",
+  "googlerollsoutgemini4hydrogenfinallyreplacing38flash",
+  "googlefacescallsforaimoratoriumsinschoolsaftergeminipilotbacklash",
+  "nvidiaprivatelyconfirmeditcouldtrackchipstofightsmugglingevenasindustrypubliclyq",
+  "jensenhuangsousterlikelytracesbacktonvidiasriskybusinesspracticesmorethanhispers",
+  "openairebuiltaishoppingfromscratchwithchatgptwallet",
+  "banksbarchineseandhongkonginvestorsfromanthropicipooverusexportcontrols",
+  "anthropicsclaudeformanufacturingplugsaidirectlyintofactorysoftwaretoautomateindu",
+  "nearly70percentofusagenciesusegenerativeaiandunionsarefinallycatchingupwithguard",
+  "formeropenairesearchersayshefoundnvidiablackwellfingerprintshiddeninsidesixchine",
+  "anthropicsipoissixtimesoversubscribedandontracktobecomethelargestpublicofferingi",
+  "metasmusenowcallsbusinessesforyoubutmanycompaniesmightjusthangupontheai",
+  "openaientersthecybersecuritymarketwithtwodaybreakproducts",
+  "claudemeetingsletsanthropicsaijoinyourvideocalls",
+  "gemini4hydrogenselfhostedclaudeagentsreplitagentcommerce",
+  "chrobinsonlancialintelligenzaartificialesnellaleanaiperlespedizionimarittimeiltr",
+  "blackfridaytrasirenediscontoeilnuovoalleatolintelligenzaartificiale",
+  "confcommerciomilanoiaèusatadal56delleimpresemamancanolecompetenze",
+  "mazzeopisadiventinododiuncerneuropeodellia",
+  "bolandceseacostanuovoecosistemadelliatutelicompetitivitàediritti",
+  "bankitaliarischicontenutiinitaliamageopoliticatassieborsecareminaccianolastabili",
+  "unaiincarnataallinternodelcontestosociale",
+  "microsoftproblemiaoutlookteamsecopilotlaziendaciavviciniamoallanormalità",
+  "chatgptwalletgliagentiaieffettuanoacquisti",
+  "comeusareclaudecodeperscoprirecosarallentailpc",
+  "appgenerateconlaicondividereillinkpuòesporreidatisensibili",
+  "housefishingcosèlatruffadellefotodicaseritoccateconlai",
+  "claudedownil13novembretuttigliaggiornamentirisolto",
+  "disneyda499euroalmeseper2mesifinoal24novembre",
+  "patentiedatirubatiamigliaiadiautistiuberlaviolazionetramiteilproviderfireworksai",
+  "jensenquantocèdiveronellacrisidiramegpucausatadallai",
+  "laièlostresstestdellasovranitàdigitalemolteimpreseinritardo",
+  "decisiondrivenmarketinglaiasupportodellescelteaziendali",
+  "crmeintelligenzaartificiale",
+  "anthropicsfidamicrosoftofficearrivanoclaudesheetsedata",
+  "aiascuolapseudonimizzazionedatipersonalierischiperglistudenti",
+  "robotperlepuliziedicasaiprodottirealieilimitidellai",
+  "lenuoveregoleagidsullainellapaapronounproblemadiresponsabilità",
+  "aiascuolacomecostruirelatuteladeidaticosadiceilgaranteprivacy",
+  "newsletterdel12novembre2026",
+  "aiascuolapareregarantelemisureperproteggereglialunni",
+  "musesleepbanduserswerenttoldtheirbraindatawastrainingai",
+  "possiblefalsepositivemalwareai695752146dllwrapexemsys2mingw",
+  "wholecinematicuniversebelike",
+  "fable52paintinginmspaint",
+  "askinggeminihydrogenforhelpwasmybiggestmistake",
+  "chatgptrandomlysentmeanunsolicitedfollowupmessage",
+  "jensenhuangsinginghisresignation2026colorized",
+  "hopital",
+  "dayinthelifeofjensenhuang",
+  "thenextgenerationwillneverseearealvideo",
+  "llamacppv10ishere",
+  "anthropicafterrealizingitcanjustbuynvidiawithitsipomoney",
+  "lookwhatmysongaveme",
+  "localaiisunderattack",
+  "insteadofloweringgpupricesformernvidiaceojensenhuangreportedlyfinancedaistartups",
+  "llmgemini037",
+  "usingthesafeboxnetworktoprotectstorieslaurentrichard",
+  "filmingtheauthoritiesknowyourrights",
+  "artículos",
+  "howcopernicusmakesclimatedatasimpleandeasytounderstand",
+  "isthisrealaserbianinvestigativejournalistreflectsonthecountrysstunningelection",
+  "anupdatetoourcolumnaboutcaliforniasailaw",
+  "imageofindianembassycounselloratjaacprotestinlondonisaigenerated",
+  "viralvideofalselyclaimstoshowmuslimstabbinghindugirlinbangladesh",
+  "deepfakestargetingindianarmypersonnelsharedamidkulgamattackboom",
+  "factcheckviralvideoofnoreenanduzmaisoldnotofreleasefromkotlakhpatjail",
+  "osinttoolsareviewoftheplatformsituation",
+  "armycidlookingfornewcommercialsoftwaretoolstomonitordarknetencryptedmessagingpla",
+  "thenextglobalcrisiswillbefilmedcanaimakesenseofit",
+  "thenumberoftankersbeingloadedattherussianportofustlugahasnearlyhalved",
+  "lagosdecides2027factcheckingclaimsatthebusinessdaylagosstategovernorshipgebate",
+  "securitymanageranalistagiuristafilosofotecnicoocomunicatore",
+  "decriptoafuturoremoto2026il12novembreallacittàdellascienzaconlestartupdicampania",
+  "lagermaniainveste50milionidieuronellosviluppodellintelligenzaartificiale",
+  "quanteinformazionipersonalisilascianoonlinelosvelanordvpn",
+  "inuoviagentiaisonotroppocariniperessereinnocui",
+  "loscambiosocialincuimuskdiceabillgatesdinoncostringerloacompraremicrosoftèfalso",
+  "noquestononèlattentatoredicracoviachepartecipaaunamanifestazioneantirazzista",
+  "theosintnewsletterissue130",
+  "theosintnewsletterissue129",
+  "alviaprimacollaborazionedelcentrouecontrolefakenewsconongefactchecker",
+  "barachinisullaiservonoregoleglobalieunintesatraigrandi",
+  "disinfoupdate4112026",
+  "europesmissingwatchdogshowboththedsaandtheaiactarefailingonenforcement",
+  "blockchaintracinginvestigationtool",
+  "howtoimprovedocumentationandreliabilityofinfowhenyouhavenooutsidefeedback",
+  "skiptracingin2026howmuchcanyoustilldofromadeskvsinthefield",
+  "darksidedatabase",
+  "osintofthailand",
+  "tabletopbygooglelabs",
+  "geminirobotics25",
+  "thunder",
+  "businessesinchatgpt",
+  "wakeosnewaitoolgradescarriersondeliveryrecordbeforefreighttenders",
+  "topaicontentcreationtoolsplatforms2026freepaid",
+  "googlehasitsownpairofsmartglassespoweredbygooglesaiassistantgeminiandtheyreimpre",
+  "presentatoilmanifestoranaissance",
+  "voliusabloccatitregiorniprimalafaaavevaestesolintelligenzaartificialeatuttoilpae",
+  "mousepodsovverocomeusareleairpods3sulinuxcomemouse",
+  "openaistartslocalaiprocessinginindiatohelpbusinesses",
+  "pieceslivellodimemoriasuldispositivoeassistenteiaperilcontesto",
+  "quandointernetsifermaimessaggiviaggianoviaradio",
+  "doomscrollingleappcheaiutanoainterrompereloscorrimentocontinuo",
+  "iwantedanexcuseformyslowstravarunsbutgeminigavemearealitycheckinstead",
+  "googlesandroidxrsmartglasseswillhidefacesfromgeminiandbanrealtimefacialrecogniti",
+  "livemapofusflightsduringtonightsfaanationwidegroundstop",
+  "isometricsfapixelartmapofthesfbayarea",
+  "agentrunopensourceselfimprovingmanagedagents",
+  "my300embroiderymachineneededasubscriptionsoibuiltmyownapp",
+  "tryingtoknowwhensomethingathomegoesdownbeforeanyonenoticesselfhostedoptions",
+  "nextcloudsneweuroofficedesktopappletsyoueditmicrosoftofficeandodffileslocally",
+  "claudemeetingslaunchesinbetabringingclaudeintogooglemeetcalls",
+  "anthropiclaunchesprivatebetaforselfhostedclaudemanagedagents",
+  "federalreserveannounces2027paymentservicepricingandcheckservicechanges",
+  "claudelauncheswhiteboardssheetsanddata",
+  "openailauncheschatgptwalletforaiagentledshopping",
+  "whatyouneedtoknowaboutclaudesmakeranthropicipo",
+  "microsoftoutagehealthcareimpact70countrieshit",
+  "microsoftworkstorestoreoutlookteamsandcopilotafterglobaloutagein74countrieswhat2",
+  "deepseekopensitsappfeaturesthroughtheapi",
+  "howmuchdoesaicostin2026thecompletepricingcomparison",
+  "exfbiagentsteals25mincryptogrokappdataexposuresandmorecybersecuritynews",
+  "jensenhuangandthedeclineofthevisionaryshowmanfounderceo",
+  "openaireassignsroboticsresearcherstootherteamsasgeneralpurposemodelsmightmakespe",
+  "anthropiccanalreadyretrainmythoswithafractionofthecomputeoriginallyneededsaysfor",
+  "runwaysopensourcepraxis1turnsvideoaiintoarobotcontroller",
+  "creactivesvialiberaadaumentodicapitaleinopzionefinoa244milionidieuro",
+  "hocreatounappandroidconunagenteailapkprendeformaparte2",
+  "cherokeedel03994bocciataallarevisionerisoltoilproblemagrazieall039ai",
+  "amazonvuolecatalogaretuttiiprodottidelmondoconlai",
+  "chatgptorapuòfareacquisticonlatuacartadicredito",
+  "contentmarketingeaicomeconquistarelutentedigitale",
+  "ilgarantedellaprivacysanzionametaper805milionidieuro",
+  "sawotherstryitsoididtoo",
+  "worthashot",
+  "bruh",
+  "psausingfableasanadvisordoesnttouchyourfableweeklylimit",
+  "hydrogenisbestmodelfordailyuseonmarketrightnowifyoucomparespeedendtoendtasktoken",
+  "nvidialeaksconfirmed",
+  "weightspaceprogrammingforquantizationnacequantsachieveupto2xbetterkldivergencefo",
+  "cxmtalmosttriplingramproductionfrom2025to2028",
+  "stories",
+  "ijspotlightrussiasanctions",
+  "mattarellalasanitàpubblicaèlaprioritàassoluta"
+ ],
+ "audio": "audio/2026-11-14.mp3",
+ "durata": 124.1,
+ "aggiornamenti": [
+  {
+   "generato": "2026-11-14T12:22:51+00:00",
+   "modello": "gemini-3.6-flash",
+   "testi_completi": 3,
+   "riassunto": {
+    "titolo_giorno": "Visibilità aziendale su ChatGPT e tracciamento aereo con grounds.top",
+    "in_breve": "Nell'aggiornamento di oggi scopriamo Businesses in ChatGPT, una nuova vetrina per far trovare la propria attività commerciali nelle ricerche degli utenti con l'AI. Sul fronte dell'analisi dei dati aperti, grounds.top offre una mappa interattiva per monitorare i voli e le emergenze aeree.",
+    "citati": [
+     "Businesses in ChatGPT",
+     "grounds.top"
+    ],
+    "da_provare": [
+     {
+      "cosa": "Businesses in ChatGPT",
+      "a_cosa_serve": "Permette a professionisti e piccole attività di farsi trovare dalle persone che utilizzano ChatGPT per cercare servizi e raccomandazioni.",
+      "per_chi": "Lavoro",
+      "ambito": "Lavoro e organizzazione",
+      "come_iniziare": [],
+      "costo": "Non indicato",
+      "piattaforme": [
+       "Browser"
+      ],
+      "sul_dispositivo": false,
+      "come_sfruttarla": "Intercettare nuovi potenziali clienti direttamente mentre usano l'assistente per cercare prodotti o servizi vicini a loro.",
+      "italiano": "Non indicato",
+      "difficolta": "Facile",
+      "temi": [
+       "Lavoro e produttività",
+       "Assistenti e chatbot"
+      ],
+      "fonti": [
+       "u1a4"
+      ],
+      "affidabilita": "Appena lanciato",
+      "prova": "https://www.producthunt.com/products/openai"
+     }
+    ],
+    "osint": [
+     {
+      "cosa": "grounds.top",
+      "a_cosa_serve": "Mostra in tempo reale sulla mappa i voli in rotta e le cancellazioni o blocchi aerei negli Stati Uniti attingendo alla rete aperta ADS-B.",
+      "uso": "Navi e aerei",
+      "piattaforme": [
+       "Browser"
+      ],
+      "costo": "Gratis",
+      "difficolta": "Facile",
+      "come_sfruttarla": "Verificare lo stato del traffico aereo e l'eventuale blocco improvviso dei voli in caso di emergenze dei trasporti.",
+      "temi": [
+       "OSINT e verifica"
+      ],
+      "fonti": [
+       "u1a58"
+      ],
+      "affidabilita": "Appena lanciato",
+      "come_iniziare": [],
+      "sul_dispositivo": false,
+      "prova": "https://grounds.top/"
+     }
+    ],
+    "gemme": [
+     {
+      "cosa": "Isometric SF",
+      "a_cosa_serve": "Una mappa interattiva dell'area di San Francisco in grafica pixel-art, ricavata elaborando i dati 3D fotorealistici di Google.",
+      "perche_gemma": "Trasforma enormi volumi di dati geografici in un'esperienza visiva fluida ed esplorabile via browser.",
+      "con_ai": "",
+      "piattaforme": [
+       "Browser"
+      ],
+      "self_hosted": false,
+      "costo": "Gratis",
+      "difficolta": "Facile",
+      "temi": [
+       "Ricerca e informazioni",
+       "Foto e immagini"
+      ],
+      "fonti": [
+       "u1a59"
+      ],
+      "affidabilita": "Appena lanciato",
+      "come_iniziare": [],
+      "sul_dispositivo": false,
+      "come_sfruttarla": "",
+      "prova": "https://isometricsf.com/"
+     }
+    ],
+    "sezioni": [],
+    "formato": 2,
+    "controllo_siti": [
+     {
+      "cosa": "Businesses in ChatGPT",
+      "sito": "https://www.producthunt.com/r/p/1315068?app_id=339",
+      "esito": "errore: HTTP Error 403: Forbidden"
+     },
+     {
+      "cosa": "grounds.top",
+      "sito": "https://grounds.top/",
+      "pagina": 122876,
+      "trovate": []
+     },
+     {
+      "cosa": "Isometric SF",
+      "sito": "https://isometricsf.com/",
+      "pagina": 16790,
+      "trovate": []
+     }
+    ]
+   }
+  }
+ ]
+}

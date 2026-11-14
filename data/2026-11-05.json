@@ -1,0 +1,1316 @@
+{
+ "giorno": "2026-11-05",
+ "generato": "2026-11-05T13:22:32+00:00",
+ "modello": "gemini-2.5-flash",
+ "testi_completi": 28,
+ "riassunto": {
+  "titolo_giorno": "AI privata sul tuo telefono con Pinku e GIF animate su ChatGPT",
+  "in_breve": "Oggi scopriamo Pinku, un'AI per chat private che funziona direttamente sul tuo iPhone o Mac, senza inviare dati online, un passo importante verso l'AI sul dispositivo. Intanto, ChatGPT si aggiorna con la possibilità di creare GIF animate, rendendo la generazione di immagini ancora più versatile per tutti.",
+  "citati": [
+   "Pinku",
+   "ChatGPT"
+  ],
+  "da_provare": [
+   {
+    "cosa": "AI Employees by Easy-Peasy.AI",
+    "a_cosa_serve": "Crea un team di AI che collabora per svolgere compiti complessi, chiedendo conferma prima di agire.",
+    "per_chi": "Lavoro",
+    "ambito": "Lavoro e produttività",
+    "come_iniziare": [],
+    "costo": "Non indicato",
+    "piattaforme": [
+     "Browser"
+    ],
+    "sul_dispositivo": false,
+    "come_sfruttarla": "Delegare progetti di scrittura, ricerca o analisi a un team AI che gestisce il flusso di lavoro in autonomia.",
+    "italiano": "Non indicato",
+    "difficolta": "Facile",
+    "temi": [
+     "Agenti AI",
+     "Lavoro e produttività",
+     "Scrittura e documenti"
+    ],
+    "fonti": [
+     "a2"
+    ],
+    "affidabilita": "Appena lanciato",
+    "prova": "https://www.producthunt.com/products/easy-peasy-ai"
+   },
+   {
+    "cosa": "Rerun",
+    "a_cosa_serve": "Trasforma i tuoi abbonamenti AI esistenti in un team di \"colleghi\" virtuali che lavorano insieme.",
+    "per_chi": "Lavoro",
+    "ambito": "Lavoro e produttività",
+    "come_iniziare": [],
+    "costo": "Non indicato",
+    "piattaforme": [
+     "Browser"
+    ],
+    "sul_dispositivo": false,
+    "come_sfruttarla": "Ottimizzare l'uso delle diverse AI a cui sei abbonato, facendole collaborare su un unico progetto.",
+    "italiano": "Non indicato",
+    "difficolta": "Facile",
+    "temi": [
+     "Agenti AI",
+     "Lavoro e produttività",
+     "Programmare senza codice"
+    ],
+    "fonti": [
+     "a3"
+    ],
+    "affidabilita": "Appena lanciato",
+    "prova": "https://www.producthunt.com/products/rerun-2"
+   },
+   {
+    "cosa": "Stitch.ai",
+    "a_cosa_serve": "Unifica email, calendario, note e attività in un unico spazio di lavoro potenziato dall'AI.",
+    "per_chi": "Lavoro e tutti i giorni",
+    "ambito": "Organizzazione",
+    "come_iniziare": [],
+    "costo": "Non indicato",
+    "piattaforme": [
+     "Browser"
+    ],
+    "sul_dispositivo": false,
+    "come_sfruttarla": "Gestire tutte le comunicazioni e l'organizzazione personale e lavorativa da un'unica interfaccia intelligente.",
+    "italiano": "Non indicato",
+    "difficolta": "Facile",
+    "temi": [
+     "Lavoro e produttività",
+     "Assistenti e chatbot",
+     "Scrittura e documenti"
+    ],
+    "fonti": [
+     "a5"
+    ],
+    "affidabilita": "Appena lanciato",
+    "prova": "https://www.producthunt.com/products/stitch-ai"
+   },
+   {
+    "cosa": "Scrollsnacks",
+    "a_cosa_serve": "Analizza video e li scompone secondo per secondo per facilitare la comprensione e la ricerca.",
+    "per_chi": "Lavoro e tutti i giorni",
+    "ambito": "Video",
+    "come_iniziare": [],
+    "costo": "Non indicato",
+    "piattaforme": [
+     "Browser"
+    ],
+    "sul_dispositivo": false,
+    "come_sfruttarla": "Trovare rapidamente i momenti chiave in lunghe registrazioni di riunioni o corsi online.",
+    "italiano": "Non indicato",
+    "difficolta": "Facile",
+    "temi": [
+     "Video",
+     "Ricerca e informazioni",
+     "Lavoro e produttività"
+    ],
+    "fonti": [
+     "a12"
+    ],
+    "affidabilita": "Appena lanciato",
+    "prova": "https://www.producthunt.com/products/scrollsnacks"
+   },
+   {
+    "cosa": "Pinku",
+    "a_cosa_serve": "Chatta privatamente con un'AI direttamente sul tuo dispositivo, senza inviare dati online.",
+    "per_chi": "Tutti i giorni",
+    "ambito": "Assistenti e chatbot",
+    "come_iniziare": [],
+    "costo": "Non indicato",
+    "piattaforme": [
+     "iPhone",
+     "Mac"
+    ],
+    "sul_dispositivo": true,
+    "come_sfruttarla": "Ottenere risposte rapide e private a domande personali o professionali senza preoccuparsi della privacy dei dati.",
+    "italiano": "Non indicato",
+    "difficolta": "Facile",
+    "temi": [
+     "AI sul dispositivo",
+     "Privacy e sicurezza",
+     "Assistenti e chatbot"
+    ],
+    "fonti": [
+     "a8"
+    ],
+    "affidabilita": "Appena lanciato",
+    "prova": "https://www.producthunt.com/products/pinku"
+   }
+  ],
+  "osint": [
+   {
+    "cosa": "GoodsQC",
+    "a_cosa_serve": "Strumento per la verifica della qualità che aiuta gli acquirenti internazionali a controllare i prodotti provenienti dai mercati cinesi.",
+    "uso": "Verifica fornitori e prodotti",
+    "piattaforme": [],
+    "costo": "Costo non indicato",
+    "difficolta": "Facile",
+    "come_sfruttarla": "Verificare l'affidabilità di un fornitore o la qualità di un prodotto prima di un acquisto importante.",
+    "temi": [
+     "OSINT e verifica",
+     "Lavoro e produttività"
+    ],
+    "fonti": [
+     "a205"
+    ],
+    "affidabilita": "Da verificare",
+    "solo_titoli": true,
+    "italiano": "Non indicato",
+    "sul_dispositivo": false,
+    "come_iniziare": [],
+    "prova": ""
+   },
+   {
+    "cosa": "Klarna call verification tool",
+    "a_cosa_serve": "Strumento di verifica delle chiamate per confermare l'identità degli utenti.",
+    "uso": "Verifica di identità e antifrode",
+    "piattaforme": [],
+    "costo": "Costo non indicato",
+    "difficolta": "Facile",
+    "come_sfruttarla": "Verificare l'autenticità di una chiamata o di un contatto per prevenire frodi.",
+    "temi": [
+     "OSINT e verifica",
+     "Privacy e sicurezza"
+    ],
+    "fonti": [
+     "a206"
+    ],
+    "affidabilita": "Da verificare",
+    "solo_titoli": true,
+    "italiano": "Non indicato",
+    "sul_dispositivo": false,
+    "come_iniziare": [],
+    "prova": ""
+   },
+   {
+    "cosa": "Chatbot IA di fact-checking (Egitto)",
+    "a_cosa_serve": "Un chatbot AI per il fact-checking basato su informazioni ufficiali.",
+    "uso": "Verifica informazioni",
+    "piattaforme": [],
+    "costo": "Costo non indicato",
+    "difficolta": "Facile",
+    "come_sfruttarla": "Ottenere rapidamente verifiche su notizie o affermazioni, anche se con la consapevolezza che le fonti sono governative.",
+    "temi": [
+     "OSINT e verifica",
+     "Ricerca e informazioni",
+     "Assistenti e chatbot"
+    ],
+    "fonti": [
+     "a218"
+    ],
+    "affidabilita": "Da verificare",
+    "solo_titoli": true,
+    "italiano": "Non indicato",
+    "sul_dispositivo": false,
+    "come_iniziare": [],
+    "prova": ""
+   }
+  ],
+  "gemme": [
+   {
+    "cosa": "changedetection.io",
+    "a_cosa_serve": "Monitora le modifiche a qualsiasi pagina web e ti invia notifiche quando qualcosa cambia.",
+    "perche_gemma": "Open source, self-hosted, con una nuova interfaccia utente più amichevole e integrazioni AI.",
+    "con_ai": "Usalo per monitorare siti che pubblicano novità AI e ricevere avvisi automatici sulle modifiche.",
+    "piattaforme": [
+     "Browser"
+    ],
+    "self_hosted": true,
+    "costo": "Gratis",
+    "difficolta": "Media",
+    "temi": [
+     "Open source e self-hosting",
+     "Ricerca e informazioni",
+     "Lavoro e produttività"
+    ],
+    "fonti": [
+     "a68"
+    ],
+    "affidabilita": "Da verificare",
+    "come_iniziare": [],
+    "sul_dispositivo": false,
+    "come_sfruttarla": "",
+    "prova": ""
+   },
+   {
+    "cosa": "Alternativa open source a Circle to Search",
+    "a_cosa_serve": "Offre una funzione simile a \"Cerchia per cercare\" di Google, permettendoti di cercare informazioni su qualsiasi cosa vedi sullo schermo del tuo telefono Android.",
+    "perche_gemma": "È un'alternativa open source e gratuita a una funzione proprietaria di Google, rispettosa della privacy.",
+    "con_ai": "Usala per ottenere rapidamente informazioni su immagini o testi sullo schermo, integrando la ricerca con strumenti AI esterni.",
+    "piattaforme": [
+     "Android"
+    ],
+    "self_hosted": false,
+    "costo": "Non indicato",
+    "difficolta": "Facile",
+    "temi": [
+     "Open source e self-hosting",
+     "Ricerca e informazioni",
+     "Privacy e sicurezza"
+    ],
+    "fonti": [
+     "a75"
+    ],
+    "affidabilita": "Da verificare",
+    "solo_titoli": true,
+    "italiano": "Non indicato",
+    "sul_dispositivo": false,
+    "come_iniziare": [],
+    "come_sfruttarla": "",
+    "prova": ""
+   },
+   {
+    "cosa": "Tool per valutare PC pre-assemblati",
+    "a_cosa_serve": "Analizza un annuncio di un PC pre-assemblato e stima il valore di ogni singolo componente.",
+    "perche_gemma": "Aiuta a valutare l'equità del prezzo di un PC usato o pre-assemblato, con stime aggiornate quotidianamente.",
+    "con_ai": "Può essere usato per confrontare il valore di un PC con le raccomandazioni di configurazioni AI-ottimizzate.",
+    "piattaforme": [
+     "Browser"
+    ],
+    "self_hosted": false,
+    "costo": "Non indicato",
+    "difficolta": "Facile",
+    "temi": [
+     "Lavoro e produttività",
+     "Ricerca e informazioni"
+    ],
+    "fonti": [
+     "a61"
+    ],
+    "affidabilita": "Appena lanciato",
+    "come_iniziare": [],
+    "sul_dispositivo": false,
+    "come_sfruttarla": "",
+    "prova": "https://pcdealcheck.com/",
+    "piattaforme_verificate": true
+   }
+  ],
+  "sezioni": [
+   {
+    "titolo": "Novità negli strumenti che già usi",
+    "notizie": [
+     {
+      "titolo": "Crea GIF animate e immagini più veloci con Images 2.6",
+      "strumento": "ChatGPT",
+      "riassunto": "Ora puoi creare GIF animate da testo o foto, riutilizzare immagini di riferimento e generare immagini il 50% più velocemente.",
+      "come_provarla": "Accedi a ChatGPT e usa la funzione di generazione immagini.",
+      "disponibilita": "Disponibile ora",
+      "fonti": [
+       "a4",
+       "a39",
+       "a40",
+       "a147"
+      ],
+      "temi": [
+       "Foto e immagini",
+       "Assistenti e chatbot"
+      ],
+      "affidabilita": "Confermata",
+      "solo_titoli": false
+     },
+     {
+      "titolo": "Siri AI si integra con le app in iOS 27.3 beta",
+      "strumento": "Siri AI",
+      "riassunto": "Siri diventa più intelligente e può interagire con le app di terze parti su iPhone e Apple Watch.",
+      "come_provarla": "",
+      "disponibilita": "In arrivo",
+      "fonti": [
+       "a29",
+       "a53",
+       "a55"
+      ],
+      "temi": [
+       "Assistenti e chatbot",
+       "AI sul dispositivo",
+       "Lavoro e produttività"
+      ],
+      "affidabilita": "Da verificare",
+      "solo_titoli": true
+     },
+     {
+      "titolo": "Nuova funzione \"Ask Maps\" negli aeroporti",
+      "strumento": "Google Maps",
+      "riassunto": "Google Maps attiverà automaticamente la funzione \"Ask Maps\" negli aeroporti dopo l'atterraggio, per aiutarti a trovare informazioni.",
+      "come_provarla": "",
+      "disponibilita": "Non indicato",
+      "fonti": [
+       "a37"
+      ],
+      "temi": [
+       "Ricerca e informazioni",
+       "Assistenti e chatbot"
+      ],
+      "affidabilita": "Da verificare",
+      "solo_titoli": true
+     },
+     {
+      "titolo": "Integrazione con i sistemi di sicurezza smart di AT&T",
+      "strumento": "Gemini for Home",
+      "riassunto": "Gemini per la casa si integra con il sistema di sicurezza smart di AT&T, permettendo di riassumere eventi domestici e cercare nella cronologia video.",
+      "come_provarla": "Se hai il sistema di sicurezza AT&T Connected Life, verifica l'integrazione.",
+      "disponibilita": "Non indicato",
+      "fonti": [
+       "a123"
+      ],
+      "temi": [
+       "Assistenti e chatbot",
+       "Privacy e sicurezza",
+       "Video"
+      ],
+      "affidabilita": "Una fonte",
+      "solo_titoli": false
+     },
+     {
+      "titolo": "Sonos prepara il debutto dell'assistente AI",
+      "strumento": "Sonos AI assistant",
+      "riassunto": "Sonos sta per lanciare un assistente AI integrato nei suoi dispositivi, con una beta prevista per il 12 novembre.",
+      "come_provarla": "",
+      "disponibilita": "In arrivo",
+      "fonti": [
+       "a30"
+      ],
+      "temi": [
+       "Voce e audio",
+       "Assistenti e chatbot"
+      ],
+      "affidabilita": "Da verificare",
+      "solo_titoli": true
+     }
+    ]
+   },
+   {
+    "titolo": "In breve",
+    "breve": true,
+    "notizie": [
+     {
+      "titolo": "Google disattiva l'AI per le scuole che rifiutano la ricerca AI",
+      "riassunto": "Google ha annunciato che disattiverà la Ricerca per le scuole che scelgono di disabilitare le sue funzioni AI, spingendo DuckDuckGo a proporsi come alternativa focalizzata sulla privacy.",
+      "fonti": [
+       "a43",
+       "a140",
+       "a160"
+      ],
+      "temi": [
+       "Regole e leggi",
+       "Privacy e sicurezza",
+       "Ricerca e informazioni"
+      ],
+      "affidabilita": "Confermata",
+      "solo_titoli": false
+     },
+     {
+      "titolo": "Sconfitta politica per i data center AI nelle elezioni USA",
+      "riassunto": "Le elezioni di metà mandato negli Stati Uniti hanno visto una forte opposizione popolare alla costruzione di nuovi data center per l'AI, con molte misure restrittive approvate.",
+      "fonti": [
+       "a127",
+       "a133",
+       "a143",
+       "a144"
+      ],
+      "temi": [
+       "Regole e leggi",
+       "Lavoro e produttività"
+      ],
+      "affidabilita": "Confermata",
+      "solo_titoli": false
+     }
+    ]
+   }
+  ],
+  "formato": 2,
+  "controllo_siti": [
+   {
+    "cosa": "GoodsQC",
+    "esito": "nessun sito da aprire"
+   },
+   {
+    "cosa": "Klarna call verification tool",
+    "esito": "nessun sito da aprire"
+   },
+   {
+    "cosa": "Chatbot IA di fact-checking (Egitto)",
+    "esito": "nessun sito da aprire"
+   },
+   {
+    "cosa": "changedetection.io",
+    "esito": "nessun sito da aprire"
+   },
+   {
+    "cosa": "Alternativa open source a Circle to Search",
+    "esito": "nessun sito da aprire"
+   },
+   {
+    "cosa": "Scrollsnacks",
+    "sito": "https://www.producthunt.com/r/p/1304747?app_id=339",
+    "esito": "errore: HTTP Error 403: Forbidden"
+   },
+   {
+    "cosa": "Stitch.ai",
+    "sito": "https://www.producthunt.com/r/p/1302492?app_id=339",
+    "esito": "errore: HTTP Error 403: Forbidden"
+   },
+   {
+    "cosa": "Pinku",
+    "sito": "https://www.producthunt.com/r/p/1302582?app_id=339",
+    "esito": "errore: HTTP Error 403: Forbidden"
+   },
+   {
+    "cosa": "Rerun",
+    "sito": "https://www.producthunt.com/r/p/1302947?app_id=339",
+    "esito": "errore: HTTP Error 403: Forbidden"
+   },
+   {
+    "cosa": "AI Employees by Easy-Peasy.AI",
+    "sito": "https://www.producthunt.com/r/p/1303820?app_id=339",
+    "esito": "errore: HTTP Error 403: Forbidden"
+   },
+   {
+    "cosa": "Tool per valutare PC pre-assemblati",
+    "sito": "https://pcdealcheck.com/",
+    "pagina": 167012,
+    "trovate": [
+     "Browser"
+    ]
+   }
+  ]
+ },
+ "articoli": {
+  "a2": {
+   "titolo": "AI Employees by Easy-Peasy.AI",
+   "link": "https://www.producthunt.com/products/easy-peasy-ai",
+   "sito": "https://www.producthunt.com/r/p/1303820?app_id=339",
+   "data": "2026-11-03T22:19:49-08:00",
+   "testo": "Hire an AI team that splits the work and asks before sending",
+   "fonte": "Product Hunt (AI)",
+   "tipo": "vetrina",
+   "solo_titolo": false,
+   "categoria": "Strumenti",
+   "id": "a2"
+  },
+  "a218": {
+   "titolo": "L’Egitto ha lanciato un “chatbot IA di fact-checking” basato su informazioni approvate dallo stesso governo",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9Xcko2c2FFUGRwSk5kMUg1TzMtczlEWkJLN042MGRISDlJRnZjSEFfZ2QyUFVBSFVraFlaWlhKSnhCVy1mdl9qblRSSWJXYWt6MlNzZU5kb1FObkFXSWFzRjhNRWhUajdxX3NxSWptdE9CaVE?oc=5",
+   "data": "2026-10-30T14:28:29+00:00",
+   "testo": "",
+   "fonte": "facta.news",
+   "tipo": "minore",
+   "solo_titolo": true,
+   "categoria": "OSINT",
+   "id": "a218"
+  },
+  "a123": {
+   "titolo": "Gemini for Home now plugs into AT&T’s smart security system",
+   "link": "https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system",
+   "sito": "",
+   "data": "2026-11-04T15:23:24-05:00",
+   "testo": "AT&T's smart home security system now integrates with Gemini for Home. The company says its Connected Life system is the \"first\" home security product to integrate with Google Home Premium, enabling a bunch of Gemini-powered features that can summarize home events, search your video history, and more. With the update, Gemini for Home can provide […]",
+   "fonte": "The Verge",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Testate tech",
+   "id": "a123"
+  },
+  "a75": {
+   "titolo": "Want Circle to Search on Your Android Phone? Try This Open-Source Alternative",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUnpJMDA3dVBFTWhXN21iSkFSOWJKSEtwbWlZYnMzT2Q3cmdwelg1bnhsWTRvYUMwUExZNHVidG1XbFJZVExOQXFSb0w5TFRjSng4a2FjWFJmcVVmTW1ZOWFUNVg0NncwVEVWNHhVdVdYaVMtU3BoczluOWtWOWtWaUVZVW13cWE3UlcyQXlpZjFCZw?oc=5",
+   "data": "2026-11-05T11:57:47+00:00",
+   "testo": "",
+   "fonte": "Beebom Gadgets",
+   "tipo": "minore",
+   "solo_titolo": true,
+   "categoria": "Gemme",
+   "id": "a75"
+  },
+  "a68": {
+   "titolo": "changedetection.io - Yearly update :)",
+   "link": "https://www.reddit.com/r/selfhosted/comments/1xoh9mu/changedetectionio_yearly_update/",
+   "sito": "",
+   "data": "2026-11-05T12:21:08+00:00",
+   "testo": "https://preview.redd.it/5kowag6ydszh1.png?width=1401&format=png&auto=webp&s=f80fd32476132b8b3fb115515a662a6afaf4c95f Hey all! Greetings from the web page change detection and notifications project over at https://github.com/dgtlmoon/changedetection.io It's been a long long time! In summary basically huge UI overhaul, much friendlier, along with all the modern MCP/AI integration and ofcourse lots …",
+   "fonte": "Reddit r/selfhosted",
+   "tipo": "community",
+   "solo_titolo": false,
+   "categoria": "Gemme",
+   "id": "a68"
+  },
+  "a147": {
+   "titolo": "ChatGPT can now turn text prompts and photos into animated GIFs with OpenAI's Images 2.6 model",
+   "link": "https://the-decoder.com/chatgpt-can-now-turn-text-prompts-and-photos-into-animated-gifs-with-openais-images-2-6-model/",
+   "data": "2026-11-04T19:44:20+00:00",
+   "testo": "OpenAI is adding a GIF feature to ChatGPT. With the new Images 2.6 model, users can create animated GIFs from text prompts or photos and then adjust speed and individual frames. The model's image consistency is strong enough to keep characters recognizable across frames, making flipbook-style animation possible. According to OpenAI, users now generate more than four billion images per week. The a…",
+   "fonte": "The Decoder",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Testate tech",
+   "id": "a147"
+  },
+  "a133": {
+   "titolo": "After the midterms, a bigger clash over data centers could be coming",
+   "link": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/",
+   "data": "2026-11-05T01:02:14+00:00",
+   "testo": "The November 3 midterm results gave Democrats full control of Congress, setting the stage for what could be one of the most divided U.S. governments this decade, with Republicans in the White House. Tuesday’s results suggest that anger over data centers, the large facilities that house the computers powering AI, is becoming a political force. With Democrats now in control of Congress, that could lead to new limits on where data centers can be built and how much say local communities have. Data centers became a ballot-box issue in various states. An NBC exit poll showed how concerned voters are about AI: More than half of respondents believe that AI will do more harm than good, while almost 80% are against the building of data centers in their neighborhoods. Almost 60%, meanwhile, said data centers were a crucial or major factor in their vote. Nadine Smith, president and CEO of the racial justice organization Color of Change, called Tuesday’s election a referendum on “who this economy is built for.” “National security matters,” Smith said, referring to a common argument from data center supporters that the infrastructure is essential for the U.S. to stay ahead in war and in its rivalry with China. “And so do the families in South Memphis breathing exhaust from the gas turbines powering an AI supercomputer.” (She was referring to xAI’s data center in Memphis, Tennessee, which uses gas turbines for power.) Voters in several states pushed back against the AI buildout, even as pro-AI super PACs spent millions hoping to sway them this midterm. The anti-data center backlash was especially felt in states like Ohio, where OpenAI has eyed a $500 billion data center, backed by more than $100 billion in financing from Nvidia. In fact, the Ohio county where Meta had planned a 700,0…",
+   "fonte": "TechCrunch",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Testate tech",
+   "id": "a133",
+   "testo_completo": true
+  },
+  "a40": {
+   "titolo": "ChatGPT crea GIF animate da testo o foto: come funziona",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNX0htYUhCajhtV1pJaldXTHJKLXZkcHRnV1ZxN1pSazFKMDlOWmh4YU1Gak1xTE9ZTURJYkc1TXhwZWRNZHAtSFlXTGtWaHc0aHgzOHUtaWh0SUFnZGJsQ1FzWnFLdUhvMC12Tmw2VWR3c29PYVBPa0VjN2dLa3Z5bVlidzRTbG9aMHk0?oc=5",
+   "data": "2026-11-05T08:00:06+00:00",
+   "testo": "",
+   "fonte": "Punto Informatico",
+   "tipo": "testata",
+   "solo_titolo": true,
+   "categoria": "Strumenti",
+   "id": "a40"
+  },
+  "a53": {
+   "titolo": "Apple porta Siri AI nelle app con iOS 27.3 beta",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAyQXpqbTRjU2IxQ3pGaHJRQ3hzeDE5c1N5NFB2blhHdmx1LUVWRHNBd09vczVXWlU1bzRKWEtGM3FGSHNiS3dWcGd3R1lzY2RpZDUyUDR2cEgzQkQ2VGpiLWRjM0UtV1ZQUTEwMHdwd09sTzh5amxQYTEyRHE?oc=5",
+   "data": "2026-11-05T09:37:30+00:00",
+   "testo": "",
+   "fonte": "MRW.it",
+   "tipo": "minore",
+   "solo_titolo": true,
+   "categoria": "Strumenti",
+   "id": "a53"
+  },
+  "a55": {
+   "titolo": "Siri AI disponibile per gli sviluppatori Apple: azioni nelle app e nuove skills",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1pcGRQc3dtUWVoMFlTN09SbC03eHhwa2NidExyZ3puN1JxbjFPS2ZiXy0xZkJBcG1jYmZEQUVVTjhvT0xPSDVWSExRTlhWZXhHbGliTGNpRzQ1azgwbjR5UjBjMlNkbEc4ZUZybg?oc=5",
+   "data": "2026-11-04T12:00:06+00:00",
+   "testo": "",
+   "fonte": "01net",
+   "tipo": "minore",
+   "solo_titolo": true,
+   "categoria": "Strumenti",
+   "id": "a55"
+  },
+  "a127": {
+   "titolo": "Data centers lost the midterms",
+   "link": "https://www.theverge.com/policy/1026365/data-centers-midterms-results",
+   "sito": "",
+   "data": "2026-11-04T11:05:39-05:00",
+   "testo": "Data center developers are poised to face a more restrictive building environment after voters across the country voted in candidates who favor moratoriums and ballot measures that put more obstacles on their expansion, delivering a stinging blow to a central pillar of the AI industry. Data centers lost the midterms In ballot measures and exit polls, voters across the country rejected unrestrained development. Data centers lost the midterms In ballot measures and exit polls, voters across the country rejected unrestrained development. Of voters polled by NBC News on Election Day, 76 percent said they opposed data centers in their communities. Dozens of local communities voted directly to restrict development through ballot measures. And upset winners like Texas Democratic Governor-elect Gina Hinojosa and Michigan’s Democratic Senator-elect Abdul El-Sayed support moratoriums on development. It’s hard to draw a direct line from data center backlash to the election of any of these candidates, and there were still some races where candidates who favored more limited restrictions on data centers prevailed. Republican Rep. Byron Donalds, who previously lauded development in Florida, was elected as governor, and Iowa’s Democratic Governor-elect Rob Sand opposed a moratorium that his challenger favored. But even these candidates were forced to engage on data center issues during their campaigns, and will be likely to face continued pressure to put at least some guardrails in place. Ballot measures Voters were faced with questions about data centers directly in 45 local ballot measures nationwide. As of Wednesday morning, according to a site compiled by Redbud Consulting, the results of 33 of those will restrict data center development. The Town of Wells, Maine, favored a 180-d…",
+   "fonte": "The Verge",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Testate tech",
+   "id": "a127",
+   "testo_completo": true
+  },
+  "a4": {
+   "titolo": "ChatGPT Images 2.6",
+   "link": "https://www.producthunt.com/products/chatgpt-images-2-6",
+   "sito": "https://www.producthunt.com/r/p/1304830?app_id=339",
+   "data": "2026-11-04T16:41:38-08:00",
+   "testo": "GIFs, reusable reference images and 50% faster generation",
+   "fonte": "Product Hunt (AI)",
+   "tipo": "vetrina",
+   "solo_titolo": false,
+   "categoria": "Strumenti",
+   "id": "a4"
+  },
+  "a61": {
+   "titolo": "I built a tool that prices a pre-built PC part by part",
+   "link": "https://pcdealcheck.com/",
+   "data": "2026-11-04T15:25:33+00:00",
+   "testo": "I've missed out on an awesome computer that I could use for a project because figuring out value took too long. Users paste a listing and receive a value grade, dated component estimates and a shareable report. AI reads the listing but my custom built price engine determines the grade (updated every day). Self financed and working now. Looking for feedback re: scoring, interface, and if its helpf…",
+   "sito": "https://pcdealcheck.com/",
+   "fonte": "Show HN – progetti utili (gemme)",
+   "tipo": "vetrina",
+   "solo_titolo": false,
+   "categoria": "Gemme",
+   "id": "a61"
+  },
+  "a140": {
+   "titolo": "DuckDuckGo pitches itself to schools amid backlash over Google’s AI policy",
+   "link": "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/",
+   "data": "2026-11-04T19:29:52+00:00",
+   "testo": "DuckDuckGo is pitching itself to schools after Google created an opening for the alternative search engine. On Tuesday, Google told schools they could turn off Gemini, but it said shutting off its other AI features would cost schools Google Search, as well. DuckDuckGo, a company that focuses on user privacy by limiting data collection, clearly sees this as a moment to make inroads in education, where Google has historically dominated. According to figures Google has published in previous years, there are around 50 million Chromebooks in schools, used by students and educators, and its Google Classroom platform serves over 150 million users globally. On X, DuckDuckGo’s founder and CEO, Gabriel Weinberg, pointed to the company’s online documentation, explaining how schools can switch their default search engine to DuckDuckGo’s service instead, adding, “get in touch for help.” Meanwhile, DuckDuckGo’s chief public affairs officer, Kamyl Bazbaz, issued a stronger statement, writing, “Forcing AI on school children: how a monopolist behaves when they think people are powerless. Prove Google wrong.” In an email to TechCrunch, DuckDuckGo chastised Google for its decision, adding that Google could easily turn off Search’s AI features for schools if it wanted to. The company’s comments come as the American public is weighing how much AI they want to allow into their lives. As Tuesday night’s elections indicate, they don’t want AI data centers built in their towns. But using AI at work and school has become a common practice and requires a more nuanced discussion. Knowing that educators have struggled with AI, Google developed technology called “Guided Learning” that is meant to help kids learn by walking through problem-solving steps rather than just providing them with an answer…",
+   "fonte": "TechCrunch",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Testate tech",
+   "id": "a140",
+   "testo_completo": true
+  },
+  "a39": {
+   "titolo": "ChatGPT Images 2.6 è arrivato: GIF animate e immagini più veloci",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORHdWZ1drRjQxMmgwU0Z4eXVmbGhpbnRpQVNBdXhMRS1mVjF3eXFRME9HczZmNlRZam9yZFNwVVZHOEZrQ3lfY3liZE9fam5JazhCbk1ITFhjNm9sYkJwZkJ3R2lpOFhDZ24wanNhUXFjZVI0Vzl2aS1odkNoSHlGQmNKVENSMUtJSm1fckN6MjRKZw?oc=5",
+   "data": "2026-11-05T06:46:58+00:00",
+   "testo": "",
+   "fonte": "HDblog.it",
+   "tipo": "testata",
+   "solo_titolo": true,
+   "categoria": "Strumenti",
+   "id": "a39"
+  },
+  "a144": {
+   "titolo": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
+   "link": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
+   "data": "2026-11-04T18:50:55+00:00",
+   "testo": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech's largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat James Talarico won the US Senate seat against Ken Paxton. Gina Hinojosa won the race for governor against the Republican incumbent, Greg Abbott. At the state level, Democrats will take control of the Texas House for the first time in 24 years. Talarico and Hinojosa made data centers a central issue, discussing them constantly on the campaign trail. Even before the polls closed, insiders in the data center industry noticed that the times were changing. At the industry's DCD conference in Ashburn, Virginia, on Tuesday, panelists lamented that Texas had been the easiest place to build for years—until September. That's when Abbott, perhaps seeing the increasingly bipartisan distaste for these facilities, began changing course himself. Developers said the governor’s office had stopped responding to their emails. On September 21, Abbott directed a key state regulator to halt data center permits. Many panelists at the conference were expecting this to mean that existing projects might be slowed and new ones could be halted altogether. The governor-elect indeed seems eager to do that. Hinojosa supported tax breaks for data centers in 2023 as a way to boost construction jobs, but during her campaign she began pushing for a full-fledged moratorium. That would be a problem for the hyperscalers of Big Tech, which have ambitious plans for AI training facilities in the state. The scale of projects already underway in Texas is massive. The Stargate Frontier data center in Shackelford County is projected to serve 1,820 megawatts—about as much as the nation’s largest data center, SpaceX’s C…",
+   "fonte": "MIT Technology Review",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Testate tech",
+   "id": "a144",
+   "testo_completo": true
+  },
+  "a5": {
+   "titolo": "Stitch.ai",
+   "link": "https://www.producthunt.com/products/stitch-ai",
+   "sito": "https://www.producthunt.com/r/p/1302492?app_id=339",
+   "data": "2026-11-02T22:04:34-08:00",
+   "testo": "Your AI workspace for mail, calendar, notes, tasks and more",
+   "fonte": "Product Hunt (AI)",
+   "tipo": "vetrina",
+   "solo_titolo": false,
+   "categoria": "Strumenti",
+   "id": "a5"
+  },
+  "a12": {
+   "titolo": "Scrollsnacks",
+   "link": "https://www.producthunt.com/products/scrollsnacks",
+   "sito": "https://www.producthunt.com/r/p/1304747?app_id=339",
+   "data": "2026-11-04T13:46:13-08:00",
+   "testo": "Launch videos, broken down second by second",
+   "fonte": "Product Hunt (AI)",
+   "tipo": "vetrina",
+   "solo_titolo": false,
+   "categoria": "Strumenti",
+   "id": "a12"
+  },
+  "a3": {
+   "titolo": "Rerun",
+   "link": "https://www.producthunt.com/products/rerun-2",
+   "sito": "https://www.producthunt.com/r/p/1302947?app_id=339",
+   "data": "2026-11-03T05:00:39-08:00",
+   "testo": "Turn your AI subscriptions into a team of coworkers",
+   "fonte": "Product Hunt (AI)",
+   "tipo": "vetrina",
+   "solo_titolo": false,
+   "categoria": "Strumenti",
+   "id": "a3"
+  },
+  "a8": {
+   "titolo": "Pinku",
+   "link": "https://www.producthunt.com/products/pinku",
+   "sito": "https://www.producthunt.com/r/p/1302582?app_id=339",
+   "data": "2026-11-02T23:52:00-08:00",
+   "testo": "Private AI chat that runs offline on your iPhone and Mac",
+   "fonte": "Product Hunt (AI)",
+   "tipo": "vetrina",
+   "solo_titolo": false,
+   "categoria": "Strumenti",
+   "id": "a8"
+  },
+  "a30": {
+   "titolo": "Sonos prepara il debutto dell’assistente AI: beta dal 12 novembre",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNTZ1U01YYkdrZXpfdUJOWHJHbmxMYjViTVlwUUYzbjF1VWtIY3VFRjRnc0M3MUthejlaWUlCbHpYYkVsZ2lZMC1fc1QwMW92aXNibjg0dTF2Z0tEeVpHbnM5MW1rLThkLXZSckNWbHBDall3TmpiVms5QWUyY3pmZENfYmZ2NnhOcVpRMWFjNjFxbW1uZFE?oc=5",
+   "data": "2026-11-05T10:45:00+00:00",
+   "testo": "",
+   "fonte": "DigiTech.News",
+   "tipo": "minore",
+   "solo_titolo": true,
+   "categoria": "Strumenti",
+   "id": "a30"
+  },
+  "a43": {
+   "titolo": "Google impone l'AI nelle scuole? DuckDuckGo offre un'alternativa",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZnRTMElUOERiWFpyNjVSeHpZTWFKam9rU0U4VnNoUU8tLU94cG9wb3E1aGg4RUxpTzJjVU14SFhxTzVBMHhTQ1VUMDd5akRpOS02OHhBUFg0a01kOVA5NVo4TDFHS25ENE9Ld25qVWVuVmVCZUZNeDR3aEFWclY0eHI5a0V4S1BLd0RSLV9EeDdSWlFRYzhrRGdZMA?oc=5",
+   "data": "2026-11-05T08:31:24+00:00",
+   "testo": "",
+   "fonte": "Punto Informatico",
+   "tipo": "testata",
+   "solo_titolo": true,
+   "categoria": "Strumenti",
+   "id": "a43"
+  },
+  "a205": {
+   "titolo": "GoodsQC Launches Streamlined QC Verification Tool to Empower Overseas Buyers Sourcing From Chinese Marketplaces",
+   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPZ2xPVUQzWnVIYlBVV2FwQnpmWE1jZ3YzUWozbG1PMUt3LVhMTUlwZjRjcnNtdzRUa21wQk14TzAyTzFxXzlmbjFDWnFqaGdZUWNnMnZVd1l0MWxBY1h3bjdPVTJBNEw2eXlmZmxSOHpNX18wX3FNWURKUXgxdG9TS291ZGM4VVVtaEdhREEwNFlBam91MGNJbWREMG5ORFJrNi1peFpuTnFkcllNT0RhRzVZNVR0ZGhiVF9yNVlBMF9UZWs5U3h5eDNzaER5S01yY2h5ek5CcWoxaldwLVRtUDdzVVFyb1doc1paY0NJcw?oc=5",
+   "data": "2026-11-05T12:38:00+00:00",
+   "testo": "",
+   "fonte": "EIN Presswire",
+   "tipo": "minore",
+   "solo_titolo": true,
+   "categoria": "OSINT",
+   "id": "a205"
+  },
+  "a160": {
+   "titolo": "Google disattiverà l'intelligenza artificiale per le scuole Usa",
+   "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNN0dpbmV3RFBuZTFsaFcyQ19qRElkT3pjS0VoX1ZJOWdOc2FVakwyV3dQTVhfQUxzNkg0RndLVDlLODUtT3dzVW8tVksxdEpldFFfbnhySGd6ekQ2eW00dTZxTjg2NzVMM3I3TU1JM1g1UVZSQU1VMEtXTkZqeWhGRVY5MWxlY05udWlPS1dQVXdMbGxHeTNnSmFaUUpWell3Wmk1TGhzbTdOQUYzQ01vV3VTSGgtS3FFUG43Y1dzeGZMYTh3SHgxb1NWVGM0VG9aLU5fcHJLQ2UwOGZxWm5uaVQyd2JselFvVjgwTXljTTJtdzBJY0FMbXd6VDdLUHFkci1jd08yU242YjFrZmVOZ0Y3TkNzVEU3dVlnWNIBnAJBVV95cUxNN0dpbmV3RFBuZTFsaFcyQ19qRElkT3pjS0VoX1ZJOWdOc2FVakwyV3dQTVhfQUxzNkg0RndLVDlLODUtT3dzVW8tVksxdEpldFFfbnhySGd6ekQ2eW00dTZxTjg2NzVMM3I3TU1JM1g1UVZSQU1VMEtXTkZqeWhGRVY5MWxlY05udWlPS1dQVXdMbGxHeTNnSmFaUUpWell3Wmk1TGhzbTdOQUYzQ01vV3VTSGgtS3FFUG43Y1dzeGZMYTh3SHgxb1NWVGM0VG9aLU5fcHJLQ2UwOGZxWm5uaVQyd2JselFvVjgwTXljTTJtdzBJY0FMbXd6VDdLUHFkci1jd08yU242YjFrZmVOZ0Y3TkNzVEU3dVlnWA?oc=5",
+   "data": "2026-11-04T10:36:42+00:00",
+   "testo": "",
+   "fonte": "ANSA",
+   "tipo": "testata",
+   "solo_titolo": true,
+   "categoria": "Italia",
+   "id": "a160"
+  },
+  "a143": {
+   "titolo": "Big Tech claims voters’ AI backlash is “anti-Trump” not “anti-tech”",
+   "link": "https://arstechnica.com/tech-policy/2026/11/big-tech-claims-voters-ai-backlash-is-anti-trump-not-anti-tech/",
+   "data": "2026-11-04T20:55:50+00:00",
+   "testo": "Donald Trump’s big, rapid American AI buildout now faces a major slowdown as voters in yesterday’s elections overwhelmingly supported candidates and measures that favored increasing restrictions on AI and data centers nationwide. One resource from a polling firm, called Redbud Consulting, tracked data center initiatives on the ballot and reported that out of 44 measures across 10 states seeking to restrict data centers, 38 passed so far. Those measures included dozens of moratoriums and bans. Analysts suggested those won’t impact data centers already under construction or approved through 2027, instead largely impacting future projects planned for 2028. Only one measure passed allowing a data center to proceed. But even that small win represented pushback on the AI industry—requiring data center developers in a North Dakota city to pay for independent reviews and hold public hearings when expanding or proposing projects. In addition to increasing regulations on data centers, voters also backed anti-AI candidates, electing officials vowing crackdowns in key states building out the most data center capacity in the US. Most notably, Democratic challenger Gina Hinojosa won the Texas governor race that Axios reported would fundamentally scramble the math on Trump’s AI buildout. According to Bloomberg, Hinojosa’s election has developers facing down the “worst-case scenario.” Texas is the epicenter of the AI boom, Axios noted, and was expected to account for more than 41 percent of added data center capacity in 2028. Now, Hinojosa plans to delay projects as long as it takes to pass laws “tackling impacts on water, electricity, air, and property rights.” Approximately “13 gigawatts of data center capacity” is now exposed, Bloomberg reported. Gordon Johnson of GLJ Research warn…",
+   "fonte": "Ars Technica",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Testate tech",
+   "id": "a143",
+   "testo_completo": true
+  },
+  "a37": {
+   "titolo": "Google Maps, nuova funzione negli aeroporti: Ask Maps si attiverà automaticamente dopo l'atterraggio",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNRjFveFhnSU1tZEtzT1IyY285REx6MTZCOUZLM09lZ3hBWmJNNmc5eTlsX2ZFRHNBc0lpZFc2R1BGVEdKMVljZ0lvTFFHSW1IbWtMeWZQZ1RmMTdRQ3pweDMyUEJKQ2tRT0ZjVkI1Vk9VdHAwb0htbUFPOTNTLWJLVllJS2tNWmZhamh1QTBpVzMwOTJtMEctdHVoeExqR3BoVlk5VjQycnUzSk9kc2djZHJGcHVXX3lDTjFNa3BKU1lCRUpNVVpWdk5MYw?oc=5",
+   "data": "2026-11-05T10:50:17+00:00",
+   "testo": "",
+   "fonte": "Automoto.it",
+   "tipo": "minore",
+   "solo_titolo": true,
+   "categoria": "Strumenti",
+   "id": "a37"
+  },
+  "a29": {
+   "titolo": "Apple rilascia iOS 27.3 beta 1: nuova app Salute, Siri AI e tante novità per iPhone e Apple Watch",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTHh3YlNmUXBsVE1JU2xYckdjbVZzTkVMaDRKbDFSR1lLVzNCV0JzNURmWXBCTWZ1cTFGczl3X1otQUgxdU45WXAyVHkwUllXU3ZRVzdHSjBoSXVBVlI1RjU3MUNkdXBRVkFJeElBZUpnSENfVjlqdXUwbnMwV2NQVlV3NGQ0NXJkeTNmZ2xGS2pvYU1pbHBVSEZyVnF4Qmo2Tk5FV1VxT1ZhaWhCbWFFemFqRF9SaXNzMWU3WFo1VVBlZzBqRzF4YWV3?oc=5",
+   "data": "2026-11-05T09:00:28+00:00",
+   "testo": "",
+   "fonte": "Cellulare Magazine",
+   "tipo": "minore",
+   "solo_titolo": true,
+   "categoria": "Strumenti",
+   "id": "a29"
+  },
+  "a206": {
+   "titolo": "Klarna expands call verification tool to all 26 markets",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZmhmbEVDOFE1eHd5c0YzbUVJYkQtV2dOYlRXdlpBQUxkY0tCa19kQms1dTNFRUtqTVNMb3l6Sk9xYmtQdURZQVR0V2planRoZUg5UmxtVjE4dUR1SjEtZ1Y5amlVblpaVzk3YWxla2tyODVoc0VveUJSNjFQYk1CUURpSzF1ZXhaNTRTR2xYRUZmS3VmQ0FJWVNITTRSUEFPTUtNWWVpOU4weGpoU1g0dE1DMmY?oc=5",
+   "data": "2026-11-05T11:01:46+00:00",
+   "testo": "",
+   "fonte": "StreetInsider",
+   "tipo": "minore",
+   "solo_titolo": true,
+   "categoria": "OSINT",
+   "id": "a206"
+  }
+ },
+ "fonti": [
+  {
+   "nome": "Product Hunt (AI)",
+   "ok": true,
+   "presi": 15
+  },
+  {
+   "nome": "Show HN (nuovi progetti)",
+   "ok": true,
+   "presi": 2
+  },
+  {
+   "nome": "Nuove app AI (internazionale)",
+   "ok": true,
+   "presi": 10
+  },
+  {
+   "nome": "Nuove app AI (Italia)",
+   "ok": true,
+   "presi": 8
+  },
+  {
+   "nome": "Novità AI da provare (Italia)",
+   "ok": true,
+   "presi": 8
+  },
+  {
+   "nome": "AI sul dispositivo (internazionale)",
+   "ok": true,
+   "presi": 8
+  },
+  {
+   "nome": "AI sul dispositivo (Italia)",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "Android Police (AI su Android)",
+   "ok": true,
+   "presi": 2
+  },
+  {
+   "nome": "Windows Central (AI su Windows)",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "Ollama (nuove versioni)",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "Open WebUI (nuove versioni)",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "Show HN – progetti utili (gemme)",
+   "ok": true,
+   "presi": 3
+  },
+  {
+   "nome": "Reddit r/selfhosted",
+   "ok": true,
+   "presi": 6
+  },
+  {
+   "nome": "Reddit r/opensource",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "Alternative open source (Google News)",
+   "ok": true,
+   "presi": 6
+  },
+  {
+   "nome": "n8n (nuove versioni)",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "Immich (nuove versioni)",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "OpenAI",
+   "ok": true,
+   "presi": 4
+  },
+  {
+   "nome": "Google (blog ufficiale)",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "Google Gemini (blog)",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "Nuove funzioni AI (Google News)",
+   "ok": true,
+   "presi": 12
+  },
+  {
+   "nome": "Anthropic / Claude",
+   "ok": true,
+   "presi": 6
+  },
+  {
+   "nome": "Microsoft Copilot",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "Altri assistenti AI (Perplexity, Mistral, Meta AI…)",
+   "ok": true,
+   "presi": 8
+  },
+  {
+   "nome": "Hugging Face (modelli e strumenti aperti)",
+   "ok": true,
+   "presi": 3
+  },
+  {
+   "nome": "Mistral AI",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "The Verge",
+   "ok": true,
+   "presi": 10
+  },
+  {
+   "nome": "TechCrunch",
+   "ok": true,
+   "presi": 12
+  },
+  {
+   "nome": "Ars Technica",
+   "ok": true,
+   "presi": 2
+  },
+  {
+   "nome": "MIT Technology Review",
+   "ok": true,
+   "presi": 2
+  },
+  {
+   "nome": "The Decoder",
+   "ok": true,
+   "presi": 9
+  },
+  {
+   "nome": "TLDR AI (newsletter)",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "ANSA",
+   "ok": true,
+   "presi": 6
+  },
+  {
+   "nome": "Wired Italia",
+   "ok": true,
+   "presi": 3
+  },
+  {
+   "nome": "Il Sole 24 Ore Tecnologia",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "Punto Informatico",
+   "ok": true,
+   "presi": 2
+  },
+  {
+   "nome": "HDblog",
+   "ok": true,
+   "presi": 6
+  },
+  {
+   "nome": "AI4Business",
+   "ok": true,
+   "presi": 4
+  },
+  {
+   "nome": "Agenda Digitale (AI)",
+   "ok": true,
+   "presi": 3
+  },
+  {
+   "nome": "Garante Privacy e AI",
+   "ok": true,
+   "presi": 3
+  },
+  {
+   "nome": "Malwarebytes (app e truffe AI)",
+   "ok": true,
+   "presi": 2
+  },
+  {
+   "nome": "Reddit",
+   "ok": true,
+   "presi": 8
+  },
+  {
+   "nome": "Reddit (AI locale)",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "Simon Willison (prove pratiche di strumenti AI)",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "Bellingcat (guide e strumenti)",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "GIJN (guide per giornalisti investigativi, via Google News)",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "OSINT – verifica e fact-checking (internazionale)",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "OSINT – nuovi strumenti (internazionale)",
+   "ok": true,
+   "presi": 3
+  },
+  {
+   "nome": "OSINT – strumenti (Italia)",
+   "ok": true,
+   "presi": 3
+  },
+  {
+   "nome": "Facta (fact-checking, contenuti falsi e AI)",
+   "ok": true,
+   "presi": 3
+  },
+  {
+   "nome": "Week in OSINT (Sector035)",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "The OSINT Newsletter",
+   "ok": true,
+   "presi": 2
+  },
+  {
+   "nome": "IDMO (osservatorio italiano sulla disinformazione)",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "EU DisinfoLab",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "Reddit (OSINT)",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "Hacker News (OSINT)",
+   "ok": true,
+   "presi": 1
+  }
+ ],
+ "visti": [
+  "textkit",
+  "aiemployeesbyeasypeasyai",
+  "rerun",
+  "chatgptimages26",
+  "stitchai",
+  "tencenthy4",
+  "polylaneforgooglecloud",
+  "pinku",
+  "foundermail",
+  "ccautoreview",
+  "nemotron35transcribe",
+  "scrollsnacks",
+  "dearcameo",
+  "backlane",
+  "seamcult",
+  "uncrackedcitydetectivegamewhereyouquestionllmsuspectsthatlie",
+  "interactivenotesonrlhfattentionloraandllmevals",
+  "10bestaiappsforiphonein2026testedranked",
+  "aitrackermayoclinicplatformrollsoutaitoolforclinicians",
+  "mangoailaunchesafaceswapaitoolforreplacingfacesinphotos",
+  "harvardbusinessimpactlaunchesadvisoranaiassistantbuilttogivefacultybacktheirprep",
+  "glialaunchesaitooltohelpcreditunionsidentifybusinesslendingopportunities",
+  "smartsheetlaunchesaitooltobridgestrategywork",
+  "bankofcypruslaunchesaiassistantdanaepolitis",
+  "forresterlaunchesaiappforslackatannualforum",
+  "quebec811launchesaiassistantinpushtoreducewaittimes",
+  "tnregistrationdeptclocks1950crorerevenueinoctlaunchesaiapptotrackcourtcases",
+  "lavitainagenziadiventaunasitcomcreativalancialasuawebserierealizzataconlintellig",
+  "applerilasciaios273beta1nuovaappsalutesiriaietantenovitàperiphoneeapplewatch",
+  "sonospreparaildebuttodellassistenteaibetadal12novembre",
+  "immobiliaregliagenticheusanolaifatturanoil47inpiù",
+  "googleintegralintelligenzaartificialenelsuomotorediricercasollevandopreoccupazio",
+  "brescialaraccoltadifferenziatadiventaintelligenteconlanuovaappdia2abastaunafotop",
+  "gualtieriabarcellonaperlesmartcityromapresentajulia30lintelligenzaartificialeals",
+  "netflixvuolesaperecomestateperconsigliarvicosaguardare",
+  "openaiimages26arrivainitaliachatgptgeneragifanimate",
+  "googlemapsnuovafunzionenegliaeroportiaskmapssiattiveràautomaticamentedopolatterr",
+  "chatgptorapuòcrearegifanimatedaunafotoounprompteccocomefunziona",
+  "chatgptimages26èarrivatogifanimateeimmaginipiùveloci",
+  "chatgptcreagifanimatedatestoofotocomefunziona",
+  "androidautoegeminilanuovapersonalintelligenceeilnodoprivacy",
+  "chatgptvaleil20dellericerchegooglecosadiceopenai",
+  "googleimponelainellescuoleduckduckgooffreunalternativa",
+  "amdbackedlemonadelocalaiservershipsredesigneddesktopappwebui",
+  "rtxsparklocalaibabystepsandafewsmallvictories",
+  "imeasuredmylocalllmspowerbillanditcostslessthanasingle20chatgptclaudeorgeminisub",
+  "nordiclaunchesnrf71serieschipscuttingstandbypowertoonetwentiethbringingondevicea",
+  "localaiweekly8allyourramarebelongtous",
+  "octionagencylaunchesecosystemfordigitalgrowthandprivateai",
+  "govtechteamsupwithgoogledeepmindtouseondeviceaitodetectscams",
+  "humanreviewpossibleforprivateaichatsacrossmajorplatforms",
+  "ailocaleneipcaziendalilarispostadiasusbusinessperlepmi",
+  "appleportasiriainelleappconios273beta",
+  "privacydelliasullosmartphonequandoidativannonelcloud",
+  "siriaidisponibileperglisviluppatoriappleazioninelleappenuoveskills",
+  "googlemapstrovalastradasuiphoneduosiaggiornaesfruttameglioildisplay",
+  "geminigemsaregoingawaysoonhereshowyoushouldgetready",
+  "iletgeminimanagemydailyprioritiesmyproductivitysurged",
+  "openwebuiv0130",
+  "afteradecadeofreversingigotcoopworkingindoswingcommander",
+  "ibuiltatoolthatpricesaprebuiltpcpartbypart",
+  "kairosopensourceriskandfrauddecisioningplatform",
+  "imonamissiontocreatethebestselfhostedreadingclientalternativetokindleandappleboo",
+  "wentabitnutswithhomepageformyhomelab",
+  "jumpedintotherabbitholewithbothfeetafewweeksagothoroughlyenjoyingmyself",
+  "aptcve2026109518rootviapackagesthatfailsignaturechecksubuntusaystoupdatewithoacq",
+  "bestphotopickerpointitataphotofolderandgetthebestshotsbackallonyourownhardwaremi",
+  "changedetectionioyearlyupdate",
+  "amaintainersadviceoncontributingtoopensourcein2026",
+  "d2webdiabloii113copensourceandplayableinbrowser",
+  "soanyprogressonnewadjustments",
+  "lookingforopensourcevaccum",
+  "istillcantbelievemaintainershavetodealwithshitlikethistoo",
+  "openwebuivslibrechatvsanythingllm3picks2026",
+  "wantcircletosearchonyourandroidphonetrythisopensourcealternative",
+  "revolutsaysselfhostingachinesemodelcutaicodingcostsby90",
+  "revolutswapsclaudecodeforachineseopenweightmodelcuttingitsaicodingbillby90",
+  "revolutcutsaicodingcosts10xwithglm512026",
+  "revolutglmselfhostedaicutscodingcostsby90",
+  "n8nstable",
+  "settinganewstandardforresponsibleaiinfrastructure",
+  "openaitoacquirepierrecomputercompanyinc",
+  "daybreakredisnowavailableinawsgovclouduseast",
+  "athousandfewerpathstoroot",
+  "weresharingourframeworkforbuildingsaferandmorehelpfulaiforhealth",
+  "temporarycarinsurancecomestochatgptascovertimelaunchesinchatquotes",
+  "chatgptnowletsyougenerategifs",
+  "openailaunchesimages26inchatgptcodexandapiaddsgifcreationfeature",
+  "argonfieldnoteslaunchesindependentgemini4guide",
+  "imslaunchesfreeaivisibilityscoreforchatgptrecommendations",
+  "cantonnetworkvalidatorftptechlaunchesmcpserverlinkingchatgptandclaudetoagentwall",
+  "openailauncheschatgptimages25withfastergenerationsharperdetailandpreciseediting",
+  "openailaunchesimages26andaddsgifstochatgpt",
+  "googlelaunchesaibasedshoppingincanadainracetodominateecommerce",
+  "chatgptcannowturnyourphotosintogifsopenairollsoutnewimages26model",
+  "openairollsoutimages26withgifgenerationandupto50fasterimagecreation",
+  "googlelaunchesaishoppingexperienceincanadaandenablesdirectpurchasefromgeminiandt",
+  "anthropicwontfixaclaudedispatchflawthatcouldletattackersexecuteremotecommandsacr",
+  "atopanthropicproductleaderhasbeenpoachedbyopenai",
+  "anthropicloosensgamerestrictions",
+  "anthropiclosesproductleadcatherinewubehindclaudecodetoopenaithedecodercom",
+  "anthropicupdatesclaudesruleoncopyinggames",
+  "addgenepartnerswithanthropictointegrateplasmidcatalogintoclaude",
+  "fy27q1pressreleasesinvestorrelations",
+  "microsoftdelaysdefaultcopilotusagebasedbillingagaincitingpartnerfeedback",
+  "microsoftclarityputsshopifyandwoocommerceproductsincopilotandbing",
+  "microsoftpartnersurgedtomonetisecopilot",
+  "agentsthatarepersistentnewincopilotstudiooctober2026microsoftcopilotblog",
+  "isdeepseekfreewhythereisnopaidplantoupgradeto",
+  "perplexityvschatgptvsgemini3picks2026",
+  "cherysjetourt1launchesinchinafrom12500usdwithdeepseekand150kmelectricrange",
+  "howmuchdoesaicostin2026thecompletepricingcomparison",
+  "applerollsoutbetaupdatewithappleintelligenceforchinesemainlandmarketreceivingmix",
+  "heysiriplugintomyapplikeyousaidyouddowaybackin2024",
+  "claudegrows1260percentbutchatgptstillleads",
+  "macosgoldengateisherebutwhatfeaturesarestillcomingtoyourmac",
+  "acloserlookatphononttslaunchinghighqualityondevicespeechthattopsthebenchmarks",
+  "dharmafieldextractoranydocumentinstructuredfieldsinjsonout",
+  "statebenchtestinghowlanguagemodelstrackstatechangesoverlongdocuments",
+  "bigtechsbigaibuildoutwillnotenduntilsomeonestopsit",
+  "qualcommisbettingbigondatacentersassmartphonesalessink",
+  "17betterwayselonmuskcouldhavewasted446million",
+  "geminiforhomenowplugsintoattssmartsecuritysystem",
+  "nothingteasesascreenfreeaideviceaheadoflaunchnextmonth",
+  "mytherapistthinksishouldchucktheamazonbeefrontieroutawindow",
+  "chatgptwillnowmakeyouanimatedgifs",
+  "datacenterslostthemidterms",
+  "uberonlyfulfilled4ridesfromaiagentslastquarter",
+  "samaltmanaddressesramcommentspeopleshouldputasmuchastheywantintheircomputers",
+  "aycstartupisputting1mbehindfiveunsolvedmaterialsscienceproblemsforai",
+  "agilityisthefirstpurehumanoidrobotcompanyonthestockmarketareyoubuying",
+  "appleisreportedlycuttingbudgetsforitsinternalaiusage",
+  "afterthemidtermsabiggerclashoverdatacenterscouldbecoming",
+  "aipacsspentmillionstryingtoshapecongresshereshowtheyfared",
+  "nothingceosayscompanysmysteriousaifirstdeviceisdroppingnextmonth",
+  "almostnooneusesaiagentstobooktheirubercompanysays",
+  "openaiisalreadytryingtoshapethe2028election",
+  "metaacquiresaicodingstartupconductor",
+  "opensourceaiisboominghuggingfaceexplainswhoprofits",
+  "duckduckgopitchesitselftoschoolsamidbacklashovergooglesaipolicy",
+  "buildingonopensourceaihuggingfacespolicychiefonthecostsrisksandtradeoffs",
+  "agilityroboticsnasdaqdebutinvitesscrutinyofhumanoidrobotmarket",
+  "bigtechclaimsvotersaibacklashisantitrumpnotantitech",
+  "texaswasthenewepicenteroftheaidatacenterbuildoutthatmightbekaput",
+  "securingtheagenticenterprisewithdatalineage",
+  "anthropiclosesproductleadcatherinewubehindclaudecodetoopenai",
+  "chatgptcannowturntextpromptsandphotosintoanimatedgifswithopenaisimages26model",
+  "anthropicstextwatermarkiseasytobypassonseveralolderclaudemodels",
+  "openaiacquirespierrecomputercompanytomakegitkeepupwithaicodingagents",
+  "newopensourcebenchmarkrevealsreasoningasthebiggestbottleneckforaiincloudoperatio",
+  "gpt6astraseesthematrixandreprogramsotheraimodelsdirectlythroughtheirweights",
+  "anthropicsnewprototypeproveswhichmodelwroteanairesponsewithoutexposingitsweights",
+  "exitpollsshowairankedlastamongvoterprioritiesinthe2026usmidterms",
+  "schoolsthatturnoffgooglesaiwilllosesearchtoostartingin2027",
+  "siriaidevelopergemininotebookapiprovableinference",
+  "trumpderisosuisocialvarimemecreaticonlintelligenzaartificiale",
+  "intelligenzaartificialeintrentinoaltoadigeunibzentranelleliasalliance",
+  "uedaprossimoannocertificazioneperstudentisuintelligenzaartificiale",
+  "navimilitarilasfidadelladifesapassadadronieintelligenzaartificiale",
+  "googledisattiveràlintelligenzaartificialeperlescuoleusa",
+  "decarolisceosirtidigitalsolutionslairidisegnaleinfrastrutturecritiche",
+  "wireditalia",
+  "maestridicadutaunostudiogiapponesedescriveneldettagliocomefannoigattiadatterrare",
+  "conluomochefuggìdalfuturogeorgelucas55annifaciregalòungioiellocheètuttodariscopr",
+  "ilcinemaallaprovadellaichifinanziaunfilmsenonsacomeèstatofatto",
+  "claudeharicominciatoacopiareivideogiochipiùomeno",
+  "openaitrova948vulnerabilitàinlinuxconunnuovomodelloai",
+  "esenzionebolloifurbettidellrsquointestazioneaifamiliaricostanofinoa55milioni",
+  "samsungstaperlanciarelaggiornamentobetadioneui95suigalaxys26",
+  "ebayaeicma2026ricambimotoonlinearrivalasoluzioneaiproblemidicompatibilità",
+  "salesforcepuntasullainellapaitalianaeccoalcuniprogettigiàavviati",
+  "amdpotrebbecompiereunimpresastoricagraziealboomdellai",
+  "cieillimitatapergliover70leconseguenzeperglioperatoritelefonici",
+  "anthropiceflashproveprovacrittograficaperimodelliai",
+  "farmaciprogettaticonlaiachepuntosono",
+  "aiolympicsaiagenticaeagentiverticaliingara",
+  "agentiaiperloshoppingamazondifendeilsuomodello",
+  "comecostruireunabancaresilientetradoraaierischiocyber",
+  "chicèdietrogliattacchiaifrigoriferi",
+  "ildebitonascostodellaiperchétagliareicostipuòsvuotarelimpresa",
+  "addestramentoeusodelliaperlattivitàamministrativapareregaranteprivacydb",
+  "intelligenzaartificialenellapailgarantedellaprivacydettalenuoveregole",
+  "dirittodicronacaedignitàdellavittimailgaranteprivacyintervienesulleimmaginidelca",
+  "possiblefalsepositivewavelinkproexemalwareai1879801883",
+  "falsepositivemalwareai2382857856ongnubinutilsarexeranlibexe",
+  "democraticarizonacongresswomantopofthedemocraticagendaonday1needstobeapauseonadv",
+  "chatgptleakedaninternalprompt",
+  "sowhatwillitlooklikein2030",
+  "ithoughtiwasgoingcrazy",
+  "",
+  "ibuiltahyperrealisticfighterjetsimulatorforthebrowserwithopus55anditwentviralont",
+  "askedchatgpttogeneratethemostrealistichamburgercanyouspotsomethingthatstillscrea",
+  "geminisupercuteagain",
+  "deepseekaloneaccountedfor53ofall27trilliontokensonopenrouteryesterdayopenweights",
+  "qwenbelike",
+  "qwen3827bhasbecomeunuseablerecently",
+  "nvidiartxsparkencryptedfirmwareslowsinferencespeedto35onlinux",
+  "ssdmoefinallyviable",
+  "qwen3827bonmylaptopcaninterpretmodelweightstoo",
+  "tipsforcollaboratingwithscientistsandexpertsstéphanehorel",
+  "истории",
+  "2026doubleexposurefestivalinvestigatingkillerslandgrabsandinspirationalcouragein",
+  "astheysayifyourmothertellsyoushelovesyougetasecondsourcenavigatingtheworldofmena",
+  "howsurvivorshelpedthemarshallprojectinvestigateyouthresidentialtreatmentcenters",
+  "goodsqclaunchesstreamlinedqcverificationtooltoempoweroverseasbuyerssourcingfromc",
+  "klarnaexpandscallverificationtooltoall26markets",
+  "bestreverseimagesearchappsforiphoneandandroid",
+  "videofromgujaratfalselysharedasoneofdelhipoliceprotestingatpolicehq",
+  "indiablocrallypolicefiringkills4congworkersnounrelatedvideosviralwithfalseclaim",
+  "aircraftnoiserevealswhereavideowasfilmedtowithin100meters",
+  "spiderfootinkalilinuxosintreconnaissanceipgeolocationtutorialspiderfoot",
+  "festiveshoppingscamstakeanewturnas24lakhfakeassetstargetoneindianbank",
+  "ilrumoredegliaereisveladovehaigiratounvideofinoa100metri",
+  "latecnologiaildigitalelaiilgiornalismomodernoemoltoaltroalviailminidigitalfestiv",
+  "lerisorsecondivisedelmercosursovranitàfluvialepescaecooperazioneambientaletrapar",
+  "lacriminalitàminorilenonèlemergenzacheciraccontiamo",
+  "netanyahustadelegittimandoilvotoaraboconaccusediinterferenzestraniereecomplottis",
+  "legittohalanciatounchatbotiadifactcheckingbasatosuinformazioniapprovatedallostes",
+  "episode25discgolfappstrackingaircraftandsearchingwithfofa",
+  "theosintnewsletterissue128",
+  "raieidmocrescelimpegnocontroladisinformazioneo",
+  "acousticgeolocation",
+  "eusatelliteimagerydelayedovergazaandpartsofwestbankby24hours",
+  "opencorporatespaywalledtheirapievenplainsearchwroteafreegleifbasedreplacement",
+  "careerchangelanguagestoosintcorporateintelligence",
+  "defcon33talkprettygoodprivacyexaminingthepgpkeypaircreationhabitsofdarknetvendor",
+  "criminalarrestwarrantforosinttrolljessenickles"
+ ],
+ "audio": "audio/2026-11-05.mp3",
+ "durata": 190.4
+}
