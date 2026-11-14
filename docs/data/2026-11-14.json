@@ -179,6 +179,43 @@
    "categoria": "Testate tech",
    "id": "a121",
    "testo_completo": true
+  },
+  "u1a58": {
+   "titolo": "Live map of U.S. flights during tonight's FAA nationwide ground stop",
+   "link": "https://grounds.top/",
+   "data": "2026-11-13T23:17:39+00:00",
+   "testo": "grounds.top: FAA nationwide ground stop, Nov 13, 2026 Now—airline flights in the airin the air—of normal departuresof normal departures—departures missed since 3:30 pmdepartures missed Loading—--:--:-- Eastern On Nov 13, 2026 the FAA ordered a ground stop at every U.S. airport at 3:54 PM ET. This page shows tracked flights over the U.S., live and replayable, against the same time a week earlier. Live— ET— grounds.top Commercial flights: Airport departures, last 30 min vs a week earlier: Hold Ctrl and scroll to zoom Loading flight history… Commercial flights: Airport departures, last 30 min vs a week earlier: Rotate your phone for a bigger map Commercial flights airborne — — Missing from the sky — flights that were airborne at this time last Friday Airliners climbing out — — Departures missed since 3:30 pm (est.) — — Flight positions: adsb.fi community ADS-B network. Airport delay feed: FAA NAS Status. An independent, unofficial page, not affiliated with the FAA. Hover or tap a dot to identify the aircraft. Jump toor drag the timeline The shutdown so far Read from the tracking data, not from official announcements. Times are Eastern. Recovery by airport Departures in the 30 minutes before the selected time, as a share of the same half-hour a week earlier, at the 16 largest airports. An airport counts as back once it holds three-quarters of its usual departures for two readings in a row. Departure backlog by airport Estimated commercial departures missed since 3:30 pm ET: the count for the same hours a week earlier minus this week's, from tracking data. On the right, how many left, out of the number a week earlier. Dot: departures in the last 30 minutes (red almost none, amber reduced, green near normal). Airborne by carrier Aircraft in the air at the selected time. The …",
+   "sito": "https://grounds.top/",
+   "fonte": "Show HN – progetti utili (gemme)",
+   "tipo": "vetrina",
+   "solo_titolo": false,
+   "categoria": "Gemme",
+   "id": "u1a58",
+   "testo_completo": true
+  },
+  "u1a59": {
+   "titolo": "Isometric SF – A pixel-art map of the SF Bay Area",
+   "link": "https://isometricsf.com/",
+   "data": "2026-11-13T17:58:37+00:00",
+   "testo": "Technical Write-up: https://www.justinchavez.com/blog/isometric-sf-how/ Hi HN! Showcasing this fun project. I took 1300 square miles of the SF Bay Area from Google Photorealistic 3D Tiles and transformed them into a cohesive pixel map. It's really fun to explore and stumble upon various famous landmarks like Apple Park, Palace of Fine Arts, or UC Berkeley. The technicals involve using Nano Banana…",
+   "sito": "https://isometricsf.com/",
+   "fonte": "Show HN – progetti utili (gemme)",
+   "tipo": "vetrina",
+   "solo_titolo": false,
+   "categoria": "Gemme",
+   "id": "u1a59"
+  },
+  "u1a4": {
+   "titolo": "Businesses in ChatGPT",
+   "link": "https://www.producthunt.com/products/openai",
+   "sito": "https://www.producthunt.com/r/p/1315068?app_id=339",
+   "data": "2026-11-13T00:53:51-08:00",
+   "testo": "Help customers discover your business through ChatGPT",
+   "fonte": "Product Hunt (AI)",
+   "tipo": "vetrina",
+   "solo_titolo": false,
+   "categoria": "Strumenti",
+   "id": "u1a4"
   }
  },
  "fonti": [
@@ -694,8 +731,174 @@
   "howtoimprovedocumentationandreliabilityofinfowhenyouhavenooutsidefeedback",
   "skiptracingin2026howmuchcanyoustilldofromadeskvsinthefield",
   "darksidedatabase",
-  "osintofthailand"
+  "osintofthailand",
+  "tabletopbygooglelabs",
+  "geminirobotics25",
+  "thunder",
+  "businessesinchatgpt",
+  "wakeosnewaitoolgradescarriersondeliveryrecordbeforefreighttenders",
+  "topaicontentcreationtoolsplatforms2026freepaid",
+  "googlehasitsownpairofsmartglassespoweredbygooglesaiassistantgeminiandtheyreimpre",
+  "presentatoilmanifestoranaissance",
+  "voliusabloccatitregiorniprimalafaaavevaestesolintelligenzaartificialeatuttoilpae",
+  "mousepodsovverocomeusareleairpods3sulinuxcomemouse",
+  "openaistartslocalaiprocessinginindiatohelpbusinesses",
+  "pieceslivellodimemoriasuldispositivoeassistenteiaperilcontesto",
+  "quandointernetsifermaimessaggiviaggianoviaradio",
+  "doomscrollingleappcheaiutanoainterrompereloscorrimentocontinuo",
+  "iwantedanexcuseformyslowstravarunsbutgeminigavemearealitycheckinstead",
+  "googlesandroidxrsmartglasseswillhidefacesfromgeminiandbanrealtimefacialrecogniti",
+  "livemapofusflightsduringtonightsfaanationwidegroundstop",
+  "isometricsfapixelartmapofthesfbayarea",
+  "agentrunopensourceselfimprovingmanagedagents",
+  "my300embroiderymachineneededasubscriptionsoibuiltmyownapp",
+  "tryingtoknowwhensomethingathomegoesdownbeforeanyonenoticesselfhostedoptions",
+  "nextcloudsneweuroofficedesktopappletsyoueditmicrosoftofficeandodffileslocally",
+  "claudemeetingslaunchesinbetabringingclaudeintogooglemeetcalls",
+  "anthropiclaunchesprivatebetaforselfhostedclaudemanagedagents",
+  "federalreserveannounces2027paymentservicepricingandcheckservicechanges",
+  "claudelauncheswhiteboardssheetsanddata",
+  "openailauncheschatgptwalletforaiagentledshopping",
+  "whatyouneedtoknowaboutclaudesmakeranthropicipo",
+  "microsoftoutagehealthcareimpact70countrieshit",
+  "microsoftworkstorestoreoutlookteamsandcopilotafterglobaloutagein74countrieswhat2",
+  "deepseekopensitsappfeaturesthroughtheapi",
+  "howmuchdoesaicostin2026thecompletepricingcomparison",
+  "exfbiagentsteals25mincryptogrokappdataexposuresandmorecybersecuritynews",
+  "jensenhuangandthedeclineofthevisionaryshowmanfounderceo",
+  "openaireassignsroboticsresearcherstootherteamsasgeneralpurposemodelsmightmakespe",
+  "anthropiccanalreadyretrainmythoswithafractionofthecomputeoriginallyneededsaysfor",
+  "runwaysopensourcepraxis1turnsvideoaiintoarobotcontroller",
+  "creactivesvialiberaadaumentodicapitaleinopzionefinoa244milionidieuro",
+  "hocreatounappandroidconunagenteailapkprendeformaparte2",
+  "cherokeedel03994bocciataallarevisionerisoltoilproblemagrazieall039ai",
+  "amazonvuolecatalogaretuttiiprodottidelmondoconlai",
+  "chatgptorapuòfareacquisticonlatuacartadicredito",
+  "contentmarketingeaicomeconquistarelutentedigitale",
+  "ilgarantedellaprivacysanzionametaper805milionidieuro",
+  "sawotherstryitsoididtoo",
+  "worthashot",
+  "bruh",
+  "psausingfableasanadvisordoesnttouchyourfableweeklylimit",
+  "hydrogenisbestmodelfordailyuseonmarketrightnowifyoucomparespeedendtoendtasktoken",
+  "nvidialeaksconfirmed",
+  "weightspaceprogrammingforquantizationnacequantsachieveupto2xbetterkldivergencefo",
+  "cxmtalmosttriplingramproductionfrom2025to2028",
+  "stories",
+  "ijspotlightrussiasanctions",
+  "mattarellalasanitàpubblicaèlaprioritàassoluta"
  ],
  "audio": "audio/2026-11-14.mp3",
- "durata": 90.5
+ "durata": 124.1,
+ "aggiornamenti": [
+  {
+   "generato": "2026-11-14T12:22:51+00:00",
+   "modello": "gemini-3.6-flash",
+   "testi_completi": 3,
+   "riassunto": {
+    "titolo_giorno": "Visibilità aziendale su ChatGPT e tracciamento aereo con grounds.top",
+    "in_breve": "Nell'aggiornamento di oggi scopriamo Businesses in ChatGPT, una nuova vetrina per far trovare la propria attività commerciali nelle ricerche degli utenti con l'AI. Sul fronte dell'analisi dei dati aperti, grounds.top offre una mappa interattiva per monitorare i voli e le emergenze aeree.",
+    "citati": [
+     "Businesses in ChatGPT",
+     "grounds.top"
+    ],
+    "da_provare": [
+     {
+      "cosa": "Businesses in ChatGPT",
+      "a_cosa_serve": "Permette a professionisti e piccole attività di farsi trovare dalle persone che utilizzano ChatGPT per cercare servizi e raccomandazioni.",
+      "per_chi": "Lavoro",
+      "ambito": "Lavoro e organizzazione",
+      "come_iniziare": [],
+      "costo": "Non indicato",
+      "piattaforme": [
+       "Browser"
+      ],
+      "sul_dispositivo": false,
+      "come_sfruttarla": "Intercettare nuovi potenziali clienti direttamente mentre usano l'assistente per cercare prodotti o servizi vicini a loro.",
+      "italiano": "Non indicato",
+      "difficolta": "Facile",
+      "temi": [
+       "Lavoro e produttività",
+       "Assistenti e chatbot"
+      ],
+      "fonti": [
+       "u1a4"
+      ],
+      "affidabilita": "Appena lanciato",
+      "prova": "https://www.producthunt.com/products/openai"
+     }
+    ],
+    "osint": [
+     {
+      "cosa": "grounds.top",
+      "a_cosa_serve": "Mostra in tempo reale sulla mappa i voli in rotta e le cancellazioni o blocchi aerei negli Stati Uniti attingendo alla rete aperta ADS-B.",
+      "uso": "Navi e aerei",
+      "piattaforme": [
+       "Browser"
+      ],
+      "costo": "Gratis",
+      "difficolta": "Facile",
+      "come_sfruttarla": "Verificare lo stato del traffico aereo e l'eventuale blocco improvviso dei voli in caso di emergenze dei trasporti.",
+      "temi": [
+       "OSINT e verifica"
+      ],
+      "fonti": [
+       "u1a58"
+      ],
+      "affidabilita": "Appena lanciato",
+      "come_iniziare": [],
+      "sul_dispositivo": false,
+      "prova": "https://grounds.top/"
+     }
+    ],
+    "gemme": [
+     {
+      "cosa": "Isometric SF",
+      "a_cosa_serve": "Una mappa interattiva dell'area di San Francisco in grafica pixel-art, ricavata elaborando i dati 3D fotorealistici di Google.",
+      "perche_gemma": "Trasforma enormi volumi di dati geografici in un'esperienza visiva fluida ed esplorabile via browser.",
+      "con_ai": "",
+      "piattaforme": [
+       "Browser"
+      ],
+      "self_hosted": false,
+      "costo": "Gratis",
+      "difficolta": "Facile",
+      "temi": [
+       "Ricerca e informazioni",
+       "Foto e immagini"
+      ],
+      "fonti": [
+       "u1a59"
+      ],
+      "affidabilita": "Appena lanciato",
+      "come_iniziare": [],
+      "sul_dispositivo": false,
+      "come_sfruttarla": "",
+      "prova": "https://isometricsf.com/"
+     }
+    ],
+    "sezioni": [],
+    "formato": 2,
+    "controllo_siti": [
+     {
+      "cosa": "Businesses in ChatGPT",
+      "sito": "https://www.producthunt.com/r/p/1315068?app_id=339",
+      "esito": "errore: HTTP Error 403: Forbidden"
+     },
+     {
+      "cosa": "grounds.top",
+      "sito": "https://grounds.top/",
+      "pagina": 122876,
+      "trovate": []
+     },
+     {
+      "cosa": "Isometric SF",
+      "sito": "https://isometricsf.com/",
+      "pagina": 16790,
+      "trovate": []
+     }
+    ]
+   }
+  }
+ ]
 }
