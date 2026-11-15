@@ -242,6 +242,18 @@
    "solo_titolo": true,
    "categoria": "Strumenti",
    "id": "u1a40"
+  },
+  "u2a60": {
+   "titolo": "Vortix - Terminal UI for WireGuard and OpenVPN with real-time telemetry and leak guarding",
+   "link": "https://www.reddit.com/r/selfhosted/comments/1xwy0n2/vortix_terminal_ui_for_wireguard_and_openvpn_with/",
+   "sito": "",
+   "data": "2026-11-15T15:17:49+00:00",
+   "testo": "A terminal app to run WireGuard, OpenVPN and NetBird tunnels side by side. It shows live throughput and latency, checks for IP/DNS leaks, and has a kill switch. macOS and Linux. brew install vortix · https://github.com/Harry-kp/vortix submitted by /u/harryykp [link] [comments]",
+   "fonte": "Reddit r/selfhosted",
+   "tipo": "community",
+   "solo_titolo": false,
+   "categoria": "Gemme",
+   "id": "u2a60"
   }
  },
  "fonti": [
@@ -780,10 +792,46 @@
   "atleast30explosionsreportedinsuspectedattackonrussiasakhtubinskairfield",
   "noquestononèlattentatoredicracoviachepartecipaaunamanifestazioneantirazzista",
   "barachinisullaiservonoregoleglobalieunintesatraigrandi",
-  "psaamassv5saltsandbruteflagsaresilentnoopsandyourdatasourcesyamlisprobablycostin"
+  "psaamassv5saltsandbruteflagsaresilentnoopsandyourdatasourcesyamlisprobablycostin",
+  "ukgovtsayspmsspeechesaremostlyallhisownwork",
+  "anthropiccutsapipricesby20andlaunchesfableandmythos52",
+  "microsoftannouncesservicerestoredglobaloutageover",
+  "lintelligenzaartificialeèdiventataunabollettamachilapagheràaimedicieagliinfermie",
+  "tumoredelpolmoneperchélintelligenzaartificialepuòaiutareaindividuarelacura",
+  "skindifortnitegeneratoredimmaginiaiperpersonaggidifortnite",
+  "chatgptwalletpartedaglistatiuniticomesiapprovanogliacquistieperchénonèdisponibil",
+  "nubianeo5gtspecialeditiondisponibileinitaliadoppiosistemadiraffreddamentopergioc",
+  "obscurifyaiimplementsunlinkableinferenceandblindsignaturesforprivateaiaccess",
+  "gigabyteaitopaerolocalaidesktopannounced",
+  "microsoftedgesaysitmaydownloadandrungenerativeaimodelsonyourdevice",
+  "quandointernetsifermaimessaggiviaggianoviaradio",
+  "ireplacedlearningappswithgeminiguidedlearningitremembersmyprogressandadaptstomyp",
+  "twomonthsinstillextremelyhappywithselfhostingmyownai",
+  "vortixterminaluiforwireguardandopenvpnwithrealtimetelemetryandleakguarding",
+  "howtoprovidesecurebootstrapaccessintheeventofatotalloss",
+  "adjustmentnewprojectshowcaserecurringthread",
+  "ireplacedgithubwithafreeselfhostedalternativehereswhatigainedandlosthowtogeek",
+  "digitadlauncheschatgptadsservicesunlockingnewadvertisingopportunitiesforcanadian",
+  "openailauncheschatgptwalletlettingaiagentspayforpurchases",
+  "makeandupdatelaunchesgptbusinesstohelpsmallbusinessesclaimtheirbusinessinchatgpt",
+  "chatgptcannowletaiagentspaywithoutseeingyourcard",
+  "anthropicsclaudefable52doesntgenerateimagesitpaintsthem",
+  "microsoftservicerestoredafterwidespreadoutagecompanysays",
+  "ibmandmicrosoftsimagineenterprisestartswithmorethan6000prebuiltaiagentsandassets",
+  "whyagalaxyaipaywallwoulddrivemeawayfromsamsungsaifeatures",
+  "grokaipredictshowlowxrpcouldfallbeforeyearend",
+  "anoverviewofjensenhuangsmessydays",
+  "tornailrewritersfestromanellieventotrasversaletraistituzionieculturapop",
+  "geminiaccedeagooglewalletperlanalisidellespese",
+  "muskvuoleilritornodijensenhuangallaguidadinvidia",
+  "geminiargonhighresponse",
+  "dontworryourjobsaresafe",
+  "jensenhuangjust3weeksagoclaimedtohavesavedtheworldbythwartingagrowingtransnation",
+  "intatarstandronesattackoneofrussiaslargestpetrochemicalplants",
+  "mattarelladifendeivaccinimaggioranzadivisasuimedicinovax"
  ],
  "audio": "audio/2026-11-15.mp3",
- "durata": 133.8,
+ "durata": 150.4,
  "aggiornamenti": [
   {
    "generato": "2026-11-15T12:52:37+00:00",
@@ -910,6 +958,55 @@
       "cosa": "Canvas by AgentGrid.io",
       "sito": "https://www.producthunt.com/r/p/1317198?app_id=339",
       "esito": "errore: HTTP Error 403: Forbidden"
+     }
+    ]
+   }
+  },
+  {
+   "generato": "2026-11-15T16:26:59+00:00",
+   "modello": "gemini-3.6-flash",
+   "testi_completi": 3,
+   "riassunto": {
+    "titolo_giorno": "Vortix: controllo e sicurezza per le tue connessioni VPN da terminale",
+    "in_breve": "In questo aggiornamento della giornata non ci sono nuovi strumenti AI idonei da segnalare, ma la gemma del giorno è Vortix, un'utilità open source per gestire al meglio le proprie VPN. Risulta ideale per proteggere la propria privacy e il proprio indirizzo IP durante le sessioni di lavoro online.",
+    "citati": [
+     "Vortix"
+    ],
+    "da_provare": [],
+    "osint": [],
+    "gemme": [
+     {
+      "cosa": "Vortix",
+      "a_cosa_serve": "Un'applicazione da terminale che consente di gestire affiancate le connessioni VPN WireGuard, OpenVPN e NetBird con monitoraggio del traffico in tempo reale.",
+      "perche_gemma": "È gratuita e open source, con funzioni integrate per verificare perdite di IP e DNS e un pulsante di blocco automatico della connessione.",
+      "con_ai": "Utile per tutelare l'indirizzo IP e la riservatezza delle proprie ricerche quando si interagisce con servizi e modelli AI sul web.",
+      "piattaforme": [
+       "Mac",
+       "Linux"
+      ],
+      "self_hosted": true,
+      "costo": "Gratis",
+      "difficolta": "Media",
+      "temi": [
+       "Privacy e sicurezza",
+       "Open source e self-hosting"
+      ],
+      "fonti": [
+       "u2a60"
+      ],
+      "affidabilita": "Da verificare",
+      "come_iniziare": [],
+      "sul_dispositivo": false,
+      "come_sfruttarla": "",
+      "prova": ""
+     }
+    ],
+    "sezioni": [],
+    "formato": 2,
+    "controllo_siti": [
+     {
+      "cosa": "Vortix",
+      "esito": "nessun sito da aprire"
      }
     ]
    }
