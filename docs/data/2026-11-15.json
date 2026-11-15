@@ -254,6 +254,18 @@
    "solo_titolo": false,
    "categoria": "Gemme",
    "id": "u2a60"
+  },
+  "u3a13": {
+   "titolo": "Spacebin: a lightweight, self-hosted pastebin server in Go (JS-free, encrypted pastes)",
+   "link": "https://www.reddit.com/r/selfhosted/comments/1xx3f8c/spacebin_a_lightweight_selfhosted_pastebin_server/",
+   "sito": "",
+   "data": "2026-11-15T18:51:15+00:00",
+   "testo": "Hi all, I wanted to share a project I've been working on for a while: an open-source pastebin server written in Go. It started as a hastebin fork, but I slowly rewrote everything in Go and added a bunch more for features. I started building it after hastebin fell into a state of disrepair because I wanted something with a clean UI that was easy to use and reliable. It's a single binary or Docker …",
+   "fonte": "Reddit r/selfhosted",
+   "tipo": "community",
+   "solo_titolo": false,
+   "categoria": "Gemme",
+   "id": "u3a13"
   }
  },
  "fonti": [
@@ -828,10 +840,18 @@
   "dontworryourjobsaresafe",
   "jensenhuangjust3weeksagoclaimedtohavesavedtheworldbythwartingagrowingtransnation",
   "intatarstandronesattackoneofrussiaslargestpetrochemicalplants",
-  "mattarelladifendeivaccinimaggioranzadivisasuimedicinovax"
+  "mattarelladifendeivaccinimaggioranzadivisasuimedicinovax",
+  "karakeep035releasesecuritypolishand30kstars",
+  "spacebinalightweightselfhostedpastebinserveringojsfreeencryptedpastes",
+  "aregithubprojectsbecomingmoreshortlived",
+  "jensenhuangmightbeplottingareturnandmoreofthelatestnvidiadrama",
+  "congresswantstotightenexportrulesonaichipsafternvidiaspyscandal",
+  "snlgathersallthetechtycoonsforalessonindatingandspycraft",
+  "thisnewbenchmarkiscrazy",
+  "rasawillcausetotalchaostoopenllmsandbeyond"
  ],
  "audio": "audio/2026-11-15.mp3",
- "durata": 150.4,
+ "durata": 166.0,
  "aggiornamenti": [
   {
    "generato": "2026-11-15T12:52:37+00:00",
@@ -1006,6 +1026,53 @@
     "controllo_siti": [
      {
       "cosa": "Vortix",
+      "esito": "nessun sito da aprire"
+     }
+    ]
+   }
+  },
+  {
+   "generato": "2026-11-15T21:46:55+00:00",
+   "modello": "gemini-3.8-flash",
+   "testi_completi": 2,
+   "riassunto": {
+    "titolo_giorno": "Spacebin: appunti e testi cifrati sul proprio server",
+    "in_breve": "In questo aggiornamento spicca Spacebin, una soluzione open source pensata per archiviare e condividere testi in modo del tutto autonomo e crittografato. Conferma l'attenzione verso strumenti leggeri e orientati alla privacy, utili per salvare note e prompt senza affidarsi a piattaforme terze.",
+    "citati": [
+     "Spacebin"
+    ],
+    "da_provare": [],
+    "osint": [],
+    "gemme": [
+     {
+      "cosa": "Spacebin",
+      "a_cosa_serve": "Permette di gestire un servizio personale per salvare e condividere testi o note con crittografia e senza fare uso di JavaScript.",
+      "perche_gemma": "È open source, leggero, protegge i contenuti con cifratura e si installa tramite un singolo file binario o container Docker.",
+      "con_ai": "Permette di archiviare e scambiare in sicurezza prompt e risposte generati dall'AI evitando server di terze parti.",
+      "piattaforme": [],
+      "self_hosted": true,
+      "costo": "Gratis",
+      "difficolta": "Media",
+      "temi": [
+       "Privacy e sicurezza",
+       "Open source e self-hosting",
+       "Scrittura e documenti"
+      ],
+      "fonti": [
+       "u3a13"
+      ],
+      "affidabilita": "Da verificare",
+      "come_iniziare": [],
+      "sul_dispositivo": false,
+      "come_sfruttarla": "",
+      "prova": ""
+     }
+    ],
+    "sezioni": [],
+    "formato": 2,
+    "controllo_siti": [
+     {
+      "cosa": "Spacebin",
       "esito": "nessun sito da aprire"
      }
     ]
