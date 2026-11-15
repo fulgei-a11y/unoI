@@ -1,0 +1,675 @@
+{
+ "giorno": "2026-11-15",
+ "generato": "2026-11-15T05:30:55+00:00",
+ "modello": "gemini-3.6-flash",
+ "testi_completi": 20,
+ "riassunto": {
+  "titolo_giorno": "ChatGPT Wallet porta gli acquisti automatici negli agenti AI e llama.cpp raggiunge la versione 1.0",
+  "in_breve": "La novità principale riguarda ChatGPT Wallet, la funzione che consente agli agenti di ChatGPT di effettuare acquisti per conto degli utenti senza mostrare i dati reali della carta di credito. Sul fronte dell'AI locale, il progetto open source llama.cpp consolida la sua struttura per eseguire modelli di intelligenza artificiale direttamente sul proprio computer in totale privacy.",
+  "citati": [
+   "ChatGPT Wallet",
+   "ChatGPT",
+   "llama.cpp"
+  ],
+  "da_provare": [],
+  "osint": [],
+  "gemme": [
+   {
+    "cosa": "Postfalcon",
+    "a_cosa_serve": "Un'applicazione open source per programmare e gestire la pubblicazione dei contenuti sui social media da installare sul proprio server.",
+    "perche_gemma": "È leggera, totalmente gratuita, rispetta la privacy e richiede pochissime risorse di sistema.",
+    "con_ai": "Si può affiancare a script di intelligenza artificiale per generare e pianificare automaticamente i post sui social.",
+    "piattaforme": [
+     "Browser"
+    ],
+    "self_hosted": true,
+    "costo": "Gratis",
+    "difficolta": "Media",
+    "temi": [
+     "Open source e self-hosting",
+     "Lavoro e produttività"
+    ],
+    "fonti": [
+     "a61"
+    ],
+    "affidabilita": "Da verificare",
+    "come_iniziare": [],
+    "sul_dispositivo": false,
+    "come_sfruttarla": "",
+    "prova": ""
+   },
+   {
+    "cosa": "llama.cpp",
+    "a_cosa_serve": "Un software open source che permette di eseguire modelli di intelligenza artificiale direttamente sul proprio computer senza connessione a Internet.",
+    "perche_gemma": "È gratuito, altamente ottimizzato, permette l'uso completo offline e garantisce la massima privacy dei dati.",
+    "con_ai": "Funge da motore principale per far girare modelli linguistici locali su PC e Mac.",
+    "piattaforme": [
+     "Windows",
+     "Mac",
+     "Linux"
+    ],
+    "self_hosted": true,
+    "costo": "Gratis",
+    "difficolta": "Media",
+    "temi": [
+     "Open source e self-hosting",
+     "AI sul dispositivo"
+    ],
+    "fonti": [
+     "a107"
+    ],
+    "affidabilita": "Fonte ufficiale",
+    "come_iniziare": [],
+    "sul_dispositivo": false,
+    "come_sfruttarla": "",
+    "prova": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+    "piattaforme_verificate": true
+   }
+  ],
+  "sezioni": [
+   {
+    "titolo": "Novità negli strumenti che già usi",
+    "notizie": [
+     {
+      "titolo": "Arriva ChatGPT Wallet per effettuare acquisti tramite gli agenti AI",
+      "strumento": "ChatGPT",
+      "riassunto": "OpenAI ha introdotto ChatGPT Wallet, una funzione che permette agli agenti AI dell'assistente di effettuare acquisti online per conto dell'utente. I dati reali della carta non vengono condivisi con i venditori e ogni transazione richiede una conferma biometrica tramite Face ID o impronta digitale.",
+      "come_provarla": "Gli utenti abbonati al piano Pro negli Stati Uniti possono collegare una carta di credito compatibile nelle impostazioni del portafoglio.",
+      "disponibilita": "In arrivo",
+      "fonti": [
+       "a111",
+       "a135",
+       "a139"
+      ],
+      "temi": [
+       "Assistenti e chatbot",
+       "Lavoro e produttività",
+       "Agenti AI"
+      ],
+      "affidabilita": "Confermata",
+      "solo_titoli": false
+     },
+     {
+      "titolo": "Gestione integrata dei crediti cloud nel workspace",
+      "strumento": "Google AI Studio",
+      "riassunto": "Google ha integrato la gestione dei crediti mensili di Google Cloud direttamente all'interno dell'interfaccia di Google AI Studio. Gli abbonati ai piani Google AI Pro e Ultra possono riscattare e monitorare il proprio saldo crediti senza dover cambiare sito o piattaforma.",
+      "come_provarla": "Accedendo al proprio profilo workspace direttamente all'interno di Google AI Studio.",
+      "disponibilita": "Disponibile ora",
+      "fonti": [
+       "a72"
+      ],
+      "temi": [
+       "Assistenti e chatbot",
+       "Lavoro e produttività"
+      ],
+      "affidabilita": "Fonte ufficiale",
+      "solo_titoli": false
+     }
+    ]
+   }
+  ],
+  "formato": 2,
+  "controllo_siti": [
+   {
+    "cosa": "Postfalcon",
+    "esito": "nessun sito da aprire"
+   },
+   {
+    "cosa": "llama.cpp",
+    "sito": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+    "pagina": 299280,
+    "trovate": [
+     "Mac"
+    ]
+   }
+  ]
+ },
+ "articoli": {
+  "a135": {
+   "titolo": "ChatGPT Wallet: gli agenti AI effettuano acquisti",
+   "link": "https://www.punto-informatico.it/chatgpt-wallet-agenti-ai-effettuano-acquisti/",
+   "data": "2026-11-13T17:27:46+00:00",
+   "testo": "OpenAI ha annunciato ChatGPT Wallet. È una funzionalità che permette agli agenti AI (dots) dell’azienda californiana di effettuare acquisti per conto degli utenti (solo maggiorenni), senza accedere ai dati della carta di credito. Sarà inizialmente disponibile negli Stati Uniti per gli abbonati con piano ChatGPT Pro. Funzionerà anche su Amazon? OpenAI sottolinea che oltre 1,2 miliardi di persone usano ChatGPT ogni settimana. In molti casi, il chatbot viene sfruttato per cercare prodotti, confrontare le opzioni e decidere cosa acquistare. ChatGPT Wallet consente ora di completare gli acquisti tramite gli agenti dots. La funzionalità è stata sviluppata in collaborazione con American Express, Mastercard e Visa. L’azienda californiana evidenzia è però che alcuni siti web potrebbero bloccare gli agenti AI (intenzionalmente o inavvertitamente) e i sistemi di pagamento e di gestione del rischio potrebbero non riconoscere come legittimi gli acquisti effettuati dagli agenti. Amazon ha infatti bloccato Meta Muse, ufficialmente perché non è previsto dalle condizioni d’uso del servizio. In realtà, gli utenti devono usare Alexa for Shopping. Casualmente, l’agente AI usato come esempio da OpenAI si chiama Rufus, antenato di Alexa for Shopping. Gli utenti devono ovviamente aggiungere una carta di credito (solo la prima volta). Prima di ogni transazione verificano gli articoli, l’importo totale e la carta selezionata, quindi confermano l’operazione tramite Face ID o impronta digitale. Dopo l’approvazione, il circuito di pagamento fornisce un token, ovvero un sostituto virtuale della carta con numero, codice di sicurezza e data di scadenza. L’importo viene addebitato sulla carta senza che ChatGPT Wallet condivida i dati effettivi di pagamento con l’attività commerciale o l’agente. In fu…",
+   "fonte": "Punto Informatico",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Italia",
+   "id": "a135",
+   "testo_completo": true
+  },
+  "a107": {
+   "titolo": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+   "link": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+   "data": "2026-11-13T14:05:22+00:00",
+   "testo": "llama.cpp makes it possible to run multi-modal LLMs across a wide range of hardware - from consumer-grade local machines to high-end enterprise servers. Through quantization, optimized backends, and a portable C/C++ implementation, we make AI inference accessible at every level of the software stack. We believe this is the most lightweight, versatile and sensible platform for building cross-platform and private AI products. During the 3.5 years since its inception, the project has grown a lot and many downstream applications already depend on our work. We expect this trend to continue as local AI and privacy become increasingly important in our everyday lives. Every new integration means more developers depending on our library interfaces and therefore having a flexible but stable API is paramount. Today we release libraries v1.0.0, highlighting our responsibility to those developers. Moving forward, both llama.cpp and ggml will reflect API and ABI incompatibilities with major-version bumps. As adoption grows, we will be stricter about making those boundaries visible to downstream consumers. The following rules apply to all ggml-org projects using semantic versioning: We are looking forward to expanding the ways in which ggml-org software is distributed and reaches developers and end-users. For more information about how to add ggml-org projects to your packaging and release pipelines, please check the following discussion. The project has fostered an amazing open-source community with highly-skilled and talented contributors. With the rapid advance of AI capabilities in the field of software engineering, we continue to adapt and integrate LLMs in our developement cycle in a thoughtful and resonable manner. Maintaining a high quality codebase, staying in control of the…",
+   "fonte": "Hugging Face (modelli e strumenti aperti)",
+   "tipo": "ufficiale",
+   "solo_titolo": false,
+   "categoria": "Laboratori",
+   "id": "a107",
+   "testo_completo": true
+  },
+  "a61": {
+   "titolo": "Postfalcon: a lightweight self-hosted social media scheduler (AGPL, one-command Docker install)",
+   "link": "https://www.reddit.com/r/selfhosted/comments/1xw25ir/postfalcon_a_lightweight_selfhosted_social_media/",
+   "sito": "",
+   "data": "2026-11-14T13:15:28+00:00",
+   "testo": "Hey everyone, I've been building a social media scheduler that is fast and easy to run yourself. I know there are a bunch of these things already but I wanted one that worked on a machine with tight hardware resources, so like limited CPU/RAM (so I could run it on a cheap VPS or small arm board like silent lower powered device) and it's at a point where it would be cool to get some feedback from …",
+   "fonte": "Reddit r/selfhosted",
+   "tipo": "community",
+   "solo_titolo": false,
+   "categoria": "Gemme",
+   "id": "a61"
+  },
+  "a111": {
+   "titolo": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
+   "sito": "",
+   "data": "2026-11-13T15:45:10-05:00",
+   "testo": "After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting today for ChatGPT Pro subscribers in the US aged 18 and older using a US billing address and “eligible US-issued American Express, Chase, Mastercard and Visa cards.” ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you OpenAI says ChatGPT Wallet won’t share your actual credit card info with its AI agents. After adding a card to the wallet, your Dots agents can use it to buy things in response to your prompts, but they’ll check in with you each time before checking out. OpenAI’s support page says every purchase with ChatGPT Wallet requires a security check with biometric verification like Face ID or a fingerprint scan. After you review the AI agent’s purchase and sign off on it, OpenAI says that, similar to using tap to pay, Apple Pay, or Google Wallet, it substitutes your credit card details with a payment token, so your actual card info isn’t shared with your Dots agent or the business you’re buying from. Eventually, OpenAI says it expects “users to be able to delegate purchases entirely to their agent by setting clear parameters—such as spending limits, purchase categories, or time periods—and pre-approve those purchases.” ChatGPT Wallet might not work everywhere. Some retailers have restrictions on AI agents or block them altogether. Earlier this year, Amazon blocked Meta’s Muse agents. OpenAI says that in order for agents to use ChatGPT Wallet, “websites need to ensure agents are not inadvertently blocked, and payment and risk systems need to recognize legitimate purchases made by agents.”",
+   "fonte": "The Verge",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Testate tech",
+   "id": "a111",
+   "testo_completo": true
+  },
+  "a72": {
+   "titolo": "Claim your Google Cloud Credits in Google AI Studio",
+   "link": "https://blog.google/innovation-and-ai/technology/developers-tools/google-cloud-credits-gdp-ai-studio/",
+   "data": "2026-11-13T20:30:00+00:00",
+   "testo": "Claim your Google Cloud Credits in Google AI Studio When you’re deep in a session in Google AI Studio — testing complex prompts with frontier models like gemini-4-carbon, generating videos with Omni, or building an app — you shouldn’t have to bounce across three websites just to set up billing and claim credits when you hit a quota limit. Starting today, you can claim and manage free API credits directly inside AI Studio. That means you can create your Developer Program profile, link billing, and track your balance, all without leaving your workspace. If you’re a Google AI Pro or Google AI Ultra subscriber, your membership already comes with recurring monthly Google Cloud credits through the Google Developer Program. The Google Developer Program is a no-cost membership unifying tools, learning paths, and perks across AI Studio, Google Cloud, Firebase, Android, and more. An active profile is required for Google AI Pro and Ultra subscribers to access developer benefits like monthly Google Cloud credits, higher Google Antigravity quotas, and Google Skills credits. If you don’t have a profile, the new workflow in AI Studio automatically creates one when you redeem your credits. Check the monthly credits included in your Google AI plan Google AI Pro and Ultra plans include recurring monthly Google Cloud credits that you can put straight toward Gemini API usage for prompting, building, and deploying AI-powered apps from Google AI Studio. As detailed in our guide to using Google AI plan credits in AI Studio, your monthly credit grant scales with your AI plan tier. Here’s how your monthly credits work over time. - 12-month rolling validity: Each monthly credit is valid for 12 months from issue. - Automatic monthly rollover: Grants stack month to month. If you’ve been a Pro or …",
+   "fonte": "Google (blog ufficiale)",
+   "tipo": "ufficiale",
+   "solo_titolo": false,
+   "categoria": "Laboratori",
+   "id": "a72",
+   "testo_completo": true
+  },
+  "a139": {
+   "titolo": "ChatGPT ora può fare acquisti con la tua carta di credito",
+   "link": "https://www.hdblog.it/tecnologia/articoli/n677033/chatgpt-wallet-acquisti-carta-credito/",
+   "data": "2026-11-14T09:20:00+02:00",
+   "testo": "ChatGPT Wallet permette agli agenti AI di effettuare acquisti con carta e conferma biometrica.",
+   "fonte": "HDblog",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Italia",
+   "id": "a139"
+  }
+ },
+ "fonti": [
+  {
+   "nome": "Product Hunt (AI)",
+   "ok": true,
+   "presi": 8
+  },
+  {
+   "nome": "Show HN (nuovi progetti)",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "Nuove app AI (internazionale)",
+   "ok": true,
+   "presi": 10
+  },
+  {
+   "nome": "Nuove app AI (Italia)",
+   "ok": true,
+   "presi": 8
+  },
+  {
+   "nome": "Novità AI da provare (Italia)",
+   "ok": true,
+   "presi": 6
+  },
+  {
+   "nome": "AI sul dispositivo (internazionale)",
+   "ok": true,
+   "presi": 8
+  },
+  {
+   "nome": "AI sul dispositivo (Italia)",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "Android Police (AI su Android)",
+   "ok": true,
+   "presi": 4
+  },
+  {
+   "nome": "Windows Central (AI su Windows)",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "Ollama (nuove versioni)",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "Open WebUI (nuove versioni)",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "Show HN – progetti utili (gemme)",
+   "ok": true,
+   "presi": 4
+  },
+  {
+   "nome": "Reddit r/selfhosted",
+   "ok": true,
+   "presi": 6
+  },
+  {
+   "nome": "Reddit r/opensource",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "Alternative open source (Google News)",
+   "ok": true,
+   "presi": 3
+  },
+  {
+   "nome": "n8n (nuove versioni)",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "Immich (nuove versioni)",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "OpenAI",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "Google (blog ufficiale)",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "Google Gemini (blog)",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "Nuove funzioni AI (Google News)",
+   "ok": true,
+   "presi": 12
+  },
+  {
+   "nome": "Anthropic / Claude",
+   "ok": true,
+   "presi": 6
+  },
+  {
+   "nome": "Microsoft Copilot",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "Altri assistenti AI (Perplexity, Mistral, Meta AI…)",
+   "ok": true,
+   "presi": 8
+  },
+  {
+   "nome": "Hugging Face (modelli e strumenti aperti)",
+   "ok": true,
+   "presi": 3
+  },
+  {
+   "nome": "Mistral AI",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "The Verge",
+   "ok": true,
+   "presi": 4
+  },
+  {
+   "nome": "TechCrunch",
+   "ok": true,
+   "presi": 7
+  },
+  {
+   "nome": "Ars Technica",
+   "ok": true,
+   "presi": 2
+  },
+  {
+   "nome": "MIT Technology Review",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "The Decoder",
+   "ok": true,
+   "presi": 8
+  },
+  {
+   "nome": "TLDR AI (newsletter)",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "ANSA",
+   "ok": true,
+   "presi": 6
+  },
+  {
+   "nome": "Wired Italia",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "Il Sole 24 Ore Tecnologia",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "Punto Informatico",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "HDblog",
+   "ok": true,
+   "presi": 4
+  },
+  {
+   "nome": "AI4Business",
+   "ok": true,
+   "presi": 4
+  },
+  {
+   "nome": "Agenda Digitale (AI)",
+   "ok": true,
+   "presi": 3
+  },
+  {
+   "nome": "Garante Privacy e AI",
+   "ok": true,
+   "presi": 3
+  },
+  {
+   "nome": "Malwarebytes (app e truffe AI)",
+   "ok": true,
+   "presi": 2
+  },
+  {
+   "nome": "Reddit",
+   "ok": true,
+   "presi": 8
+  },
+  {
+   "nome": "Reddit (AI locale)",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "Simon Willison (prove pratiche di strumenti AI)",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "Bellingcat (guide e strumenti)",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "GIJN (guide per giornalisti investigativi, via Google News)",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "OSINT – verifica e fact-checking (internazionale)",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "OSINT – nuovi strumenti (internazionale)",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "OSINT – strumenti (Italia)",
+   "ok": true,
+   "presi": 3
+  },
+  {
+   "nome": "Facta (fact-checking, contenuti falsi e AI)",
+   "ok": true,
+   "presi": 3
+  },
+  {
+   "nome": "Week in OSINT (Sector035)",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "The OSINT Newsletter",
+   "ok": true,
+   "presi": 2
+  },
+  {
+   "nome": "IDMO (osservatorio italiano sulla disinformazione)",
+   "ok": true,
+   "presi": 2
+  },
+  {
+   "nome": "EU DisinfoLab",
+   "ok": true,
+   "presi": 2
+  },
+  {
+   "nome": "Reddit (OSINT)",
+   "ok": true,
+   "presi": 4
+  },
+  {
+   "nome": "Hacker News (OSINT)",
+   "ok": true,
+   "presi": 1
+  }
+ ],
+ "visti": [
+  "thunder",
+  "geminirobotics25",
+  "businessesinchatgpt",
+  "tabletopbygooglelabs",
+  "paxper",
+  "gemini4hydrogen",
+  "gatrends",
+  "claudemeetings",
+  "faasnewaitoolnotconnectedtoatcissuessecduffysays",
+  "wakeosnewaitoolgradescarriersondeliveryrecordbeforefreighttenders",
+  "aipoweredcoffeerunsandservicevisitsarecomingtoriviansin2027",
+  "googlehasitsownpairofsmartglassespoweredbygooglesaiassistantgeminiandtheyreimpre",
+  "airudderlaunchescallevoiceagentforphonecalls",
+  "duffydeniesfaaaitoolcausednationwidegroundstop",
+  "newaiapphelpsmontrealwomanwithalsgethervoiceback",
+  "gmsonstaraiassistantdebutsinthe2027cadillaclyriq",
+  "artexaitoolmakeshackingfasterandeasierfbiwarns",
+  "topscorerinsouthkoreastaxaccountantexamadmitstoaiassistedcheating",
+  "intelligenzaartificialebufarinimasternonmipossofidareal100diquellochemirestituis",
+  "proiezionefilmdoublecodedichiarabasilefasoloalcinemaarsenale",
+  "presentatoilmanifestoranaissance",
+  "truffainpsfalsositodiffusoviasmsattenzioneallappcheinstallavirus",
+  "voliusabloccatitregiorniprimalafaaavevaestesolintelligenzaartificialeatuttoilpae",
+  "pescaraapreildibattitosullintelligenzaartificialealviailciclodiincontri",
+  "multaametausatitramitefacebookfotoevideodegliutentiitalianisenzaconsensochesucce",
+  "chigovernalintelligenzaartificiale",
+  "comeusareswarminantigravityguidaaiteamdiagentiinparallelo",
+  "openailanciaipagamentitramiteiainchatgptconvisamastercardeamex",
+  "googlewalletarrivasugeminiliaanalizzalespeseeaiutaagestireilbudget",
+  "openaiintroducelavisibilitàdelleaziendesuchatgptunanuovafunzioneinarrivo",
+  "chatgptwalletopenaiportagliacquistiagliagentiai",
+  "chatgptwalletgliagentiaifannoacquistimaservefaceid",
+  "appleharborapplocalaion2thunderbolt5macs2026",
+  "igavealocalaimodelcontrolofmywindowspcandithandlesthechoresihate",
+  "solanalaunchesprivateaitoolswithonchainhardwarechecks",
+  "whyprivateaiismoreimportantthanever",
+  "shuftilaunchespatentedondeviceaiageverificationtakinguserprivacyconcernsoutofthe",
+  "llamacppreachesversion10forlocalaitools",
+  "applewantstoturnyourmacintoaprivateaiserverwithoutmakingyoutouchtheterminal",
+  "mylocalaiagentneededabiggerbrainsoigaveitadecentralizedgpu",
+  "gigabyteaitopaeropcaiconnvidiablackwelle128gbdiram",
+  "inteltornaal70deiprocessoridesktopeamdscendesottoil30",
+  "pieceslivellodimemoriasuldispositivoeassistenteiaperilcontesto",
+  "maximultada805milionidieuropermetalaziendapreparailricorso",
+  "androidwebview158cosacambiaconlaggiornamentodinovembre2026",
+  "geministruepowercomesfromthetweaksnobodywantstotalkabout",
+  "androidautowithgeminineedsa5minuteprivacycheckbeforeanyoneridesshotgun",
+  "googlesandroidxrsmartglasseswillhidefacesfromgeminiandbanrealtimefacialrecogniti",
+  "iusedgeminitotrackmycreditcardbillsinevermissedapaymenteveragain",
+  "this32gb1850ryzenai9laptopjustcrashedto999foronedayonly",
+  "openwebuiv0130",
+  "deepseekv3in200linesofpurejax",
+  "agwebabrowserforagentsthatstaysoutofyourway",
+  "livemapofusflightsduringtonightsfaanationwidegroundstop",
+  "isometricsfapixelartmapofthesfbayarea",
+  "jensenhaungjust3weeksagoclaimedtohavesavedtheworldbytwartingagrowingtransnationa",
+  "inkheart15uirefreshfulltextsearchandmultidocumentreadertabs",
+  "anyonerunningtheirowncloudgamingpconawsinsteadofgeforcenowwhatwentwrong",
+  "webmailclientwithnotifications",
+  "somethinghappendtomygpu",
+  "postfalconalightweightselfhostedsocialmediascheduleragplonecommanddockerinstall",
+  "jetbrainsrenewedtheirsupportforgodotenginethrough2027",
+  "anyoneelsecompletelydonewithsmartphonesbeingantiprivacyblackboxeswhydidweletthep",
+  "redhatworkingtoimprovememorytieringforqemuvmstosaveram",
+  "contributorswanted",
+  "dawarichfreeopensourceselfhostablealternativetogoogletimeline",
+  "ireplacedpocketfeedlyandmybookmarksbarwithoneappthatreadseverythingforme",
+  "nextcloudsneweuroofficedesktopappletsyoueditmicrosoftofficeandodffileslocally",
+  "coherefindingshowsselfhostedopenweightmodelsneedegresscontrols",
+  "n8nstable",
+  "immichv340",
+  "claimyourgooglecloudcreditsingoogleaistudio",
+  "connectgooglewallettogeminiforpersonalfinanceinsights",
+  "trustchatgptwithyourpaymentsopenairollsoutchatgptwallet",
+  "openailauncheschatgptwalletsoagentscanpaywithoutseeingyourcarddetails",
+  "googlelaunchesgemini4hydrogenwith25xfasterperformancechallenginggpt61andclaude",
+  "openailauncheschatgptwallettoletaiagentsshopwithoutcrypto",
+  "chatgptwalletrollsoutintheushereshowcheckoutworks",
+  "claudelauncheswhiteboardssheetsanddata",
+  "openailauncheschatgptwallettoletaiagentsmakepurchases",
+  "openailauncheschatgptwalletexcludescryptopayments",
+  "googlegeminiappnowavailableforapplecarplay",
+  "openailauncheschatgptwalletforaiagentledshopping",
+  "openailauncheschatgptwalletletsaiagentsshopusingyourcreditcard",
+  "openailauncheschatgptwallettoenableaipoweredpurchases",
+  "anthropicsaysoutdatedpromptinghabitsareslowingdownclaudeopus55",
+  "anthropicintroducesclaudefable52mythos52",
+  "judgeappearsskepticalofpentagonargumentsinlegalfightoveranthropicsupplychainrisk",
+  "anthropicwantsyoutobuildonclaudetheresacatch",
+  "anthropicheadsintoipoweekwithstrongdemandandbigquestionsaboutitsfuture",
+  "nonengineerpublishesiphoneappin13daysallcodegeneratedbyaianthropicsclaudecodeisc",
+  "copilotvschatgpt20plusvs500protier2026",
+  "microsoftconfirmsglobaloutageresolvedrulesoutcyberattack",
+  "microsoftsaysallproductsareoperationalafteroutagehit70countries",
+  "microsoftservicesfullyrestoredafterglobaloutage",
+  "faagroundstopandmicrosoftoutagedidaiplayarole",
+  "deepseekopensitsappfeaturesthroughtheapi",
+  "groktextwatermarkingwhatthepolicyactuallymeansbasenor",
+  "whatdeveloperscanbuildwithdeepseeksnewsearchfileandvoiceapis",
+  "deepseekbringsitsappfeaturestotheapiandreleaseschatdemo",
+  "perplexityteammatesarriveinthemacappformaxusers",
+  "deepseekopensitsapptoolstoapidevelopers",
+  "grokbuildsharelinksexposeddatafromthousandsofapps",
+  "howibuiltanaimarketingteamwithgrokbotwithoutwritingcode",
+  "buildarobotpickandplacesimulationwithsimreadyassets",
+  "xybenchhelpingwiththeproblembehindthequestion",
+  "llamacppv100astrongerfoundationforthelocalaiecosystem",
+  "theopenaiboardmemberwhofiredsamaltmansayswestillcanttrustaiceos",
+  "jensenhuangandthedeclineofthevisionaryshowmanfounderceo",
+  "amazonhasaplantoindextheworldsonlineshoppingdata",
+  "chatgptwalletletsopenaisdotsagentsmakepurchasesforyou",
+  "wherewasnvidiassecurityteam",
+  "elonmuskothertechexecssignpetitioncallingonnvidiatoreinstatejensenhuang",
+  "theaigraveyardarunninglistofprojectsandstartupsthatdidntmakeit",
+  "asiangovernmentsreacttonvidiaceojensenhuangsexit",
+  "jensenhuangsdepartureblastsbigholeinaistartupfundingvcsandfounderssay",
+  "aiagentstartuplangchainhits3bvaluation",
+  "exportbannednvidiachipsarebehindchinasmostpowerfulaimodelsuhohjensen",
+  "faaexpandsaiadvicetomanageairtrafficcongestionacrossentireusairspace",
+  "openaiboardmemberworriesanaitakeoverofsocietycouldbemonthsaway",
+  "anthropicceoamodeiadmitstheresahugeuncertaintyinwhatsgoingtohappennextyeardaysbe",
+  "gemini4carbontakesthematharenacrownbutcosts15timesmorethangpt61sol",
+  "openaireassignsroboticsresearcherstootherteamsasgeneralpurposemodelsmightmakespe",
+  "anthropiccanalreadyretrainmythoswithafractionofthecomputeoriginallyneededsaysfor",
+  "runwaysopensourcepraxis1turnsvideoaiintoarobotcontroller",
+  "jensenhuangsousterlikelytracesbacktonvidiasriskybusinesspracticesmorethanhispers",
+  "openairebuiltaishoppingfromscratchwithchatgptwallet",
+  "banksbarchineseandhongkonginvestorsfromanthropicipooverusexportcontrols",
+  "blackfridaytrasirenediscontoeilnuovoalleatolintelligenzaartificiale",
+  "mazzeopisadiventinododiuncerneuropeodellia",
+  "avareseglistatigeneralidellascuoladigitale",
+  "notiziarioansamed",
+  "siamplianolevenditeawallstreetappesantitadalcrollodeititolideichip",
+  "windwardbioraggiungevalutazionedi1miliardodidollarialdebuttosulnasdaq",
+  "chatgptwalletgliagentiaieffettuanoacquisti",
+  "hocreatounappandroidconunagenteailapkprendeformaparte2",
+  "cherokeedel03994bocciataallarevisionerisoltoilproblemagrazieall039ai",
+  "amazonvuolecatalogaretuttiiprodottidelmondoconlai",
+  "chatgptorapuòfareacquisticonlatuacartadicredito",
+  "laièlostresstestdellasovranitàdigitalemolteimpreseinritardo",
+  "crmeintelligenzaartificiale",
+  "euaiactemanifatturaitrepilastriperessereconformi",
+  "daconfcommerciomilanoilcodicedicondottaperusarelai",
+  "contentmarketingeaicomeconquistarelutentedigitale",
+  "aiascuolapseudonimizzazionedatipersonalierischiperglistudenti",
+  "robotperlepuliziedicasaiprodottirealieilimitidellai",
+  "facebookilgaranteprivacysanzionametaper805milionidieuro",
+  "aiascuolacomecostruirelatuteladeidaticosadiceilgaranteprivacy",
+  "fotoevideoutilizzatisenzaconsensoilgaranteprivacysanzionametaper805milioni",
+  "musesleepbanduserswerenttoldtheirbraindatawastrainingai",
+  "possiblefalsepositivemalwareai695752146dllwrapexemsys2mingw",
+  "ibuiltaswimmableunderwaterworldinone97kbhtmlfilewithfable52",
+  "pplkeepaskingforlocalopus55thisislocalopus55",
+  "imagine",
+  "whenchatgptgotyouhiredatthefaaandnowtheentirecountryisgrounded",
+  "gemini4kryptonisbeingtestedinarenaarena",
+  "anotherclaudepainting",
+  "askedchatgptcouldwemakearacinggamenowitshisafterworkhobby",
+  "wenowknowgooglewasseriousaboutgemini4",
+  "hottakefrontiermodelshaventactuallybecomemuchsmarter",
+  "employeesstartedapetitiontoreinstatejensenhuangasnvidiasceoelonmuskisamongthesig",
+  "finallyclickedformelocalaiisthefuturenotcloudai",
+  "airigfinallydoneandstableperfectwinterheater",
+  "howlongarewegonnadependbunchofmodelcreatorslikeqwengemmanvidiaetcfor100bmodels",
+  "datasettellm01a11",
+  "filmingtheauthoritiesknowyourrights",
+  "visualstorytellingforinvestigationstipsandtools",
+  "howcopernicusmakesclimatedatasimpleandeasytounderstand",
+  "isthisrealaserbianinvestigativejournalistreflectsonthecountrysstunningelection",
+  "ijspotlightrussiasanctions",
+  "howaicanhelpbusinessesreducewebsitedevelopmentcosts",
+  "securitymanageranalistagiuristafilosofotecnicoocomunicatore",
+  "decriptoafuturoremoto2026il12novembreallacittàdellascienzaconlestartupdicampania",
+  "quanteinformazionipersonalisilascianoonlinelosvelanordvpn",
+  "loscambiosocialincuimuskdiceabillgatesdinoncostringerloacompraremicrosoftèfalso",
+  "inuoviagentiaisonotroppocariniperessereinnocui",
+  "noquestononèunadolescentetorturatodallaguardianazionaleucrainainunaprigionesegre",
+  "theosintnewsletterissue130",
+  "theosintnewsletterissue129",
+  "alviaprimacollaborazionedelcentrouecontrolefakenewsconongefactchecker",
+  "mattarellalasanitàpubblicaèlaprioritàassoluta",
+  "disinfoupdate4112026",
+  "europesmissingwatchdogshowboththedsaandtheaiactarefailingonenforcement",
+  "blockchaintracinginvestigationtool",
+  "skiptracingin2026howmuchcanyoustilldofromadeskvsinthefield",
+  "darksidedatabase",
+  "osintofthailand",
+  "osintcasestudies"
+ ],
+ "audio": "audio/2026-11-15.mp3",
+ "durata": 91.0
+}

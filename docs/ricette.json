@@ -223,5 +223,64 @@
   "giorno": "2026-11-08",
   "generato": "2026-11-08T05:25:44+00:00",
   "modello": "gemini-3.8-flash"
+ },
+ {
+  "titolo": "Trasformare una riunione di lavoro in una mappa di progetto e presentarla al cliente",
+  "obiettivo": "Convertire le note di un incontro verbale in una mappa concettuale organizzata da condividere facilmente via web.",
+  "ambito": "Lavoro",
+  "ingredienti": [
+   {
+    "nome": "Yogurt",
+    "descrizione": "Un'applicazione desktop open source che registra, trascrive e riassume le riunioni in locale sul computer senza partecipare direttamente alle chiamate online.",
+    "piattaforme": [
+     "Windows",
+     "Mac",
+     "Linux"
+    ],
+    "costo": "Gratis",
+    "url": "https://github.com/FrigadeHQ/yogurt",
+    "locale": true,
+    "ruolo": "Registra e riassume la riunione sul computer in locale per estrarre i punti chiave."
+   },
+   {
+    "nome": "Xmind 2027",
+    "descrizione": "Trasforma le tradizionali mappe mentali in uno strumento di supporto intelligente, aiutando a sviluppare idee e collegare concetti in modo automatico.",
+    "piattaforme": [
+     "Browser",
+     "Windows",
+     "Mac"
+    ],
+    "costo": "Prova gratuita",
+    "url": "https://www.producthunt.com/products/xmind",
+    "locale": false,
+    "ruolo": "Organizza i concetti e le idee emerse in una mappa mentale strutturata."
+   },
+   {
+    "nome": "SlideBySide",
+    "descrizione": "Permette di presentare slide e file PDF condividendo un semplice link web, evitando la condivisione dello schermo e senza costringere chi ascolta a creare account o installare programmi.",
+    "piattaforme": [
+     "Browser"
+    ],
+    "costo": "Gratis",
+    "url": "https://slidebyside.com/",
+    "locale": false,
+    "ruolo": "Condivide la presentazione PDF finale con il cliente tramite un semplice link."
+   }
+  ],
+  "passi": [
+   "Avvia Yogurt sul PC Windows durante la chiamata con il cliente per registrarla e ottenere un riassunto automatico.",
+   "Incolla i punti chiave e le richieste del cliente all'interno di Xmind 2027 per sviluppare le idee e organizzare la mappa del progetto.",
+   "Esporta la mappa mentale o la proposta commerciale in formato PDF.",
+   "Carica il file PDF su SlideBySide e invia il link web al cliente per mostrare il documento senza dover condividere lo schermo."
+  ],
+  "tempo": "15 minuti la prima volta",
+  "livello": "Facile",
+  "costo": "Gratis con limiti",
+  "perche_conviene": "Permette di passare da una discussione a voce a una presentazione professionale pronta per il cliente in pochi minuti.",
+  "tutto_in_locale": false,
+  "id": "r5",
+  "giorno": "2026-11-15",
+  "generato": "2026-11-15T05:40:23+00:00",
+  "modello": "gemini-3.6-flash"
  }
 ]

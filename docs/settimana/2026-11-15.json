@@ -1,0 +1,122 @@
+{
+ "giorno": "2026-11-15",
+ "formato": 2,
+ "titolo": "Dai pagamenti con ChatGPT alle novità per la produttività con Claude e Gemini",
+ "in_breve": "Questa settimana spiccano l'arrivo dei pagamenti assistiti in ChatGPT e l'evoluzione di Claude verso strumenti avanzati di lavoro come fogli di calcolo e riunioni dal vivo. Nel frattempo, Google integra il nuovo modello Gemini 4 Hydrogen nella Ricerca e nel browser Chrome.",
+ "notizie": [
+  {
+   "titolo": "ChatGPT assiste negli acquisti e introduce ChatGPT Wallet",
+   "racconto": "OpenAI introduce la funzione ChatGPT Wallet e avvia la beta dei Business Agents per orientarsi tra i prodotti e le offerte online. Gli agenti AI possono guidare nelle decisioni d'acquisto ed effettuare pagamenti, previa conferma biometrica da parte dell'utente.",
+   "perche_conta": "Consente di delegare le operazioni pratiche di acquisto all'assistente tutelando i dati della carta di credito.",
+   "rif": [
+    [
+     "2026-11-10",
+     "u4n2"
+    ],
+    [
+     "2026-11-15",
+     1
+    ]
+   ]
+  },
+  {
+   "titolo": "Claude si espande alla produttività e alle riunioni in tempo reale",
+   "racconto": "Anthropic trasforma Claude in una piattaforma di lavoro integrando fogli di calcolo, lavagne visive e la partecipazione automatica alle videochiamate di Google Meet per prendere appunti e seguire le discussioni.",
+   "perche_conta": "Trasforma il chatbot in un ambiente di collaborazione operativa completo per la gestione delle attività lavorative.",
+   "rif": [
+    [
+     "2026-11-10",
+     "u4n1"
+    ],
+    [
+     "2026-11-11",
+     1
+    ]
+   ]
+  },
+  {
+   "titolo": "Google lancia Gemini 4 Hydrogen nella Ricerca e nel browser Chrome",
+   "racconto": "Debutta Gemini 4 Hydrogen, progettato per elaborare richieste complesse e mostrare risultati più visivi nella Ricerca Google. Inoltre, l'assistente si integra nel pannello laterale di Chrome per analizzare e riassumere direttamente la pagina web in consultazione.",
+   "perche_conta": "Rende più rapida la comprensione di articoli lunghi e la consultazione di informazioni strutturate durante la navigazione.",
+   "rif": [
+    [
+     "2026-11-12",
+     "u3n1"
+    ],
+    [
+     "2026-11-12",
+     "u3n2"
+    ],
+    [
+     "2026-11-13",
+     "u1n1"
+    ]
+   ]
+  },
+  {
+   "titolo": "Adobe apre i propri software agli agenti AI e si integra con Google",
+   "racconto": "Adobe adotta il protocollo aperto MCP per fare interagire assistenti AI esterni come Claude o ChatGPT direttamente dentro Photoshop e Premiere. Nel frattempo, diverse funzioni dei file Adobe vengono integrate nei menu rapidi di Gmail e Google Drive.",
+   "perche_conta": "Permette di lavorare sui progetti grafici e sui documenti PDF usando l'assistente preferito senza cambiare applicazione.",
+   "rif": [
+    [
+     "2026-11-10",
+     "u3n2"
+    ],
+    [
+     "2026-11-11",
+     4
+    ]
+   ]
+  },
+  {
+   "titolo": "Gemini arriva sul display dell'auto con Apple CarPlay",
+   "racconto": "L'applicazione Gemini sbarca su Apple CarPlay, permettendo di interagire con comandi vocali naturali durante la guida per riassumere messaggi, consultare l'agenda o cercare attività lungo il tragitto.",
+   "perche_conta": "Offre l'accesso hands-free alle funzioni dell'assistente per gestire le informazioni quotidiane in mobilità.",
+   "rif": [
+    [
+     "2026-11-11",
+     "u2n1"
+    ],
+    [
+     "2026-11-13",
+     1
+    ]
+   ]
+  }
+ ],
+ "da_provare": [
+  {
+   "cosa": "Yogurt",
+   "a_cosa_serve": "Registra, trascrive e riassume le riunioni svolte sul computer elaborando i dati in locale per garantire la massima riservatezza.",
+   "rif": "2026-11-11#u2provare-1",
+   "giorno": "2026-11-11"
+  },
+  {
+   "cosa": "FolioSort 5",
+   "a_cosa_serve": "Riordina ed elimina i duplicati dalle raccolte di foto disordinate direttamente sul dispositivo sfruttando le date EXIF reali.",
+   "rif": "2026-11-10#provare-2",
+   "giorno": "2026-11-10"
+  },
+  {
+   "cosa": "Shot.video",
+   "a_cosa_serve": "Permette di registrare riprese video da più angolazioni sincronizzando tra loro diversi smartphone.",
+   "rif": "2026-11-11#u1provare-2",
+   "giorno": "2026-11-11"
+  },
+  {
+   "cosa": "Instagram Effect Builder",
+   "a_cosa_serve": "Genera filtri per le Storie di Instagram descrivendo l'idea a parole all'interno dell'interfaccia di chat del browser.",
+   "rif": "2026-11-10#provare-1",
+   "giorno": "2026-11-10"
+  },
+  {
+   "cosa": "Satellite Pass Finder",
+   "a_cosa_serve": "Strumento OSINT che rintraccia i satelliti passati su una specifica zona negli ultimi 7 giorni mostrando i relativi scatti fotografici.",
+   "rif": "2026-11-10#osint-1",
+   "giorno": "2026-11-10"
+  }
+ ],
+ "modello": "gemini-3.6-flash",
+ "tendenze": "I dati del RADAR mostrano una crescita evidente nei settori legati al lavoro, alla produttività e alla gestione di immagini e video. Questa tendenza trova conferma nel rinnovamento di strumenti come Claude e nelle nuove tecnologie di montaggio ed elaborazione visiva.",
+ "generato": "2026-11-15T05:47:14+00:00"
+}
