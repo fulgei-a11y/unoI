@@ -196,6 +196,52 @@
    "solo_titolo": false,
    "categoria": "Italia",
    "id": "a139"
+  },
+  "u1a1": {
+   "titolo": "Rakazo",
+   "link": "https://www.producthunt.com/products/rakazo",
+   "sito": "https://www.producthunt.com/r/p/1315641?app_id=339",
+   "data": "2026-11-13T10:46:58-08:00",
+   "testo": "The open source Grok Bot alternative you actually own",
+   "fonte": "Product Hunt (AI)",
+   "tipo": "vetrina",
+   "solo_titolo": false,
+   "categoria": "Strumenti",
+   "id": "u1a1"
+  },
+  "u1a2": {
+   "titolo": "Canvas by AgentGrid.io",
+   "link": "https://www.producthunt.com/products/agentgrid-io",
+   "sito": "https://www.producthunt.com/r/p/1317198?app_id=339",
+   "data": "2026-11-14T22:22:09-08:00",
+   "testo": "Agentic Design Canvas - A visual way to collaborate with AI",
+   "fonte": "Product Hunt (AI)",
+   "tipo": "vetrina",
+   "solo_titolo": false,
+   "categoria": "Strumenti",
+   "id": "u1a2"
+  },
+  "u1a19": {
+   "titolo": "Gemini ora conosce le tue abitudini e le sfrutta quando guidi",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBEOEtTVVBoVi1ZR0FwQTZTNGc4LTBIMUVMQnNWQkJxb1k4LUJRb0hoMVBpZDAyaHRIdm1PcFotNUwzcUFQMmVjWVVTYmx2d0p1VjI4YVFqWjlRbDVjTExDNGZlWlpNaFBQQTRyQ040UFozQQ?oc=5",
+   "data": "2026-11-14T23:39:50+00:00",
+   "testo": "",
+   "fonte": "Motor1.com Italia",
+   "tipo": "minore",
+   "solo_titolo": true,
+   "categoria": "Strumenti",
+   "id": "u1a19"
+  },
+  "u1a40": {
+   "titolo": "Nebula is a fun new Windows 11 photos app that shows what WinUI and local AI can do",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObWlDdXN0NWlYZnZycEZIbThBczdiOWQ3Nk95QVRudW5NeGE5ZXUwenA0N2xtV3FSVFpWbnNFb1ZVazhGaVR2WksyVVhsWmRodEFob3VfblhINjdnLVVVTmZFOElIRmRnN05tR0w1VklVeE9YUnhXQms0V2RGRW9xc3lJUDcwQ3Z5cUZySFRUNjdTRUQwbUlwbkxtVmNWUElCYTNudTJyMll5dGRGOE9meE1B?oc=5",
+   "data": "2026-11-14T06:19:59+00:00",
+   "testo": "",
+   "fonte": "Neowin",
+   "tipo": "minore",
+   "solo_titolo": true,
+   "categoria": "Strumenti",
+   "id": "u1a40"
   }
  },
  "fonti": [
@@ -668,8 +714,205 @@
   "skiptracingin2026howmuchcanyoustilldofromadeskvsinthefield",
   "darksidedatabase",
   "osintofthailand",
-  "osintcasestudies"
+  "osintcasestudies",
+  "rakazo",
+  "canvasbyagentgridio",
+  "peritmarketplace",
+  "byteaskcloudagents",
+  "apowerfulaitoolwastakenawayfromaustraliathisdemocratwantstochangethat",
+  "aiauthorscamstargetnzwriterswith150invitations",
+  "ios273betaaddssiriaiappactionsrevampedhealthappandsirirecap",
+  "geminioraconosceletueabitudinielesfruttaquandoguidi",
+  "miairubatoillavorolintelligenzaartificialespiegataateatrotraquizeironia",
+  "tv7tv7puntatadel13112026",
+  "trapiantodicuorelintelligenzaartificialepotrebbericonoscereilrigettosenzabiopsia",
+  "elephantgoldfishmodelcomeusareilplugingoogleconclaudecode",
+  "intelligenzeartificialiegiornalismolalezionedipuliafitodelegaresìmailtastopubbli",
+  "cosahannogiàcostruitoconfable52dallasinfoniaalle50auto",
+  "openailanciachatgptwalletconvisaemastercardacquistiiasenzacriptovalute",
+  "theseoverlookedstoragehogscouldbetakingupgigabytesonyourphone",
+  "igaveanopensourcepdfreaderalocalaiinsteadofpayingadobe25amonthtochatwithmypdfs",
+  "localaisolutionscanimproveantenatalattendancepregnancyoutcomesexperts",
+  "applesenterpriseaistrategyrunsonmacstudiohardwareandmlx",
+  "nebulaisafunnewwindows11photosappthatshowswhatwinuiandlocalaicando",
+  "fursoyoutoforderrv64imafdvcoreinsystemveriloglinux66",
+  "infisicalpaywalledcustomrolesforselfhostersinapatchreleaseunstarit",
+  "howmuchlatencydoesaselfhostedllmgatewayaddlangfusevslitellmvsacruxcore",
+  "googlegeminilaunchesartificialanalysisformodelevaluationandbenchmarking",
+  "openailauncheschatgptwalletclaimingitsasafewaytohaveaishopforyou",
+  "openailaunchesabusinesshubforbrandvisibilityinchatgpt",
+  "googlegeminivschatgptwalletwhocontrolsthefutureofaishopping",
+  "openailauncheschatgptwalletforaipoweredpayments테크과학jkn",
+  "anthropichistorycontroversiesclaudeai",
+  "theindividualinvestorswhoarehotonanthropicsipobutcoolonai",
+  "anthropicinlondonaiandscience",
+  "whatyouneedtoknowaboutclaudesmakeranthropicipo",
+  "cursorsaysstolenfireworksaikeyledtotrojanizedclaudecodeextensionincident",
+  "5immediatelessonsfromtheglobalmicrosoftoutage",
+  "microsofthassufferedaglobaloutageatechexpertexplainswhatwentwrong",
+  "microsoftoutagehealthcareimpact70countrieshit",
+  "microsoftsaysservicesfullyrestoredafterhourslongglobaloutage",
+  "xai",
+  "bestsoraalternativesin2026whatreplacedeachpartofsora",
+  "deepseekswebcodeshowsquotamanagementpointingtoacodingplanbutnoplanisannounced",
+  "applinkedmacassistantsgrokbotcannowaccessappleappslikemessagesandmail",
+  "grokbotslaurentanruns4000pullrequestsamonthandsaysthebottleneckisnowdecidingwhat",
+  "firmlinkedtojensenhuangsexloverreportedlybrokerednearly12billioninnvidiachiporde",
+  "australiascentralbankfindsaihittingyoungworkersfirstespeciallyinsoftwareandcusto",
+  "meituanreleasesa16trillionparameteragentmodelthatnevertouchedannvidiagpu",
+  "ibotsiribellanoaipoliticicolpadimicrosoftdown",
+  "issalviaborsedistudioperneolaureatigraziealleventonoteperlaricerca",
+  "relabaeimaportiamolostudiodelleinterfaccenelcampoagricolo",
+  "ricostruzioneincontrosubadgedicantiereelegalitànelcratere",
+  "datacenterlafrenatadellacorsaallaibrucia4200miliardiinborsa",
+  "teslaapregliordinidelcybercabaiprivaticosta29990dollaripiùabbonamentomensile",
+  "ssdattenzioneaisoftwarechepossonousurarelunitàpiùvelocemente",
+  "articolidimonicaurbaniautoreperagendadigitale",
+  "aiascuolapareregarantelemisureperproteggereglialunni",
+  "iaskedchatgpttoimaginemyexactoppositelife",
+  "cansomeoneexplainthisinsanelycreepyresponse",
+  "claudewroteandtrainedalanguagemodelfordosthatfitsonafloppydisk",
+  "anthropichasopenedupclaudemythosaccesstothepublic",
+  "outsideofcodingandsuchisclaudealwaysanarcloser",
+  "europatheeusopenaimodelisaimingfornearly1trillionparameters",
+  "whydontwehavenationalopenaimodels",
+  "dronesattackrussiastaganrogkeyelectricalsubstationpossiblytargeted",
+  "atleast30explosionsreportedinsuspectedattackonrussiasakhtubinskairfield",
+  "noquestononèlattentatoredicracoviachepartecipaaunamanifestazioneantirazzista",
+  "barachinisullaiservonoregoleglobalieunintesatraigrandi",
+  "psaamassv5saltsandbruteflagsaresilentnoopsandyourdatasourcesyamlisprobablycostin"
  ],
  "audio": "audio/2026-11-15.mp3",
- "durata": 91.0
+ "durata": 133.8,
+ "aggiornamenti": [
+  {
+   "generato": "2026-11-15T12:52:37+00:00",
+   "modello": "gemini-3.8-flash",
+   "testi_completi": 3,
+   "riassunto": {
+    "titolo_giorno": "Nebula porta l'AI fotografica in locale su Windows 11",
+    "in_breve": "Tra le novità spicca Nebula, un'applicazione per Windows 11 che elabora le foto sfruttando l'AI direttamente sul dispositivo per una gestione più immediata e riservata. Sul fronte della produttività arriva anche Canvas by AgentGrid.io, una lavagna visiva pensata per interagire e lavorare insieme agli agenti intelligenti.",
+    "citati": [
+     "Nebula",
+     "Canvas by AgentGrid.io"
+    ],
+    "da_provare": [
+     {
+      "cosa": "Canvas by AgentGrid.io",
+      "a_cosa_serve": "Offre uno spazio di lavoro visivo sotto forma di lavagna per interagire e collaborare con agenti AI durante la progettazione.",
+      "per_chi": "Lavoro",
+      "ambito": "Organizzazione",
+      "come_iniziare": [],
+      "costo": "Non indicato",
+      "piattaforme": [
+       "Browser"
+      ],
+      "sul_dispositivo": false,
+      "come_sfruttarla": "Pianificare progetti e compiti complessi guidando gli agenti AI su un'interfaccia visiva condivisa.",
+      "italiano": "Non indicato",
+      "difficolta": "Facile",
+      "temi": [
+       "Agenti AI",
+       "Lavoro e produttività"
+      ],
+      "fonti": [
+       "u1a2"
+      ],
+      "affidabilita": "Appena lanciato",
+      "prova": "https://www.producthunt.com/products/agentgrid-io"
+     },
+     {
+      "cosa": "Nebula",
+      "a_cosa_serve": "Un'applicazione per la visualizzazione e l'organizzazione delle foto su Windows 11 potenziata da intelligenza artificiale eseguita in locale.",
+      "per_chi": "Tutti i giorni",
+      "ambito": "Foto e video",
+      "come_iniziare": [],
+      "costo": "Non indicato",
+      "piattaforme": [
+       "Windows"
+      ],
+      "sul_dispositivo": true,
+      "come_sfruttarla": "Gestire e sfogliare la propria libreria fotografica sul computer sfruttando l'AI senza inviare immagini online.",
+      "italiano": "Non indicato",
+      "difficolta": "Facile",
+      "temi": [
+       "AI sul dispositivo",
+       "Foto e immagini",
+       "Video"
+      ],
+      "fonti": [
+       "u1a40"
+      ],
+      "affidabilita": "Da verificare",
+      "solo_titoli": true,
+      "prova": ""
+     },
+     {
+      "cosa": "Rakazo",
+      "a_cosa_serve": "Funge da assistente conversazionale autonomo e open source, proponendosi come alternativa controllata dall'utente a Grok Bot.",
+      "per_chi": "Lavoro e tutti i giorni",
+      "ambito": "Ricerca e informazioni",
+      "come_iniziare": [],
+      "costo": "Non indicato",
+      "piattaforme": [],
+      "sul_dispositivo": false,
+      "come_sfruttarla": "Disporre di un bot AI trasparente e personalizzabile per le proprie ricerche e richieste quotidiane.",
+      "italiano": "Non indicato",
+      "difficolta": "Media",
+      "temi": [
+       "Assistenti e chatbot",
+       "Open source e self-hosting",
+       "Ricerca e informazioni"
+      ],
+      "fonti": [
+       "u1a1"
+      ],
+      "affidabilita": "Appena lanciato",
+      "prova": "https://www.producthunt.com/products/rakazo"
+     }
+    ],
+    "osint": [],
+    "gemme": [],
+    "sezioni": [
+     {
+      "titolo": "Novità negli strumenti che già usi",
+      "notizie": [
+       {
+        "titolo": "Gemini impara le abitudini di guida dell'utente",
+        "strumento": "Gemini",
+        "riassunto": "L'assistente AI di Google apprende le preferenze e i comportamenti abituali di chi è al volante per adattare il proprio supporto e le indicazioni durante i viaggi in automobile.",
+        "come_provarla": "",
+        "disponibilita": "Non indicato",
+        "fonti": [
+         "u1a19"
+        ],
+        "temi": [
+         "Assistenti e chatbot"
+        ],
+        "affidabilita": "Da verificare",
+        "solo_titoli": true
+       }
+      ]
+     }
+    ],
+    "formato": 2,
+    "controllo_siti": [
+     {
+      "cosa": "Nebula",
+      "esito": "nessun sito da aprire"
+     },
+     {
+      "cosa": "Rakazo",
+      "sito": "https://www.producthunt.com/r/p/1315641?app_id=339",
+      "esito": "errore: HTTP Error 403: Forbidden"
+     },
+     {
+      "cosa": "Canvas by AgentGrid.io",
+      "sito": "https://www.producthunt.com/r/p/1317198?app_id=339",
+      "esito": "errore: HTTP Error 403: Forbidden"
+     }
+    ]
+   }
+  }
+ ]
 }
