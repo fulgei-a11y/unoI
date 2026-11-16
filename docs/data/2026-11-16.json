@@ -124,6 +124,90 @@
    "solo_titolo": false,
    "categoria": "Strumenti",
    "id": "u1a2"
+  },
+  "u2a118": {
+   "titolo": "Audible is trying to make it easier to find audiobooks you’ll actually like",
+   "link": "https://www.theverge.com/tech/1034083/audible-audio-discovery-ai-feature-availability",
+   "sito": "",
+   "data": "2026-11-16T09:00:00-05:00",
+   "testo": "Audible is introducing an AI-assisted synopsis feature that's designed to help users determine whether they'll enjoy an audiobook before they jump in and start listening to it. The new audio discovery feature combines audiobook samples, AI overviews, and author commentary to give users more information before choosing their next story, in addition to recommended audiobook […]",
+   "fonte": "The Verge",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Testate tech",
+   "id": "u2a118"
+  },
+  "u2a127": {
+   "titolo": "Google Maps can now build trip itineraries with real-time details about each stop",
+   "link": "https://techcrunch.com/2026/11/16/google-maps-can-now-build-trip-itineraries-with-real-time-details-about-each-stop/",
+   "data": "2026-11-16T14:48:13+00:00",
+   "testo": "Google announced on Monday that it’s rolling out new Maps features that are designed to help people plan trips and everyday tasks using AI. The company is launching the ability for Maps to create trip itineraries and find appointments for users. The new features reflect a broader shift in how tech companies are positioning AI, which is less as a tool that just answers questions and more as an assistant that can complete tasks on users’ behalf. While many companies have released AI agents to complete these tasks, Google is working to bring that approach into a service that millions of people already use every day. Google says users can use the navigation platform’s “Ask Maps” tool to build step-by-step trip itineraries and get real-time details about their route right when they pull up directions. For example, you could use Ask Maps to plan a holiday shopping day trip or something more complex, like a three-day road trip featuring coastal hikes and oceanfront dining, Google says. You’ll get a day-by-day itinerary with insider tips and numbered map pins for every stop. Once you’re happy with your itinerary, you can share it with friends and family or export it to Google Docs on desktop. When you’re ready to head out, you can use Ask Maps to reopen your itinerary or find the “itinerary” badge in your chat history. You’ll have access to real-time information, including traffic conditions, business hours, and a look at what the “vibe” is at your next stop, the company says. You could also adjust your schedule by asking Maps to do something like add a scenic viewpoint or lunch stop along your route. You can then tap any destination in your itinerary to get directions and navigate to your next stop. Additionally, users can use Ask Maps to find beauty, pet care, auto, and home…",
+   "fonte": "TechCrunch",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Testate tech",
+   "id": "u2a127",
+   "testo_completo": true
+  },
+  "u2a81": {
+   "titolo": "Ask Maps is coming to Europe.",
+   "link": "https://blog.google/products-and-platforms/products/maps/ask-maps-is-coming-to-europe/",
+   "data": "2026-11-16T14:00:00+00:00",
+   "testo": "Ask Maps is coming to Europe. Ask Maps is the biggest update to Google Maps in over a decade. Powered by the world’s freshest map and Gemini models, it answers complex, real-world questions a map couldn't before. Now, Ask Maps is expanding to 30+ countries across Europe. With information about over 300 million places, including reviews from more than 500 million contributors, Ask Maps is personalised to you and makes it easy to turn plans into action. Try: - Asking anything about anywhere: Ask “where can I charge my phone ASAP” or “find me a public tennis court with lights for playing tonight”. - Letting Ask Maps be your on-the-go companion: Create a trip itinerary, complete with “Know Before You Go” insider tips and real-time info about the weather and parking for each stop. - Searching your lists in seconds: Skip scrolling through hundreds of saved places. Just ask “Which spots saved in my lists have availability for 5 in 30 minutes?” Learn about what else you can do with Ask Maps here and here.",
+   "fonte": "Google (blog ufficiale)",
+   "tipo": "ufficiale",
+   "solo_titolo": false,
+   "categoria": "Laboratori",
+   "id": "u2a81",
+   "testo_completo": true
+  },
+  "u2a119": {
+   "titolo": "Google Maps can now create trip itineraries for you",
+   "link": "https://www.theverge.com/tech/1034110/google-ask-maps-ai-trip-planning",
+   "sito": "",
+   "data": "2026-11-16T09:00:00-05:00",
+   "testo": "Google is launching a new AI trip-planning feature for Maps that allows the app to create custom itineraries for you and provide real-time details about each stop. The update, which is rolling out to the Gemini-powered Ask Maps chatbot inside the app, lets you plan a one-day outing or a trip spanning several days. Google Maps can now create trip itineraries for you The AI-powered Ask Maps feature can suggest stops for your next trip, while providing real-time details about each location. As an example, Google says you can use Ask Maps to plan a day trip for holiday shopping, or have it create a schedule for a three-day road trip with stops for coastal hikes and oceanfront dining. From there, Ask Maps will generate a day-by-day schedule with a list of stops, while also showing your route and numbered pins for each location on the map. You can share the itinerary with friends or family members, as well as export it to Google Docs on desktop. You can ask Maps to show your trip schedule before you leave, or select the “itinerary” badge in your chat history. Along with directions, Google Maps will display real-time information about traffic, a location’s hours, and more. You can also view “know before you go” details about parking, car charging, weather conditions, potential delays, and tolls during your trip. In addition to trip planning, you can now use Ask Maps to find specific beauty, pet care, auto, and home repair appointments, and have it call the locations for you. You can also use Ask Maps to find saved places on your list by asking something like, “Which spots on saved in my lists have availability for five people in the next 30 minutes?” Google is expanding Ask Maps to over 30 countries in Europe, including Spain, Germany, and the UK. Trip-planning and saved list…",
+   "fonte": "The Verge",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Testate tech",
+   "id": "u2a119",
+   "testo_completo": true
+  },
+  "u2a60": {
+   "titolo": "Sniffnet: open-source network traffic monitor (now with support for routers, firewalls, servers)",
+   "link": "https://www.reddit.com/r/selfhosted/comments/1xxrxlg/sniffnet_opensource_network_traffic_monitor_now/",
+   "sito": "",
+   "data": "2026-11-16T15:15:52+00:00",
+   "testo": "Sniffnet is an open-source network monitoring tool I've been developing during the past 4 years, designed to be reliable and intuitive to use. Today I decided to share it in this sub since I just released a new version of the app that can collect IPFIX data exported by headless devices such as switches, routers and firewalls, and therefore I think it can be of interest for many self-hosters out h…",
+   "fonte": "Reddit r/selfhosted",
+   "tipo": "community",
+   "solo_titolo": false,
+   "categoria": "Gemme",
+   "id": "u2a60"
+  },
+  "u2a125": {
+   "titolo": "Audible turns to AI to help users discover audiobooks",
+   "link": "https://techcrunch.com/2026/11/16/audible-turns-to-ai-to-help-users-discover-audiobooks/",
+   "data": "2026-11-16T15:52:19+00:00",
+   "testo": "Amazon-owned audiobook service Audible is turning to AI to help listeners find their next book. The company on Monday launched a new “audio discovery” feature that provides a brief overview of a book’s themes and a summary of what readers liked about it, as well as commentary from an Audible editor or an author, in addition to playing the narrated sample. The overview audio itself is generated using AI, and the commentary is pulled from recordings of past Audible interviews, the company says. The idea is that this type of expanded introduction to a story could help users decide what to listen to next, particularly when they’re on the go and don’t have time to scroll through comments or reviews. The feature follows last month’s launch of a handful of AI tools that let users engage more with the story, interact with characters, or catch up with the help of recaps. These features have come as Audible faces new competition in the audiobooks market, namely from Spotify, which introduced audiobook listening hours as part of its paid subscriptions. That service expanded last month to over 180 markets. Audible’s new feature takes a cue from how Amazon is already using AI to help people shop: On the Amazon storefront, AI can summarize buyers’ product reviews so shoppers can get a quick sense of what people had to say, as well as the pros and cons of a particular item. In Audible’s case, it’s pulling information about what people liked about the book from publicly available reviews. But such a feature could limit users’ exposure to negative reviews if the AI only pulls information from those that offer positive remarks. (Further testing will be needed to see if this is the case, of course.) Audible says the overviews will also draw on other publicly available materials, like syn…",
+   "fonte": "TechCrunch",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Testate tech",
+   "id": "u2a125",
+   "testo_completo": true
+  },
+  "u2a153": {
+   "titolo": "Google Maps ora ci organizza anche i viaggi: l'AI crea itinerari personalizzati",
+   "link": "https://www.hdblog.it/smartphone/articoli/n677186/google-maps-organizza-viaggi/",
+   "data": "2026-11-16T16:05:00+02:00",
+   "testo": "Google ha annunciato un aggiornamento di Ask Maps",
+   "fonte": "HDblog",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Italia",
+   "id": "u2a153"
   }
  },
  "fonti": [
@@ -688,10 +772,78 @@
   "factcheckvideoofschoolgirlgettingstabbedsharedwithfalsecommunalclaim",
   "videoofaruckusatarestaurantinbangladeshsharedasrssworkershooliganismatarestauran",
   "seeristawardedpositiononfbispecializedosinttoolsidiqforterrorismrelatedinformati",
-  "satelliteimagepointstopossibleil76hitinukrainianstrikeonrussianairfield"
+  "satelliteimagepointstopossibleil76hitinukrainianstrikeonrussianairfield",
+  "dbbranchdatabasebranchesinsecondsforaiagentsandciviazfs",
+  "applehaslaunchedamedicalaiassistantfortheiphone",
+  "coveryoulaunchesciaसयavoiceaiassistantthatletsdoctorsbuyprofessionalindemnityins",
+  "storefeederwmslaunchesdaveaiassistantforwarehouseteams",
+  "arrivanaonialassistentedigitaleaidipordenonecapitaledellacultura2027",
+  "intelligenzaartificialelavoroepartecipazioneassolombardaesindacatifirmanounanuov",
+  "pordenonedagennaio2027laguidadigitalenaoniaconintelligenzaartificiale",
+  "intelligenzaartificialeaccordotrausaealleatiperproteggerechipetecnologiedallacin",
+  "chiediamapsarrivaineuropapreparaitineraricompletiecercatraipostichehaisalvato",
+  "ristorazioneeaigestireilmenueleprenotazionidinataleecapodannoconclaudeewhatsapp",
+  "chatgptwalletopenailanciailnuovoportafogliodigitaleperorasolonegliusa",
+  "ijustreplacedduolingowithalocalllmthattooktwominutestosetuponmyandroidphonehowto",
+  "applelaunchesprivateaihealthstudyappfirstofitskindbetaopensto200000testersbutyou",
+  "flagstarbankbuildsasecuremanageablefoundationforaiwithwindows11",
+  "localaifoundationllamacppreachesfirstv100signalingapistabilityafter35years",
+  "liaarrivasuinostripcmachicontrollaciòchepuòvedere",
+  "perplexityportablecomputerportalailocalesullegpunvidiartxprivacyepotenzasenzaclo",
+  "sniffnetopensourcenetworktrafficmonitornowwithsupportforroutersfirewallsservers",
+  "kist20aselfhostedlibraryformediaandeaglecadfiles",
+  "whatisthebestuidesigntool8toolscomparedbythejobtheydo2026",
+  "nextcloudlaunchesfreemicrosoftofficealternativeforwindowsmacandlinux",
+  "advancingcomputeruseagentsforhealthcareteams",
+  "morewaystomovecareforwardwithchatgptforhealthcare",
+  "askmapsiscomingtoeurope",
+  "googlewalletusersgaingeminiinsightschatgptlaunchesitswallet",
+  "openailauncheschatgptwalletsoitsaiagentscanpayforpurchases",
+  "openailauncheschatgptwalletforpurchasesmadebyagents",
+  "lumahealthlauncheschatgptpluginwith59clinicworkflowactions",
+  "openailaunchesbusinessesinchatgptstartingintheus",
+  "anthropicipoguideeverythingyouneedtoknow",
+  "thespacexipohadmusksstarpoweranthropicshasfomo",
+  "techsharesslideaheadofnvidiaearningsanthropicipo",
+  "anthropicsaysthekeytoagentmemoryisknowingwhattoforgetnothowmuchtostore",
+  "microsoftdatashowsclaudeisstallingagainstcopilotinoffice",
+  "microsoftservicerestoredafterwidespreadoutagecompanysays",
+  "legoraextendsofferingwithlegalintakeinmicrosoftteamsandagenticsearchacrossmicros",
+  "flagstarbankbringshybridaiandmobilebankingtolifewithmicrosoftsurface",
+  "deepseekfreeusershitsuddencomputecapsasglobalapivolumetopscharts",
+  "deepseekofficiallyimplementsusagequotaswhatusersneedtoknow",
+  "deepseekthechineseaithatchallengessiliconvalley",
+  "audibleistryingtomakeiteasiertofindaudiobooksyoullactuallylike",
+  "googlemapscannowcreatetripitinerariesforyou",
+  "thenvidiascandalisntslowingdown",
+  "audibleturnstoaitohelpusersdiscoveraudiobooks",
+  "ustightensaichipexportcontrolstodeterchinesecompaniesfromaccessingcomputeremotel",
+  "googlemapscannowbuildtripitinerarieswithrealtimedetailsabouteachstop",
+  "jensenhuangalliesbuildawarroomtogethimbackatnvidia",
+  "buildingaithatcanworkacrosstheenterprise",
+  "claudenowbuildsinteractivewebsitesinsidecanvasgraphicsrevivingtheflasherawithrea",
+  "chatgptwalletdevinappsalwaysonagents",
+  "intelligenzaartificialeascuola27alunniraccontanoilterritorioaquilano",
+  "nuoverestrizioniusavietatolaccessoremotoaichipai",
+  "aipercrearegiochiabyssalgardenesaltlinefattidafable52",
+  "futurodinvidiascottbessentvuoleunceoesternoupdate",
+  "microsoftpaviliondentrolanuovasedediromatraaiestoriavideo",
+  "googlemapsoraciorganizzaancheiviaggilaicreaitineraripersonalizzati",
+  "latruffaègiàdentrolatuaemailcosìlaicambiagliattacchibec",
+  "lineeguidaagidsullailachecklistoperativapericomuni",
+  "aieappinprontosoccorsocomecambialattesadeifamiliari",
+  "intelligenzaartificialenellescuoleokdelgaranteprivacy",
+  "criminalsareusingartexaiagentstospeedupcyberattacksfbiwarns",
+  "gemini4oxygenakathenextflashcheckpointgoogleaintstoppingnow",
+  "geminimodelsattheendoftheyear",
+  "howmeetingswillbein2027",
+  "weredoublingthecontextwindowforargoncarbonandhydrogeninantigravity",
+  "featurewhynccdevicecheckertypeapprovalnecessary",
+  "doesthisphotoshownvidiaceojensenhuangwithchinesespyalicehuang",
+  "damagetocrimeabridgeafternovember16attackcausesmajordisruptionsanddeformedarch"
  ],
  "audio": "audio/2026-11-16.mp3",
- "durata": 103.5,
+ "durata": 156.7,
  "aggiornamenti": [
   {
    "generato": "2026-11-16T13:46:49+00:00",
@@ -882,6 +1034,101 @@
       "cosa": "Punchcutter",
       "sito": "https://www.producthunt.com/r/p/1317334?app_id=339",
       "esito": "errore: HTTP Error 403: Forbidden"
+     }
+    ]
+   }
+  },
+  {
+   "generato": "2026-11-16T16:27:47+00:00",
+   "modello": "gemini-3.6-flash",
+   "testi_completi": 11,
+   "riassunto": {
+    "titolo_giorno": "Google Maps crea itinerari di viaggio automatici con l'AI",
+    "in_breve": "Google Maps porta in Europa la pianificazione automatica dei viaggi tramite l'AI di Ask Maps, capace di creare itinerari dettagliati e verificare i posti salvati. Audible introduce riassunti vocali per scegliere più facilmente il prossimo libro, mentre Sniffnet permette di controllare quali dati inviano le applicazioni sul PC.",
+    "citati": [
+     "Google Maps",
+     "Audible",
+     "Sniffnet"
+    ],
+    "da_provare": [],
+    "osint": [],
+    "gemme": [
+     {
+      "cosa": "Sniffnet",
+      "a_cosa_serve": "Visualizza in modo chiaro e grafico tutto il traffico dati in entrata e in uscita dal proprio computer o dalla rete di casa.",
+      "perche_gemma": "È un programma completamente gratuito, open source e pensato per proteggere la privacy senza richiedere competenze di rete.",
+      "con_ai": "Permette di controllare a quali server esterni si collegano i modelli e le app AI installate sul computer.",
+      "piattaforme": [
+       "Windows",
+       "Mac",
+       "Linux"
+      ],
+      "self_hosted": false,
+      "costo": "Gratis",
+      "difficolta": "Facile",
+      "temi": [
+       "Privacy e sicurezza",
+       "Open source e self-hosting"
+      ],
+      "fonti": [
+       "u2a60"
+      ],
+      "affidabilita": "Da verificare",
+      "come_iniziare": [],
+      "sul_dispositivo": false,
+      "come_sfruttarla": "",
+      "prova": ""
+     }
+    ],
+    "sezioni": [
+     {
+      "titolo": "Novità negli strumenti che già usi",
+      "notizie": [
+       {
+        "titolo": "Pianificazione automatica dei viaggi con l'AI e arrivo di Ask Maps in Europa",
+        "strumento": "Google Maps",
+        "riassunto": "Google Maps introduce la funzione 'Ask Maps', capace di generare itinerari di viaggio personalizzati giorno per giorno a partire da una semplice richiesta. L'assistente organizza le tappe, risponde a domande sui luoghi salvati dall'utente e fornisce informazioni in tempo reale su traffico, meteo, parcheggi e orari.",
+        "come_provarla": "Si utilizza avviando l'assistente Ask Maps all'interno dell'app di Google Maps.",
+        "disponibilita": "In arrivo",
+        "fonti": [
+         "u2a81",
+         "u2a119",
+         "u2a127",
+         "u2a153"
+        ],
+        "temi": [
+         "Assistenti e chatbot",
+         "Ricerca e informazioni"
+        ],
+        "affidabilita": "Fonte ufficiale",
+        "solo_titoli": false
+       },
+       {
+        "titolo": "Anteprime e riassunti vocali dei temi dei libri con l'AI",
+        "strumento": "Audible",
+        "riassunto": "Audible lancia la funzione 'Audio Discovery', che genera una scheda audio sintetica con i temi principali del libro e un riepilogo dei commenti dei lettori. Il sistema affianca l'anteprima audio tradizionale per aiutare a decidere se un titolo è interessante prima di avviarne l'ascolto.",
+        "come_provarla": "È visibile nelle schede di dettaglio dei libri nell'app Audible.",
+        "disponibilita": "Disponibile ora",
+        "fonti": [
+         "u2a118",
+         "u2a125"
+        ],
+        "temi": [
+         "Voce e audio",
+         "Ricerca e informazioni",
+         "Scrittura e documenti"
+        ],
+        "affidabilita": "Confermata",
+        "solo_titoli": false
+       }
+      ]
+     }
+    ],
+    "formato": 2,
+    "controllo_siti": [
+     {
+      "cosa": "Sniffnet",
+      "esito": "nessun sito da aprire"
      }
     ]
    }
