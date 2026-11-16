@@ -52,6 +52,78 @@
    "solo_titolo": false,
    "categoria": "OSINT",
    "id": "a169"
+  },
+  "u1a165": {
+   "titolo": "BigMoeOnEdge outperforms Strata and colibri on 8-16 GB cards and Mac and you can run any model",
+   "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xx5fng/bigmoeonedge_outperforms_strata_and_colibri_on/",
+   "sito": "",
+   "data": "2026-11-15T20:11:18+00:00",
+   "testo": "Hi! for those who might not know the solution: it takes any MoE GGUF llama.cpp can load, whatever the quant. No repacking, no special format it runs on whatever you have: NVIDIA, AMD, Intel, Mac, a phone, or just the CPU Windows, Linux, macOS, Android, iOS output is the same as llama.cpp, don't cut corners on quality you start it with --auto and it works out the settings for your machine Below is…",
+   "fonte": "Reddit (AI locale)",
+   "tipo": "community",
+   "solo_titolo": false,
+   "categoria": "Community",
+   "id": "u1a165"
+  },
+  "u1a5": {
+   "titolo": "LexiCAD",
+   "link": "https://www.producthunt.com/products/lexicad",
+   "sito": "https://www.producthunt.com/r/p/1318136?app_id=339",
+   "data": "2026-11-15T15:41:27-08:00",
+   "testo": "Describe a part in plain language to get a CAD design",
+   "fonte": "Product Hunt (AI)",
+   "tipo": "vetrina",
+   "solo_titolo": false,
+   "categoria": "Strumenti",
+   "id": "u1a5"
+  },
+  "u1a1": {
+   "titolo": "Punchcutter",
+   "link": "https://www.producthunt.com/products/punchcutter",
+   "sito": "https://www.producthunt.com/r/p/1317334?app_id=339",
+   "data": "2026-11-15T00:59:05-08:00",
+   "testo": "Turn a sentence or your handwriting into a real font family",
+   "fonte": "Product Hunt (AI)",
+   "tipo": "vetrina",
+   "solo_titolo": false,
+   "categoria": "Strumenti",
+   "id": "u1a1"
+  },
+  "u1a8": {
+   "titolo": "Cal.com v7",
+   "link": "https://www.producthunt.com/products/cal",
+   "sito": "https://www.producthunt.com/r/p/1317659?app_id=339",
+   "data": "2026-11-15T06:46:35-08:00",
+   "testo": "Cal.com now has events, discover, an assistant + more",
+   "fonte": "Product Hunt (AI)",
+   "tipo": "vetrina",
+   "solo_titolo": false,
+   "categoria": "Strumenti",
+   "id": "u1a8"
+  },
+  "u1a135": {
+   "titolo": "Asus UGen 300, l’AI in tasca da attaccare a PC e smartphone",
+   "link": "https://www.ilsole24ore.com/art/asus-ugen-300-l-ai-tasca-attaccare-pc-e-smartphone-AJWSBi5B",
+   "data": "2026-11-16T06:24:00+00:00",
+   "testo": "Asus UGen 300, l’AI in tasca da attaccare a PC e smartphone L’AI è ormai un po’ ovunque e non ci sorprende più che possa stare in un accessorio di moda come gli occhiali Meta o in un dispositivo sottile come qualche carta di credito (che magari prende appunti durante una riunione). Il punto, però, è che ancora manca quell’ecosistema che le fa fare tante cose davvero utili. Ecco che, allora, Asus si è inventata lo Ugen 300, una scatoletta grande come un battery pack che porta potenza di calcolo AI ovunque serva. Il suo scopo principale, però, non è quello di fornire AI ai dispositivi che non ne sono provvisti, ma quello di permettere a chiunque di sperimentare applicazioni e futuri dispositivi con l’AI. In pratica, dovrebbe essere per l’AI quello che Arduino è stato per l’elettronica: un facilitatore che permette di creare prototipi in pochi minuti. Certo, prototipi ingombranti e goffi, ma funzionanti e testabili nella vita di tutti i giorni. Del resto, potrebbe non essere un caso che l’elettronica che si trova al suo interno sia molto simile a quella che si collega al Raspberry PI per creare minicomputer AI. Il chip usato, infatti, è l’Hailo-10H, capace di generare 40 TOPS di potenza e a cui si affiancano 8 gigabyte di Ram. Con una quantità di memoria così risicata, si possono usare solo piccoli modelli linguistici, quindi niente che sia in grado di chiacchierare come Chat GPT, ma modelli capaci di riassumere documenti, convertire voce in testo e viceversa, analizzare foto per descriverne il contenuto o riconoscerne specifici elementi e così via. Hailo, inoltre, vanta una community molto attiva che fornisce supporto, tutorial e consigli a chi vuole entrare nel mondo della progettazione AI. Chiedilo al Sole «Lo Ugen 300” – dice Marco Astori, Country Manager di ASUS Ital…",
+   "fonte": "Il Sole 24 Ore Tecnologia",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Italia",
+   "id": "u1a135",
+   "testo_completo": true
+  },
+  "u1a2": {
+   "titolo": "Glifa",
+   "link": "https://www.producthunt.com/products/glifa",
+   "sito": "https://www.producthunt.com/r/p/1317504?app_id=339",
+   "data": "2026-11-15T04:25:03-08:00",
+   "testo": "The Markdown editor for Mac you can ask for anything",
+   "fonte": "Product Hunt (AI)",
+   "tipo": "vetrina",
+   "solo_titolo": false,
+   "categoria": "Strumenti",
+   "id": "u1a2"
   }
  },
  "fonti": [
@@ -514,8 +586,305 @@
   "blockchaintracinginvestigationtool",
   "skiptracingin2026howmuchcanyoustilldofromadeskvsinthefield",
   "osintofthailand",
-  "howdoifindsomeoneslastnameifionlyknowtheirfirstmiddlenameandcity"
+  "howdoifindsomeoneslastnameifionlyknowtheirfirstmiddlenameandcity",
+  "punchcutter",
+  "glifa",
+  "stateweave",
+  "uisdkbyvercel",
+  "lexicad",
+  "bytevoice",
+  "papyras",
+  "calcomv7",
+  "agenticcanvas",
+  "whatisgeminieverythingyoushouldknowaboutgooglesaitool",
+  "johndeerelaunchesnewaiassistantthathelpsturndataintoinsights",
+  "danillilaunchesanaiapptoaskshopbuildwebsitesandstartabusiness",
+  "venturecapitalistjohndoerrsaysaicompanynamedforhislatebrothercouldhelpfixprimary",
+  "aveniunveilsfilecheckaitoolslashesfinancialadvicereviewtimesby78",
+  "avenilaunchesaitooltospeedupadvicefilereviews",
+  "avenilaunchesaitooltospeedupadvicecompliancereviews",
+  "businessaitooloffersindiepracticesfreeaccess",
+  "appleзапустиламедичногошіасистентадляiphone",
+  "iswitchedfromgeminitoclaudeonandroidthetradeoffssurprisedme",
+  "applelanciaappperstudiarelusodellintelligenzaartificialenellasalute",
+  "marinadiravennaarrivascoprimarinalintelligenzaartificialeguidaturistieresidenti",
+  "intelligenzaartificialelasiciliadavantiaunanuovasfidacambianoimpreseelavoro",
+  "lintelligenzaartificialeguidaresidentieturistichecercanoinfosueventiservizieatti",
+  "digitalecallarinaoniaunmodelladiiaaserviziodelterritorio",
+  "marinadiravennaarrivascoprimarinaliacherispondeatutteledomandesulterritorio",
+  "comeusarechatgptegeminipertrovaregliscontidelblackfriday2026",
+  "googlegeminiarrivasuapplecarplaysirihaunnuovorivaleinauto",
+  "geminiegooglewalletinitaliadisponibilitàeprivacy",
+  "cometrasformaregliappuntiinpodcastcongemininotebook",
+  "ankereufys2proarrivainitaliatiralatteindossabileconriscaldamentoemassaggio",
+  "gmktecevox3windows11cpuz",
+  "cinmoorelaunchessmartparkingcameratokeepwatchwhendriverswalkaway",
+  "aioninstructtakesoverfromphisilicaaswindowslocalaimodel",
+  "windows11girainlocalesuiphoneduograzieaunprogettosenzajailbreak",
+  "redmipotrebbepreparareunosmartphonecompattocondisplayltpoda63pollici",
+  "dellxps13coreultra7inoffertaa1399eurotuttoappandroid",
+  "maximultada805milionidieuroametainitaliaprivacyviolatasufacebook",
+  "galaxyclawlagenteaisamsungchepotrebbeagirenelleapp",
+  "imditchinggooglekeepforgoodclaudeandchatgptarewhy",
+  "iusedgeminitoconvertmyfavoritefantasybookintoastorybookmychildlovedit",
+  "mybackupplanwassogoodididntnoticemyvmhosthaddiedforaweek",
+  "anyblindselfhosters",
+  "formeopensourcesoftwarehaskindalostthebeautyofit",
+  "theygottrivytheygotaxiosnowtheyrecomingforthelinuxfoundationdianahagen7uy6erxuz5",
+  "thekingstrustandopenailaunch1mpartnership",
+  "whatteenagersreallythinkaboutonlinesafetyandai",
+  "helpingteensnavigateonlinenewsandinformation",
+  "listeningtoteensononlinesafety",
+  "openailauncheschatgptwalletforaiagentpurchases",
+  "googleaimodedropsgeminilabelrollsoutgemini4carbontoprosubs",
+  "openailauncheschatgptwalletsoaiagentscanshopforyouusingyourowncard",
+  "openailauncheschatgptwalletforagenticpaymentsintheus",
+  "daysafterdoordashubersaidtheircustomershardlyuseaiagentsandamazonbannedmetamuseo",
+  "openailauncheschatgptwallettoenableaiagentstomakepurchases",
+  "openailauncheschatgptwalletforagenticpayments",
+  "googleconnectsgeminitowalletasopenailauncheschatgptwallethowbothhandleyourmoneya",
+  "openailauncheschatgptwalletfaceidapprovalissolehumancheckonaiagentcardpayments",
+  "whoisanthropickidding",
+  "anthropicsclaudefable52blocksfewersecuritytaskswhilemythosgetsbetteratfindingbug",
+  "wallstreetbracesforanthropicsaggressivespending",
+  "withanthropicipodarioamodeibecomesaisleadingpitchman",
+  "anthropiciponearsclaudemakertodebutonnasdaqnov19keywatchpointsforantlisting",
+  "zurichreaches93copilotadoptiontobetterservecustomerswithmicrosoftai",
+  "microsoftoutagecouldcostglobaleconomy7billion",
+  "webflowannouncedthelaunchofnewmcpconnectorformicrosoftcopilot",
+  "deepseekusersreportdailycapsandshorterinputsonappandwebunconfirmedbydeepseek",
+  "deepseekimposescomputequotasonfreeusersasglobaltokenusageranksno1",
+  "deepseekopensapplicationapisfordevelopers",
+  "deepseekusagelimitsovercomputingshortagesraisedoubtsaboutsustainabilityoffreeser",
+  "deepseekletsdevelopersrebuilditschatbotappthroughpaidapitoolseastfrontier",
+  "samsunggalaxyclawcouldletaisendmessagesmakecallsandmanageyourschedule",
+  "freshworksalumsraise53mtotakeonsalesforcehubspotwithainativecrm",
+  "accordoassolombardasindacatisuintelligenzaartificialelavoroepartecipazione",
+  "borsalasiachiudeincaloconitimoriperlintelligenzaartificiale",
+  "chigovernalintelligenzaartificialeconvegnodellanormaleafirenze",
+  "nvidiahuangvalutailritornoalverticebessentserveunceoesternodomaniiconti",
+  "borsaleuropaattendewallstreetmilano03",
+  "vujcicbcerapidaespansioneaiedelevatodebitopubblicominaccianolastabilitàfinanziar",
+  "asusugen300laiintascadaattaccareapcesmartphone",
+  "futurodinvidiascottbessentvuoleunceoesterno",
+  "pearlabyssavantituttaconlainellosviluppodeivideogiochi",
+  "lgdualinverteraiarrivainitalialalavasciugacheusalaiperproteggereitessuti",
+  "cybersicurezzalacnlintelligenzaartificialefacilitagliattacchi",
+  "qualitàdeidatiperlaiperchéiprogettiaziendalifalliscono",
+  "gpt6astraeilmodellostandardilnuovopassodellainellafisica",
+  "aisovranaleuropainvestemalasfidaèconquistareleimprese",
+  "medicicolpagraveeailariformaarrivaalsenato",
+  "intelligenzaartificialenellescuolevialiberadelgaranteprivacycosaincludeildecreto",
+  "falsepositivemalwareai3775179338onoursignedarabictranslationinstaller",
+  "clauderefusedtocancelhisworkeventhoheprobablyknewitwasillegal",
+  "creepyglitchresponsejustnowwheniaskedaboutaclickingsoundinmycar",
+  "gemini4helixthenewflashlite",
+  "futurehistorianswillbefascinatediftheyexist",
+  "whydownloadabliteratedflashnextmodelswhenloraexists",
+  "bigmoeonedgeoutperformsstrataandcolibrion816gbcardsandmacandyoucanrunanymodel",
+  "usingthesafeboxnetworktoprotectstorieslaurentrichard",
+  "reportersnotebookwhattodowhenyourinvestigationgetsspiked",
+  "investigativejournalismtrainersguidepartiintroduction",
+  "factcheckvideoofschoolgirlgettingstabbedsharedwithfalsecommunalclaim",
+  "videoofaruckusatarestaurantinbangladeshsharedasrssworkershooliganismatarestauran",
+  "seeristawardedpositiononfbispecializedosinttoolsidiqforterrorismrelatedinformati",
+  "satelliteimagepointstopossibleil76hitinukrainianstrikeonrussianairfield"
  ],
  "audio": "audio/2026-11-16.mp3",
- "durata": 36.8
+ "durata": 103.5,
+ "aggiornamenti": [
+  {
+   "generato": "2026-11-16T13:46:49+00:00",
+   "modello": "gemini-3.6-flash",
+   "testi_completi": 6,
+   "riassunto": {
+    "titolo_giorno": "Dai font personalizzati con Punchcutter ai progetti 3D con LexiCAD",
+    "in_breve": "Tra le novità di questo aggiornamento spiccano Punchcutter, che trasforma testi e scrittura a mano in carattere tipografico, e LexiCAD, per generare modelli 3D partendo da una semplice descrizione. Gli strumenti basati sull'AI continuano a rendere accessibili lavorazioni complesse senza richiedere competenze tecniche avanzate.",
+    "citati": [
+     "Punchcutter",
+     "LexiCAD"
+    ],
+    "da_provare": [
+     {
+      "cosa": "Punchcutter",
+      "a_cosa_serve": "Trasforma una frase descrittiva o un campione della propria scrittura a mano in una vera e propria famiglia di font tipografici pronti all'uso.",
+      "per_chi": "Lavoro e tutti i giorni",
+      "ambito": "Creatività e grafica",
+      "come_iniziare": [],
+      "costo": "Non indicato",
+      "piattaforme": [
+       "Browser"
+      ],
+      "sul_dispositivo": false,
+      "come_sfruttarla": "Creare un carattere tipografico unico per la propria attività o per un progetto grafico partendo da una frase o dalla scrittura manuale.",
+      "italiano": "Non indicato",
+      "difficolta": "Facile",
+      "temi": [
+       "Foto e immagini",
+       "Programmare senza codice"
+      ],
+      "fonti": [
+       "u1a1"
+      ],
+      "affidabilita": "Appena lanciato",
+      "prova": "https://www.producthunt.com/products/punchcutter"
+     },
+     {
+      "cosa": "LexiCAD",
+      "a_cosa_serve": "Genera disegni tecnici e modelli CAD in 3D descrivendo semplicemente l'oggetto desiderato in linguaggio naturale.",
+      "per_chi": "Lavoro",
+      "ambito": "Progettazione e 3D",
+      "come_iniziare": [],
+      "costo": "Non indicato",
+      "piattaforme": [
+       "Browser"
+      ],
+      "sul_dispositivo": false,
+      "come_sfruttarla": "Abbozzare rapidamente componenti meccanici o pezzi di ricambio in 3D senza dover utilizzare software di modellazione complessi.",
+      "italiano": "Non indicato",
+      "difficolta": "Facile",
+      "temi": [
+       "Scrittura e documenti",
+       "Lavoro e produttività",
+       "Foto e immagini"
+      ],
+      "fonti": [
+       "u1a5"
+      ],
+      "affidabilita": "Appena lanciato",
+      "prova": "https://www.producthunt.com/products/lexicad"
+     },
+     {
+      "cosa": "Asus UGen 300",
+      "a_cosa_serve": "Un dispositivo hardware portatile dotato di chip AI dedicato (Hailo-10H) che consente di elaborare modelli di intelligenza artificiale locale collegandolo a PC o smartphone.",
+      "per_chi": "Lavoro",
+      "ambito": "Hardware e AI",
+      "come_iniziare": [],
+      "costo": "Non indicato",
+      "piattaforme": [
+       "Windows"
+      ],
+      "sul_dispositivo": true,
+      "come_sfruttarla": "Trascrivere audio, riassumere documenti e analizzare immagini direttamente sul proprio dispositivo senza inviare dati online.",
+      "italiano": "Non indicato",
+      "difficolta": "Media",
+      "temi": [
+       "AI sul dispositivo",
+       "Privacy e sicurezza"
+      ],
+      "fonti": [
+       "u1a135"
+      ],
+      "affidabilita": "Una fonte",
+      "prova": ""
+     },
+     {
+      "cosa": "Glifa",
+      "a_cosa_serve": "Editor di testo in formato Markdown per ambienti Mac integrato con un assistente AI a cui richiedere modifiche, riassunti o revisioni dei propri appunti.",
+      "per_chi": "Lavoro e tutti i giorni",
+      "ambito": "Scrittura e organizzazione",
+      "come_iniziare": [],
+      "costo": "Non indicato",
+      "piattaforme": [
+       "Mac"
+      ],
+      "sul_dispositivo": false,
+      "come_sfruttarla": "Riorganizzare e correggere appunti o documenti di testo chiedendo direttamente all'AI di eseguire i cambiamenti desiderati.",
+      "italiano": "Non indicato",
+      "difficolta": "Facile",
+      "temi": [
+       "Scrittura e documenti",
+       "Assistenti e chatbot"
+      ],
+      "fonti": [
+       "u1a2"
+      ],
+      "affidabilita": "Appena lanciato",
+      "prova": "https://www.producthunt.com/products/glifa"
+     }
+    ],
+    "osint": [],
+    "gemme": [
+     {
+      "cosa": "BigMoeOnEdge",
+      "a_cosa_serve": "Strumento open source che permette di eseguire modelli linguistici di tipo MoE (Mixture of Experts) in formato GGUF su computer e smartphone sfruttando il motore llama.cpp.",
+      "perche_gemma": "Consente di far girare modelli AI complessi su schede grafiche o processori di fascia media mantenendo inalterata la qualità del modello.",
+      "con_ai": "Esegui modelli linguistici avanzati direttamente sul tuo computer o telefono salvaguardando la riservatezza dei dati.",
+      "piattaforme": [
+       "Android",
+       "Windows",
+       "iPhone",
+       "Mac",
+       "Linux"
+      ],
+      "self_hosted": true,
+      "costo": "Gratis",
+      "difficolta": "Per esperti",
+      "temi": [
+       "Open source e self-hosting",
+       "AI sul dispositivo"
+      ],
+      "fonti": [
+       "u1a165"
+      ],
+      "affidabilita": "Da verificare",
+      "come_iniziare": [],
+      "sul_dispositivo": false,
+      "come_sfruttarla": "",
+      "prova": ""
+     }
+    ],
+    "sezioni": [
+     {
+      "titolo": "Novità negli strumenti che già usi",
+      "notizie": [
+       {
+        "titolo": "Cal.com introduce la versione 7.0 con un assistente AI integrato",
+        "strumento": "Cal.com",
+        "riassunto": "La piattaforma per l'organizzazione degli appuntamenti aggiorna il proprio servizio integrando un assistente AI dedicato, nuovi tipi di eventi e la funzione Discover per facilitare la gestione dell'agenda.",
+        "come_provarla": "",
+        "disponibilita": "Disponibile ora",
+        "fonti": [
+         "u1a8"
+        ],
+        "temi": [
+         "Lavoro e produttività",
+         "Assistenti e chatbot",
+         "Scrittura e documenti"
+        ],
+        "affidabilita": "Appena lanciato",
+        "solo_titoli": false
+       }
+      ]
+     }
+    ],
+    "formato": 2,
+    "controllo_siti": [
+     {
+      "cosa": "Asus UGen 300",
+      "esito": "nessun sito da aprire"
+     },
+     {
+      "cosa": "BigMoeOnEdge",
+      "esito": "nessun sito da aprire"
+     },
+     {
+      "cosa": "LexiCAD",
+      "sito": "https://www.producthunt.com/r/p/1318136?app_id=339",
+      "esito": "errore: HTTP Error 403: Forbidden"
+     },
+     {
+      "cosa": "Glifa",
+      "sito": "https://www.producthunt.com/r/p/1317504?app_id=339",
+      "esito": "errore: HTTP Error 403: Forbidden"
+     },
+     {
+      "cosa": "Punchcutter",
+      "sito": "https://www.producthunt.com/r/p/1317334?app_id=339",
+      "esito": "errore: HTTP Error 403: Forbidden"
+     }
+    ]
+   }
+  }
+ ]
 }
