@@ -188,6 +188,18 @@
    "categoria": "Testate tech",
    "id": "u2a136",
    "testo_completo": true
+  },
+  "u3a135": {
+   "titolo": "Voyage Labs raises $12 million for a specialized AI travel assistant",
+   "link": "https://techcrunch.com/2026/11/17/voyage-labs-raises-12-million-for-a-specialized-ai-travel-assistant/",
+   "data": "2026-11-17T15:00:00+00:00",
+   "testo": "Planning a trip is a favorite demo for personal AI assistants: you can try it with Muse, or with Gemini or half a dozen other choices. But while most pitches use travel-planning as part of a general-purpose agent pitch, a new startup from a Google Maps alum is betting that a specialized travel-planning agent can beat the competition. The company is called Voyage Labs, and on Tuesday it announced $12 million in seed funding led by Kleiner Perkins, with participation from SignalFire and SV Angel. The company plans to use the funding to expand supplier partnerships and grow its engineering team. Voyage Labs’ flagship product is called Atlas, meant to work as a personal assistant for your trip-planning, available today in private beta. “People can use it to plan their and plan and book and manage their entire journey from the time they have an inspiration to the time they come back home,” says co-founder and CEO Manik Gupta. Atlas is designed to serve as an always-on assistant throughout the planning process, fielding ideas and doing research on every idea that’s raised. The long time horizon means Atlas can tailor recommendations based on weeks of conversation, while also monitoring real-time price fluctuations and ultimately booking flights and hotels. For the Voyage founders, it’s an ideal match between technology and use-case. “trip planning is a project that has its own lifecycle,” says Yogesh Jain, co-founder and CTO of the company. “You’re planning across days and weeks — so long-running agents as a technology matches that very well.” Travel assistants are already a crowded field, but Voyage will be starting with a lot of experience in the space. Gupta was previously the Director of Product Management for Google Maps, followed by four years as Chief Product Officer …",
+   "fonte": "TechCrunch",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Testate tech",
+   "id": "u3a135",
+   "testo_completo": true
   }
  },
  "fonti": [
@@ -817,10 +829,40 @@
   "samsungelectronicspicksyestforhpatooltrialin1ddrampush",
   "artectechnologiesaga6tsecuresfirstpoliceosintcontract",
   "osintwhenpublicinformationbecomesaweaponhaezreenabegumabdulhamid",
-  "attackoncrimeanbridgethrougheyesofflamingofirepointcofounderhintsatuseofukrainia"
+  "attackoncrimeanbridgethrougheyesofflamingofirepointcofounderhintsatuseofukrainia",
+  "klarnalaunchesaiassistantforshoppingandbookingsonwaitlist",
+  "dinggolaunchesfreeaitooltohelpaustraliandriversdecidewhethertoclaimorpayforcarre",
+  "lineeguidaagidsullintelligenzaartificialechecosacambiaperiltitolarepubblicoeperi",
+  "agatintroducespragatixprivateagentsuitetobuildandrunprivateaiagentssecurelyiniso",
+  "coinbaselauncheschatgptpluginwithtradeapprovalcards",
+  "coinbaselauncheschatgptpluginenablingstockcryptocurrencyandderivativestradingwit",
+  "infobipexpandscollaborationwithanthropicandlaunchesinfobipmessageconnectorinclau",
+  "boomerangfxlauncheschatgptaisearchadvertisingforaestheticwellnessandprivatepayhe",
+  "anthropicsaidtoguideipopricetotopofrangeorabove",
+  "claudefable52whyanthropicsmostexpensivemodelcanendupthecheapest",
+  "helientlaunchesaiadvisoryserviceforlawfirmsandearnsmicrosoftdataaicertification",
+  "sabrelaunchesagenticbookingcapabilitiesforgrokbottravelecosystem",
+  "voyagelabsraises12millionforaspecializedaitravelassistant",
+  "isomorphiclabsraises5basitlookstotakedrugcandidatestoclinicaltrials",
+  "sciencecorporationsbraintechisworth35billionafternewfunding",
+  "arslivewhatdodronestrikesondatacentersmeanforthefuturetalkat1pmesttoday",
+  "researchreports",
+  "openaiopensitscybersecuritytooldaybreaktonatoandeuropeangovernments",
+  "reportsofaigeneratedchildsexualabusematerialhavesurgedmorethan8400percentintwoye",
+  "isomorphiclabsraises5billioninitssecondmegaroundwithinsixmonths",
+  "californiasattorneygeneralsuesopenaioverrogueaimodelsthatattackedhuggingface",
+  "perplexityresearchnvidiarubinhpcopenaisafetyassessments",
+  "dettaglisullevulnerabilitàdopo30giornipercolpadellai",
+  "nuovalanciay10lacitycarchepotrebberiportareilmarchioaifastidelpassato",
+  "tuteladeisegreticommercialineiprogettiaiinodiperleimprese",
+  "intelligenzaartificialeascuolavialiberadelgaranteprivacyaccessipseudonimizzatien",
+  "askclaudeanyoneelsedoinganaipoweredquietquitting",
+  "thisisgettingoutofhandsnowanewgemini4neonmodelandsubscriptiontierspotted",
+  "nvidiaqwen38flashnextnvfp4qad",
+  "firecontinuesatanoildepotinazovrussiasrostovregionfollowingreportedexplosionsukr"
  ],
  "audio": "audio/2026-11-17.mp3",
- "durata": 156.2,
+ "durata": 173.1,
  "aggiornamenti": [
   {
    "generato": "2026-11-17T05:33:44+00:00",
@@ -948,6 +990,53 @@
       "cosa": "Pinecall",
       "sito": "https://www.producthunt.com/r/p/1318689?app_id=339",
       "esito": "errore: HTTP Error 403: Forbidden"
+     }
+    ]
+   }
+  },
+  {
+   "generato": "2026-11-17T16:25:00+00:00",
+   "modello": "gemini-3.6-flash",
+   "testi_completi": 8,
+   "riassunto": {
+    "titolo_giorno": "Atlas: l'assistente AI dedicato alla pianificazione completa dei viaggi",
+    "in_breve": "Nella rassegna di questo pomeriggio spicca Atlas, un nuovo agente AI ideato per la gestione dei viaggi. Lo strumento punta ad accompagnare l'utente in ogni fase dell'itinerario, dalla ricerca delle idee iniziali fino al monitoraggio dei prezzi e alla prenotazione finale.",
+    "citati": [
+     "Atlas"
+    ],
+    "da_provare": [
+     {
+      "cosa": "Atlas",
+      "a_cosa_serve": "Un assistente AI per la pianificazione dei viaggi che aiuta a ricercare idee, organizzare l'itinerario, monitorare le fluttuazioni dei prezzi in tempo reale e prenotare voli e hotel.",
+      "per_chi": "Tutti i giorni",
+      "ambito": "Viaggi",
+      "come_iniziare": [],
+      "costo": "Non indicato",
+      "piattaforme": [],
+      "sul_dispositivo": false,
+      "come_sfruttarla": "Pianificare un itinerario di vacanza seguendo i consigli dell'AI in base alle proprie conversazioni e al budget.",
+      "italiano": "Non indicato",
+      "difficolta": "Facile",
+      "temi": [
+       "Agenti AI",
+       "Assistenti e chatbot",
+       "Ricerca e informazioni"
+      ],
+      "fonti": [
+       "u3a135"
+      ],
+      "affidabilita": "Una fonte",
+      "prova": ""
+     }
+    ],
+    "osint": [],
+    "gemme": [],
+    "sezioni": [],
+    "formato": 2,
+    "controllo_siti": [
+     {
+      "cosa": "Atlas",
+      "esito": "nessun sito da aprire"
      }
     ]
    }
