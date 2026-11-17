@@ -140,6 +140,54 @@
    "categoria": "Testate tech",
    "id": "a154",
    "testo_completo": true
+  },
+  "u2a176": {
+   "titolo": "Gemini Notebook crea siti interattivi dalle proprie fonti: come funziona",
+   "link": "https://www.punto-informatico.it/gemini-notebook-crea-siti-interattivi-proprie-fonti-come-funziona/",
+   "data": "2026-11-17T09:01:30+00:00",
+   "testo": "Tra PDF, appunti e fogli di calcolo si accumulano spesso informazioni utili, ma non sempre facili da consultare. Google vuole renderle più accessibili con uno strumento che sembra quasi una bacchetta magica. Basta digitare una formula: make me a site. Da oggi Gemini Notebook sa prendere le fonti dell’utente (note, ricerche, materiali vari) e trasformarle in un sito interattivo. Il progetto è di Maria Ines Aranguren, ingegnera software di Google Labs. L’obiettivo è permette di capire in fretta informazioni intricate, senza dover scalare la montagna di testo. Gemini Notebook can now turn your sources into interactive sites like dashboards and visual explainers. To get started, simply type “make me a site” in your Gemini Notebook chat, along with a description of what you want to create, then select “Open in a new tab” to view or… pic.twitter.com/SfwT9MNVFl — Google (@Google) November 16, 2026 Gemini Notebook: come trasformare note e ricerche in siti interattivi Una volta aperta la chat di Gemini Notebook, basta scrivere “make me a site” e aggiungere cosa si vuole costruire, per lavoro o per studio. Non c’è altro. Niente editor, niente codice da scrivere a mano e nessun tutorial da venti minuti. Google fa tre esempi: - Spiegazioni visive per prepararsi agli esami, come una tavola periodica interattiva o una linea del tempo storica. Quella che ci si ricorda a memoria solo la sera prima dell’interrogazione. - Dashboard interattive per esplorare i dati, per esempio l’andamento delle vendite trimestrali. - Tracker per la gestione dei progetti, con compiti e scadenze in ordine. Quando il sito è pronto, si può scegliere “Open in a new tab” per aprirlo in una scheda a parte e usarlo. Da lì è possibile anche condividerlo con altre persone. Il riassunto smette di essere un file ch…",
+   "fonte": "Punto Informatico",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Italia",
+   "id": "u2a176",
+   "testo_completo": true
+  },
+  "u2a8": {
+   "titolo": "Pinecall",
+   "link": "https://www.producthunt.com/products/pinecall",
+   "sito": "https://www.producthunt.com/r/p/1318689?app_id=339",
+   "data": "2026-11-16T02:54:15-08:00",
+   "testo": "The open-source platform for voice AI agents",
+   "fonte": "Product Hunt (AI)",
+   "tipo": "vetrina",
+   "solo_titolo": false,
+   "categoria": "Strumenti",
+   "id": "u2a8"
+  },
+  "u2a174": {
+   "titolo": "Audible lancia Audio Discovery: l’AI presenta gli audiolibri",
+   "link": "https://www.punto-informatico.it/audible-audio-discovery-ai-presenta-audiolibri/",
+   "data": "2026-11-17T09:32:09+00:00",
+   "testo": "Audible ha appena lanciato una funzione chiamata audio discovery. Prima di decidere se imbarcarsi in dieci ore di narrazione, si ascolta una breve presentazione che racconta i temi del libro e riassume che cosa è piaciuto ai lettori. In più c’è un commento di un editor di Audible o dell’autore, e infine il classico estratto letto dal narratore. Non tutto è sintetico, però. La panoramica audio è generata dall’AI, mentre i commenti vengono ripescati da vecchie registrazioni di interviste fatte da Audible. L’autore che si sente, quindi, c’è davvero, solo che parla da un archivio. Come scegliere un audiolibro su Audible con l’AI Secondo l’azienda, l’obiettivo è aiutare chi sceglie in movimento e non ha tempo di scorrere commenti e recensioni. Sembra sensato. Chi cammina, guida o lava i piatti difficilmente si mette a leggere il parere di un utente di nome Marco77. L’idea non nasce dal nulla. Sullo store di Amazon l’AI riassume già le recensioni dei compratori, con tanto di pro e contro. Audible fa lo stesso, ma a voce. Le opinioni dei lettori vengono prese dalle recensioni pubbliche, insieme a sinossi, metadati e altri materiali disponibili. Qui entra in scena un sospetto, e il testo originale lo dichiara con prudenza: se l’AI pesca solo tra i commenti entusiasti, rischia di far sparire quelli negativi. Un buon libro, a quel punto, è un libro con un ufficio stampa molto efficiente. Non è detto che succeda, servirà metterlo alla prova. Amazon sfida Spotify Il mese scorso Audible aveva già lanciato alcuni strumenti AI per interagire con la storia, parlare con i personaggi e recuperare il filo con i riassunti. Nel frattempo Spotify ha infilato ore di audiolibri negli abbonamenti a pagamento ed è sbarcato in oltre 180 mercati. Con un concorrente così, restare fermi non convien…",
+   "fonte": "Punto Informatico",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Italia",
+   "id": "u2a174",
+   "testo_completo": true
+  },
+  "u2a136": {
+   "titolo": "Spotify’s new tool aims to stop deepfakes from being attributed to real artists",
+   "link": "https://techcrunch.com/2026/11/17/spotifys-new-tool-aims-to-stop-deepfakes-from-being-attributed-to-real-artists/",
+   "data": "2026-11-17T14:00:00+00:00",
+   "testo": "As AI-generated slop continues to flood music streaming platforms, Spotify is rolling out an “Artist Profile Protection” tool to all artists, giving them control over the music appearing under their name. The official launch comes eight months after the company began beta testing the feature with select artists. Spotify says the tool is designed to address a longstanding issue across streaming services, where music can end up on the wrong artist profile due to deliberate impersonation, metadata errors, or shared artist names. The update comes as Billboard reported last month that Sony Music had requested the removal of more than 260,000 deepfake songs from digital platforms, nearly double the number the label disclosed in March. With this new feature, Spotify is aiming to give artists more control over their digital identities as the volume of music uploaded to streaming services continues to grow. Artists can enable the feature through Spotify for Artists to receive alerts when new music is submitted under their name. If a release doesn’t belong to them, they can remove their association with it to stop it from appearing on their profile. By default, releases go live as scheduled unless an artist intervenes. If artists want greater control, they can choose to switch on an advanced setting that requires them to manually approve or reject releases before they appear on their profile. “Artists should never have to find someone else’s music under their name, said Sam Duboff. Spotify’s Global Head of Marketing and Policy, in an email, stated to TechCrunch. “Their artist profile should be in their control. Starting today, every artist on Spotify can use Artist Profile Protection to review what shows up on their profile and prevent spammy and incorrect releases from ever rea…",
+   "fonte": "TechCrunch",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Testate tech",
+   "id": "u2a136",
+   "testo_completo": true
   }
  },
  "fonti": [
@@ -682,16 +730,227 @@
   "ironicallynvidiamadethisvideopossible",
   "llm0373",
   "hiddendangersofopensourceintelligence",
-  "alviaprimacollaborazionedelcentrouecontrolefakenewsconongefactchecker"
+  "alviaprimacollaborazionedelcentrouecontrolefakenewsconongefactchecker",
+  "vinc",
+  "wispos",
+  "agentsapibyrecallai",
+  "gatherhqagentresearch",
+  "awsemulator",
+  "ballet",
+  "liquidd12",
+  "pinecall",
+  "superhands",
+  "basestudio",
+  "infaiw",
+  "linarclaunchesliaaiassistanttoautomateconstructiondocumentmanagement",
+  "creatormarketingplatformnutcakelaunchesaitoolthatanalyzeswhatappearsinsidecreato",
+  "openailaunchesaitooltodetectchildabuseimages",
+  "indiasvelocityunveilsaitoolford2cshipping",
+  "favaraguardaalfuturoconsofiaarrivainpiazzacavouriltotemdigitaleconintelligenzaar",
+  "anziosaldoimu2026attivigliassistentidigitaliconintelligenzaartificiale24oresu24",
+  "applevuolecapirequantocifidiamodellaiquandoparliamodisalute",
+  "googlegeminiorabastaunafrasepercreareunsitowebeccocomefunziona",
+  "chatgptwalletgliagentiaiarrivanoalpagamentoonline",
+  "arrivaiphoneduonelsimulatorediclaudecodecontreposedaprovare",
+  "neolensdevelopsofflineaiassistantforandroidtosupportmilitaryequipmentrepairs",
+  "bestlocalaimodelsfor16gbvrammacsand12gbcards",
+  "grapheneossenzagooglecosacambianellusoquotidiano",
+  "geminiinandroidautocouldfinallykeepmyhandsoffmyphoneatredlights",
+  "releasepaperlessaiv410andafewwordstothecommunity",
+  "mysetupamangledmessdoesitcountjustgettingstarted",
+  "stalwartmailandenshittificationofopensourceprojects",
+  "liberntaimstorecreatewindows11withoutmicrosoftofferinganopensourcealternativetha",
+  "yourmoviesyourserverhowpersonalstreaminglibrarieswork",
+  "n8nn8n330",
+  "strengtheningnatoandalliedcyberdefenseswithai",
+  "introducingopenaiforchile",
+  "howrevolutraisesambitionwithoutloweringthebar",
+  "listeningtoteensononlinesafety",
+  "nearprotocollaunchesclaudefable52upgradeforaicloud",
+  "coinbaselauncheschatgptplugintotradestockscryptoandderivatives",
+  "openaidebutschatgptwalletforagenticcommerce",
+  "speedyindexlaunchesseomcpserverwith22toolsforclaudecursorandvscode",
+  "gemininotebooklauncheswebsitegenerationfeaturesupportscreatinginteractivewebpage",
+  "anthropicipohowcanibuysharesandisitworthit",
+  "hedgefundcoatuesaibetpaysoffwith10billionanthropicstake",
+  "anthropicipocouldmakeitsemployeesworthanaverageof41million",
+  "anthropicsaysitblockedpotentialaibioweaponmisuseabcnews",
+  "anthropicsaigotclauderunningonamdchipsinthreedays",
+  "yardivirtuosoconnectorsnowworkwithmicrosoftcopilotandchatgpt",
+  "microsoftoutagehitsday2nocyberlinkseen2026",
+  "itestedappleintelligenceonatopnewsecuritycameratofinditslimits",
+  "perplexityteammatesbringautonomousaiagentstothemacapp",
+  "perplexitylaunchesfrontierresearchwith10000gpus",
+  "nvidiasfirstbigmoveafterjensenhuangsexittargetsnationalsecurity",
+  "spotifysnewtoolaimstostopdeepfakesfrombeingattributedtorealartists",
+  "grokbottookunapprovedactionsignoredorderstostopandthendeniedit",
+  "ivaccinidelfuturospintidallintelligenzaartificialediretta",
+  "openaiapreunblogscientificoilfisicoproponelaidimostra",
+  "nvidiacomitatoperilcontrollodelleesportazioni",
+  "agentigemini4argonpossonoaggirarelerestrizioni",
+  "attacchidegliagentiaidenunciaperopenaiincalifornia",
+  "hackerinferieoragliattacchililancialaidasolaavvertegoogle",
+  "instagramintegrailinkaffiliatiamazoninreelepost",
+  "audiblelanciaaudiodiscoverylaipresentagliaudiolibri",
+  "agentiaiappleaggiornaicontrolliperlaccessoaldisco",
+  "gemininotebookcreasitiinterattividallepropriefonticomefunziona",
+  "comeaccederegratisadappletvecosavedere",
+  "asustufgaminga16conryzen7envidiageforcertx5070nientecompromessi",
+  "nvidiaritornodijensenhuangpocoprobabile",
+  "lecartesatispayarrivanosugarminpaypaghisenzatelefononéportafoglio",
+  "aisullavoroqualiregoledevonoseguireleaziendeitaliane",
+  "aiecybersecuritygliattacchiabilitatidallaicostano6milioni",
+  "canoneunicopatrimonialeperletlccomerispondereaicomuni",
+  "nvidialacrisiscuotewashingtonstrettasuichipaiepaxsilica",
+  "intelligenzaartificialeascuolaarrivailsìdelgarantequaliregoledevonoseguiregliist",
+  "scontridimilanoperilgaranteprivacyildirittodicronacanongiustificalidentificazion",
+  "wellthisisnew",
+  "startedusingclaudemeetingstoday",
+  "goodbyeitsbeenagreatandwildride",
+  "nicetrypromptinjector",
+  "finallygotitputtogether",
+  "intelsharesfirstbenchmarksofitsnextgencrescentislandd270gpuclaiminga59xthroughpu",
+  "digitalsecuritybasicsforinvestigativejournalistsluisassardo",
+  "জআইজএনরপরভবgijnimpact",
+  "visualstorytellingforinvestigationstipsandtools",
+  "howtocheckaphotoscontextwithreverseimagesearch",
+  "samsungelectronicspicksyestforhpatooltrialin1ddrampush",
+  "artectechnologiesaga6tsecuresfirstpoliceosintcontract",
+  "osintwhenpublicinformationbecomesaweaponhaezreenabegumabdulhamid",
+  "attackoncrimeanbridgethrougheyesofflamingofirepointcofounderhintsatuseofukrainia"
  ],
  "audio": "audio/2026-11-17.mp3",
- "durata": 102.2,
+ "durata": 156.2,
  "aggiornamenti": [
   {
    "generato": "2026-11-17T05:33:44+00:00",
    "modello": "gemini-3.6-flash",
    "testi_completi": 1,
    "riassunto": null
+  },
+  {
+   "generato": "2026-11-17T14:32:19+00:00",
+   "modello": "gemini-3.5-flash-lite",
+   "testi_completi": 16,
+   "riassunto": {
+    "titolo_giorno": "Gemini Notebook trasforma note e documenti in siti interattivi",
+    "in_breve": "Google introduce in Gemini Notebook la funzione per generare siti interattivi, dashboard e spiegazioni visive partendo dalle proprie fonti testuali con una singola istruzione. Crescono intanto le soluzioni orientate agli agenti autonomi, come la piattaforma open source Pinecall per assistenti vocali.",
+    "citati": [
+     "Gemini Notebook",
+     "Pinecall"
+    ],
+    "da_provare": [
+     {
+      "cosa": "Gemini Notebook",
+      "a_cosa_serve": "Converte note, appunti e documenti di ricerca in siti web interattivi, dashboard e linee del tempo con un semplice comando testuale.",
+      "per_chi": "Lavoro e tutti i giorni",
+      "ambito": "Scrittura e documenti",
+      "come_iniziare": [
+       "Aprire la chat di Gemini Notebook inserendo le proprie fonti",
+       "Digitare il comando di generazione e aprire il risultato in una nuova scheda"
+      ],
+      "costo": "Non indicato",
+      "piattaforme": [
+       "Browser"
+      ],
+      "sul_dispositivo": false,
+      "come_sfruttarla": "Trasformare appunti di studio o dati di lavoro in una pagina web interattiva da condividere.",
+      "italiano": "Non indicato",
+      "difficolta": "Facile",
+      "fonti": [
+       "u2a176"
+      ],
+      "temi": [
+       "Scrittura e documenti",
+       "Ricerca e informazioni",
+       "Assistenti e chatbot"
+      ],
+      "affidabilita": "Una fonte",
+      "prova": ""
+     },
+     {
+      "cosa": "Pinecall",
+      "a_cosa_serve": "Piattaforma open source progettata per la creazione e la gestione di agenti vocali basati su intelligenza artificiale.",
+      "per_chi": "Lavoro",
+      "ambito": "Voce e audio",
+      "come_iniziare": [
+       "Accedere alla piattaforma open source",
+       "Configurare i componenti per l'agente vocale"
+      ],
+      "costo": "Gratis",
+      "piattaforme": [
+       "Browser"
+      ],
+      "sul_dispositivo": false,
+      "come_sfruttarla": "Sviluppare assistenti vocali automatizzati per rispondere a richieste specifiche.",
+      "italiano": "No",
+      "difficolta": "Media",
+      "fonti": [
+       "u2a8"
+      ],
+      "temi": [
+       "Voce e audio",
+       "Open source e self-hosting",
+       "Agenti AI"
+      ],
+      "affidabilita": "Appena lanciato",
+      "prova": "https://www.producthunt.com/products/pinecall"
+     }
+    ],
+    "osint": [],
+    "gemme": [],
+    "sezioni": [
+     {
+      "titolo": "Novità negli strumenti che già usi",
+      "notizie": [
+       {
+        "titolo": "Arriva la protezione del profilo per gli artisti contro i deepfake musicali",
+        "strumento": "Spotify",
+        "riassunto": "Spotify lancia uno strumento globale per consentire agli artisti di controllare la musica associata al proprio profilo, ricevere avvisi sui nuovi caricamenti e bloccare brani generati da IA non autorizzati o pubblicati per errore.",
+        "come_provarla": "Gli artisti possono attivare la funzione direttamente dalla sezione Spotify for Artists.",
+        "disponibilita": "Disponibile ora",
+        "fonti": [
+         "u2a136"
+        ],
+        "temi": [
+         "Voce e audio",
+         "Privacy e sicurezza"
+        ],
+        "affidabilita": "Una fonte",
+        "solo_titoli": false
+       },
+       {
+        "titolo": "Lancia Audio Discovery con presentazioni generate dall'AI",
+        "strumento": "Audible",
+        "riassunto": "Audible introduce anteprime audio generate dall'intelligenza artificiale per riassumere i temi principali dei libri e le recensioni dei lettori, affiancate da commenti originali di autori ed editor.",
+        "come_provarla": "La funzione è integrata direttamente nell'applicazione e nello store per la scelta degli audiolibri.",
+        "disponibilita": "Disponibile ora",
+        "fonti": [
+         "u2a174"
+        ],
+        "temi": [
+         "Voce e audio",
+         "Ricerca e informazioni"
+        ],
+        "affidabilita": "Una fonte",
+        "solo_titoli": false
+       }
+      ]
+     }
+    ],
+    "formato": 2,
+    "controllo_siti": [
+     {
+      "cosa": "Gemini Notebook",
+      "esito": "nessun sito da aprire"
+     },
+     {
+      "cosa": "Pinecall",
+      "sito": "https://www.producthunt.com/r/p/1318689?app_id=339",
+      "esito": "errore: HTTP Error 403: Forbidden"
+     }
+    ]
+   }
   }
  ]
 }
