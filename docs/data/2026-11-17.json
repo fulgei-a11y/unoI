@@ -1,0 +1,657 @@
+{
+ "giorno": "2026-11-17",
+ "generato": "2026-11-17T00:35:19+00:00",
+ "modello": "gemini-3.6-flash",
+ "testi_completi": 35,
+ "riassunto": {
+  "titolo_giorno": "Gemini Notebook crea siti web interattivi dagli appunti",
+  "in_breve": "Google ha aggiornato Gemini Notebook introducendo una funzione che trasforma note e documenti in siti web ed elementi dinamici tramite un semplice comando. La novità mostra come gli assistenti AI stiano evolvendo dal generare risposte testuali alla creazione diretta di strumenti di consultazione visivi.",
+  "citati": [
+   "Gemini Notebook"
+  ],
+  "da_provare": [],
+  "osint": [],
+  "gemme": [],
+  "sezioni": [
+   {
+    "titolo": "Novità negli strumenti che già usi",
+    "notizie": [
+     {
+      "titolo": "Creazione di siti web e cruscotti interattivi da note e documenti",
+      "strumento": "Gemini Notebook",
+      "riassunto": "Digitando il comando \"make me a site\" insieme alla descrizione di ciò che si intende realizzare, Gemini Notebook trasforma i file e gli appunti caricati in veri e propri siti web interattivi. È possibile generare cruscotti per analizzare dati, linee temporali storiche o tabelle consultabili direttamente dal browser.",
+      "come_provarla": "Accedi a Gemini Notebook sul web tramite browser e inserisci la richiesta nella finestra di chat.",
+      "disponibilita": "Disponibile ora",
+      "fonti": [
+       "a86"
+      ],
+      "temi": [
+       "Scrittura e documenti",
+       "Lavoro e produttività",
+       "Assistenti e chatbot"
+      ],
+      "affidabilita": "Fonte ufficiale",
+      "solo_titoli": false
+     },
+     {
+      "titolo": "Arrivano 66 nuove voci regionali e dialetti locali",
+      "strumento": "Gemini",
+      "riassunto": "Google ha aggiunto 66 nuove opzioni vocali nell'app mobile di Gemini, sviluppate per riprodurre cadenze e ritmi locali in modo naturale. La voce selezionata viene applicata sia alle conversazioni in tempo reale con Gemini Live sia alla lettura a voce dei testi.",
+      "come_provarla": "Apri l'app Gemini su Android o iOS, accedi al menu a tre punti in Gemini Live o seleziona la voce nelle impostazioni dell'applicazione.",
+      "disponibilita": "Disponibile ora",
+      "fonti": [
+       "a82"
+      ],
+      "temi": [
+       "Voce e audio",
+       "Assistenti e chatbot",
+       "AI sul dispositivo"
+      ],
+      "affidabilita": "Fonte ufficiale",
+      "solo_titoli": false
+     },
+     {
+      "titolo": "Generazione di pagine web e grafiche interattive nel canvas",
+      "strumento": "Claude",
+      "riassunto": "Anthropic ha integrato la tecnologia HTML-in-Canvas in Claude, permettendo all'AI di inserire elementi web reali come pulsanti e testo selezionabile all'interno di grafiche complesse. Con un singolo prompt è possibile far creare all'AI schemi interattivi, mini-applicazioni e pagine web navigabili.",
+      "come_provarla": "Richiedi esplicitamente a Claude nel prompt di utilizzare la modalità HTML-in-Canvas per il progetto.",
+      "disponibilita": "Disponibile ora",
+      "fonti": [
+       "a154"
+      ],
+      "temi": [
+       "Programmare senza codice",
+       "Assistenti e chatbot"
+      ],
+      "affidabilita": "Una fonte",
+      "solo_titoli": false
+     }
+    ]
+   },
+   {
+    "titolo": "In breve",
+    "breve": true,
+    "notizie": [
+     {
+      "titolo": "Apple testa limiti di utilizzo giornalieri per le funzioni avanzate di Siri e Apple Intelligence",
+      "riassunto": "Nelle versioni beta di iOS 27.3, Apple sta sperimentando tetti giornalieri d'uso per le funzioni AI elaborati in cloud, superabili solo sottoscrivendo i piani di abbonamento iCloud Plus.",
+      "fonti": [
+       "a126"
+      ],
+      "temi": [
+       "Regole e leggi",
+       "Scrittura e documenti"
+      ],
+      "affidabilita": "Una fonte",
+      "solo_titoli": false
+     }
+    ]
+   }
+  ],
+  "formato": 2,
+  "controllo_siti": []
+ },
+ "articoli": {
+  "a86": {
+   "titolo": "Transform notes, research, and sources into interactive sites with Gemini Notebook.",
+   "link": "https://blog.google/innovation-and-ai/products/gemini-notebook/interactive-sites/",
+   "data": "2026-11-16T16:00:00+00:00",
+   "testo": "Transform notes, research, and sources into interactive sites with Gemini Notebook. Starting today, Gemini Notebook can turn your sources into interactive sites to help you quickly make sense of complex information. To get started, simply type “make me a site” in your Gemini Notebook chat along with a description of what you want to build for work or study, such as: - Visual explainers to help you prepare for exams, like an interactive periodic table or a historical timeline. - Interactive dashboards to explore your data, such as quarterly sales performance. - Project management trackers to outline your tasks and deadlines. Once built, select “Open in a new tab” to interact with it, or share it with others. This capability is rolling out globally on the web today for Gemini Notebook users (18+), including Google Workspace subscribers, and is coming soon to the mobile app.",
+   "fonte": "Google (blog ufficiale)",
+   "tipo": "ufficiale",
+   "solo_titolo": false,
+   "categoria": "Laboratori",
+   "id": "a86",
+   "testo_completo": true
+  },
+  "a82": {
+   "titolo": "Regional voices are rolling out in the Gemini app.",
+   "link": "https://blog.google/innovation-and-ai/products/gemini-app/regional-voices/",
+   "data": "2026-11-16T18:45:00+00:00",
+   "testo": "Regional voices are rolling out in the Gemini app. At Google I/O, we shared plans to bring local dialects to Gemini, so you can choose a voice that truly resonates with you. Today, we’re rolling out 66 new regional voices in the Gemini app on Android and iOS, including U.S. English, U.K. English, India English, Hindi, Brazilian Portuguese, Indonesian, and Korean, with tailored options for each. Each voice is tuned for natural cadences and everyday clarity, rather than exaggerated accents. They capture familiar local rhythms, pitch, and inflection to make talking with Gemini feel more personal. Your selected voice carries across the entire app, whether you’re brainstorming out loud in Gemini Live, practicing a language, or tapping the Listen icon in chat to hear a detailed response read aloud. To preview the new options and pick a favorite, tap the three-dot menu in Gemini Live, or open Gemini’s voice in your app settings.",
+   "fonte": "Google (blog ufficiale)",
+   "tipo": "ufficiale",
+   "solo_titolo": false,
+   "categoria": "Laboratori",
+   "id": "a82",
+   "testo_completo": true
+  },
+  "a126": {
+   "titolo": "Apple is testing daily usage limits for more complex Siri AI interactions",
+   "link": "https://www.theverge.com/tech/1034581/apple-intelligence-siri-ai-daily-usage-limits-icloud-subscription",
+   "sito": "",
+   "data": "2026-11-16T14:24:40-05:00",
+   "testo": "Apple released betas of iOS 27.3, iPadOS 27.3, and macOS 27.3 today, and the company is using the update to test new per device daily usage limits for some Siri AI and Apple Intelligence features, according to MacRumors. Apple is testing daily usage limits for more complex Siri AI interactions Frequent users of some Siri AI and Apple Intelligence features will require an iCloud Plus subscription to avoid limits. Basic Siri commands and requests will remain free and unlimited, but more advanced features that rely on cloud-based processing like generating, cleaning up, or extending images in Photos will be subjected to the daily limits. There are four categories of limited usage, MacRumors reports, including using Siri AI for “multi-step, personal context requests,” image generation and editing tools, automations in Shortcuts that “rely on Apple Foundation Cloud and Cloud Pro Models,” and third-party apps that use those same cloud models. Apple hasn’t specified exactly how many times those features and tools can be used each day before limits are reached, but they’ll vary based on the task. The company reportedly plans to provide notifications when users are approaching their limit and have finally reached it. Instead of having to wait until midnight each day for your usage to reset, most of Apple’s existing iCloud Plus plans (excluding the 50GB option) will include higher daily limits at their same price. The $2.99/month 200GB subscription includes 2x the usage, the $9.99/month 2TB plan includes 5x the usage, while the $29.99/month 6TB and $59.99 12TB/month options bump the usage limit to 10x and 20x, respectively. Family members sharing an iCloud Plus subscription will have a shared usage pool that’s used on a first come, first served basis. Last week Apple updated Log…",
+   "fonte": "The Verge",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Testate tech",
+   "id": "a126",
+   "testo_completo": true
+  },
+  "a154": {
+   "titolo": "Claude now builds interactive websites inside canvas graphics, reviving the Flash era with real HTML",
+   "link": "https://the-decoder.com/claude-now-builds-interactive-websites-inside-canvas-graphics-reviving-the-flash-era-with-real-html/",
+   "data": "2026-11-16T16:10:22+00:00",
+   "testo": "Claude now builds interactive websites inside canvas graphics, reviving the Flash era with real HTML Claude can now embed text, buttons, and other web elements into complex graphics and 3D effects. Web pages have always faced a tradeoff. Standard HTML elements are clickable, selectable, and readable by screen readers, but they're hard to warp visually. Canvas lets you draw anything you want, but the browser treats it like a flat image. You can't select text or click links inside it. HTML-in-Canvas changes that by placing real page elements inside canvas graphics while keeping them fully interactive. Felix Rieseberg works on Claude at Anthropic. He wrote on X that Claude can now build \"bizarre & beautiful sites\" with the feature, adding that it reminds him of the Flash era. A demo page shows 15 examples, including websites rendered as knitting patterns, 3D cubes, or exploded layer views. The content stays as real text you can highlight and copy. Google is developing HTML-in-Canvas as a web standard that preserves both interactivity and accessibility. The feature works in Chrome and Edge starting with version 157 and in Claude's desktop apps from version 5.11492. Safari and Firefox don't support it yet. Users need to ask Claude for HTML-in-Canvas explicitly in their prompt. Claude keeps getting more creative with visual tasks. Recently, Claude Fable 5.2 painted photorealistic artwork stroke by stroke using self-written Python code. AI News Without the Hype – Curated by Humans Subscribe to THE DECODER for ad-free reading, a weekly AI newsletter, our exclusive \"AI Radar\" frontier report six times a year, full archive access, and access to our comment section. Subscribe now",
+   "fonte": "The Decoder",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Testate tech",
+   "id": "a154",
+   "testo_completo": true
+  }
+ },
+ "fonti": [
+  {
+   "nome": "Product Hunt (AI)",
+   "ok": true,
+   "presi": 10
+  },
+  {
+   "nome": "Show HN (nuovi progetti)",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "Nuove app AI (internazionale)",
+   "ok": true,
+   "presi": 10
+  },
+  {
+   "nome": "Nuove app AI (Italia)",
+   "ok": true,
+   "presi": 8
+  },
+  {
+   "nome": "Novità AI da provare (Italia)",
+   "ok": true,
+   "presi": 8
+  },
+  {
+   "nome": "AI sul dispositivo (internazionale)",
+   "ok": true,
+   "presi": 8
+  },
+  {
+   "nome": "AI sul dispositivo (Italia)",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "Android Police (AI su Android)",
+   "ok": true,
+   "presi": 4
+  },
+  {
+   "nome": "Windows Central (AI su Windows)",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "Ollama (nuove versioni)",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "Open WebUI (nuove versioni)",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "Show HN – progetti utili (gemme)",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "Reddit r/selfhosted",
+   "ok": true,
+   "presi": 6
+  },
+  {
+   "nome": "Reddit r/opensource",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "Alternative open source (Google News)",
+   "ok": true,
+   "presi": 6
+  },
+  {
+   "nome": "n8n (nuove versioni)",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "Immich (nuove versioni)",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "OpenAI",
+   "ok": true,
+   "presi": 6
+  },
+  {
+   "nome": "Google (blog ufficiale)",
+   "ok": true,
+   "presi": 8
+  },
+  {
+   "nome": "Google Gemini (blog)",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "Nuove funzioni AI (Google News)",
+   "ok": true,
+   "presi": 12
+  },
+  {
+   "nome": "Anthropic / Claude",
+   "ok": true,
+   "presi": 6
+  },
+  {
+   "nome": "Microsoft Copilot",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "Altri assistenti AI (Perplexity, Mistral, Meta AI…)",
+   "ok": true,
+   "presi": 8
+  },
+  {
+   "nome": "Hugging Face (modelli e strumenti aperti)",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "Mistral AI",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "The Verge",
+   "ok": true,
+   "presi": 10
+  },
+  {
+   "nome": "TechCrunch",
+   "ok": true,
+   "presi": 12
+  },
+  {
+   "nome": "Ars Technica",
+   "ok": true,
+   "presi": 3
+  },
+  {
+   "nome": "MIT Technology Review",
+   "ok": true,
+   "presi": 3
+  },
+  {
+   "nome": "The Decoder",
+   "ok": true,
+   "presi": 8
+  },
+  {
+   "nome": "TLDR AI (newsletter)",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "ANSA",
+   "ok": true,
+   "presi": 6
+  },
+  {
+   "nome": "Wired Italia",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "Il Sole 24 Ore Tecnologia",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "Punto Informatico",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "HDblog",
+   "ok": true,
+   "presi": 4
+  },
+  {
+   "nome": "AI4Business",
+   "ok": true,
+   "presi": 4
+  },
+  {
+   "nome": "Agenda Digitale (AI)",
+   "ok": true,
+   "presi": 3
+  },
+  {
+   "nome": "Garante Privacy e AI",
+   "ok": true,
+   "presi": 3
+  },
+  {
+   "nome": "Malwarebytes (app e truffe AI)",
+   "ok": true,
+   "presi": 2
+  },
+  {
+   "nome": "Reddit",
+   "ok": true,
+   "presi": 8
+  },
+  {
+   "nome": "Reddit (AI locale)",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "Simon Willison (prove pratiche di strumenti AI)",
+   "ok": true,
+   "presi": 2
+  },
+  {
+   "nome": "Bellingcat (guide e strumenti)",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "GIJN (guide per giornalisti investigativi, via Google News)",
+   "ok": true,
+   "presi": 4
+  },
+  {
+   "nome": "OSINT – verifica e fact-checking (internazionale)",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "OSINT – nuovi strumenti (internazionale)",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "OSINT – strumenti (Italia)",
+   "ok": true,
+   "presi": 2
+  },
+  {
+   "nome": "Facta (fact-checking, contenuti falsi e AI)",
+   "ok": true,
+   "presi": 3
+  },
+  {
+   "nome": "Week in OSINT (Sector035)",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "The OSINT Newsletter",
+   "ok": true,
+   "presi": 2
+  },
+  {
+   "nome": "IDMO (osservatorio italiano sulla disinformazione)",
+   "ok": true,
+   "presi": 2
+  },
+  {
+   "nome": "EU DisinfoLab",
+   "ok": true,
+   "presi": 2
+  },
+  {
+   "nome": "Reddit (OSINT)",
+   "ok": true,
+   "presi": 4
+  },
+  {
+   "nome": "Hacker News (OSINT)",
+   "ok": true,
+   "presi": 0
+  }
+ ],
+ "visti": [
+  "stateweave",
+  "papyras",
+  "glifa",
+  "punchcutter",
+  "lexicad",
+  "calcomv7",
+  "uisdkbyvercel",
+  "bytevoice",
+  "agenticcanvas",
+  "peritmarketplace",
+  "dbbranchdatabasebranchesinsecondsforaiagentsandciviazfs",
+  "uclawsanfranciscolaunchesaitoolbuildingcourseforlawyers",
+  "johndeerelaunchesaiassistant",
+  "aquicklookathowadobesnewaiassistantcouldstreamlineyourworkflowsinpremiere",
+  "applehaslaunchedamedicalaiassistantfortheiphone",
+  "danillilaunchesanaiapptoaskshopbuildwebsitesandstartabusiness",
+  "starlingbanklaunchesvoicepaymentsviaaiassistant",
+  "benchmedialaunchesauraaiassistant",
+  "benchmedialaunchesaiassistantauraforcampaignanalysis",
+  "factbirdlaunchesvisualintelligenceandfactbirdmcpaithatseestheshopfloorandconnect",
+  "avenilaunchesaitooltospeedupadvicecompliancereviews",
+  "applelanciaappperstudiarelusodellintelligenzaartificialenellasalute",
+  "marinadiravennaarrivascoprimarinalintelligenzaartificialeguidaturistieresidenti",
+  "notiziedallagiunta",
+  "applelanciaunapppertestarelaisullasalutechipuòpartecipar",
+  "arrivanaonialassistentedigitaleaidipordenonecapitaledellacultura2027",
+  "intelligenzaartificialelasiciliadavantiaunanuovasfidacambianoimpreseelavoro",
+  "lintelligenzaartificialeèdiventataunabollettamachilapagheràaimedicieagliinfermie",
+  "lintelligenzaartificialeguidaresidentieturistichecercanoinfosueventiservizieatti",
+  "comeusarechatgptegeminipertrovaregliscontidelblackfriday2026",
+  "chiediamapsarrivaineuropapreparaitineraricompletiecercatraipostichehaisalvato",
+  "googlegeminiarrivasuapplecarplaysirihaunnuovorivaleinauto",
+  "cosèchatgptwalletecomefunzionaperpagarecongliagentiai",
+  "chatgptwalletpartedaglistatiuniticomesiapprovanogliacquistieperchénonèdisponibil",
+  "2agentiaiineuropadotsesclusomusesenzadata",
+  "geminiintroduce66vociregionalinellappperandroideioslsdi",
+  "chatgptwalletopenailanciailnuovoportafogliodigitaleperorasolonegliusa",
+  "ijustreplacedduolingowithalocalllmthattooktwominutestosetuponmyandroidphonehowto",
+  "applelaunchesprivateaihealthstudyappfirstofitskindbetaopensto200000testersbutyou",
+  "obscurifyaiimplementsunlinkableinferenceandblindsignaturesforprivateaiaccess",
+  "flagstarbankbuildsasecuremanageablefoundationforaiwithwindows11",
+  "gigabyteannouncesaitopaeroforlocalaidevelopment",
+  "localaifoundationllamacppreachesfirstv100signalingapistabilityafter35years",
+  "gmktecevox3windows11cpuz",
+  "istheamdryzenaihaloworthbuyingforlocalai",
+  "ryzenaihalodiamdconvienedavverocomprarloperlailocale",
+  "perplexityportablecomputerportalailocalesullegpunvidiartxprivacyepotenzasenzaclo",
+  "windows11girainlocalesuiphoneduograzieaunprogettosenzajailbreak",
+  "redmipotrebbepreparareunosmartphonecompattocondisplayltpoda63pollici",
+  "liaarrivasuinostripcmachicontrollaciòchepuòvedere",
+  "imditchinggooglekeepforgoodclaudeandchatgptarewhy",
+  "iswitchedfromgeminitoclaudeonandroidthetradeoffssurprisedme",
+  "googledocsandgemininotebookreplacedmyobsidianvaultforgood",
+  "iintegratedgooglegeminiacrossdocskeeptasksandsheetstostreamlinemydailyworkflow",
+  "dissectingmicrosoftsbigserviceoutageandnvidiaceoscandalpodcast",
+  "openwebuiv0130",
+  "mybackupplanwassogoodididntnoticemyvmhosthaddiedforaweek",
+  "sniffnetopensourcenetworktrafficmonitornowwithsupportforroutersfirewallsservers",
+  "anyblindselfhosters",
+  "foldingathometesserae",
+  "backingupandsnapshottingtools",
+  "selfhostinggitwithforgejowhilebenefitingfromgithubscommunityhowdoyoumanageboth",
+  "formeopensourcesoftwarehaskindalostthebeautyofit",
+  "jetbrainsrenewedtheirsupportforgodotenginethrough2027",
+  "redhatworkingtoimprovememorytieringforqemuvmstosaveram",
+  "whatsaforkyouuseofapopularsoftwarethatyouthinkmorepeopleshouldknowabout",
+  "aregithubprojectsbecomingmoreshortlived",
+  "kist20aselfhostedlibraryformediaandeaglecadfiles",
+  "whatisthebestuidesigntool8toolscomparedbythejobtheydo2026",
+  "bruceröttgersdetailsalowcostpathtoselfhostedmaptileswithprotomaps",
+  "withcoralreleasescoralanopensourcegatewayforcontrolledagenttooluse",
+  "capyreaderrssreadingwithoutfrillsorexternaldependenciesonandroid",
+  "nextcloudlaunchesfreemicrosoftofficealternativeforwindowsmacandlinux",
+  "n8nstable",
+  "immichv340",
+  "broadeningaccesstoaiforscientists",
+  "strengtheningthefightagainstonlinechildsexualabusewithnewtoolsandsupport",
+  "scienceatthefrontierhowscientistsusechatgpt",
+  "ourfirstphaseofembeddedassessments",
+  "advancingcomputeruseagentsforhealthcareteams",
+  "morewaystomovecareforwardwithchatgptforhealthcare",
+  "regionalvoicesarerollingoutinthegeminiapp",
+  "theeraofautonomousattackshasarrived",
+  "newgoogleadmobaitoolshelpappcreatorsbuildfixandgrowfaster",
+  "newaitrainingperformancebenchmarksforgoogletpus",
+  "transformnotesresearchandsourcesintointeractivesiteswithgemininotebook",
+  "askmapsiscomingtoeurope",
+  "whatteenagersreallythinkaboutonlinesafetyandai",
+  "helpingteensnavigateonlinenewsandinformation",
+  "blacklinenowavailableonanthropicsclaudemarketplace",
+  "googlewalletusersgaingeminiinsightschatgptlaunchesitswallet",
+  "anthropiclaunchesclaudesheetstakingaimatmicrosoftsspreadsheetturf",
+  "idolslabelcamplaunchesaiconnectorlettingdistributorsandlabelsrunsupplychainopera",
+  "openaioffersfreecsamtooladds24hourchatgptpause",
+  "openailauncheschatgptwalletmovingaiagentsclosertocontrollingconsumerpayments",
+  "openailauncheschatgptwalletsoitsaiagentscanpayforpurchases",
+  "googleaimodedropsgeminilabelrollsoutgemini4carbontoprosubs",
+  "openailauncheschatgptwalletforpurchasesmadebyagents",
+  "openailaunchesnewcsamdetectionandchatgptwarnings",
+  "openailauncheschatgptwalletforaiagentpurchases",
+  "lumahealthlauncheschatgptpluginwith59clinicworkflowactions",
+  "anthropicannouncesclaudefable52andmythos52theyealreadysolvedblackholephysicsprob",
+  "anthropicipoguideeverythingyouneedtoknow",
+  "anthropicsaysclaudemythospreviewcutamdmi355xonboardingfromupto12monthstoaroundth",
+  "anthropicsaysitsaimodelshacked3organizationsontheirownduringtestsabcnews",
+  "anthropicipo2026guidepricepredictionsdatesandeverythingyouneedtoknow",
+  "anthropicrecognisestheriskstohumanitybutisitsgovernancereallyuptothejobnilspratl",
+  "whataiatworkreallycosts",
+  "microsoftdatashowsclaudeisstallingagainstcopilotinoffice",
+  "microsoftcopilotaipredictsahugetslastockboom",
+  "servicenowextendsthebenefitsofaitoitsmicrosoft365assetswithmicrosoftcopilotstudi",
+  "microsoftservicerestoredafterwidespreadoutagecompanysays",
+  "newofprfaa",
+  "perplexitylaunchesmonitorapitoautomatewebchangedetection",
+  "ipadandmacgetappleintelligenceinchinain273betas",
+  "perplexitylaunchesfrontierresearchteamtobuildanautomatedresearcher",
+  "samsungtobringclawtogalaxyaiwithcrossappagentfeature",
+  "deepseekofficiallyimplementsusagequotaswhatusersneedtoknow",
+  "deepseekusersreportdailycapsandshorterinputsonappandwebunconfirmedbydeepseek",
+  "deepseekopensapplicationapisfordevelopers",
+  "huggingfaceandopenrouterjoinforcestomakeopenweightmodelseasytorun",
+  "californiasuesopenaioverrogueaihackingincidents",
+  "samaltmansayshewantseveryonetohavealotofram",
+  "bignuclearisntworriedaboutthedemocratsstoppingdatacenters",
+  "usdatacentersnowburnmoreelectricitythanamidsizedcountry",
+  "appleistestingdailyusagelimitsformorecomplexsiriaiinteractions",
+  "openaiwantstostopdeepfakesfromoverwhelmingchildabusetiplines",
+  "nvidiasboardisreportedlynotconsideringhiringjensenhuangback",
+  "audibleistryingtomakeiteasiertofindaudiobooksyoullactuallylike",
+  "googlemapscannowcreatetripitinerariesforyou",
+  "thenvidiascandalisntslowingdown",
+  "cybersecurityaistartupcormareaches1bvaluationinabout3months",
+  "allthequestionsnvidiashouldanswerontuesdaybutprobablywont",
+  "californiastateagsuesopenaioverrogueagentincidents",
+  "trumpsaysexnvidiaceojensenhuangsaffairwithanallegedchinesespydidnotthreatennatio",
+  "samaltmanonnvidiawithoutjensenhuangtheindustrywillbefine",
+  "fbisaysartexaiopensourcehackingtoolusedtobreachnetworksinunderthreehours",
+  "jordanbelfortsnewaivoicestartuptonewantstoselllikethewolfofwallstreet",
+  "openaiwillembedsafetyresearcherstoinvestigateaisubversion",
+  "openaireleasesanewimageclassifierandchatgptwarningstocombatcsam",
+  "audibleturnstoaitohelpusersdiscoveraudiobooks",
+  "ustightensaichipexportcontrolstodeterchinesecompaniesfromaccessingcomputeremotel",
+  "googlemapscannowbuildtripitinerarieswithrealtimedetailsabouteachstop",
+  "robosoldierstartupbackedbyerictrumpmissespayrollmaycollapse",
+  "usmovestocutchinasremoteaccesstoaichips",
+  "jensenhuangalliesbuildawarroomtogethimbackatnvidia",
+  "theopensourcemovementwantsjensenhuangback",
+  "buildingtrustworthyaibyfencingitinnotpredictingit",
+  "buildingaithatcanworkacrosstheenterprise",
+  "googlewarnsthatfullyautomatedcyberattackshavearrivedandwillgetworsefast",
+  "openaisgpt6astratacklesthestandardmodelstoughestmathproblemonalattice",
+  "moonshotaipivotskimimodelsfromcodingtoscienceasbenchmarkgainsflatten",
+  "alibabasqwen4maxtakesonopus55gpt6andkimik31proatmuchlowerprices",
+  "claudenowbuildsinteractivewebsitesinsidecanvasgraphicsrevivingtheflasherawithrea",
+  "anthropicsaysthekeytoagentmemoryisknowingwhattoforgetnothowmuchtostore",
+  "anthropicsclaudefable52doesntgenerateimagesitpaintsthem",
+  "firmlinkedtojensenhuangsexloverreportedlybrokerednearly12billioninnvidiachiporde",
+  "chatgptwalletdevinappsalwaysonagents",
+  "intelligenzaartificialeascuola27alunniraccontanoilterritorioaquilano",
+  "accordoassolombardasindacatisuintelligenzaartificialelavoroepartecipazione",
+  "chigovernalintelligenzaartificialeconvegnodellanormaleafirenze",
+  "borsalasiachiudeincaloconitimoriperlintelligenzaartificiale",
+  "lintelligenzaartificialenondevediventareumanasiamonoichedobbiamorestarlo",
+  "nvidiahuangvalutailritornoalverticebessentserveunceoesternodomaniiconti",
+  "asusugen300laiintascadaattaccareapcesmartphone",
+  "applelanciaunapppertestarelaisullasalute",
+  "gemini4hydrogenègratis5cosedaprovaresubito",
+  "nuoverestrizioniusavietatolaccessoremotoaichipai",
+  "aipercrearegiochiabyssalgardenesaltlinefattidafable52",
+  "futurodinvidiascottbessentvuoleunceoesternoupdate",
+  "microsoftpaviliondentrolanuovasedediromatraaiestoriavideo",
+  "xiaomiconfermesullosmartphoneapassaportosipuntaal2027",
+  "pressionealtagoogleusalaiperriconoscerlaconunosmartwatch",
+  "spacexinveste24miliardicentraleagasesupercomputer",
+  "crmeintelligenzaartificiale",
+  "industry40eintelligenzaartificiale",
+  "rischiainel2027trailrapportoanthropicegliesperti",
+  "dematerializzazioneeintelligenzaartificiale",
+  "lineeguidaagidsullailachecklistoperativapericomuni",
+  "latruffaègiàdentrolatuaemailcosìlaicambiagliattacchibec",
+  "aieappinprontosoccorsocomecambialattesadeifamiliari",
+  "facebookilgaranteprivacysanzionametaper805milionidieuro",
+  "intelligenzaartificialenellescuoleokdelgaranteprivacy",
+  "intelligenzaartificialenellescuolevialiberadelgaranteprivacycosaincludeildecreto",
+  "criminalsareusingartexaiagentstospeedupcyberattacksfbiwarns",
+  "musesleepbanduserswerenttoldtheirbraindatawastrainingai",
+  "howmeetingswillbein2027",
+  "someonejustsolvedgooglesgeminimodelselectionproblem",
+  "itssoover",
+  "geminimodelsattheendoftheyear",
+  "gemini4oxygenakathenextflashcheckpointgoogleaintstoppingnow",
+  "gemini4helixthenewflashlite",
+  "barackobamathemachinesarestartingtoteachthemselveswerenowhittingthehockeystickwh",
+  "anthropicpublishedaguideonbuildingalwaysonagentsnov13itbreakstheminto5partsinbox",
+  "youmaygetyourcheapramandgpuafteralltheaicrashhasstarted",
+  "censorshipisturningmeintoatruelocalllmbeliever",
+  "webuiltachipprototypethatrunsqwen27byoucantryitlive",
+  "internlmsages21flashhuggingface",
+  "iamsickofdoompostingaboutdemiseoflocalai",
+  "datasettemaplibre01a0",
+  "datasetteagent06a0",
+  "usingthesafeboxnetworktoprotectstorieslaurentrichard",
+  "howcopernicusmakesclimatedatasimpleandeasytounderstand",
+  "reportersnotebookwhattodowhenyourinvestigationgetsspiked",
+  "investigativejournalismtrainersguidepartiintroduction",
+  "factfilepropalestinianrallyonparliamenthillnotfromremembranceday",
+  "seeristawardedpositiononfbispecializedosinttoolsidiqforterrorismrelatedinformati",
+  "usbrings3rdaircraftcarriertomiddleeastmilitaryconfirmsdailysabah",
+  "satelliteimagepointstopossibleil76hitinukrainianstrikeonrussianairfield",
+  "tenyearsunderafalseidentitywhyexposingspiesisaweaponagainstrussianintelligence",
+  "damagetocrimeabridgeafternovember16attackcausesmajordisruptionsanddeformedarch",
+  "securitymanageranalistagiuristafilosofotecnicoocomunicatore",
+  "quanteinformazionipersonalisilascianoonlinelosvelanordvpn",
+  "loscambiosocialincuimuskdiceabillgatesdinoncostringerloacompraremicrosoftèfalso",
+  "noquestononèlattentatoredicracoviachepartecipaaunamanifestazioneantirazzista",
+  "inuoviagentiaisonotroppocariniperessereinnocui",
+  "theosintnewsletterissue130",
+  "theosintnewsletterissue129",
+  "mattarelladifendeivaccinimaggioranzadivisasuimedicinovax",
+  "eurocameranovayagazetaèlultimavittimadiregimeautoritarioinrussia",
+  "disinfoupdate4112026",
+  "europesmissingwatchdogshowboththedsaandtheaiactarefailingonenforcement",
+  "skiptracingin2026howmuchcanyoustilldofromadeskvsinthefield",
+  "osintofthailand",
+  "russialaunchedsatellitesmeanttolinkitsdronesoverukraineon14novfromtheirorbitseac",
+  "howdoifindsomeoneslastnameifionlyknowtheirfirstmiddlenameandcity"
+ ],
+ "audio": "audio/2026-11-17.mp3",
+ "durata": 102.4
+}
