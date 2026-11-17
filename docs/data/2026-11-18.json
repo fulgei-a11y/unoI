@@ -1,0 +1,718 @@
+{
+ "giorno": "2026-11-18",
+ "generato": "2026-11-17T23:52:14+00:00",
+ "modello": "gemini-3.5-flash-lite",
+ "testi_completi": 36,
+ "riassunto": {
+  "titolo_giorno": "Google rende gratuiti gli agenti AI di Gemini Tasks in Italia e nel mondo",
+  "in_breve": "Google sblocca le funzioni avanzate di automazione e assistente personale con il nuovo modello Gemini 4 Hydrogen, rendendo accessibili a tutti gli utenti strumenti prima riservati agli abbonati. Nel frattempo, l'ecosistema degli strumenti di produttività e delle alternative per la privacy su PC si arricchisce di nuove soluzioni locali.",
+  "citati": [
+   "Gemini Tasks",
+   "Lumo Desktop"
+  ],
+  "da_provare": [
+   {
+    "cosa": "Lumo Desktop",
+    "a_cosa_serve": "Un'applicazione per computer focalizzata sulla privacy che permette all'AI di interagire con file locali, cartelle e app di produttività per automatizzare compiti e ricerche senza tracciare l'utente.",
+    "per_chi": "Lavoro e tutti i giorni",
+    "ambito": "Organizzazione",
+    "come_iniziare": [
+     "Scarica l'applicazione desktop",
+     "Configura i permessi di accesso ai file",
+     "Collega i servizi desiderati"
+    ],
+    "costo": "Gratis",
+    "piattaforme": [
+     "Windows",
+     "Mac",
+     "Linux"
+    ],
+    "sul_dispositivo": true,
+    "come_sfruttarla": "Automatizzare la ricerca e l'organizzazione dei documenti personali sul computer senza inviare i dati aziendali o privati nel cloud.",
+    "italiano": "Non indicato",
+    "difficolta": "Facile",
+    "fonti": [
+     "a136"
+    ],
+    "temi": [
+     "Privacy e sicurezza",
+     "AI sul dispositivo",
+     "Open source e self-hosting"
+    ],
+    "affidabilita": "Una fonte",
+    "prova": ""
+   }
+  ],
+  "osint": [],
+  "gemme": [
+   {
+    "cosa": "Alloy CSS",
+    "a_cosa_serve": "Una libreria CSS per creare interfacce web, moduli, menu e tabelle che funzionano perfettamente anche quando JavaScript è disattivato sul browser.",
+    "perche_gemma": "Permette di realizzare pagine web pulite, veloci e accessibili senza dipendere da script complessi.",
+    "con_ai": "Ottimo per testare la generazione rapida di interfacce HTML pulite tramite assistenti di codice.",
+    "piattaforme": [
+     "Browser"
+    ],
+    "self_hosted": false,
+    "costo": "Gratis",
+    "difficolta": "Facile",
+    "temi": [
+     "Open source e self-hosting",
+     "Programmare senza codice"
+    ],
+    "fonti": [
+     "a61"
+    ],
+    "affidabilita": "Appena lanciato",
+    "come_iniziare": [],
+    "sul_dispositivo": false,
+    "come_sfruttarla": "",
+    "prova": "https://alloyhtml.com/example.html"
+   }
+  ],
+  "sezioni": [
+   {
+    "titolo": "Novità negli strumenti che già usi",
+    "notizie": [
+     {
+      "titolo": "Gemini Tasks arriva gratis per tutti con il modello Gemini 4 Hydrogen",
+      "strumento": "Gemini Tasks",
+      "riassunto": "La funzione basata sul vecchio agente Spark viene ribattezzata in Tasks e resa gratuita per centinaia di milioni di utenti. Permette di delegare compiti complessi come chiamare aziende, gestire il calendario, confrontare preventivi e organizzare promemoria direttamente dall'app.",
+      "come_provarla": "Apri l'app Gemini sul telefono o sul browser e sposta la levetta della home page da Chat a Tasks.",
+      "disponibilita": "Disponibile ora",
+      "fonti": [
+       "a118",
+       "a132"
+      ],
+      "temi": [
+       "Agenti AI",
+       "Assistenti e chatbot",
+       "Ricerca e informazioni"
+      ],
+      "affidabilita": "Confermata",
+      "solo_titoli": false
+     },
+     {
+      "titolo": "OpenAI lancia i nuovi modelli GPT-6.2 Astra e Sol",
+      "strumento": "OpenAI",
+      "riassunto": "Arrivano due nuovi modelli avanzati pensati per offrire maggiore efficienza nei costi, capacità di programmazione e uso del computer, posizionandosi tra le soluzioni più avanzate per i professionisti.",
+      "come_provarla": "Usa i nuovi identificativi tramite le API di OpenAI o le piattaforme integrate compatibili.",
+      "disponibilita": "Disponibile ora",
+      "fonti": [
+       "a70",
+       "a196"
+      ],
+      "temi": [
+       "Agenti AI",
+       "Assistenti e chatbot",
+       "Scrittura e documenti"
+      ],
+      "affidabilita": "Fonte ufficiale",
+      "solo_titoli": false
+     }
+    ]
+   }
+  ],
+  "formato": 2,
+  "controllo_siti": [
+   {
+    "cosa": "Lumo Desktop",
+    "esito": "nessun sito da aprire"
+   },
+   {
+    "cosa": "Alloy CSS",
+    "sito": "https://alloyhtml.com/example.html",
+    "pagina": 60641,
+    "trovate": []
+   }
+  ]
+ },
+ "articoli": {
+  "a118": {
+   "titolo": "Google’s Spark AI agent becomes ‘Tasks’ — and now it’s free",
+   "link": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free",
+   "sito": "",
+   "data": "2026-11-17T13:58:01-05:00",
+   "testo": "Google is rebranding its Spark AI agent as “Tasks” and making it free to use. The feature, which is powered by Google’s new Gemini 4 Hydrogen AI model, can do things like create meal plans, manage your calendar, and dig through your emails to find recurring expenses you might not need. Google’s Spark AI agent becomes ‘Tasks’ — and now it’s free Tasks in Gemini allows the AI agent to call businesses on your behalf, purchase items with Google Pay, and more. Users in the US will get access to a few other features, including the ability for the AI agent to call businesses to compare product pricing and check inventory, purchase items with Google Pay, and sign into accounts that support Google Password Manager. US users can also assign Gemini tasks by emailing gemini@google.com or texting it. Google first introduced its Spark AI agent in May, but it was only available to Google AI Pro and Ultra subscribers. The launch of tasks in Gemini brings Spark’s capabilities to all users in the US, Canada, Japan, Korea, Australia, and India. You can find tasks by opening Gemini and changing the toggle on the homepage from “Chat” to “Tasks.” Tasks in Gemini is just one of the many agentic AI features that have emerged over the past year, including Claude Duet, OpenAI’s Dots, and Meta’s Muse. Google says Gemini will perform tasks in a “hardware-isolated virtual machine that’s dedicated to your account and never shared with other users.” You can also provide instructions for Gemini while it completes tasks. When performing more sensitive tasks, like purchasing an item, it will stop working and ask for your permission before following through.",
+   "fonte": "The Verge",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Testate tech",
+   "id": "a118",
+   "testo_completo": true
+  },
+  "a70": {
+   "titolo": "Introducing GPT-6.2 Astra and Sol",
+   "link": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+   "data": "2026-11-17T17:45:00+00:00",
+   "testo": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
+   "fonte": "OpenAI",
+   "tipo": "ufficiale",
+   "solo_titolo": false,
+   "categoria": "Laboratori",
+   "id": "a70"
+  },
+  "a61": {
+   "titolo": "Alloy CSS, dialogs, menus and tabs that work with JavaScript off",
+   "link": "https://alloyhtml.com/example.html",
+   "data": "2026-11-17T15:07:09+00:00",
+   "testo": "Invoices 24 invoices in the last 90 days INV-0149 for Okafor Legal and INV-0148 for Tidewater Coffee, $2,200.00 together. Top clients Last 90 days Recent activity - check Okafor Legal paid INV-0145$3,600.00 by card Nov 11 - visibility Brightline Studio opened INV-0146Twice, from an email Nov 12 - send You sent INV-0147 to Lumen Architects$4,800.00, due Nov 26 Nov 12 - schedule INV-0144 is overdueHarbor & Pine, $1,980.00 Nov 12 Questions Can a client pay part of an invoice? expand_more Yes. The invoice stays open, showing what's left, until the rest arrives. Ledger is a made-up app. This page is one HTML file with Alloy CSS and no JavaScript. See its source.",
+   "sito": "https://alloyhtml.com/example.html",
+   "fonte": "Show HN – progetti utili (gemme)",
+   "tipo": "vetrina",
+   "solo_titolo": false,
+   "categoria": "Gemme",
+   "id": "a61",
+   "testo_completo": true
+  },
+  "a136": {
+   "titolo": "Proton’s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop",
+   "link": "https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/",
+   "data": "2026-11-17T17:32:25+00:00",
+   "testo": "Proton, the privacy-focused tech company offering alternatives to Google’s and Microsoft’s tools for email, productivity apps, password management, cloud storage, and more, is now bringing its AI app Lumo to personal computers. On Tuesday, the company launched Lumo Desktop for Windows, macOS, and Linux, allowing users to leverage its AI to carry out local tasks on their computer involving connected apps, personal files, and other automations. The app is designed to offer users more control over their personal data, as consumer AI technology becomes focused more on AI agents that can perform tasks on users’ behalf, rather than just answering questions. Already, the major model makers, including OpenAI, Anthropic, Meta, and others, offer desktop tools for working with their AI technologies, but doing so invites increased risk to users’ personal data. Only this week, for instance, Apple announced it was addressing those privacy concerns with tightened security settings for apps that request Full Disk Access, as the AI desktop apps do. Proton’s idea is to offer a set of tools that let its AI access connected apps, files, and folders and automate tasks, but with more personalization over how much access the AI has. The company says users can choose which actions the AI agent takes that will need to request their approval, and it vows that the conversations and information from connected apps and files are never used to serve personalized ads or train AI models. The new app includes a variety of connectors that support local tools, like file-system access, shell execution, and browser content fetching, as well as Proton’s email app and other third-party services, including Confluence, Dropbox, and Jira. The connectors also support local and remote MCP (Model Context Protocol…",
+   "fonte": "TechCrunch",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Testate tech",
+   "id": "a136",
+   "testo_completo": true
+  },
+  "a132": {
+   "titolo": "Google expands access to Gemini Tasks, which can help with calls, purchases",
+   "link": "https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/",
+   "data": "2026-11-17T19:02:20+00:00",
+   "testo": "Google is expanding the rollout of Tasks, a toggle in Gemini that converts the chatbot into a more active helper. Unlike Gemini’s Chat, which merely allows users to talk to Google’s AI assistant for informational purposes, Tasks empowers the app to complete basic secretarial functions, deputizing it as a kind of personal assistant. How, specifically, can you use it? Google says that the app can call businesses and book appointments on users’ behalf; it can also complete purchases for them via Google Pay, and even sign into websites securely if prompted to do so. In a blog post, Josh Woodword, VP of Gemini, claims to have recently used the feature to call local car dealerships to schedule a service appointment for his family’s minivan. He says he also used it to analyze his electrical bill. Tasks was initially launched to select testers back in May as Gemini Spark, a 24/7 agentic helper, and was expanded to U.S. subscribers of its Google AI Ultra tier. Gemini Spark eventually became “Task Mode.” Google is now making the feature available for free to hundreds of millions of people who are using the company’s new Gemini 4 Hydrogen model. Getting the function up and running is easy. Users merely flip a toggle within the app from Chat to Tasks, which enables the feature. Users can also send texts to Gemini or call the app to give it commands.",
+   "fonte": "TechCrunch",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Testate tech",
+   "id": "a132",
+   "testo_completo": true
+  },
+  "a196": {
+   "titolo": "GPT‑6.2 Astra and GPT‑6.2 Sol",
+   "link": "https://simonwillison.net/2026/Nov/17/gpt62-astra-and-sol/",
+   "sito": "",
+   "data": "2026-11-17T22:38:52+00:00",
+   "testo": "GPT‑6.2 Astra and GPT‑6.2 Sol OpenAI: We’re introducing GPT‑6.2 Astra, our new frontier model for your hardest projects, and GPT‑6.2 Sol, our efficient, versatile model for everyday work. They're available in the API as gpt-6.2-astra and gpt-6.2-sol . I shipped LLM 0.38 with support for the new models. 6.2 Astra is 80% of the price of 6 Astra - $8/MTok input and $40/MTok output, the same price as…",
+   "fonte": "Simon Willison (prove pratiche di strumenti AI)",
+   "tipo": "community",
+   "solo_titolo": false,
+   "categoria": "Community",
+   "id": "a196"
+  }
+ },
+ "fonti": [
+  {
+   "nome": "Product Hunt (AI)",
+   "ok": true,
+   "presi": 15
+  },
+  {
+   "nome": "Show HN (nuovi progetti)",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "Nuove app AI (internazionale)",
+   "ok": true,
+   "presi": 10
+  },
+  {
+   "nome": "Nuove app AI (Italia)",
+   "ok": true,
+   "presi": 8
+  },
+  {
+   "nome": "Novità AI da provare (Italia)",
+   "ok": true,
+   "presi": 8
+  },
+  {
+   "nome": "AI sul dispositivo (internazionale)",
+   "ok": true,
+   "presi": 8
+  },
+  {
+   "nome": "AI sul dispositivo (Italia)",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "Android Police (AI su Android)",
+   "ok": true,
+   "presi": 4
+  },
+  {
+   "nome": "Windows Central (AI su Windows)",
+   "ok": true,
+   "presi": 2
+  },
+  {
+   "nome": "Ollama (nuove versioni)",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "Open WebUI (nuove versioni)",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "Show HN – progetti utili (gemme)",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "Reddit r/selfhosted",
+   "ok": false,
+   "errore": "HTTP Error 404: Not Found",
+   "presi": 0
+  },
+  {
+   "nome": "Reddit r/opensource",
+   "ok": false,
+   "errore": "HTTP Error 404: Not Found",
+   "presi": 0
+  },
+  {
+   "nome": "Alternative open source (Google News)",
+   "ok": true,
+   "presi": 6
+  },
+  {
+   "nome": "n8n (nuove versioni)",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "Immich (nuove versioni)",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "OpenAI",
+   "ok": true,
+   "presi": 6
+  },
+  {
+   "nome": "Google (blog ufficiale)",
+   "ok": true,
+   "presi": 8
+  },
+  {
+   "nome": "Google Gemini (blog)",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "Nuove funzioni AI (Google News)",
+   "ok": true,
+   "presi": 12
+  },
+  {
+   "nome": "Anthropic / Claude",
+   "ok": true,
+   "presi": 6
+  },
+  {
+   "nome": "Microsoft Copilot",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "Altri assistenti AI (Perplexity, Mistral, Meta AI…)",
+   "ok": true,
+   "presi": 8
+  },
+  {
+   "nome": "Hugging Face (modelli e strumenti aperti)",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "Mistral AI",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "The Verge",
+   "ok": true,
+   "presi": 10
+  },
+  {
+   "nome": "TechCrunch",
+   "ok": true,
+   "presi": 12
+  },
+  {
+   "nome": "Ars Technica",
+   "ok": true,
+   "presi": 6
+  },
+  {
+   "nome": "MIT Technology Review",
+   "ok": true,
+   "presi": 4
+  },
+  {
+   "nome": "The Decoder",
+   "ok": true,
+   "presi": 10
+  },
+  {
+   "nome": "TLDR AI (newsletter)",
+   "ok": true,
+   "presi": 2
+  },
+  {
+   "nome": "ANSA",
+   "ok": true,
+   "presi": 6
+  },
+  {
+   "nome": "Wired Italia",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "Il Sole 24 Ore Tecnologia",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "Punto Informatico",
+   "ok": true,
+   "presi": 11
+  },
+  {
+   "nome": "HDblog",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "AI4Business",
+   "ok": true,
+   "presi": 4
+  },
+  {
+   "nome": "Agenda Digitale (AI)",
+   "ok": true,
+   "presi": 3
+  },
+  {
+   "nome": "Garante Privacy e AI",
+   "ok": true,
+   "presi": 3
+  },
+  {
+   "nome": "Malwarebytes (app e truffe AI)",
+   "ok": true,
+   "presi": 2
+  },
+  {
+   "nome": "Reddit",
+   "ok": false,
+   "errore": "HTTP Error 404: Not Found",
+   "presi": 0
+  },
+  {
+   "nome": "Reddit (AI locale)",
+   "ok": false,
+   "errore": "HTTP Error 404: Not Found",
+   "presi": 0
+  },
+  {
+   "nome": "Simon Willison (prove pratiche di strumenti AI)",
+   "ok": true,
+   "presi": 4
+  },
+  {
+   "nome": "Bellingcat (guide e strumenti)",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "GIJN (guide per giornalisti investigativi, via Google News)",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "OSINT – verifica e fact-checking (internazionale)",
+   "ok": true,
+   "presi": 3
+  },
+  {
+   "nome": "OSINT – nuovi strumenti (internazionale)",
+   "ok": true,
+   "presi": 6
+  },
+  {
+   "nome": "OSINT – strumenti (Italia)",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "Facta (fact-checking, contenuti falsi e AI)",
+   "ok": true,
+   "presi": 3
+  },
+  {
+   "nome": "Week in OSINT (Sector035)",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "The OSINT Newsletter",
+   "ok": true,
+   "presi": 2
+  },
+  {
+   "nome": "IDMO (osservatorio italiano sulla disinformazione)",
+   "ok": true,
+   "presi": 2
+  },
+  {
+   "nome": "EU DisinfoLab",
+   "ok": true,
+   "presi": 2
+  },
+  {
+   "nome": "Reddit (OSINT)",
+   "ok": false,
+   "errore": "HTTP Error 404: Not Found",
+   "presi": 0
+  },
+  {
+   "nome": "Hacker News (OSINT)",
+   "ok": true,
+   "presi": 0
+  }
+ ],
+ "visti": [
+  "liquidd12",
+  "agentsapibyrecallai",
+  "pinecall",
+  "superhands",
+  "vinc",
+  "wispos",
+  "gatherhqagentresearch",
+  "basestudio",
+  "infaiw",
+  "awsemulator",
+  "ballet",
+  "uisdkbyvercel",
+  "bytevoice",
+  "lexicad",
+  "glifa",
+  "danillilaunchesanaiapptoaskshopbuildwebsitesandstartabusiness",
+  "linarclaunchesliaaiassistanttoautomateconstructiondocumentmanagement",
+  "googleexpandsgeminiaiassistantwithfreetasksinsixcountries",
+  "klarnalaunchesaiassistantforshoppingandbookingsonwaitlist",
+  "creatormarketingplatformnutcakelaunchesaitoolthatanalyzeswhatappearsinsidecreato",
+  "klarnagrouplaunchesaiassistant",
+  "benchmedialaunchesaiassistanttomediaintelligenceplatform",
+  "dinggolaunchesfreeaitooltohelpaustraliandriversdecidewhethertoclaimorpayforcarre",
+  "fromreturnstorestaurantbookingsklarnasaiassistantfinds",
+  "aitoolfromiffcutsdevelopmenttimeforproductconcepts",
+  "lineeguidaagidsullintelligenzaartificialechecosacambiaperiltitolarepubblicoeperi",
+  "favaraguardaalfuturoconsofiaarrivainpiazzacavouriltotemdigitaleconintelligenzaar",
+  "applelanciaappperstudiarelusodellintelligenzaartificialenellasalute",
+  "intelligenzaartificialelavoroepartecipazioneassolombardaesindacatifirmanounanuov",
+  "consumodiacquadeidatacenterriusoenuoveregole",
+  "notiziedallagiunta",
+  "marinadiravennaarrivascoprimarinalintelligenzaartificialeguidaturistieresidenti",
+  "geminigratisoprodifferenzelimitieprezzideipianispiegati",
+  "comeusarechatgptegeminipertrovaregliscontidelblackfriday2026",
+  "ampliarelaccessoalliapergliscienziati",
+  "googlegeminiorabastaunafrasepercreareunsitowebeccocomefunziona",
+  "googlegeminiarrivasuapplecarplaysirihaunnuovorivaleinauto",
+  "chiediamapsarrivaineuropapreparaitineraricompletiecercatraipostichehaisalvato",
+  "cosèchatgptwalletecomefunzionaperpagarecongliagentiai",
+  "arrivageminitasksgratisinseipaesitelefonaepagasolonegliusa",
+  "geminigooglewalletechatgptlaianalizzalespese",
+  "neolensdevelopsofflineaiassistantforandroidtosupportmilitaryequipmentrepairs",
+  "gigabytelaunchescompactaitopaerodesktopforlocalai",
+  "ijustreplacedduolingowithalocalllmthattooktwominutestosetuponmyandroidphonehowto",
+  "applelaunchesprivateaihealthstudyappfirstofitskindbetaopensto200000testersbutyou",
+  "flagstarbankbuildsasecuremanageablefoundationforaiwithwindows11",
+  "ovhcloudlaunchesolalaminianopenmodelthatrunson8gbofgpumemory",
+  "gehealthcaresaitoolcutsfeedingtubeerrors",
+  "buildingaprivateaidocumentassistantonan8gbgpuusingragandllamacpp",
+  "ryzenaihalodiamdconvienedavverocomprarloperlailocale",
+  "appleconfermaproblemipericloudappstoreeapplemusiclaziendaaffermacheleinterruzion",
+  "liaarrivasuinostripcmachicontrollaciòchepuòvedere",
+  "redmipotrebbepreparareunosmartphonecompattocondisplayltpoda63pollici",
+  "grapheneossenzagooglecosacambianellusoquotidiano",
+  "iintegratedgooglegeminiacrossdocskeeptasksandsheetstostreamlinemydailyworkflow",
+  "gemininotebookmadeyourstudynotesintosomethingyoucanexplore",
+  "geminiinandroidautocouldfinallykeepmyhandsoffmyphoneatredlights",
+  "googledocsandgemininotebookreplacedmyobsidianvaultforgood",
+  "copilotisabouttobecomewindows11saitechsupportandicanseetheappeal",
+  "dissectingmicrosoftsbigserviceoutageandnvidiaceoscandalpodcast",
+  "alloycssdialogsmenusandtabsthatworkwithjavascriptoff",
+  "irefusedtopayasubscriptionjusttotrackmysubscriptionssoiselfhostedthisopensourced",
+  "kist20aselfhostedlibraryformediaandeaglecadfiles",
+  "whatisthebestuidesigntool8toolscomparedbythejobtheydo2026",
+  "withcoralreleasescoralanopensourcegatewayforcontrolledagenttooluse",
+  "iomovov2letsteamsbuildtheirownaiagentsandchoosethemodelsbehindthem",
+  "liberntaimstorecreatewindows11withoutmicrosoftofferinganopensourcealternativetha",
+  "n8nn8n330",
+  "immichv340",
+  "introducinggpt62astraandsol",
+  "strengtheningnatoandalliedcyberdefenseswithai",
+  "introducingchatgptforsales",
+  "astraforlawleadsinlegalintelligence",
+  "introducingopenaiforchile",
+  "broadeningaccesstoaiforscientists",
+  "howgenomemappingcanhelpresearchersbetterunderstanddisease",
+  "seewhat5buildersaremakingwithgemini4carbon",
+  "putgeminitoworkforyou",
+  "10statesteamupwithgoogleonfreeaitraining",
+  "temporarythreadsarenowavailableinaimodeinsearch",
+  "fromeasierentrytosmartersavingshereswhatsnewingooglehome",
+  "regionalvoicesarerollingoutinthegeminiapp",
+  "outpaceautomatedcyberthreatswithsecuritybuiltfornonstopdefense",
+  "openaisgpt62astraandgpt62solnowavailable",
+  "coinbasebringsbitcointradingtochatgptwithnewplugin",
+  "ignite2026microsoftcopilotsdk20isnowavailable",
+  "openailauncheschatgptforsalesacrossthedealcycle",
+  "openailauncheschatgptforsalestocutbusyworkfordealteams",
+  "essentiallyunusableopenailaunchesgpt62astraandsoltonegativereceptionfromaipoweru",
+  "microsoftlaunchesautopilotapersonalagentforcopilot",
+  "amwinsrollsoutclaudeto8000employees",
+  "campaigntracklylauncheschatgptutmbuilderforcleanmarketingcampaignlinks",
+  "coinbaselauncheschatgpttradingpluginwithapprovalforeveryorder",
+  "zoominfolaunchesachatgptsalespluginforprospecting",
+  "zoominfolaunchessalespluginextensionsforchatgptthroughgtmai",
+  "anthropicipohowcanibuysharesandisitworthit",
+  "anthropicannouncesclaudefable52andmythos52theyealreadysolvedblackholephysicsprob",
+  "anthropicsiposetforblastoffthisweekinkeytestforaiboom",
+  "anthropicsaidtoguideipopricetotopofrangeorabove",
+  "microsoftjabsatopenaiandanthropictoutingcheapercustomizableaimodelsofitsown",
+  "openaiundercutsclaudeby95withgpt62astrainanthropicsipoweek",
+  "microsoftandsalesforceannouncecopilotforcebringingtrustedcustomercontextandactio",
+  "salesforceandmicrosoftannouncecopilotforce",
+  "reminderfreeroletargetedmicrosoftcopilottrainingisavailableforucstaff",
+  "copilotatmicrosoftigniteexpandingwhatspossiblewithintelligencebuiltforwork",
+  "githubcopilotcliaddsmicrosoftentrasigninasapreview",
+  "perplexitylaunchesmultiagenttocoordinatefrontieraimodels",
+  "perplexitylaunchesorchestratorapiforflexiblemodelselection",
+  "perplexitylaunchesamonitorapithatwatchestopicsandwebpagesandpushesupdatesviawebh",
+  "ios273sredesignedapplehealthapprequiresneweriphonemodel",
+  "perplexityteammatesarriveinthemacappformax",
+  "itestedappleintelligenceonatopnewsecuritycameratofinditslimits",
+  "grokbotcanuseclaudebutuserscantpickmodels",
+  "grokbotagentsmade31unapprovedaccessattemptsxaisaidactionswereintentional",
+  "huggingfaceandopenrouterjoinforcestomakeopenweightmodelseasytorun",
+  "nvidiasq3earningshitthemarkwithoutmentioningthewholejensenhuangthing",
+  "notevensamaltmanissafefromaideepfakesoninstagram",
+  "googlessparkaiagentbecomestasksandnowitsfree",
+  "thedojsaysitsinvestigatingmegaspeed",
+  "jensenhuangsaysheswillingtoreturnasnvidiaceo",
+  "techleadersareconvincedthatjensenhuangsexitwasaplotagainsthim",
+  "californiasuesopenaioverrogueaihackingincidents",
+  "samaltmansayshewantseveryonetohavealotofram",
+  "bignuclearisntworriedaboutthedemocratsstoppingdatacenters",
+  "usdatacentersnowburnmoreelectricitythanamidsizedcountry",
+  "nvidiasaysitsopensourceaistrategyremainsintactafterjensenhuangsexit",
+  "nvidiasaysitdoesntplantoreappointjensenhuangasceo",
+  "amazonandgooglewilltogetherownnearly30ofanthropicafteritsipo",
+  "secreportedlyinvestigatingnvidiaamidhuangexit",
+  "googlejoinsthetechoutagetrendbyannouncingitsnothavingone",
+  "modelmlraises250mtoautomateinvestmentbankinggruntwork",
+  "googleexpandsaccesstogeminitaskswhichcanhelpwithcallspurchases",
+  "googletokeepgeminichatsfor2monthsupfrom72hoursevenwithhistoryoff",
+  "asdecisionmodeluseskyrocketsiscustomizationthenextfrontier",
+  "pedestalairaises47milliontoagentifythesupplychain",
+  "protonslumoaprivacyfocusedalternativetochatgptandclaudearrivesondesktop",
+  "aimodelscanbetrickedintoidentifyingciviliansasmilitarytargetsbytellingthemitsaga",
+  "trumpwasinbedwithjensencriticsbalkathuangswishtoreturntonvidia",
+  "googlemakesiteasiertousegeminiwithouttrainingaionyourdata",
+  "arslivewhatdodronestrikesondatacentersmeanforthefuturetalkat1pmesttoday",
+  "grokbottookunapprovedactionsignoredorderstostopandthendeniedit",
+  "robosoldierstartupbackedbyerictrumpmissespayrollmaycollapse",
+  "usmovestocutchinasremoteaccesstoaichips",
+  "researchreports",
+  "theopensourcemovementwantsjensenhuangback",
+  "buildingtrustworthyaibyfencingitinnotpredictingit",
+  "buildingaithatcanworkacrosstheenterprise",
+  "openailaunchesgpt62astraandsolwithlowerapipricesandsomebenchmarkgains",
+  "aiagentsarestartingtofilloutmedicalformsandfileinsurancerequestsinplaceofhumanst",
+  "theuswantstoblockchinafromrentingaipowerabroadbutchinaalreadybuiltaparallelsuppl",
+  "openaiopensitscybersecuritytooldaybreaktonatoandeuropeangovernments",
+  "reportsofaigeneratedchildsexualabusematerialhavesurgedmorethan8400percentintwoye",
+  "isomorphiclabsraises5billioninitssecondmegaroundwithinsixmonths",
+  "californiasattorneygeneralsuesopenaioverrogueaimodelsthatattackedhuggingface",
+  "googlewarnsthatfullyautomatedcyberattackshavearrivedandwillgetworsefast",
+  "openaisgpt6astratacklesthestandardmodelstoughestmathproblemonalattice",
+  "moonshotaipivotskimimodelsfromcodingtoscienceasbenchmarkgainsflatten",
+  "perplexityresearchnvidiarubinhpcopenaisafetyassessments",
+  "chatgptwalletdevinappsalwaysonagents",
+  "ivaccinidelfuturospintidallintelligenzaartificialediretta",
+  "lintelligenzaartificialenondevediventareumanasiamonoichedobbiamorestarlo",
+  "intelligenzaartificialeascuola27alunniraccontanoilterritorioaquilano",
+  "accordoassolombardasindacatisuintelligenzaartificialelavoroepartecipazione",
+  "chigovernalintelligenzaartificialeconvegnodellanormaleafirenze",
+  "aromailconvegnoditelefonoazzurroproteggereibambininelleradellintelligenzaartific",
+  "openaiapreunblogscientificoilfisicoproponelaidimostra",
+  "jensenhuangèprontoperricoprirelacaricadiceodinvidia",
+  "7modiperusareclaudecodenellapropriaattività",
+  "dettaglisullevulnerabilitàdopo30giornipercolpadellai",
+  "nvidiacomitatoperilcontrollodelleesportazioni",
+  "agentigemini4argonpossonoaggirarelerestrizioni",
+  "attacchidegliagentiaidenunciaperopenaiincalifornia",
+  "hackerinferieoragliattacchililancialaidasolaavvertegoogle",
+  "instagramintegrailinkaffiliatiamazoninreelepost",
+  "audiblelanciaaudiodiscoverylaipresentagliaudiolibri",
+  "agentiaiappleaggiornaicontrolliperlaccessoaldisco",
+  "gemininotebookcreasitiinterattividallepropriefonticomefunziona",
+  "samsungoneui95dailybriefingindividueràscadenzeeappuntamentiinautomatico",
+  "gpt62astraesolufficialieccolenovitàintrodottedaopenai",
+  "jensenhuangvuoletornareallaguidadinvidiadecideràilconsiglio",
+  "aieconsumatoriperchélafiduciapassaancoradallepersone",
+  "nvidiarubinhpcoltre50000cudacoreperlaricerca",
+  "chatgptwalletgliagentiaiarrivanoalpagamentoonline",
+  "qualitàdeidatiperlaiperchéiprogettiaziendalifalliscono",
+  "nvidiailritornodihuangchepuòsuccedere",
+  "aisullavoroqualiregoledevonoseguireleaziendeitaliane",
+  "laihaunproblemaconleinformazionieccoperchéservonoifilosofi",
+  "aiecybersecuritygliattacchiabilitatidallaicostano6milioni",
+  "canoneunicopatrimonialeperletlccomerispondereaicomuni",
+  "intelligenzaartificialeascuolavialiberadelgaranteprivacyaccessipseudonimizzatien",
+  "intelligenzaartificialeascuolaarrivailsìdelgarantequaliregoledevonoseguiregliist",
+  "scontridimilanoperilgaranteprivacyildirittodicronacanongiustificalidentificazion",
+  "criminalsareusingartexaiagentstospeedupcyberattacksfbiwarns",
+  "musesleepbanduserswerenttoldtheirbraindatawastrainingai",
+  "externalsandboxesforcodingagents",
+  "gpt62astraandgpt62sol",
+  "llm0373",
+  "datasettemaplibre01a0",
+  "usingthesafeboxnetworktoprotectstorieslaurentrichard",
+  "digitalsecuritybasicsforinvestigativejournalistsluisassardo",
+  "জআইজএনরপরভবgijnimpact",
+  "visualstorytellingforinvestigationstipsandtools",
+  "reportersnotebookwhattodowhenyourinvestigationgetsspiked",
+  "howtocheckaphotoscontextwithreverseimagesearch",
+  "factfilepropalestinianrallyonparliamenthillnotfromremembranceday",
+  "samsungelectronicspicksyestforhpatooltrialin1ddrampush",
+  "seeristawardedpositiononfbispecializedosinttoolsidiqforterrorismrelatedinformati",
+  "artectechnologiesaga6tsecuresfirstpoliceosintcontract",
+  "osintwhenpublicinformationbecomesaweaponhaezreenabegumabdulhamid",
+  "attackoncrimeanbridgethrougheyesofflamingofirepointcofounderhintsatuseofukrainia",
+  "satelliteimagepointstopossibleil76hitinukrainianstrikeonrussianairfield",
+  "artectechnologiesistappingintoanewbusinesssectorwithinpoliceforceswithitsaibased",
+  "securitymanageranalistagiuristafilosofotecnicoocomunicatore",
+  "loscambiosocialincuimuskdiceabillgatesdinoncostringerloacompraremicrosoftèfalso",
+  "noquestononèlattentatoredicracoviachepartecipaaunamanifestazioneantirazzista",
+  "inuoviagentiaisonotroppocariniperessereinnocui",
+  "theosintnewsletterissue130",
+  "theosintnewsletterissue129",
+  "alviaprimacollaborazionedelcentrouecontrolefakenewsconongefactchecker",
+  "mattarelladifendeivaccinimaggioranzadivisasuimedicinovax",
+  "disinfoupdate4112026",
+  "europesmissingwatchdogshowboththedsaandtheaiactarefailingonenforcement"
+ ],
+ "audio": "audio/2026-11-18.mp3",
+ "durata": 90.7
+}
