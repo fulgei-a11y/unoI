@@ -223,6 +223,55 @@
    "solo_titolo": true,
    "categoria": "Laboratori",
    "id": "u1a100"
+  },
+  "u2a113": {
+   "titolo": "Suno now lets you make AI videos for your AI music",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1036415/suno-visuals-ai-generated-video-images-feature",
+   "sito": "",
+   "data": "2026-11-18T06:16:53-05:00",
+   "testo": "Suno has introduced image and video generation in its latest effort to expand beyond being an AI music platform. The new feature, called “Visuals,” allows users to turn Suno songs into AI-generated video clips that automatically lipsync to lyrics, or make images via prompt descriptions that can be used as thumbnails and album artwork. Suno now lets you make AI videos for your AI music The new Visuals feature generates images and 15-second videos that automatically sync with Suno songs. Visuals is available on web, iOS, and Android. The exact layout differs across Suno’s desktop and mobile interfaces, but users will find a new Visuals tab under Create mode on each version. Web users can also access Visuals by selecting the three dot menu on a song in their library. From there, users can select which section of the track to use, up to a maximum of 15 seconds, and select a reference image to build the generated video clip. There are three options available for the starting image reference: selecting one of the original character presets provided by Suno, uploading your own photo or artwork, or generating the image directly on Suno using descriptive prompts. The image generation capabilities also allow users to select specific aspect ratios, optimizing results for landscape or portrait modes and online platforms. For video generation, users can select whether the reference image is used as the start or end frame, making it easier to edit the 15-second clips together. There’s a toggle to automatically lipsync vocals to the generated video, and tools for adjusting aspect ratio and clip length. Visuals also includes a dedicated video editing timeline for assembling clips into longer videos, and adding customizable song lyric text. The H3 Move AI model is being used to power V…",
+   "fonte": "The Verge",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Testate tech",
+   "id": "u2a113",
+   "testo_completo": true
+  },
+  "u2a68": {
+   "titolo": "n8n stable",
+   "link": "https://github.com/n8n-io/n8n/releases/tag/stable",
+   "sito": "",
+   "data": "2026-11-18T08:51:54+00:00",
+   "testo": "2.48.5 (2026-11-18) Bug Fixes AI Agent Node: Keep tool-call history separate for each input item ( #44044 ) ( 4f16701 ) AI Agent Node: Stop adding newlines between streamed text chunks ( #43822 ) ( 19d9fa4 ) core: Give fresh installs a random instance ID ( #44276 ) ( 1f15447 ) core: Hand dollar property reads to the expression engine ( #43809 ) ( 6fb7219 ) core: Keep small objects inside an Error…",
+   "fonte": "n8n (nuove versioni)",
+   "tipo": "ufficiale",
+   "solo_titolo": false,
+   "categoria": "Gemme",
+   "id": "u2a68"
+  },
+  "u2a141": {
+   "titolo": "Suno's new Visuals feature pairs AI-generated music with AI-generated video",
+   "link": "https://the-decoder.com/sunos-new-visuals-feature-pairs-ai-generated-music-with-ai-generated-video/",
+   "data": "2026-11-18T10:22:45+00:00",
+   "testo": "Suno's new Visuals feature pairs AI-generated music with AI-generated video AI music generator Suno can now create images and video clips to go with its songs, thanks to a new feature called Visuals. The feature runs on H3 Move, a customized and safety-filtered version of MiniMax's video model H3. The clips run up to 15 seconds, follow the song's structure, pick up on lyrics, and support lip sync. Users can start from a reference photo, a prompt, or one of Suno's preset characters. Lyric videos let you tweak fonts and colors, extend clips on a timeline, and pick the length and aspect ratio. Two quality tiers are available, \"Fast\" and \"Standard.\" Filters block prompts and uploads that reference specific artists, celebrities, or copyrighted works. Before sharing content outside Suno, the platform adds an embedded watermark. Visuals works on the web, iOS, and Android, and requires its own credits. Pro and Premier subscribers get a temporary allotment to try it out. In late July, the Munich Regional Court I ruled against Suno in a lawsuit filed by GEMA, Germany's music rights organization, finding copyright infringement. Shortly after, Suno announced tools to label Suno-made songs as AI-generated on other platforms. The company has reached a deal with Warner Music, but Universal and Sony are still pursuing litigation. AI News Without the Hype – Curated by Humans Subscribe to THE DECODER for ad-free reading, a weekly AI newsletter, our exclusive \"AI Radar\" frontier report six times a year, full archive access, and access to our comment section. Subscribe now",
+   "fonte": "The Decoder",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Testate tech",
+   "id": "u2a141",
+   "testo_completo": true
+  },
+  "u2a158": {
+   "titolo": "Microsoft annuncia sette modelli AI: cyber, coding e immagini",
+   "link": "https://www.punto-informatico.it/microsoft-annuncia-sette-modelli-ai-cyber-coding-immagini/",
+   "data": "2026-11-18T11:57:10+00:00",
+   "testo": "Anthropic, Google e OpenAI sfornano nuovi modelli AI a cadenza mensile o meno. Microsoft è nota principalmente per Windows e altri software, ma può competere ad armi pari, grazie alla divisione guidata da Mustafa Suleyman. Durante la conferenza Ignite 2026 di ieri sera, l’azienda di Redmond ha annunciato sette nuovi modelli AI che possono essere utilizzati per diverse attività. Modelli con capacità cyber e programmazione Il primo modello è MAI Cyber 2 Flash. Grazie all’addestramento con dati di sicurezza proprietari permette di trovare vulnerabilità nei software e scrivere il codice delle patch. In base ai risultati del benchmark CyberGym offre prestazioni superiori a GPT-6 Astra e GPT-5.6 Cyber di OpenAI. Completa le attività usando meno token, quindi il costo è molto più bassa rispetto a quello di GPT-6 Astra. Sarà disponibile solo nei prodotti Microsoft, tra cui MDASH (Multi-Model Agentic Scanning Harness). I modelli per la programmazione sono MAI Code 2 e MAI Code 2 Flash. Il primo è più potente, mentre il secondo è più veloce. In base ai risultati dei benchmark pubblicati da Microsoft, MAI Code 2 offre prestazioni molti simili a quelle di GPT-6.1 Sol e Claude Opus 5.5 al 40% e al 5% del costo. MAI Code 2 Flash offre invece prestazioni superiori a quelle di GPT-6 Luna e Claude Haiku 5.5 al 65% e al 20% del costo. Sono accessibili tramite GitHub Copilot. Modelli per generare immagini e trascrizioni MAI Image 2.7 è il modello specializzato nella generazione e modifica delle immagini (c’è anche la variante Flash). Può essere utilizzato per eseguire diverse operazioni di editing, come cambiare colore, materiale e posizione degli oggetti, senza alterare il resto dell’immagine. Le prestazioni sono superiori a quelle di GPT Image 2.6. MAI Image 2.7 è ora il modello predef…",
+   "fonte": "Punto Informatico",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Italia",
+   "id": "u2a158",
+   "testo_completo": true
   }
  },
  "fonti": [
@@ -779,10 +828,101 @@
   "medicicolpagraveeailariformaarrivaalsenato",
   "lineeguidaagidsullailachecklistoperativapericomuni",
   "footageofaprecisionstrikeavideoofthespectacularcollapseofthecrimeanbridgehasbeen",
-  "whenpublicinformationbecomesaweapon"
+  "whenpublicinformationbecomesaweapon",
+  "duskbot",
+  "linkbit",
+  "kadeepai",
+  "assemblyaistt37",
+  "incredibleagents",
+  "polylaneforci",
+  "maicyber2flash",
+  "aicanvas",
+  "tencenthy4flash",
+  "gpt62astraandsol",
+  "ox212",
+  "canfit",
+  "qwen4max",
+  "microsoftiq",
+  "uiverify",
+  "nutcakelaunchesaitoolforcreatordiscovery",
+  "10bestaiappsforiphonein2026testedranked",
+  "agodabeginslimitedpublicbetaofnewaiassistantfortravellers",
+  "intelligenzaartificialeunanuovarivoluzionenelrapportotrapersoneetecnologia",
+  "intelligenzaartificialelasfidadellepmidatrixlanciailsistemaoperativoperportarela",
+  "intelligenzaartificialesostenibileaserviziodelclimapattoacop31",
+  "universitàdigenovaarrivagedailassistenteiaperglistudenti",
+  "impreseesviluppatorisiincontranoperparlarediintelligenzaartificialearavennaarriv",
+  "commonwealthbankofaustralialanciaunostrumentodicybersicurezzabasatosullintellige",
+  "socialaiminoriarrivailsìdeigiovani6su10favorevolialdivietogeneraleepalettianchep",
+  "perchécreareunappconlintelligenzaartificialenonbastaarenderlaaffidabilesecondogl",
+  "falsositodelleentratearrivainitaliailmalwareandroidmirax",
+  "geminitaskssiapreatuttipuòchiamareaziendefissareappuntamentiefareacquisti",
+  "ristorazioneeaigestireilmenueleprenotazionidinataleecapodannoconclaudeewhatsapp",
+  "arrivaiphoneduonelsimulatorediclaudecodecontreposedaprovare",
+  "protonslumoisfinallyusefulandgivesushopeforarealprivateai",
+  "abodecam3brings2ksecurityvideoandbuiltinaiforsmarterhomemonitoring",
+  "macstudiom5ultravsrtxspark5499vs25992026",
+  "aiartyvideoenhancerofflineaidenoising4kupscalingandblackfridayoffer",
+  "falsoaggiornamentodellappioinstallailmalwaremirax",
+  "malwarearcticratcomeusagroksecondozimperium",
+  "dataroomnexusterzoreportdellosservatoriosulgiocoonlineillegalepartiretruccatepro",
+  "googleisgivingmillionsofgeminiusersafreepersonalaiagent",
+  "nextcloudandonlyofficebrokeupoveralicensemostselfhostershaveneverread",
+  "holyarrsholyarrsaselfhostedhubformediarequestsandlibraries",
+  "hardenrunnerbringsruntimesecurityinsidekataandnitrorunnerpods",
+  "n8nstable",
+  "legroupefigaroandopenaipartnertobringlefigarojournalismtochatgpt",
+  "waitlisterlaunchesconnectorforclaudetomanageproductwaitlistsbychat",
+  "copilotforcebringssalesforceintocopilotandteams",
+  "webuyglobalwbuywetripchinatourapplaunchesonchatgptfortravelleads",
+  "sanaisnowavailableinmicrosoftcopilotinearlyaccess",
+  "infobiplaunchesverifiedclaudeconnectorformultichannelmessaging",
+  "microsoftlaunchesinhousecodingandsecuritymodelsatigniterecastscopilotasanoperati",
+  "anthropichistorycontroversiesclaudeai",
+  "inforintegrateserpforthemanufacturingindustrywithanthropicsclaude",
+  "anthropicsblockbusteripocomesafterayearthatturnedaihypeintofear",
+  "anthropicapproachesfinalipohurdleaftertechstockschurn",
+  "themajoraliststarsetforbillionairestatusthankstoanthropicipo",
+  "anthropicrevenueandvaluationstatisticsnov2026",
+  "microsoftunveiledcopilotworkspacesatignite2026plusmoreaiworkplaceupdates",
+  "microsoftcopilotnoweditsandcoauthorsofficefilesinaichats",
+  "microsoftbringswordexcelandpowerpointintocopilot",
+  "grokvschatgptwhichaichatbotwinsin2026",
+  "sabretodebuttravelbookingpluginingrokbot",
+  "perplexitylaunchesmultiagentforcomputerandorchestratoranapiformodelsfromopenaian",
+  "arcticratmalwareandgrokzimperiumsfindings",
+  "nvidiaisntsellinganymoreaichipstochina",
+  "sunonowletsyoumakeaivideosforyouraimusic",
+  "satyanadellasayshesagipillednow",
+  "nvidiaclarifieswhenitwillandwontkeepfinancingneoclouds",
+  "felicisleads75mbetonunsiloedaitomakeenterprisedocumentsusablebyaiagents",
+  "indiashumynlabsraises47mtofeedusroboticscompaniesthedatatheyneed",
+  "thissmellstartupsaysitsainoseisasgoodasahumans",
+  "kpmgsprojectexponentialputaiagentsalongsidearealauditteamandfoundthebotsdugdeepe",
+  "secprobesnvidiaoverundisclosedchipsalestiedtochina",
+  "sunosnewvisualsfeaturepairsaigeneratedmusicwithaigeneratedvideo",
+  "anairobisidiscutediinnovazioneintelligenzaartificialeeoccupazionegiovanile",
+  "universitàdigenovalintelligenzaartificialealserviziodeglistudenti",
+  "ivaccinidelfuturospintidallintelligenzaartificiale",
+  "agentiaiinaziendaappianpresentaunacabinadiregiapercontrollarecostierisultati",
+  "microsoftannunciasettemodelliaicybercodingeimmagini",
+  "retidibancheusaensaofflinecolpadellepatch",
+  "geminitaskscosèecomefunzionalassistenteaigratuitodigoogle",
+  "nvidianessunritornodijensenhuangeaddioallacina",
+  "googlehomelevideocamerenestusanoanchelaudioperdescrivereglieventi",
+  "lgespandeloffertagamingaiedualmodeperinuovimonitorultragearoled",
+  "gliusaconfermanoleindaginisullasocietàpercuilavoravalamantedijensenhuang",
+  "iprimiauricolariaclipdixiaomiarrivanoinitaliaesonogiàinpromo",
+  "lapauradidiventareobsoletipuòfrenarelaiinaziendacosafare",
+  "laicambiailvaloredellaconsulenzavendereorenonbastapiù",
+  "intelligenzaartificialeascuolavialiberadelgaranteprivacy",
+  "holidayshoppinginaworldoffakeshowaiischangingthegame",
+  "taiwanscommonwealthmagazinedoublesdownondatadriveninvestigativejournalism",
+  "forensicinvestigationexposesfakexaccounttargetinginecchairmanamupitan",
+  "eudisinfolabsapproachtofundraising"
  ],
  "audio": "audio/2026-11-18.mp3",
- "durata": 122.9,
+ "durata": 162.1,
  "aggiornamenti": [
   {
    "generato": "2026-11-18T05:38:49+00:00",
@@ -824,6 +964,120 @@
     ],
     "formato": 2,
     "controllo_siti": []
+   }
+  },
+  {
+   "generato": "2026-11-18T14:10:46+00:00",
+   "modello": "gemini-3.5-flash-lite",
+   "testi_completi": 14,
+   "riassunto": {
+    "titolo_giorno": "Suno introduce \"Visuals\" per creare video musicali con l'AI",
+    "in_breve": "La piattaforma di musica generativa Suno lancia la nuova funzione Visuals, che permette di abbinare ai brani musicali clip video e immagini generate dall'AI con sincronizzazione del labiale. Intanto Microsoft presenta sette nuovi modelli specializzati in sicurezza e programmazione.",
+    "citati": [
+     "Suno",
+     "MAI Cyber 2 Flash",
+     "MAI Code 2"
+    ],
+    "da_provare": [
+     {
+      "cosa": "Suno Visuals",
+      "a_cosa_serve": "Crea clip video e immagini sincronizzate con i brani musicali generati, con opzioni per la sincronizzazione del labiale e la gestione dei testi sullo schermo.",
+      "per_chi": "Tutti i giorni",
+      "ambito": "Video e immagini",
+      "come_iniziare": [
+       "Apri la modalità di creazione su Suno da browser o app mobile",
+       "Seleziona la scheda Visuals su un brano della tua libreria",
+       "Scegli un'immagine di partenza o usa i prompt per generarne una nuova",
+       "Avvia la generazione del clip video"
+      ],
+      "costo": "Prova gratuita",
+      "piattaforme": [
+       "Browser",
+       "Android",
+       "iPhone"
+      ],
+      "sul_dispositivo": false,
+      "come_sfruttarla": "Generare rapidamente video musicali brevi e contenuti visivi sincronizzati per i social network.",
+      "italiano": "Sì",
+      "difficolta": "Facile",
+      "fonti": [
+       "u2a113",
+       "u2a141"
+      ],
+      "temi": [
+       "Video",
+       "Foto e immagini",
+       "Scrittura e documenti"
+      ],
+      "affidabilita": "Confermata",
+      "prova": ""
+     }
+    ],
+    "osint": [],
+    "gemme": [
+     {
+      "cosa": "n8n stable",
+      "a_cosa_serve": "Piattaforma open source per creare flussi di lavoro automatizzati e collegare diverse applicazioni tra loro.",
+      "perche_gemma": "La versione 2.48.5 introduce correzioni e miglioramenti specifici per la gestione dei nodi dedicati agli agenti AI.",
+      "con_ai": "Permette di coordinare flussi di lavoro complessi e sessioni di chat con agenti intelligenti.",
+      "piattaforme": [
+       "Browser"
+      ],
+      "self_hosted": true,
+      "costo": "Gratis con limiti",
+      "difficolta": "Media",
+      "temi": [
+       "Open source e self-hosting",
+       "Lavoro e produttività",
+       "Agenti AI"
+      ],
+      "fonti": [
+       "u2a68"
+      ],
+      "affidabilita": "Fonte ufficiale",
+      "come_iniziare": [],
+      "sul_dispositivo": false,
+      "come_sfruttarla": "",
+      "prova": "https://github.com/n8n-io/n8n/releases/tag/stable"
+     }
+    ],
+    "sezioni": [
+     {
+      "titolo": "Novità negli strumenti che già usi",
+      "notizie": [
+       {
+        "titolo": "Microsoft lancia sette nuovi modelli AI per sicurezza e programmazione",
+        "strumento": "Microsoft",
+        "riassunto": "Microsoft ha presentato sette nuovi modelli, tra cui MAI Cyber 2 Flash per trovare vulnerabilità e scrivere patch di sicurezza, e i modelli MAI Code 2 per la programmazione integrati in GitHub Copilot.",
+        "come_provarla": "I modelli di programmazione sono accessibili tramite GitHub Copilot.",
+        "disponibilita": "Disponibile ora",
+        "fonti": [
+         "u2a158"
+        ],
+        "temi": [
+         "Assistenti e chatbot",
+         "Scrittura e documenti",
+         "Privacy e sicurezza"
+        ],
+        "affidabilita": "Una fonte",
+        "solo_titoli": false
+       }
+      ]
+     }
+    ],
+    "formato": 2,
+    "controllo_siti": [
+     {
+      "cosa": "Suno Visuals",
+      "esito": "nessun sito da aprire"
+     },
+     {
+      "cosa": "n8n stable",
+      "sito": "https://github.com/n8n-io/n8n/releases/tag/stable",
+      "pagina": 155102,
+      "trovate": []
+     }
+    ]
    }
   }
  ]
