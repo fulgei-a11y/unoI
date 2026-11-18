@@ -1,0 +1,869 @@
+{
+ "giorno": "2026-11-19",
+ "generato": "2026-11-18T23:12:14+00:00",
+ "modello": "gemini-3.6-flash",
+ "testi_completi": 33,
+ "riassunto": {
+  "titolo_giorno": "Debutta Mistral Vibe Desktop e Gemini si espande sugli smartphone Android economici",
+  "in_breve": "Mistral lancia l'applicazione desktop ufficiale per Windows e Mac offrendo la versione Pro inclusa gratuitamente in Europa. Nel frattempo Google ottimizza l'app Gemini per funzionare sugli smartphone Android con poca memoria e introduce le chat in incognito per la Ricerca AI.",
+  "citati": [
+   "Mistral Vibe Desktop",
+   "Gemini",
+   "Ricerca Google"
+  ],
+  "da_provare": [
+   {
+    "cosa": "Mistral Vibe Desktop",
+    "a_cosa_serve": "Un'applicazione desktop ufficiale per computer che consente di accedere all'assistente AI di Mistral direttamente dal sistema operativo senza passare dal browser.",
+    "per_chi": "Lavoro e tutti i giorni",
+    "ambito": "Assistenti e ricerca",
+    "come_iniziare": [],
+    "costo": "Gratis",
+    "piattaforme": [
+     "Windows",
+     "Mac"
+    ],
+    "sul_dispositivo": false,
+    "come_sfruttarla": "Usare l'assistente AI di Mistral sul computer sfruttando le funzionalità Pro disponibili senza costi in Europa.",
+    "italiano": "Non indicato",
+    "difficolta": "Facile",
+    "temi": [
+     "Assistenti e chatbot",
+     "Lavoro e produttività",
+     "Ricerca e informazioni"
+    ],
+    "fonti": [
+     "a109",
+     "a110",
+     "a114"
+    ],
+    "affidabilita": "Da verificare",
+    "solo_titoli": true,
+    "prova": ""
+   },
+   {
+    "cosa": "Incredible Agents",
+    "a_cosa_serve": "Un assistente vocale basato su AI in grado di analizzare la schermata dello schermo del computer ed eseguire comandi ed agenti automatici.",
+    "per_chi": "Lavoro e tutti i giorni",
+    "ambito": "Organizzazione",
+    "come_iniziare": [],
+    "costo": "Non indicato",
+    "piattaforme": [],
+    "sul_dispositivo": false,
+    "come_sfruttarla": "Delegare operazioni a un agente AI facendogli osservare direttamente le schermate di lavoro.",
+    "italiano": "Non indicato",
+    "difficolta": "Facile",
+    "temi": [
+     "Agenti AI",
+     "Lavoro e produttività",
+     "Assistenti e chatbot"
+    ],
+    "fonti": [
+     "a4"
+    ],
+    "affidabilita": "Appena lanciato",
+    "prova": "https://www.producthunt.com/products/incredible"
+   },
+   {
+    "cosa": "canfit",
+    "a_cosa_serve": "Uno strumento da riga di comando per monitorare l'uso di risorse e prestazioni mentre si eseguono modelli AI e applicazioni in locale sul proprio computer.",
+    "per_chi": "Lavoro",
+    "ambito": "Organizzazione",
+    "come_iniziare": [],
+    "costo": "Non indicato",
+    "piattaforme": [],
+    "sul_dispositivo": true,
+    "come_sfruttarla": "Verificare il consumo di memoria e processore durante l'elaborazione di modelli AI in locale.",
+    "italiano": "Non indicato",
+    "difficolta": "Media",
+    "temi": [
+     "AI sul dispositivo",
+     "Lavoro e produttività"
+    ],
+    "fonti": [
+     "a10"
+    ],
+    "affidabilita": "Appena lanciato",
+    "prova": "https://www.producthunt.com/products/canfit"
+   },
+   {
+    "cosa": "dusk bot",
+    "a_cosa_serve": "Un bot di conversazione open source e gratuito progettato come alternativa al bot Grok.",
+    "per_chi": "Tutti i giorni",
+    "ambito": "Assistenti e chatbot",
+    "come_iniziare": [],
+    "costo": "Gratis",
+    "piattaforme": [],
+    "sul_dispositivo": false,
+    "come_sfruttarla": "Utilizzare un assistente conversazionale a codice aperto senza costi di licenza.",
+    "italiano": "Non indicato",
+    "difficolta": "Facile",
+    "temi": [
+     "Assistenti e chatbot",
+     "Open source e self-hosting",
+     "Lavoro e produttività"
+    ],
+    "fonti": [
+     "a1"
+    ],
+    "affidabilita": "Appena lanciato",
+    "prova": "https://www.producthunt.com/products/dusk-bot"
+   }
+  ],
+  "osint": [],
+  "gemme": [],
+  "sezioni": [
+   {
+    "titolo": "Novità negli strumenti che già usi",
+    "notizie": [
+     {
+      "titolo": "L'app Gemini arriva sugli smartphone Android con poca memoria",
+      "strumento": "Gemini",
+      "riassunto": "Google ha riprogettato l'app Gemini per permetterle di funzionare sui dispositivi Android con hardware limitato (Go edition). Gli utenti possono usare le funzioni vocali di Gemini Live in oltre 45 lingue o inquadrare appunti e documenti con la fotocamera per tradurli e riassumerli.",
+      "come_provarla": "Scaricare l'app Gemini da Google Play o tenere premuto il tasto di accensione sui dispositivi Android supportati.",
+      "disponibilita": "Disponibile ora",
+      "fonti": [
+       "a80",
+       "a90"
+      ],
+      "temi": [
+       "Assistenti e chatbot",
+       "AI sul dispositivo",
+       "Scrittura e documenti"
+      ],
+      "affidabilita": "Fonte ufficiale",
+      "solo_titoli": false
+     },
+     {
+      "titolo": "Arrivano le chat in incognito nella modalità AI della Ricerca",
+      "strumento": "Ricerca Google",
+      "riassunto": "La Ricerca Google introduce i thread temporanei all'interno dell'interfaccia conversazionale AI Mode. Attivando questa opzione, le conversazioni non verranno memorizzate nello storico delle ricerche né usate per personalizzare i risultati futuri dell'account.",
+      "come_provarla": "Cliccare sull'icona delle chat temporanee in alto a destra nell'interfaccia AI Mode di Google.",
+      "disponibilita": "In arrivo",
+      "fonti": [
+       "a136"
+      ],
+      "temi": [
+       "Privacy e sicurezza",
+       "Ricerca e informazioni",
+       "Assistenti e chatbot"
+      ],
+      "affidabilita": "Una fonte",
+      "solo_titoli": false
+     },
+     {
+      "titolo": "Debutta Genie 4 con creazione di mondi 3D e audio in tempo reale",
+      "strumento": "Project Genie",
+      "riassunto": "Google DeepMind ha aggiornato la piattaforma Project Genie introducendo il modello Genie 4. Permette di generare e navigare mondi 3D interattivi dal browser, modificarne il meteo o gli elementi con comandi testuali in tempo reale e generare audio ambientale dinamico.",
+      "come_provarla": "Disponibile per gli abbonati al piano Google AI Ultra all'interno di Project Genie.",
+      "disponibilita": "Disponibile ora",
+      "fonti": [
+       "a79",
+       "a151"
+      ],
+      "temi": [
+       "Foto e immagini",
+       "Video",
+       "Voce e audio"
+      ],
+      "affidabilita": "Fonte ufficiale",
+      "solo_titoli": false
+     }
+    ]
+   },
+   {
+    "titolo": "In breve",
+    "breve": true,
+    "notizie": [
+     {
+      "titolo": "Malware Android Mirax si finge l'app IO e l'Agenzia delle Entrate",
+      "riassunto": "In Italia si sta diffondendo un nuovo malware per dispositivi Android chiamato Mirax, che tenta di rubare dati personali mascherandosi da falso aggiornamento dell'app IO o da finto sito dell'Agenzia delle Entrate.",
+      "fonti": [
+       "a53",
+       "a35"
+      ],
+      "temi": [
+       "Privacy e sicurezza"
+      ],
+      "affidabilita": "Una fonte",
+      "solo_titoli": true,
+      "come_provarla": ""
+     }
+    ]
+   }
+  ],
+  "formato": 2,
+  "controllo_siti": [
+   {
+    "cosa": "Mistral Vibe Desktop",
+    "esito": "nessun sito da aprire"
+   },
+   {
+    "cosa": "dusk bot",
+    "sito": "https://www.producthunt.com/r/p/1320378?app_id=339",
+    "esito": "errore: HTTP Error 403: Forbidden"
+   },
+   {
+    "cosa": "canfit",
+    "sito": "https://www.producthunt.com/r/p/1319205?app_id=339",
+    "esito": "errore: HTTP Error 403: Forbidden"
+   },
+   {
+    "cosa": "Incredible Agents",
+    "sito": "https://www.producthunt.com/r/p/1320857?app_id=339",
+    "esito": "errore: HTTP Error 403: Forbidden"
+   }
+  ]
+ },
+ "articoli": {
+  "a53": {
+   "titolo": "Falso aggiornamento dell'app IO installa il malware Mirax",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNX19CTWkxMWpMVHd2ZHppRGVsRUh2b1QzMUI1cGlzcWhtXzBfR1hvLTJFWEdWdnVlNGRYdFhrVGVINGRUMjFGZGFyb3VDSWhPbU80RE15WHNOWVFaS0ItU0cyVk9hOVBUY3ZtcmZka01MOXg3VVpGQ1BoMEpHVnNrdU5QNFI0bWI4X0dr?oc=5",
+   "data": "2026-11-18T09:36:38+00:00",
+   "testo": "",
+   "fonte": "Punto Informatico",
+   "tipo": "testata",
+   "solo_titolo": true,
+   "categoria": "Strumenti",
+   "id": "a53"
+  },
+  "a114": {
+   "titolo": "Mistral Vibe Desktop arrives on Mac and Windows with free Pro in Europe",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQU1ScThHamhvaGdURHJOT1ZxT2o5WXgweHlCX3FyS1EtYXlSSHZoWXhsUWhSZmNfemZ3YVdyZk9pcHFSdVhLaXY3MF9FWXo5TTN4VXVrdUNfUmlzNGZIYlhKREpBRk9wd0dkMXNuVFJHc2gwZGlvanZ4dWJ3V2VDVXQ4cEtkbzhDelotSmt1Uld3dl9PdzRV?oc=5",
+   "data": "2026-11-18T16:50:24+00:00",
+   "testo": "",
+   "fonte": "Pasquale Pillitteri",
+   "tipo": "minore",
+   "solo_titolo": true,
+   "categoria": "Laboratori",
+   "id": "a114"
+  },
+  "a80": {
+   "titolo": "The Gemini app is now available on lower-memory Android devices.",
+   "link": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
+   "data": "2026-11-18T17:00:00+00:00",
+   "testo": "The Gemini app is now available on lower-memory Android devices. For hundreds of millions of people globally, a lower-memory Android device is their everyday connection to the internet, education, and business. Until recently, hardware limits meant those phones only had basic voice commands. Now, we’re bringing the Gemini app to eligible Android (Go edition) devices, putting Google’s personal AI assistant in the hands of hundreds of millions more people. We re-architected the app so the core Gemini experience runs smoothly on hardware with less memory. Instead of typing out long prompts, you can talk things through or practice for an interview out loud in more than 45 languages with Gemini Live, point your camera at notes or forms to learn and translate, or create custom images with Nano Banana — like a flyer for a weekend bakery sale. To get started, download the Gemini app on Google Play, press and hold the power button on supported phones, or look for it preloaded on upcoming devices from partners like Transsion.",
+   "fonte": "Google (blog ufficiale)",
+   "tipo": "ufficiale",
+   "solo_titolo": false,
+   "categoria": "Laboratori",
+   "id": "a80",
+   "testo_completo": true
+  },
+  "a151": {
+   "titolo": "Google Deepmind's Project Genie update brings Genie 4, chainable worlds, and a community gallery for remixing",
+   "link": "https://the-decoder.com/google-deepminds-project-genie-update-brings-genie-4-chainable-worlds-and-a-community-gallery-for-remixing/",
+   "data": "2026-11-18T19:26:25+00:00",
+   "testo": "With Genie 4, Google DeepMind is launching its most realistic world model to date for Google AI Ultra subscribers. It generates interactive 3D worlds that can be modified in real time via text input and, for the first time, includes native sound. A community gallery allows users to share and remix the worlds they've created. The article Google Deepmind's Project Genie update brings Genie 4, chain…",
+   "fonte": "The Decoder",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Testate tech",
+   "id": "a151"
+  },
+  "a10": {
+   "titolo": "canfit",
+   "link": "https://www.producthunt.com/products/canfit",
+   "sito": "https://www.producthunt.com/r/p/1319205?app_id=339",
+   "data": "2026-11-16T09:42:21-08:00",
+   "testo": "The top command for people running local LLMs and apps",
+   "fonte": "Product Hunt (AI)",
+   "tipo": "vetrina",
+   "solo_titolo": false,
+   "categoria": "Strumenti",
+   "id": "a10"
+  },
+  "a1": {
+   "titolo": "dusk bot",
+   "link": "https://www.producthunt.com/products/dusk-bot",
+   "sito": "https://www.producthunt.com/r/p/1320378?app_id=339",
+   "data": "2026-11-17T06:13:59-08:00",
+   "testo": "free open source Grok bot alternative",
+   "fonte": "Product Hunt (AI)",
+   "tipo": "vetrina",
+   "solo_titolo": false,
+   "categoria": "Strumenti",
+   "id": "a1"
+  },
+  "a109": {
+   "titolo": "ICYMI: Mistral launches Vibe desktop for macOS and Windows",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUFJRdUFGZVNPZV9aN0tlR2xwenNsZkstT3RzcnNaR0ZuZXg5alRLQzQyLWZ0T2RpNDRPV2pxWFV3SlprWmRsbndWUUxkaW14QS1aVGpJMDdiMHZFczQ3VFZCLW1OTUFTZ2FfdzUzSXRpUWpzV0xDOHlYUUtwam1Tbko1QlgtU253Q0ttUkZWeHAwcHM?oc=5",
+   "data": "2026-11-18T16:42:32+00:00",
+   "testo": "",
+   "fonte": "TestingCatalog AI News",
+   "tipo": "minore",
+   "solo_titolo": true,
+   "categoria": "Laboratori",
+   "id": "a109"
+  },
+  "a35": {
+   "titolo": "Falso sito delle Entrate, arriva in Italia il malware Android Mirax",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMnlKQWRKTmhuRkxlLW9mV2hrUW55WXpVd19NaXk5azVpeVNYZlptYlBtMW9fRVRneU84RVVsWVNoMWZ3ZzdWX2t0NzFKcFN0aHNEZ19uMDg5MURzOFNDdElCazZ6RVgwM0laVHNYNFFoMllabXNJSlZQQ2RjTE8zbnc1ZG5lSTl2?oc=5",
+   "data": "2026-11-18T10:09:31+00:00",
+   "testo": "",
+   "fonte": "Pasquale Pillitteri",
+   "tipo": "minore",
+   "solo_titolo": true,
+   "categoria": "Strumenti",
+   "id": "a35"
+  },
+  "a4": {
+   "titolo": "Incredible Agents",
+   "link": "https://www.producthunt.com/products/incredible",
+   "sito": "https://www.producthunt.com/r/p/1320857?app_id=339",
+   "data": "2026-11-17T14:02:24-08:00",
+   "testo": "Fast Voice AI that sees your screen and runs your agents",
+   "fonte": "Product Hunt (AI)",
+   "tipo": "vetrina",
+   "solo_titolo": false,
+   "categoria": "Strumenti",
+   "id": "a4"
+  },
+  "a90": {
+   "titolo": "Google Gemini App is Now Available on Android Go Devices With Lower Memory",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdnJYVHRoWUlqWE5EX2lIOVpQb1RPWnNqMEN1Q09WRXh0dG9BcUo2TjJ5RE1rdkVUZ2hBRTQwdk9CMTAxcUhlUzJPTTJCY3lub3lrQm9RTW9lQ1hCTmJNQng4Q1BQS013Tm16MDFKbWpLSm9LOE8yWWRBNU50WjVGbXBnWUxFWHEtdVYxaTFGS2h6SzhyNDVLRUhDcXFGRS12M1RuMFRHWnN4LUJJOGYw?oc=5",
+   "data": "2026-11-18T17:52:58+00:00",
+   "testo": "",
+   "fonte": "Thurrott.com",
+   "tipo": "minore",
+   "solo_titolo": true,
+   "categoria": "Laboratori",
+   "id": "a90"
+  },
+  "a79": {
+   "titolo": "Genie 4 is now available",
+   "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/",
+   "data": "2026-11-18T18:00:00+00:00",
+   "testo": "Genie 4 is now available Earlier this year we introduced Project Genie, an experimental research prototype that lets you generate and explore interactive worlds. Early testers told us they wanted deeper control over what happens inside those worlds, and easier ways to build and share them. So today, we are rolling out a new Project Genie experience to eligible Google AI Ultra subscribers, making these worlds far more responsive, creative, and social. This update unlocks first-time access to Genie 4, new upgrades to Genie 3, the Project Genie agent which helps users build their vision, and a community gallery to discover, explore, and remix worlds. Project Genie brings together our most advanced world models alongside our Gemini models, empowering you to generate, step inside, and shape worlds directly from your browser. Experience Genie 4 in Project Genie With Genie 4, our most realistic and interactive world model yet, you can now prompt mid-session to change the world you created. Just type a new prompt while you navigate your world and you can edit your environments in real time. Shift the weather, drop in a character, or redirect the action. For the first time, Genie 4 pairs these visuals with real-time native audio that adapts as the scene unfolds, from ambient soundscapes to character dialogue. Discover new Genie 3 capabilities While Genie 4 delivers our highest-fidelity visuals, physics, and native audio, Genie 3 remains available in Project Genie’s model picker when you want longer runs or panorama-seeded spaces. Today’s Genie 3 updates include: - Extended sessions and world chaining: Explore for up to 3 minutes per generation (up from 60 seconds), or link multiple worlds together for longer journeys. - 360-degree panorama image grounding: Seed new worlds from …",
+   "fonte": "Google (blog ufficiale)",
+   "tipo": "ufficiale",
+   "solo_titolo": false,
+   "categoria": "Laboratori",
+   "id": "a79",
+   "testo_completo": true
+  },
+  "a136": {
+   "titolo": "Google’s AI feature in Search gets its own incognito mode",
+   "link": "https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode/",
+   "data": "2026-11-18T18:04:05+00:00",
+   "testo": "Google’s search engine has long offered an incognito mode for all those search queries you don’t want logged or associated with your account. Now, Google’s AI Mode in Search is getting a similar feature. In a blog post, the company announced a new feature that brings “temporary threads” to AI Mode, where the conversations you have won’t be resurfaced later in areas like your search history or recommendations. Many leading AI chatbots already offer the option for temporary chats, Google Gemini included. However, there was not yet an option to have a temporary chat when you’re searching Google and are dropped into its conversational interface, known as AI Mode. Google says that users won’t have to adjust their settings to take advantage of the new option. Instead, they’ll be able to click a temporary threads icon in the upper right corner of AI Mode to engage in a temporary chat. This essentially works the same as a temporary chat would in the stand-alone Gemini chatbot. The option could be convenient to use at those times when you start digging deeper into a particular topic via AI Mode and realize that you don’t want the discussion to become a part of your search history because of its personal nature. Once the temporary thread is started, the session becomes detached from your account, Google says. This means that the responses the AI provides won’t be informed by past preferences, nor will they impact future personalization. That could also be useful for those times when you want to learn about something as more of a one-off, but don’t want Google to start to think of the topic as one of your main interests. When you close out of the thread, you will return to searching as usual. The company says the option to engage in temporary chats in AI Mode is rolling out globa…",
+   "fonte": "TechCrunch",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Testate tech",
+   "id": "a136",
+   "testo_completo": true
+  },
+  "a110": {
+   "titolo": "Mistral Vibe launches desktop app for macOS and Windows",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5BdXhTdlkzZFF1SzktXy1ya1JuYVZTSTJZVVJSSkdIYlFrYkZPZmhISTBkYTl5Tm9hbnYzNk05d05TOUdXZFZwbkJRR3lZZzRldTB3eWZyMjVwQnIwNEhTc21xb1p3dUZJRkpoMkQ5VTVTWnJn?oc=5",
+   "data": "2026-11-18T15:46:19+00:00",
+   "testo": "",
+   "fonte": "Crypto Briefing",
+   "tipo": "minore",
+   "solo_titolo": true,
+   "categoria": "Laboratori",
+   "id": "a110"
+  }
+ },
+ "fonti": [
+  {
+   "nome": "Product Hunt (AI)",
+   "ok": true,
+   "presi": 15
+  },
+  {
+   "nome": "Show HN (nuovi progetti)",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "Nuove app AI (internazionale)",
+   "ok": true,
+   "presi": 10
+  },
+  {
+   "nome": "Nuove app AI (Italia)",
+   "ok": true,
+   "presi": 8
+  },
+  {
+   "nome": "Novità AI da provare (Italia)",
+   "ok": true,
+   "presi": 8
+  },
+  {
+   "nome": "AI sul dispositivo (internazionale)",
+   "ok": true,
+   "presi": 8
+  },
+  {
+   "nome": "AI sul dispositivo (Italia)",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "Android Police (AI su Android)",
+   "ok": true,
+   "presi": 4
+  },
+  {
+   "nome": "Windows Central (AI su Windows)",
+   "ok": true,
+   "presi": 3
+  },
+  {
+   "nome": "Ollama (nuove versioni)",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "Open WebUI (nuove versioni)",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "Show HN – progetti utili (gemme)",
+   "ok": false,
+   "errore": "The read operation timed out",
+   "presi": 0
+  },
+  {
+   "nome": "Reddit r/selfhosted",
+   "ok": false,
+   "errore": "HTTP Error 404: Not Found",
+   "presi": 0
+  },
+  {
+   "nome": "Reddit r/opensource",
+   "ok": false,
+   "errore": "HTTP Error 404: Not Found",
+   "presi": 0
+  },
+  {
+   "nome": "Alternative open source (Google News)",
+   "ok": true,
+   "presi": 6
+  },
+  {
+   "nome": "n8n (nuove versioni)",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "Immich (nuove versioni)",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "OpenAI",
+   "ok": true,
+   "presi": 6
+  },
+  {
+   "nome": "Google (blog ufficiale)",
+   "ok": true,
+   "presi": 8
+  },
+  {
+   "nome": "Google Gemini (blog)",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "Nuove funzioni AI (Google News)",
+   "ok": true,
+   "presi": 12
+  },
+  {
+   "nome": "Anthropic / Claude",
+   "ok": true,
+   "presi": 6
+  },
+  {
+   "nome": "Microsoft Copilot",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "Altri assistenti AI (Perplexity, Mistral, Meta AI…)",
+   "ok": true,
+   "presi": 8
+  },
+  {
+   "nome": "Hugging Face (modelli e strumenti aperti)",
+   "ok": true,
+   "presi": 3
+  },
+  {
+   "nome": "Mistral AI",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "The Verge",
+   "ok": true,
+   "presi": 10
+  },
+  {
+   "nome": "TechCrunch",
+   "ok": true,
+   "presi": 12
+  },
+  {
+   "nome": "Ars Technica",
+   "ok": true,
+   "presi": 6
+  },
+  {
+   "nome": "MIT Technology Review",
+   "ok": true,
+   "presi": 3
+  },
+  {
+   "nome": "The Decoder",
+   "ok": true,
+   "presi": 9
+  },
+  {
+   "nome": "TLDR AI (newsletter)",
+   "ok": true,
+   "presi": 2
+  },
+  {
+   "nome": "ANSA",
+   "ok": true,
+   "presi": 6
+  },
+  {
+   "nome": "Wired Italia",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "Il Sole 24 Ore Tecnologia",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "Punto Informatico",
+   "ok": true,
+   "presi": 6
+  },
+  {
+   "nome": "HDblog",
+   "ok": true,
+   "presi": 2
+  },
+  {
+   "nome": "AI4Business",
+   "ok": true,
+   "presi": 4
+  },
+  {
+   "nome": "Agenda Digitale (AI)",
+   "ok": true,
+   "presi": 3
+  },
+  {
+   "nome": "Garante Privacy e AI",
+   "ok": true,
+   "presi": 3
+  },
+  {
+   "nome": "Malwarebytes (app e truffe AI)",
+   "ok": true,
+   "presi": 2
+  },
+  {
+   "nome": "Reddit",
+   "ok": false,
+   "errore": "HTTP Error 404: Not Found",
+   "presi": 0
+  },
+  {
+   "nome": "Reddit (AI locale)",
+   "ok": false,
+   "errore": "HTTP Error 404: Not Found",
+   "presi": 0
+  },
+  {
+   "nome": "Simon Willison (prove pratiche di strumenti AI)",
+   "ok": true,
+   "presi": 4
+  },
+  {
+   "nome": "Bellingcat (guide e strumenti)",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "GIJN (guide per giornalisti investigativi, via Google News)",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "OSINT – verifica e fact-checking (internazionale)",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "OSINT – nuovi strumenti (internazionale)",
+   "ok": true,
+   "presi": 2
+  },
+  {
+   "nome": "OSINT – strumenti (Italia)",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "Facta (fact-checking, contenuti falsi e AI)",
+   "ok": true,
+   "presi": 3
+  },
+  {
+   "nome": "Week in OSINT (Sector035)",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "The OSINT Newsletter",
+   "ok": true,
+   "presi": 2
+  },
+  {
+   "nome": "IDMO (osservatorio italiano sulla disinformazione)",
+   "ok": true,
+   "presi": 2
+  },
+  {
+   "nome": "EU DisinfoLab",
+   "ok": true,
+   "presi": 2
+  },
+  {
+   "nome": "Reddit (OSINT)",
+   "ok": false,
+   "errore": "HTTP Error 404: Not Found",
+   "presi": 0
+  },
+  {
+   "nome": "Hacker News (OSINT)",
+   "ok": true,
+   "presi": 0
+  }
+ ],
+ "visti": [
+  "duskbot",
+  "aicanvas",
+  "gpt62astraandsol",
+  "incredibleagents",
+  "kadeepai",
+  "linkbit",
+  "qwen4max",
+  "polylaneforci",
+  "microsoftiq",
+  "canfit",
+  "assemblyaistt37",
+  "ox212",
+  "worldinmotion",
+  "vanira",
+  "confidentialcloud",
+  "trnrtanopensourcellminferenceengineforawstrainium",
+  "cityofjacksonlaunchesaiassistantonmunicipalwebsite",
+  "ubereatsintroducesaiassistantandwebsitebuilderforrestaurants",
+  "protonlaunchesaprivacyfirstaiassistantforyourpc",
+  "nutcakelaunchesaitoolforcreatordiscovery",
+  "hymanslaunchesaitoolforthirdpartyadministration",
+  "snapchatlaunchesaitoolforcreatingaugmentedrealityeffectstechcrunch",
+  "crossmintlaunchesmentathefirstpluginthatletsanyaiassistantshopanywhereworldwide",
+  "bestaiappbuilderin202612toolscomparedforbusinessbuyers",
+  "cbafightsfraudwithnewaitoolasblamegamegripslendingindustry",
+  "howtomakearesumein2026usingadobeacrobat",
+  "intelligenzaartificialeunanuovarivoluzionenelrapportotrapersoneetecnologia",
+  "intelligenzaartificialelasfidadellepmidatrixlanciailsistemaoperativoperportarela",
+  "startupeimpreseinvitalialanciamatchuplintelligenzaartificialepertrovarepartnerei",
+  "intelligenzaartificialesostenibileaserviziodelclimapattoacop31",
+  "impreseesviluppatorisiincontranoperparlarediintelligenzaartificialearavennaarriv",
+  "universitàdigenovaarrivagedailassistenteiaperglistudenti",
+  "socialaiminoriarrivailsìdeigiovani6su10favorevolialdivietogeneraleepalettianchep",
+  "catarattaarrivalachirurgiaguidatadallintelligenzaartificialelaserenuovetecnologi",
+  "falsositodelleentratearrivainitaliailmalwareandroidmirax",
+  "geminitaskssiapreatuttipuòchiamareaziendefissareappuntamentiefareacquisti",
+  "googlegeminiorabastaunafrasepercreareunsitowebeccocomefunziona",
+  "ristorazioneeaigestireilmenueleprenotazionidinataleecapodannoconclaudeewhatsapp",
+  "arrivageminitasksgratisinseipaesitelefonaepagasolonegliusa",
+  "claudeconcarplaycomeusarelamodalitàvocaleinauto",
+  "oneui95betagalaxys26quandoarrivainitalia",
+  "gemininotebooktrasformaappuntiefontiinsitiwebinterattividallachat",
+  "massmutualventuresbackscephables7mseedforondeviceaiagents",
+  "nvidiaexpandsrtxsparktocompactdesktopsforalwaysonlocalai",
+  "nvidiartxsparkcompactdesktopsoutnow",
+  "asusproartgr1xasilent128gblocalaipowerhouse",
+  "gehealthcaresaitoolcutsfeedingtubeerrors",
+  "abodecam3brings2ksecurityvideoandbuiltinaiforsmarterhomemonitoring",
+  "neolensdevelopsofflineaiassistantforandroidtosupportmilitaryequipmentrepairs",
+  "gigabytelaunchescompactaitopaerodesktopforlocalai",
+  "nvidiartxsparkminipcperialocaleekitdgxspark",
+  "perplexityportablecomputerportalailocalesullegpunvidiartxprivacyepotenzasenzaclo",
+  "falsoaggiornamentodellappioinstallailmalwaremirax",
+  "malwarearcticratcomeusagroksecondozimperium",
+  "appstoreawards2026appleannunciai45finalistitutteleappeigiochiingara",
+  "googleisgivingmillionsofgeminiusersafreepersonalaiagent",
+  "iturnedmyphoneintoahandsfreeproductivitymachinewith4geminivoicecommands",
+  "ifoundgeminishiddenrecordofwhatitknowsaboutmethenfixedwhatitgotwrong",
+  "ipayforchatgptbutthischangehasconvincedmetorevivemygeminisubscription",
+  "copilotisabouttobecomewindows11saitechsupportandicanseetheappeal",
+  "itestednvidiasrtxsparkinanasusminipcandsawaiimagegenerationspeedupbynearly22buto",
+  "hpsomnibookultra16isitsfirstlaptoppoweredbynvidiasrtxsparksocanditcomeswithwindo",
+  "nextcloudandonlyofficebrokeupoveralicensemostselfhostershaveneverread",
+  "tellusappbringsaccountcontextandanaisupportanalystintochatwoot",
+  "liberntaimstorecreatewindows11withoutmicrosoftofferinganopensourcealternativetha",
+  "irefusedtopayasubscriptionjusttotrackmysubscriptionssoiselfhostedthisopensourced",
+  "holyarrsholyarrsaselfhostedhubformediarequestsandlibraries",
+  "aiagentsgainbrowserinfrastructuretoolsforwebinteraction",
+  "n8nstable",
+  "immichv340",
+  "thesilentconsensus",
+  "insidethecodexsandbox",
+  "managingfrontierairiskfromtrainingtodeployment",
+  "legroupefigaroandopenaipartnertobringlefigarojournalismtochatgpt",
+  "advancingchipdesignwithopenaimodels",
+  "introducinggpt62astraandsol",
+  "introducinggemini4neon",
+  "googleformexicotechnologyimpactthatgoesbeyondbusiness",
+  "genie4isnowavailable",
+  "thegeminiappisnowavailableonlowermemoryandroiddevices",
+  "howgenomemappingcanhelpresearchersbetterunderstanddisease",
+  "seewhat5buildersaremakingwithgemini4carbon",
+  "putgeminitoworkforyou",
+  "10statesteamupwithgoogleonfreeaitraining",
+  "googlelaunchesgemini4neonwithcarbonqualityatflashspeedsliveforaipro",
+  "googlelaunchesgemini4neonforcodingknowledgeworkandscience",
+  "googlerollsoutgemini4neonforcomplexaiwork",
+  "googlelaunchesgemini4neonat3permilliontokens",
+  "chatgptgetsawalletautopilotgetsabossdesignrushairoundup",
+  "googlegeminiappisnowavailableonandroidgodeviceswithlowermemory",
+  "prooflauncheschatgptintegrationtosolvetheaiagenttrustgap",
+  "googlerollsoutgemini4neon",
+  "googlerollsoutfreetasksingeminiinsixcountries",
+  "openailauncheschatgptforsaleswithsalesforcehubspotintegration",
+  "waitlisterlaunchesconnectorforclaudetomanageproductwaitlistsbychatthetopekacapit",
+  "sweetgreenlaunchesagenticorderingpersonalizedrecommendations",
+  "anthropicswallstreetdebutmarksanewchapterforai",
+  "anthropicpricesblockbusteripoat83asharesourcesays",
+  "whatinvestorsshouldknowaboutanthropicsunusualipoabcnews",
+  "anotheraicompanyisabouttobeworthmorethan1trillionwhatthatmeansfortherestofus",
+  "anthropicpreparesforhistoricipoamidmarketuncertainty",
+  "meet4siliconvalleyengineeringleaderswhoseheftyclaudebillsexplainanthropicsrise",
+  "whatsnewforgenieinmicrosoftcopilotcoworkandchatmicrosoftteamsandexcel",
+  "copilotforcepartnershipputssalesforceinsidemicrosoftcopilot",
+  "mindlaunchesdlpintegrationsformicrosoftcopilotandmicrosoft365",
+  "microsoftcopilotputspricingpressureonopenaianthropic",
+  "eskerredefinesthesourcetopayexperiencewithmicrosoftcopilot",
+  "mistralplayscatchupwithvibedesktopasrivalsalreadycommandfulloperatingsystems",
+  "icymimistrallaunchesvibedesktopformacosandwindows",
+  "mistralvibelaunchesdesktopappformacosandwindows",
+  "grokvschatgptwhichaichatbotwinsin2026",
+  "cantheusbanchineseaimodelswhatsactuallypossible",
+  "sabretodebuttravelbookingpluginingrokbot",
+  "mistralvibedesktoparrivesonmacandwindowswithfreeproineurope",
+  "perplexitylaunchesmultiagentlettingupto16aiscollaborateacrossdifferentmodels",
+  "daisyrose27bpushingthefrontierofposttrainingefficiency",
+  "whyyourfinetuningjobtakeslongerthantheflopssay",
+  "timeseriesmodelsinthestreamhouseanewfrontierandusecases",
+  "trumpslatestlandgrabisanaihubinthephilippines",
+  "nvidiasrisevisualized",
+  "techlawsuitsdefined2026andlawmakerswantmore",
+  "whatisnvidiawithoutaissugardaddyincharge",
+  "disneysnewstarwarsanimatronicsinteractwithguestsusingai",
+  "rememberthefrontieraipausechipcompaniesdonteither",
+  "willwrightsnextgameusesaitomapyourmemories",
+  "nvidiaisntsellinganymoreaichipstochina",
+  "sunonowletsyoumakeaivideosforyouraimusic",
+  "satyanadellasayshesagipillednow",
+  "satyanadellapredictsaiagentswillreshuffletheeconomicsoftheweb",
+  "anthropicreportedlypricesipoat83ashareaboveprojectedrange",
+  "nvidiacreatedaweirdbitofintriguebynotfilingaroutinesecreport",
+  "palmerluckeywarnsaipoweredcyberattacksareoutpacingdefensesitstimetostartrunning",
+  "palmerluckeythinkschinaisthrilledtohavejensenoutsohewantstheoustednvidiaceoreins",
+  "samaltmansayshislifeissoweirdthathesunfazedbyandrewgarfieldportrayinghiminupcomi",
+  "snapchatnowletsdevelopersbuildarlenseswithaiassistantslikeclaudecodeandcursor",
+  "googlesaifeatureinsearchgetsitsownincognitomode",
+  "morebankssaycustomersusingaiagentsareontheirowneveniftheygethacked",
+  "samaltmanwarnsagainstafuturewhereainothumanscallstheshots",
+  "openaiceosamaltmansaysitshardtoimaginetheaiindustrywithoutjensen",
+  "nvidiaclarifieswhenitwillandwontkeepfinancingneoclouds",
+  "museprivacyinvasionsarefreakingoutmetastaffersinternalchatsshow",
+  "willwrightsnextsimulationwilluseaitominecontentfromyourmemories",
+  "copilotisthenewosforworkandnowofficerunsinsideofit",
+  "trumpwasinbedwithjensencriticsbalkathuangswishtoreturntonvidia",
+  "googlemakesiteasiertousegeminiwithouttrainingaionyourdata",
+  "arslivewhatdodronestrikesondatacentersmeanforthefuturetalkat1pmesttoday",
+  "theaihypeindexaiiseverywhere",
+  "thissmellstartupsaysitsainoseisasgoodasahumans",
+  "researchreports",
+  "googleshipsgemini4neonitsfourthnewgeminimodelinamonth",
+  "googledeepmindsprojectgenieupdatebringsgenie4chainableworldsandacommunitygallery",
+  "microsoftisreplacingoutsideaimodelsinitsownproductswithcheaperinhousealternative",
+  "openaisaysitsmodelsdeliveredayearsworthofchipoptimizationontopofamdsownengineeri",
+  "pangramflags99percentofanawardwinningperuviannovelasaigeneratedbutthepublisherst",
+  "anthropicopenaiandgooglemodelsreadilymarkedmedicsjournalistsandsurrenderingsoldi",
+  "openaiopensitsaisystemstofourindependentonsiteauditorsforthefirsttime",
+  "huggingfacenowroutesmodelrequeststhroughopenrouterforthebestpriceorspeed",
+  "morethanhalftheelectricityfeedingamericaslargestdatacenterscomesfromgasandcoal",
+  "gpt62astramicrosoftssevenmodelsreplitmissions",
+  "perplexityresearchnvidiarubinhpcopenaisafetyassessments",
+  "xiservemaggiorecooperazioneinternazionalesullintelligenzaartificiale",
+  "anairobisidiscutediinnovazioneintelligenzaartificialeeoccupazionegiovanile",
+  "universitàdigenovalintelligenzaartificialealserviziodeglistudenti",
+  "dairesialleprenotazionialristorantelassistentediintelligenzaartificialediklarnat",
+  "aromailconvegnoditelefonoazzurroproteggereibambininelleradellintelligenzaartific",
+  "unicreditaprecollocamentocertificatotematicosutechditaiwancoreaegiappone",
+  "agentiaiinaziendaappianpresentaunacabinadiregiapercontrollarecostierisultati",
+  "openaiannunciauntoolperrilevareicsam",
+  "gpt62astracostruisceunsitoin15minutibastaunprompt",
+  "copilotèilnuovosistemaoperativoperlavoro",
+  "microsoftannunciasettemodelliaicybercodingeimmagini",
+  "retidibancheusaensaofflinecolpadellepatch",
+  "geminitaskscosèecomefunzionalassistenteaigratuitodigoogle",
+  "switchbotaiartframe2ildisplayeinkèilpuntodiforzamaildesignèlimitante",
+  "nvidiafermalespedizionidichiph200versolacina",
+  "intelligenzaartificialeinitaliaperchéleimpresefrenano",
+  "chatgptwalletgliagentiaiarrivanoalpagamentoonline",
+  "modelliaimicrosoftaignitelastrategiamaiperridurreicosti",
+  "qualitàdeidatiperlaiperchéiprogettiaziendalifalliscono",
+  "laihaunproblemaconleinformazionieccoperchéservonoifilosofi",
+  "laicambiailvaloredellaconsulenzavendereorenonbastapiù",
+  "laicontrolesitazionevaccinaleilprogettovita",
+  "intelligenzaartificialeascuolavialiberadelgaranteprivacy",
+  "intelligenzaartificialeascuolavialiberadelgaranteprivacyaccessipseudonimizzatien",
+  "scontridimilanoperilgaranteprivacyildirittodicronacanongiustificalidentificazion",
+  "criminalsareusingartexaiagentstospeedupcyberattacksfbiwarns",
+  "holidayshoppinginaworldoffakeshowaiischangingthegame",
+  "quotingdanielstenberg",
+  "externalsandboxesforcodingagents",
+  "gpt62astraandgpt62sol",
+  "llm0373",
+  "usingthesafeboxnetworktoprotectstorieslaurentrichard",
+  "digitalsecuritybasicsforinvestigativejournalistsluisassardo",
+  "10вопросов",
+  "taiwanscommonwealthmagazinedoublesdownondatadriveninvestigativejournalism",
+  "investigativejournalismtrainersguidepartiintroduction",
+  "osintwhenpublicinformationbecomesaweaponhaezreenabegumabdulhamid",
+  "footageofaprecisionstrikeavideoofthespectacularcollapseofthecrimeanbridgehasbeen",
+  "securitymanageranalistagiuristafilosofotecnicoocomunicatore",
+  "inuoviagentiaisonotroppocariniperessereinnocui",
+  "noquestononèlattentatoredicracoviachepartecipaaunamanifestazioneantirazzista",
+  "noquestinonsonoidannidiunattaccoiranianoaunabaseusainbahreindinovembre2026",
+  "theosintnewsletterissue130",
+  "theosintnewsletterissue129",
+  "alviaprimacollaborazionedelcentrouecontrolefakenewsconongefactchecker",
+  "mattarelladifendeivaccinimaggioranzadivisasuimedicinovax",
+  "disinfoupdate18112026",
+  "europesmissingwatchdogshowboththedsaandtheaiactarefailingonenforcement"
+ ],
+ "audio": "audio/2026-11-19.mp3",
+ "durata": 133.5
+}
