@@ -200,6 +200,29 @@
    "solo_titolo": false,
    "categoria": "Community",
    "id": "a196"
+  },
+  "u1a131": {
+   "titolo": "Copilot is \"the new OS for work,\" and now Office runs inside of it",
+   "link": "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/",
+   "data": "2026-11-18T00:27:29+00:00",
+   "testo": "Opening the keynote at its Ignite event, Microsoft CEO Satya Nadella outlined the company’s vision for its new “frontier ecosystem,” announcing Tuesday the general availability of Word, Excel, and PowerPoint inside Copilot, which he described as “the new OS for work.” The announcement is a striking inversion of how we’ve traditionally used software. Rather than an app like Word being the attraction and Clippy the assistant to help you use it, Microsoft envisions the new Copilot integrations will see agents driving things, with the software packages riding shotgun. Applications will become plugin components of the agent’s work, backed by an organizational knowledge layer that draws context from emails, meetings, calendars, chats, and files. Users will now be able to create documents, spreadsheets, and presentations directly in Copilot, with the resulting files remaining editable in their respective Office applications. The rollout marks a major step toward the Copilot redesign the company first announced in September. Parts of that vision are now becoming “generally available,” as Nadella puts it, with autonomous agents and new governance tools arriving alongside them. All about agents Copilot Autopilot (not to be confused with Windows Autopilot) is a “persistent, proactive agent for personal productivity” according to Microsoft. In a nutshell, Autopilot is a cloud-based autonomous AI agent that users can delegate responsibilities to, not just single tasks. Autopilot can be authorized to work across services like email and calendars and complete tasks assigned to it as part of its role. Autopilot will use usage-based billing via Copilot Credits, but final pricing has not been announced ahead of general availability. Also announced as generally available at the keynote s…",
+   "fonte": "Ars Technica",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Testate tech",
+   "id": "u1a131",
+   "testo_completo": true
+  },
+  "u1a100": {
+   "titolo": "Ignite 2026: Microsoft Makes Copilot the Center of the Office Experience",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE81d0Q1UEtUb1VtVnQ1cUcxOExzUGpkYktOdlU4SVZNQlRwa3k5bkJGbkpOQ3dja1J1VkxwQTF2Y3A5U3lnanhrTXpNTnRQT0hYZ1NEQVZ2VFY4UU80bFI5VW9Vcw?oc=5",
+   "data": "2026-11-17T19:17:59+00:00",
+   "testo": "",
+   "fonte": "Petri IT Knowledgebase",
+   "tipo": "minore",
+   "solo_titolo": true,
+   "categoria": "Laboratori",
+   "id": "u1a100"
   }
  },
  "fonti": [
@@ -711,8 +734,97 @@
   "alviaprimacollaborazionedelcentrouecontrolefakenewsconongefactchecker",
   "mattarelladifendeivaccinimaggioranzadivisasuimedicinovax",
   "disinfoupdate4112026",
-  "europesmissingwatchdogshowboththedsaandtheaiactarefailingonenforcement"
+  "europesmissingwatchdogshowboththedsaandtheaiactarefailingonenforcement",
+  "stateweave",
+  "trnrtanopensourcellminferenceengineforawstrainium",
+  "bestaiappbuilderin202612toolscomparedforbusinessbuyers",
+  "scotiabankbnslaunchesaitooltargetsonemonthofstafftimesavedbyend2027",
+  "yournewmusemetalaunchesaipersonalassistantinaustralia",
+  "dirigentiscolasticineoassunti75orediformazioneeprovaarrivalafiguradelmentore",
+  "cuoabusinessschoolesploraleradellintelligenzaartificialeconildigitalday2026",
+  "applelanciaunapppertestarelaisullasalutechipuòpartecipar",
+  "islandquestaapptrasformalaschermatadibloccoinungiocochetiaiutaanonguardarelosche",
+  "geminilivesipreparaaintrodurreeffettispecialiconpikachueuntemadedicatoalringrazi",
+  "gemininotebooktrasformaappuntiefontiinsitiwebinterattividallachat",
+  "macstudiom5ultravsrtxsparksave29002026",
+  "agatintroducespragatixprivateagentsuitetobuildandrunprivateaiagentssecurelyiniso",
+  "wiciinferruns800baimodelslocallywithoutmoreram",
+  "ondeviceaimarketsizesharegrowthforecast2034",
+  "aiagentsforcustomerserviceascnaiprivateaidinner",
+  "ps4diventaunminiserverailocaleda9mlddiparametri39tokenalsecondo",
+  "pcloudsvelablackfridayscontifinoal60pianilifetimesufficientiper33cambidiiphone",
+  "iturnedmyphoneintoahandsfreeproductivitymachinewith4geminivoicecommands",
+  "ifoundgeminishiddenrecordofwhatitknowsaboutmethenfixedwhatitgotwrong",
+  "aiagentsgainbrowserinfrastructuretoolsforwebinteraction",
+  "logfileanalyticsvsbrowsereventswhateachlayeractuallymeasures",
+  "themailerselfhostedphishingplatformthatrunsonclaudeandchatgpt",
+  "openailauncheschatgptforsalesteamsupwithsalesforceandhubspottotargetsalesworkflo",
+  "openailauncheschatgptforsaleswithsalesforcehubspot",
+  "anthropicclaudedownwhyitsaiditwasunabletoauthenticatecode",
+  "anthropicfilesforipotoutingaisabilitytoimprovehowhumanslive",
+  "anthropicextendsfreeclaudeforteachersaccessforusk12educatorstojuly2028",
+  "microsoftaimstochallengeopenaianthropicwithcheaperspecializedaimodels",
+  "ignite2026microsoftmakescopilotthecenteroftheofficeexperience",
+  "perplexitylaunchesmultiagentlettingupto16aiscollaborateacrossdifferentmodels",
+  "glmvsclaudegptgeminigrokanddeepseekhowzhipusopenmodelcompares",
+  "appleistestingdailyusagelimitsformorecomplexsiriaiinteractions",
+  "openaiwantstostopdeepfakesfromoverwhelmingchildabusetiplines",
+  "nvidiasboardisreportedlynotconsideringhiringjensenhuangback",
+  "nvidiasstartupstakesballoonedto65bbuthuangsexitputsfuturedealsindoubt",
+  "nvidiapromisesthatrevenuewillkeepsoaringfornow",
+  "nvidiaisabandoningchinaafterjensenhuangsouster",
+  "copilotisthenewosforworkandnowofficerunsinsideofit",
+  "xiservemaggiorecooperazioneinternazionalesullintelligenzaartificiale",
+  "dairesialleprenotazionialristorantelassistentediintelligenzaartificialediklarnat",
+  "medicicolpagraveeailariformaarrivaalsenato",
+  "lineeguidaagidsullailachecklistoperativapericomuni",
+  "footageofaprecisionstrikeavideoofthespectacularcollapseofthecrimeanbridgehasbeen",
+  "whenpublicinformationbecomesaweapon"
  ],
  "audio": "audio/2026-11-18.mp3",
- "durata": 90.7
+ "durata": 122.9,
+ "aggiornamenti": [
+  {
+   "generato": "2026-11-18T05:38:49+00:00",
+   "modello": "gemini-3.8-flash",
+   "testi_completi": 6,
+   "riassunto": {
+    "titolo_giorno": "Microsoft Copilot integra Word, Excel e PowerPoint nella chat",
+    "in_breve": "La novità principale riguarda Microsoft Copilot, che integra direttamente la creazione e gestione di documenti Word, fogli Excel e presentazioni PowerPoint all'interno dell'interfaccia dell'assistente. Questo passo mostra la direzione degli agenti AI: il software tradizionale diventa un componente guidato dall'assistente anziché il punto di partenza dell'utente.",
+    "citati": [
+     "Microsoft Copilot"
+    ],
+    "da_provare": [],
+    "osint": [],
+    "gemme": [],
+    "sezioni": [
+     {
+      "titolo": "Novità negli strumenti che già usi",
+      "notizie": [
+       {
+        "titolo": "Word, Excel e PowerPoint funzionano direttamente all'interno di Copilot",
+        "strumento": "Microsoft Copilot",
+        "riassunto": "Microsoft ha avviato la disponibilità generale dell'integrazione di Word, Excel e PowerPoint dentro l'interfaccia di Copilot. Gli utenti possono creare documenti, fogli di calcolo e presentazioni partendo dalla conversazione con l'AI, mantenendo i file modificabili nei programmi Office tradizionali. Viene inoltre introdotto Copilot Autopilot, un agente autonomo progettato per completare attività coordinate tra email e calendari.",
+        "come_provarla": "",
+        "disponibilita": "Disponibile ora",
+        "fonti": [
+         "u1a131",
+         "u1a100"
+        ],
+        "temi": [
+         "Lavoro e produttività",
+         "Agenti AI",
+         "Assistenti e chatbot"
+        ],
+        "affidabilita": "Una fonte",
+        "solo_titoli": false
+       }
+      ]
+     }
+    ],
+    "formato": 2,
+    "controllo_siti": []
+   }
+  }
+ ]
 }
