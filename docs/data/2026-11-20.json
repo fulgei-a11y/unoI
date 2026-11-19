@@ -1,0 +1,891 @@
+{
+ "giorno": "2026-11-20",
+ "generato": "2026-11-19T23:17:44+00:00",
+ "modello": "gemini-3.8-flash",
+ "testi_completi": 37,
+ "riassunto": {
+  "titolo_giorno": "Gemini importa le chat da altri assistenti e Room AI rinnova l'arredo di casa",
+  "in_breve": "Google introduce in Gemini una procedura per importare preferenze e intere cronologie di conversazione da altri assistenti AI, evitando di ripartire da capo quando si cambia strumento. Per la gestione degli spazi domestici arriva Room AI, che permette di riprogettare una stanza dialogando passo dopo passo come con un arredatore.",
+  "citati": [
+   "Gemini",
+   "Room AI"
+  ],
+  "da_provare": [
+   {
+    "cosa": "Room AI",
+    "a_cosa_serve": "Consente di ripensare l'arredamento di una stanza descrivendo modifiche progressive all'AI, come se si stesse parlando con un designer d'interni.",
+    "per_chi": "Tutti i giorni",
+    "ambito": "Casa",
+    "come_iniziare": [],
+    "costo": "Non indicato",
+    "piattaforme": [],
+    "sul_dispositivo": false,
+    "come_sfruttarla": "Rinnovare la disposizione o lo stile del soggiorno provando un cambiamento alla volta tramite semplici indicazioni vocali o testuali.",
+    "italiano": "Non indicato",
+    "difficolta": "Facile",
+    "temi": [
+     "Foto e immagini",
+     "Assistenti e chatbot",
+     "Scrittura e documenti"
+    ],
+    "fonti": [
+     "a12"
+    ],
+    "affidabilita": "Appena lanciato",
+    "prova": "https://www.producthunt.com/products/room-ai-2"
+   },
+   {
+    "cosa": "Noteshell",
+    "a_cosa_serve": "Fornisce collaboratori AI virtuali in grado di configurare e gestire lo spazio di lavoro digitale per organizzare note e progetti.",
+    "per_chi": "Lavoro",
+    "ambito": "Organizzazione",
+    "come_iniziare": [],
+    "costo": "Non indicato",
+    "piattaforme": [],
+    "sul_dispositivo": false,
+    "come_sfruttarla": "Impostare e mantenere in ordine la documentazione e i compiti di un'attività senza dover creare manualmente cartelle e strutture.",
+    "italiano": "Non indicato",
+    "difficolta": "Facile",
+    "temi": [
+     "Agenti AI",
+     "Lavoro e produttività"
+    ],
+    "fonti": [
+     "a4"
+    ],
+    "affidabilita": "Appena lanciato",
+    "prova": "https://www.producthunt.com/products/noteshell"
+   },
+   {
+    "cosa": "Adside",
+    "a_cosa_serve": "Mette a disposizione una squadra di agenti AI specializzati che si occupano di gestire e ottimizzare campagne pubblicitarie online a pagamento.",
+    "per_chi": "Lavoro",
+    "ambito": "Lavoro e produttività",
+    "come_iniziare": [],
+    "costo": "Non indicato",
+    "piattaforme": [],
+    "sul_dispositivo": false,
+    "come_sfruttarla": "Automatizzare il controllo e l'aggiustamento delle inserzioni a pagamento per la propria attività senza dover seguire ogni parametro a mano.",
+    "italiano": "Non indicato",
+    "difficolta": "Facile",
+    "temi": [
+     "Agenti AI",
+     "Lavoro e produttività"
+    ],
+    "fonti": [
+     "a10"
+    ],
+    "affidabilita": "Appena lanciato",
+    "prova": "https://www.producthunt.com/products/adside"
+   },
+   {
+    "cosa": "Enrichable",
+    "a_cosa_serve": "Un foglio di calcolo open source potenziato dall'intelligenza artificiale per arricchire automaticamente elenchi di dati, contatti o prodotti.",
+    "per_chi": "Lavoro",
+    "ambito": "Organizzazione",
+    "come_iniziare": [],
+    "costo": "Gratis",
+    "piattaforme": [],
+    "sul_dispositivo": false,
+    "come_sfruttarla": "Completare tabelle di fornitori o clienti estraendo dettagli e recapiti mancanti direttamente nelle righe del foglio.",
+    "italiano": "Non indicato",
+    "difficolta": "Media",
+    "temi": [
+     "Open source e self-hosting",
+     "Lavoro e produttività"
+    ],
+    "fonti": [
+     "a6"
+    ],
+    "affidabilita": "Appena lanciato",
+    "prova": "https://www.producthunt.com/products/context-dev"
+   },
+   {
+    "cosa": "HeyGen Avatar 6",
+    "a_cosa_serve": "Genera un avatar digitale basato sulle reali sembianze dell'utente per realizzare video parlati e presentazioni senza dover registrare filmati ogni volta.",
+    "per_chi": "Lavoro e tutti i giorni",
+    "ambito": "Foto e video",
+    "come_iniziare": [],
+    "costo": "Non indicato",
+    "piattaforme": [],
+    "sul_dispositivo": false,
+    "come_sfruttarla": "Creare comunicazioni video o tutorial per clienti e colleghi inserendo semplicemente il testo che il proprio clone deve recitare.",
+    "italiano": "Non indicato",
+    "difficolta": "Facile",
+    "temi": [
+     "Video",
+     "Foto e immagini"
+    ],
+    "fonti": [
+     "a1"
+    ],
+    "affidabilita": "Appena lanciato",
+    "prova": "https://www.producthunt.com/products/heygen"
+   }
+  ],
+  "osint": [],
+  "gemme": [],
+  "sezioni": [
+   {
+    "titolo": "Novità negli strumenti che già usi",
+    "notizie": [
+     {
+      "titolo": "Arriva il trasferimento della cronologia e delle preferenze da altre AI",
+      "strumento": "Gemini",
+      "riassunto": "Google ha reso disponibile un percorso guidato per trasferire conversazioni passate e preferenze da un altro assistente (come ChatGPT) all'interno di Gemini. In questo modo si può cambiare strumento senza perdere le abitudini di risposta e il contesto storico accumulato.",
+      "come_provarla": "Nelle impostazioni di importazione di Gemini, copiare il prompt preimpostato, incollarlo nella vecchia AI per generare il riassunto delle preferenze e infine caricare su Gemini l'archivio ZIP con la cronologia esportata.",
+      "disponibilita": "Disponibile ora",
+      "fonti": [
+       "a77"
+      ],
+      "temi": [
+       "Assistenti e chatbot"
+      ],
+      "affidabilita": "Fonte ufficiale",
+      "solo_titoli": false
+     },
+     {
+      "titolo": "Controllo del computer su Mac per eseguire attività ripetitive",
+      "strumento": "Gemini",
+      "riassunto": "L'app Gemini per macOS supporta ora la funzione di 'computer use': l'AI può navigare tra le applicazioni del computer, leggere documenti locali, compilare moduli online ed eseguire compiti lunghi. L'assistente opera in una finestra separata in background con anteprima in tempo reale, lasciando lo schermo principale e il puntatore liberi all'utente.",
+      "come_provarla": "Scaricare l'applicazione all'indirizzo gemini.google/mac (la funzione è in distribuzione in lingua inglese per gli utenti negli Stati Uniti).",
+      "disponibilita": "Non in Italia",
+      "fonti": [
+       "a84",
+       "a126",
+       "a136"
+      ],
+      "temi": [
+       "Agenti AI",
+       "AI sul dispositivo",
+       "Assistenti e chatbot"
+      ],
+      "affidabilita": "Fonte ufficiale",
+      "solo_titoli": false
+     },
+     {
+      "titolo": "Separazione tra salvataggio della cronologia e addestramento dei modelli",
+      "strumento": "Gemini",
+      "riassunto": "Gemini permette ora di mantenere attiva la cronologia delle chat senza dover concedere i propri contenuti per l'addestramento dell'AI. Le due opzioni sono state rese indipendenti, consentendo di rileggere i dialoghi passati tutelando la privacy dei dati.",
+      "come_provarla": "",
+      "disponibilita": "Disponibile ora",
+      "fonti": [
+       "a172"
+      ],
+      "temi": [
+       "Privacy e sicurezza",
+       "Assistenti e chatbot",
+       "Regole e leggi"
+      ],
+      "affidabilita": "Una fonte",
+      "solo_titoli": false
+     },
+     {
+      "titolo": "Arriva il nuovo modello Gemini 4 Neon per utenti Pro e Ultra",
+      "strumento": "Gemini",
+      "riassunto": "Google ha introdotto Gemini 4 Neon, un modello più rapido nel completare compiti complessi e dotato di una finestra di contesto da 1 milione di token. È ottimizzato per sintetizzare insieme fogli di calcolo, PDF, video e audio con una frequenza di errori e allucinazioni ridotta rispetto alle versioni precedenti.",
+      "come_provarla": "Disponibile nel menu di selezione dei modelli dell'app Gemini per chi possiede un abbonamento Google AI Pro o Ultra.",
+      "disponibilita": "Disponibile ora",
+      "fonti": [
+       "a85",
+       "a153",
+       "a155"
+      ],
+      "temi": [
+       "Assistenti e chatbot",
+       "Lavoro e produttività",
+       "Scrittura e documenti"
+      ],
+      "affidabilita": "Fonte ufficiale",
+      "solo_titoli": false
+     }
+    ]
+   }
+  ],
+  "formato": 2,
+  "controllo_siti": [
+   {
+    "cosa": "HeyGen Avatar 6",
+    "sito": "https://www.producthunt.com/r/p/1321617?app_id=339",
+    "esito": "errore: HTTP Error 403: Forbidden"
+   },
+   {
+    "cosa": "Adside",
+    "sito": "https://www.producthunt.com/r/p/1322288?app_id=339",
+    "esito": "errore: HTTP Error 403: Forbidden"
+   },
+   {
+    "cosa": "Room AI",
+    "sito": "https://www.producthunt.com/r/p/1321847?app_id=339",
+    "esito": "errore: HTTP Error 403: Forbidden"
+   },
+   {
+    "cosa": "Noteshell",
+    "sito": "https://www.producthunt.com/r/p/1321837?app_id=339",
+    "esito": "errore: HTTP Error 403: Forbidden"
+   },
+   {
+    "cosa": "Enrichable",
+    "sito": "https://www.producthunt.com/r/p/1321590?app_id=339",
+    "esito": "errore: HTTP Error 403: Forbidden"
+   }
+  ]
+ },
+ "articoli": {
+  "a155": {
+   "titolo": "Google ships Gemini 4 Neon, its fourth new Gemini model in a month",
+   "link": "https://the-decoder.com/google-ships-gemini-4-neon-its-fourth-new-gemini-model-in-a-month/",
+   "data": "2026-11-18T21:03:23+00:00",
+   "testo": "Google released Gemini 4 Neon, a new frontier model built for software development, knowledge work, and science. It handles text, images, video, audio, and PDFs with a context window of one million tokens. At $3 per million input tokens and $15 per million output tokens, Neon is priced above previous Gemini 4 models. The article Google ships Gemini 4 Neon, its fourth new Gemini model in a month a…",
+   "fonte": "The Decoder",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Testate tech",
+   "id": "a155"
+  },
+  "a136": {
+   "titolo": "Google gives Gemini the ability to use your Mac for you",
+   "link": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
+   "data": "2026-11-19T18:09:11+00:00",
+   "testo": "Google on Thursday announced that it is bringing computer use to its Gemini desktop application on macOS, allowing its AI to complete tasks on users’ behalf, navigating native Mac apps, and browsing websites in the background. The tech giant is a little late to the game with this launch, as other leading AI model makers like OpenAI, Anthropic, and Meta have already been offering agentic features in their desktop applications for some time. Meanwhile, Google only this week announced the broader rollout of Gemini’s “Tasks,” the in-app feature that allows the AI to work more as an agent, helping users sign into websites, make online purchases, or book appointments. Google also only recently began admitting early testers to try its revamped “CC” AI agent, announced in September, which is designed to help families stay organized across email, calendars, chats, and tasks. Computer use is another type of agentic offering that allows an AI agent to take actions directly on the user’s computer — in Gemini’s case, a Mac. This allows the AI to complete multistep tasks that involve getting things done across local files, apps, and the web. After the user instructs the AI what they want to do, they’ll see the agent working in a live preview in their chat, while still keeping their screen and cursor free to continue working on other things. As with other AI agents offering computer use, users can pause, stop, and approve Gemini’s actions before they happen. Google suggests the feature could be useful for tedious tasks and other workflows, like filling out forms, repeating the same task over and over across a batch of files, organizing files into folders based on specific criteria, creating slideshows from files or information in online dashboards, and more. The feature is initially …",
+   "fonte": "TechCrunch",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Testate tech",
+   "id": "a136",
+   "testo_completo": true
+  },
+  "a77": {
+   "titolo": "ICYMI: Transfer your history from other AI apps into Gemini.",
+   "link": "https://blog.google/innovation-and-ai/products/gemini-app/switch-ai-assistants-transfer-history/",
+   "data": "2026-11-19T20:30:00+00:00",
+   "testo": "ICYMI: Transfer your history from other AI apps into Gemini. Switch to Gemini without starting from scratch. Here’s how to bring your context, preferences, and chat history from a different AI assistant into Gemini. - Open your Gemini import settings and copy our prompt. - Paste it into your previous AI tool to generate a summary of your preferences. - Paste the response into Gemini. - Export a ZIP file of your chat history from your previous provider's account settings. - Upload the ZIP archive in Gemini settings to pick up conversations right where you left off.",
+   "fonte": "Google (blog ufficiale)",
+   "tipo": "ufficiale",
+   "solo_titolo": false,
+   "categoria": "Laboratori",
+   "id": "a77",
+   "testo_completo": true
+  },
+  "a84": {
+   "titolo": "Let Gemini tackle repetitive chores on your Mac",
+   "link": "https://blog.google/innovation-and-ai/products/gemini-app/computer-use-mac/",
+   "data": "2026-11-19T17:00:00+00:00",
+   "testo": "Let Gemini tackle repetitive chores on your Mac Starting today, computer use in the Gemini app for Mac helps you get multi-step tasks done across your local files, desktop apps, and the web. This saves you time on the repetitive work that normally takes dozens of clicks. Just describe what you need, and Gemini handles the clicking, typing, menus, and forms for you. Gemini works inside an isolated background window with a live preview right in your chat. Your main screen and cursor remain completely free, so you can keep typing, designing, or taking calls without interruption. Privacy and safety are built in: you choose which apps Gemini can access, watch every step live, pause at any time, and approve key actions before they happen. Here are a few ways you can start trying it today: - Speed up creative workflows: Batch color-grade photos in your favorite design software or set up complex 3D scenes. - Skip manual form entry: Extract weights, dimensions, and addresses from local PDFs to fill out multi-box shipping quotes. - Turn live data into ready-to-present decks: Pull metrics and screenshots from live dashboards across multiple regions and build a presentation in Google Slides. - Batch-list items for sale: Analyze clothing photos from a local folder, research pricing, log item details, and stage listings on resale platforms. Computer use is rolling out in English in the U.S. in the Gemini app for Mac. 1 Download the app at gemini.google/mac to get started.",
+   "fonte": "Google (blog ufficiale)",
+   "tipo": "ufficiale",
+   "solo_titolo": false,
+   "categoria": "Laboratori",
+   "id": "a84",
+   "testo_completo": true
+  },
+  "a6": {
+   "titolo": "Enrichable by Context.dev",
+   "link": "https://www.producthunt.com/products/context-dev",
+   "sito": "https://www.producthunt.com/r/p/1321590?app_id=339",
+   "data": "2026-11-18T03:43:41-08:00",
+   "testo": "Open-source AI spreadsheet for data enrichment",
+   "fonte": "Product Hunt (AI)",
+   "tipo": "vetrina",
+   "solo_titolo": false,
+   "categoria": "Strumenti",
+   "id": "a6"
+  },
+  "a172": {
+   "titolo": "Gemini AI: ora si può bloccare laddestramento e mantenere le chat",
+   "link": "https://www.hdblog.it/google/articoli/n677542/google-gemini-cronologia-chat-addestramento-ai/",
+   "data": "2026-11-19T19:30:00+02:00",
+   "testo": "Gemini separa la cronologia delle chat dal consenso alluso dei contenuti per addestrare lAI.",
+   "fonte": "HDblog",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Italia",
+   "id": "a172"
+  },
+  "a12": {
+   "titolo": "Room AI",
+   "link": "https://www.producthunt.com/products/room-ai-2",
+   "sito": "https://www.producthunt.com/r/p/1321847?app_id=339",
+   "data": "2026-11-18T07:37:31-08:00",
+   "testo": "Talk to it like a designer. Your room, one change at a time",
+   "fonte": "Product Hunt (AI)",
+   "tipo": "vetrina",
+   "solo_titolo": false,
+   "categoria": "Strumenti",
+   "id": "a12"
+  },
+  "a10": {
+   "titolo": "Adside",
+   "link": "https://www.producthunt.com/products/adside",
+   "sito": "https://www.producthunt.com/r/p/1322288?app_id=339",
+   "data": "2026-11-18T16:52:42-08:00",
+   "testo": "A team of specialized AI agents that manage paid ads for you",
+   "fonte": "Product Hunt (AI)",
+   "tipo": "vetrina",
+   "solo_titolo": false,
+   "categoria": "Strumenti",
+   "id": "a10"
+  },
+  "a126": {
+   "titolo": "Gemini on Mac can now use your computer",
+   "link": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use",
+   "sito": "",
+   "data": "2026-11-19T13:21:13-05:00",
+   "testo": "Google’s Gemini app for macOS now has computer use, meaning it can help you “get multi-step tasks done across your local files, desktop apps, and the web,” the company says. Google suggests the feature might be useful for things like speeding up workflows, filling in forms, making presentations, and listing items for sale. Gemini on Mac can now use your computer With the new computer use feature, Google says Gemini can better help with things like filling in forms and creative workflows. Users will be able to decide which of your apps Gemini can access, and be able to follow along as Gemini works because it has its own background window that shows a live preview in your chat, Google says. The feature is rolling out now in English for users in the US. Gemini is introducing the new feature ahead of Apple launching new restrictions for apps wanting “full disk access” on Mac due to potential risks from AI agents with computer use. A preview of the settings rolled out with this week’s macOS 27.3 beta.",
+   "fonte": "The Verge",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Testate tech",
+   "id": "a126",
+   "testo_completo": true
+  },
+  "a4": {
+   "titolo": "Noteshell",
+   "link": "https://www.producthunt.com/products/noteshell",
+   "sito": "https://www.producthunt.com/r/p/1321837?app_id=339",
+   "data": "2026-11-18T07:28:16-08:00",
+   "testo": "AI teammates that build and run your workspace",
+   "fonte": "Product Hunt (AI)",
+   "tipo": "vetrina",
+   "solo_titolo": false,
+   "categoria": "Strumenti",
+   "id": "a4"
+  },
+  "a85": {
+   "titolo": "Introducing Gemini 4 Neon",
+   "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+   "data": "2026-11-18T21:00:00+00:00",
+   "testo": "Introducing Gemini 4 Neon Today, we’re introducing Gemini 4 Neon — bringing frontier-level intelligence with fast end-to-end task completion across complex software engineering, knowledge work, and science workflows. Neon ranks ahead of comparable models and #3 overall with a score of 61 on the Artificial Analysis Intelligence Index at its xhigh thinking level, landing just behind larger, slower models. On the Vals Index, Neon ranks #2 and lands on the Pareto frontier. Beyond just pushing on raw model capability, we’re continuing to make our models better to work with, Neon ranks #2 on steerability (adapting cleanly to mid-task user corrections) on the new Agent Arena Index. Neon also excels at multi-step instruction following and builds on our ongoing progress to curb fabrication, recording our lowest fabrication rate yet in internal Google Antigravity testing. The model is priced at $3 per million input tokens ($0.15 per million cached input tokens, a 95% discount) and $15 per million output tokens, with a 1 million-token context window. Gemini 4 Neon is rolling out today in the Gemini API in Google AI Studio, Gemini for business (via API and model dropdown), for paid Google AI Pro and Ultra subscribers in Google Antigravity, and for Pro and Ultra subscribers in the Gemini app. Delivers across enterprise, analytical, and scientific work Enterprise work lives in spreadsheets, PDFs, charts, audio, and video. Neon can synthesize across all of these inputs in a single 1 million-token context window and turns inputs into structured deliverables. Independent evaluations rank Neon as one of the top models and on benchmarks like the Vals Index, it ranks #2 (70.9%), and reaches #1 on both the Legal Research Bench and Tax Agent Bench. Neon also shows strong wins across categor…",
+   "fonte": "Google Gemini (blog)",
+   "tipo": "ufficiale",
+   "solo_titolo": false,
+   "categoria": "Laboratori",
+   "id": "a85",
+   "testo_completo": true
+  },
+  "a1": {
+   "titolo": "HeyGen Avatar 6",
+   "link": "https://www.producthunt.com/products/heygen",
+   "sito": "https://www.producthunt.com/r/p/1321617?app_id=339",
+   "data": "2026-11-18T04:03:30-08:00",
+   "testo": "AI Avatar Model That Looks Like You",
+   "fonte": "Product Hunt (AI)",
+   "tipo": "vetrina",
+   "solo_titolo": false,
+   "categoria": "Strumenti",
+   "id": "a1"
+  },
+  "a153": {
+   "titolo": "Google's latest AI model is faster, cheaper and smarter than its flagship predecessor from just weeks ago",
+   "link": "https://the-decoder.com/googles-latest-ai-model-is-faster-cheaper-and-smarter-than-its-flagship-predecessor-from-just-weeks-ago/",
+   "data": "2026-11-19T11:18:18+00:00",
+   "testo": "Google DeepMind has released Gemini 4 Neon, its fourth model in seven weeks, which is nearly 2x faster than its sibling Carbon, outperforms it on most benchmarks and comes in at a significantly lower price. The article Google's latest AI model is faster, cheaper and smarter than its flagship predecessor from just weeks ago appeared first on The Decoder .",
+   "fonte": "The Decoder",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Testate tech",
+   "id": "a153"
+  }
+ },
+ "fonti": [
+  {
+   "nome": "Product Hunt (AI)",
+   "ok": true,
+   "presi": 15
+  },
+  {
+   "nome": "Show HN (nuovi progetti)",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "Nuove app AI (internazionale)",
+   "ok": true,
+   "presi": 10
+  },
+  {
+   "nome": "Nuove app AI (Italia)",
+   "ok": true,
+   "presi": 8
+  },
+  {
+   "nome": "Novità AI da provare (Italia)",
+   "ok": true,
+   "presi": 8
+  },
+  {
+   "nome": "AI sul dispositivo (internazionale)",
+   "ok": true,
+   "presi": 8
+  },
+  {
+   "nome": "AI sul dispositivo (Italia)",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "Android Police (AI su Android)",
+   "ok": true,
+   "presi": 4
+  },
+  {
+   "nome": "Windows Central (AI su Windows)",
+   "ok": true,
+   "presi": 3
+  },
+  {
+   "nome": "Ollama (nuove versioni)",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "Open WebUI (nuove versioni)",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "Show HN – progetti utili (gemme)",
+   "ok": true,
+   "presi": 6
+  },
+  {
+   "nome": "Reddit r/selfhosted",
+   "ok": false,
+   "errore": "HTTP Error 404: Not Found",
+   "presi": 0
+  },
+  {
+   "nome": "Reddit r/opensource",
+   "ok": false,
+   "errore": "HTTP Error 404: Not Found",
+   "presi": 0
+  },
+  {
+   "nome": "Alternative open source (Google News)",
+   "ok": true,
+   "presi": 6
+  },
+  {
+   "nome": "n8n (nuove versioni)",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "Immich (nuove versioni)",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "OpenAI",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "Google (blog ufficiale)",
+   "ok": true,
+   "presi": 8
+  },
+  {
+   "nome": "Google Gemini (blog)",
+   "ok": true,
+   "presi": 3
+  },
+  {
+   "nome": "Nuove funzioni AI (Google News)",
+   "ok": true,
+   "presi": 12
+  },
+  {
+   "nome": "Anthropic / Claude",
+   "ok": true,
+   "presi": 6
+  },
+  {
+   "nome": "Microsoft Copilot",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "Altri assistenti AI (Perplexity, Mistral, Meta AI…)",
+   "ok": true,
+   "presi": 8
+  },
+  {
+   "nome": "Hugging Face (modelli e strumenti aperti)",
+   "ok": true,
+   "presi": 3
+  },
+  {
+   "nome": "Mistral AI",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "The Verge",
+   "ok": true,
+   "presi": 10
+  },
+  {
+   "nome": "TechCrunch",
+   "ok": true,
+   "presi": 12
+  },
+  {
+   "nome": "Ars Technica",
+   "ok": true,
+   "presi": 3
+  },
+  {
+   "nome": "MIT Technology Review",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "The Decoder",
+   "ok": true,
+   "presi": 10
+  },
+  {
+   "nome": "TLDR AI (newsletter)",
+   "ok": true,
+   "presi": 2
+  },
+  {
+   "nome": "ANSA",
+   "ok": true,
+   "presi": 6
+  },
+  {
+   "nome": "Wired Italia",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "Il Sole 24 Ore Tecnologia",
+   "ok": true,
+   "presi": 2
+  },
+  {
+   "nome": "Punto Informatico",
+   "ok": true,
+   "presi": 4
+  },
+  {
+   "nome": "HDblog",
+   "ok": true,
+   "presi": 4
+  },
+  {
+   "nome": "AI4Business",
+   "ok": true,
+   "presi": 4
+  },
+  {
+   "nome": "Agenda Digitale (AI)",
+   "ok": true,
+   "presi": 3
+  },
+  {
+   "nome": "Garante Privacy e AI",
+   "ok": true,
+   "presi": 3
+  },
+  {
+   "nome": "Malwarebytes (app e truffe AI)",
+   "ok": true,
+   "presi": 2
+  },
+  {
+   "nome": "Reddit",
+   "ok": false,
+   "errore": "HTTP Error 404: Not Found",
+   "presi": 0
+  },
+  {
+   "nome": "Reddit (AI locale)",
+   "ok": false,
+   "errore": "HTTP Error 404: Not Found",
+   "presi": 0
+  },
+  {
+   "nome": "Simon Willison (prove pratiche di strumenti AI)",
+   "ok": true,
+   "presi": 2
+  },
+  {
+   "nome": "Bellingcat (guide e strumenti)",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "GIJN (guide per giornalisti investigativi, via Google News)",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "OSINT – verifica e fact-checking (internazionale)",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "OSINT – nuovi strumenti (internazionale)",
+   "ok": true,
+   "presi": 2
+  },
+  {
+   "nome": "OSINT – strumenti (Italia)",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "Facta (fact-checking, contenuti falsi e AI)",
+   "ok": true,
+   "presi": 3
+  },
+  {
+   "nome": "Week in OSINT (Sector035)",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "The OSINT Newsletter",
+   "ok": true,
+   "presi": 2
+  },
+  {
+   "nome": "IDMO (osservatorio italiano sulla disinformazione)",
+   "ok": true,
+   "presi": 2
+  },
+  {
+   "nome": "EU DisinfoLab",
+   "ok": true,
+   "presi": 2
+  },
+  {
+   "nome": "Reddit (OSINT)",
+   "ok": false,
+   "errore": "HTTP Error 404: Not Found",
+   "presi": 0
+  },
+  {
+   "nome": "Hacker News (OSINT)",
+   "ok": true,
+   "presi": 0
+  }
+ ],
+ "visti": [
+  "heygenavatar6",
+  "tooljet",
+  "upsolvemcpconnections",
+  "noteshell",
+  "nuko",
+  "enrichablebycontextdev",
+  "fieldworkcode",
+  "tecla",
+  "gemini4neon",
+  "adside",
+  "rezoraio",
+  "roomai",
+  "polylaneforazure",
+  "wisprflownotetakerforiphone",
+  "duskbot",
+  "10bestaiappsforiphonein2026testedranked",
+  "klarnalaunchesaiassistantforshoppingreturnsandbookings",
+  "europeancommissionhitbyhugecyberattackwithfreeaitoolstaffdatamaybeexposed",
+  "sesolaunchesrootlyaiassistantforfarms",
+  "yangoplaylaunchesyasminainegyptthearabaiassistant",
+  "scotiabanklaunchesagenticaitooltogivebankersmoreclienttime",
+  "10bestaiappsforipadin2026rankedwithprices",
+  "tokenfilaunchesaigenstudioanaitoolformintingnftsfromtextprompts",
+  "metasmuseaiassistantlaunchesinaustralia",
+  "agritechfirmhalteropenswaikatofarmingarchiveandlaunchesaiassistantmav",
+  "congeminitaskslaipuòtelefonareefareacquistialpostotuo",
+  "salutementaleomsappeintelligenzaartificialenonsostituisconoilrapportoumanonellac",
+  "kaydornailancialintelligenzaartificialesumisuraperlepmiitaliane",
+  "intelligenzaartificialelanuovafrontieradellassistenzaaglianziani",
+  "eselasanitàiniziassedallepersonesanelanuovasfidadellaprevenzione",
+  "intelligenzaartificialericercascientificaecondizioneumanaalteatrodiegofabbriarri",
+  "alibabalintelligenzaartificialeagenticagratuitaperlepmieuropeearrivaacciosourcin",
+  "intelligenzaartificialelavoroepartecipazioneassolombardaesindacatifirmanounanuov",
+  "comeusaregemini4hydrogenpercapiredovefinisconoisoldi",
+  "googlegeminicomeusaregemscanvasdeepresearcheskillssecondolepagineufficiali",
+  "claudecodelaguidacompleta2026dallinstallazioneallusoavanzato",
+  "geminivschatgptclaudecopilotegrokcomescegliere",
+  "digitalprsemanticacomeusareleprperlageo",
+  "chatgpttoglieillimitedi10minutialladettaturaanchepergliutentigratis",
+  "geminitaskslaidigooglediventagratuita",
+  "quadernodicampagnadigitaleentrofine2026dallenotevocalialregistroconwhispereclaud",
+  "patriotlaunchesaimatrixssdanddramseriesengineeredforlocalaiworkloads",
+  "buildingofflineaionandroid5litertlmpitfallsandfixes",
+  "massmutualventuresbackscephables7mseedforondeviceaiagents",
+  "aiartyimageenhancerreviewlocalairepair",
+  "protonslumoisfinallyusefulandgivesushopeforarealprivateai",
+  "nvidiartxsparkcompactdesktopsoutnow",
+  "amdryzenaihalogetsprojectzenithforlocalaidevelopment",
+  "nvidiartxsparkcompactdesktopsnowavailablebuiltforlocalaiworkloads",
+  "asusproartgr1xarrivainitaliailminipcconrtxsparkperlailocale",
+  "perplexityportablecomputerportalailocalesullegpunvidiartxprivacyepotenzasenzaclo",
+  "ddr6jedecsvelaimodulipiùcortidel44e128gtsdipartenza",
+  "falsoaggiornamentodellappioinstallailmalwaremirax",
+  "nvidiartxsparkminipcperialocaleekitdgxspark",
+  "ipayforchatgptbutthischangehasconvincedmetorevivemygeminisubscription",
+  "googleaiultraplanbringsadfreeyoutubetothewholefamily",
+  "openaisrumoredchatgptphoneiscomingfromapplesfavoritesupplier",
+  "itriedperplexityasmyandroidassistantitalmostbeatgemini",
+  "itestednvidiasrtxsparkinanasusminipcandsawaiimagegenerationspeedupbynearly22buto",
+  "hpsomnibookultra16isitsfirstlaptoppoweredbynvidiasrtxsparksocanditcomeswithwindo",
+  "msiclaw8exaivsacerpredatoratlas8arcg3compared",
+  "cornholenewsahackernewsinspiredsitefornewsacrossthemidwest",
+  "foolscapawritingappthatreadsyourbookandneverwritesforyou",
+  "mastrafactorytheopensourcesoftwarefactoryweusetobuildmastra",
+  "takevoyager1apartdowntoasinglememorychip",
+  "exitpathopensourcewaysoutofslacknotionandmicrosoft365",
+  "typefighter2",
+  "qwenincidentsshowselfhostedaimodelsneedstrongersteering",
+  "announcingdistributedkvcachingforselfhostedllmswithamazonelasticache",
+  "13bestagentgatewaysin2026formcpa2aandllmtraffickongbifrostagentcorearcade",
+  "tellusappbringsaccountcontextandanaisupportanalystintochatwoot",
+  "ifinallyfoundthebestcrossplatformfilesharingsolutionwithoutinstallinganything",
+  "bestdatalabelingplatformin20267toolscomparedforaiteams",
+  "n8nstable",
+  "immichv340",
+  "howopenaisperformancefactorykeepschatgptfast",
+  "icymitransferyourhistoryfromotheraiappsintogemini",
+  "howwereputtingoneofquantummechanicsdeepestfeaturestothetestatscale",
+  "introducingtoolretrievalinthegeminiapi",
+  "walterisaacsononcuriosityandcreativityintheaiage",
+  "smallbusinessesbigresultshowteamsscalewithai",
+  "buildstrategicabteststogrowyouradperformance",
+  "genie4isnowavailableonthegeminiapi",
+  "letgeminitacklerepetitivechoresonyourmac",
+  "introducinggemini4neon",
+  "genie4isnowavailable",
+  "thegeminiappisnowavailableonlowermemoryandroiddevices",
+  "googleaddsmacoperationagenttogeminilaunchesenglishversionintheus",
+  "googlecloudlaunchesgeminiomni12flashforbusinessvideo",
+  "chatgpthealthfeaturenowworkswithmacappdotsmore",
+  "googlelaunchesgemini4neonwithclaudeopus55levelcodingperformanceat25lowerapitoken",
+  "googlerollsoutfreeaitaskmodeforautomationingemini",
+  "googlelaunchesgeminiroboticspluginforantigravity",
+  "genie4nowavailableviageminiapi",
+  "openairollsoutlivedictationforchatgptacrossallplansworldwide",
+  "googlelaunchesgemini4neonitsnewmidtieraimodelgsmarenacomnews",
+  "googleintroducesnewgemini4aimodelneon",
+  "googlelaunchesgemini4neonforcodingandsciencetasks",
+  "alphabetlaunchesgeminitasksdeepeningcompetitioninconsumeraiagents",
+  "anthropicraises81bninrecordbreakingstockmarketdebut",
+  "watchclaudeusersexcitedtoinvestinanthropicsaysannberry",
+  "anthropicstartstradingintheusafterblockbusteripo",
+  "anthropicpassedtheipotestnowcomesthehardpart",
+  "anthropicclosesfirstdayofpublictradingat13tnvaluationafterlargesteveripo",
+  "amazons18bbetonanthropictops200bforamomentintheclaudemakershistoricmarketdebut",
+  "insidetrackchartingyourcourseincopilotpickingtherightmodelmodeandeffort",
+  "nflweek11predictionsbymicrosoftcopilotaiforeverygame",
+  "microsoftpositionscopilotasahubforteamcollaboration",
+  "marcbenioffgivesmicrosofthugewininswitchingfromcopilotcritictocollaborator",
+  "microsoftunveilscopilotworkspacesandsalesforcedeal",
+  "perplexitylaunchesorchestratorapiforfailoverandmodelrouting",
+  "perplexitylaunchesmultiagentupto16aiagentsworkingasoneteam",
+  "deepseekusagelimitsreportedcapsforchatsanddocuments",
+  "bestfreeaimodels2026whatsfreeandwheretouseit",
+  "howmuchdoesaicostin2026thecompletepricingcomparison",
+  "metasaiagentmuseismixingupconversationsandcouldbeexposingprivatedatareportsays",
+  "deepseekvschatgpt2026comparisonverdict",
+  "samsungpreparesgalaxyaionsnapdragonxeliteforitsupcomingandroidlaptops",
+  "daisyrose27bpushingthefrontierofposttrainingefficiency",
+  "whyyourfinetuningjobtakeslongerthantheflopssay",
+  "timeseriesmodelsinthestreamhouseanewfrontierandusecases",
+  "appleishiringengineerstobuilditsownaiagent",
+  "abriefhistoryofnvidiasrecentstockfluctuations",
+  "metasmusecharmmightcost300",
+  "googleisputtingaichatsrightonthehomepage",
+  "geminionmaccannowuseyourcomputer",
+  "anthropicstartstradingonwallstreet",
+  "chatgptcantranscribeasyouspeaknowwithlivedictation",
+  "withthebiggestipoofalltimeanthropicsgoodguyreputationisontheline",
+  "iletapplesalwayslisteningaisummarizemylifefortwoweeks",
+  "canvaaddsanaioffbutton",
+  "metasnewmusecharmdevicemaycost300",
+  "thesetechoutagesaregivingy2kaiagentstyle",
+  "theunfoldingjensenhuangscandalatimeline",
+  "anthropicsipocoulddeliver156btocharity",
+  "googlegivesgeminitheabilitytouseyourmacforyou",
+  "formeralibabaexecseverfulraises485mtoconnectretailerswithchinesefactories",
+  "anthropichitsnasdaqexchangesat11133aboveipoprice",
+  "atnasdaqopeningbellanthropicceorecommitstopacingaidevelopment",
+  "anthropicsipoputsaiscircularfinancingboomtothetest",
+  "superhumanpushesitsgoassistanteverywhere",
+  "microsoftceosatyanadellaexplainswhyheasked60kemployeestoquit",
+  "amidstfearsofaicyberattackssatyanadellasayslotsofcriticalinfrastructureisunpatch",
+  "traumatizedteenssueschoolcopsafterdoritosbagtriggersaigunalert",
+  "museprivacyinvasionsarefreakingoutmetastaffersinternalchatsshow",
+  "willwrightsnextsimulationwilluseaitominecontentfromyourmemories",
+  "theaihypeindexaiiseverywhere",
+  "anopenaiagentassignedasimplewritingtaskdecidedonitsowntobuildasecretemailsurveil",
+  "aiindustrygrowthremainsstrongbutthepaceisslowing",
+  "chinesetechfirmsfaceadoublehitaschipshipmentsstopandoverseascloudaccessdisappear",
+  "anthropics813billioniposhattersspacexsrecordasrisingratesandpoliticalheadwindssh",
+  "openaisownresearchersnowsaytheyvaluetheiraitoolsmorethannearlyhalftheircolleague",
+  "googleslatestaimodelisfastercheaperandsmarterthanitsflagshippredecessorfromjustw",
+  "ocrmodelsnowdigitizeamillionpagesforunder130ascostsdropfivefoldin18months",
+  "googleshipsgemini4neonitsfourthnewgeminimodelinamonth",
+  "googledeepmindsprojectgenieupdatebringsgenie4chainableworldsandacommunitygallery",
+  "microsoftisreplacingoutsideaimodelsinitsownproductswithcheaperinhousealternative",
+  "gemini4neongenie4worldsaidesignschips",
+  "gpt62astramicrosoftssevenmodelsreplitmissions",
+  "anairobisidiscutediinnovazioneintelligenzaartificialeeoccupazionegiovanile",
+  "approvatoilregolamentosulladdestramentodeimodelliianellapatrentina",
+  "alibabaricaviincrescitanel2trimestremarestapressionesuai",
+  "paloaltoacquisisceappliedcomputeper45miliardidopounprimotrimetreincrescitaoltrel",
+  "anthropicvolaallesordioawallstreetvale2000miliardi",
+  "attaccohackeracommissioneueconliail22ottobrenessunaviolazione",
+  "agentiaiallasbarralacaliforniafacausaaopenaipergliincidenti",
+  "agentiaiinaziendaappianpresentaunacabinadiregiapercontrollarecostierisultati",
+  "googlesceglieblueoriginperlanciareisatellitiai",
+  "chatgptarrivalivedictationlatrascrizionevocaleintemporeale",
+  "moigecontrometaetiktokrinvioagennaio2027",
+  "commissioneeuropeaconfermacyberattaccocontoolai",
+  "geminiaiorasipuòbloccareladdestramentoemantenerelechat",
+  "githubcopilotpuòusarechromeededgepertestareisiti",
+  "attacchiinformaticiconlaiinmenoditreorelallarmefbi",
+  "blueoriginlanceràisatellitiaidigooglenel2029",
+  "intelligenzaartificialeinitaliaperchéleimpresefrenano",
+  "chatgptwalletgliagentiaiarrivanoalpagamentoonline",
+  "modelliaimicrosoftaignitelastrategiamaiperridurreicosti",
+  "aisullavoroqualiregoledevonoseguireleaziendeitaliane",
+  "ipoanthropicqualefuturoperlaitracrescitaerischiobolla",
+  "nonbastasaperusarelailacompetenzacheserviràagliavvocati",
+  "socialeaicirendonopiùfragiliperchélacolpanonèsolonostra",
+  "intelligenzaartificialeascuolavialiberadelgaranteprivacy",
+  "intelligenzaartificialeascuolavialiberadelgaranteprivacyaccessipseudonimizzatien",
+  "garanteprivacysanzionedi805milionidieuropermeta",
+  "openailostcontrolofaiagentsover80timescaliforniaalleges",
+  "criminalsareusingartexaiagentstospeedupcyberattacksfbiwarns",
+  "llmgemini038",
+  "quotingdanielstenberg",
+  "usingthesafeboxnetworktoprotectstorieslaurentrichard",
+  "taiwanscommonwealthmagazinedoublesdownondatadriveninvestigativejournalism",
+  "reportersnotebookwhattodowhenyourinvestigationgetsspiked",
+  "investigativejournalismtrainersguidepartiintroduction",
+  "howaglobalsouthledreportingcollectivebroketheinsidedeutschebankmegaleak",
+  "mississippiimplementsnewverificationtoolforsnapclients",
+  "mississippiaddsincomeverificationtoolforsnapapplications",
+  "mdhsaddsincomeverificationtoolforsnapbenefits",
+  "codeweaversaddsdigitalidchecksbeforefinancesubmissionsamonline",
+  "howtotellarealbinancemessagefromascamverifyingofficialchannels",
+  "opensourceanalystshowssatelliteimagesofkerchbridgeafterneptuneattack",
+  "usarmyseeksaisoftwaretomonitorencryptednetworksanddarkweb",
+  "inuoviagentiaisonotroppocariniperessereinnocui",
+  "questaimmaginedibambinipalestinesinelletendeallagateèfalsa",
+  "noquestononèlattentatoredicracoviachepartecipaaunamanifestazioneantirazzista",
+  "theosintnewsletterissue131",
+  "theosintnewsletterissue130",
+  "alviaprimacollaborazionedelcentrouecontrolefakenewsconongefactchecker",
+  "mattarelladifendeivaccinimaggioranzadivisasuimedicinovax",
+  "disinfoupdate18112026",
+  "europesmissingwatchdogshowboththedsaandtheaiactarefailingonenforcement"
+ ],
+ "audio": "audio/2026-11-20.mp3",
+ "durata": 152.0
+}
