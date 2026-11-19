@@ -471,6 +471,42 @@
    "solo_titolo": true,
    "categoria": "Strumenti",
    "id": "u2a38"
+  },
+  "u3a62": {
+   "titolo": "Foolscap – a writing app that reads your book and never writes for you",
+   "link": "https://foolscap.works/",
+   "data": "2026-11-19T13:21:20+00:00",
+   "testo": "People are scared of their ability to write and think atrophying, so I wondered: what if I built something that enhanced human creativity instead of destroying it by doing the thinking and writing for people? Foolscap is the result, or at least the first version of that idea that's fleshed out enough to share here. It reads as you write and picks out the structure: characters, ideas, threads, wha…",
+   "sito": "https://foolscap.works/",
+   "fonte": "Show HN – progetti utili (gemme)",
+   "tipo": "vetrina",
+   "solo_titolo": false,
+   "categoria": "Gemme",
+   "id": "u3a62"
+  },
+  "u3a167": {
+   "titolo": "Moige contro Meta e TikTok: rinvio a gennaio 2027",
+   "link": "https://www.punto-informatico.it/moige-contro-meta-tiktok-rinvio-gennaio-2027/",
+   "data": "2026-11-19T15:36:07+00:00",
+   "testo": "Questa mattina era prevista l’ultima udienza del class action promossa dal Moige e da alcune famiglie contro Meta e TikTok, la prima azione collettiva inibitoria di questo tipo in Europa. Gli avvocati volevano chiedere un provvedimento di inibizione, ma il Tribunale di Milano ha rinviato tutto al 21 gennaio 2027 perché potrebbe essere approvate norme sul divieto di accesso ai social media. Rinvio basato su una norma ipotetica Il processo era iniziato a metà maggio. L’obiettivo del Moige non è quello di ottenere un risarcimento, come avvenuto negli Stati Uniti, ma l’obbligo di implementare misure efficaci per proteggere i minori. In dettaglio sono state avanzate tre richieste: - Una verifica reale dell’età per impedire l’accesso ai più piccoli - L’eliminazione dei meccanismi che favoriscono la dipendenza, come scroll infinito, autoplay e algoritmi progettati per trattenere l’attenzione - Informazioni chiare e trasparenti sui rischi per la salute, attraverso un vero e proprio “bugiardino” dei social Sui primi due punti sono già arrivate decisioni della Commissione europea, confermando la violazione del Digital Services Act. Meta non impedisce l’uso di Instagram e Facebook ai minori di 13 anni, mentre TikTok ha implementato funzionalità che creano dipendenza. Il Tribunale di Milano ha motivato il rinvio al 21 gennaio 2027 con la necessità di valutare le norme che dovrebbero essere approvate dal Parlamento (entro il 21 dicembre 2026), ovvero l’emendamento al decreto sicurezza che vieta l’accesso ai social media per i minori di 13 anni. Al momento questo divieto è solo sulla carta. Non è certa la sua approvazione, considerato che è identico a quello previsto dal KIDS Act. Gli avvocati di Meta affermano che le misure richieste con la class action violano la libertà di espres…",
+   "fonte": "Punto Informatico",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Italia",
+   "id": "u3a167",
+   "testo_completo": true
+  },
+  "u3a2": {
+   "titolo": "CodeDesign v3",
+   "link": "https://www.producthunt.com/products/codedesign",
+   "sito": "https://www.producthunt.com/r/p/1319789?app_id=339",
+   "data": "2026-11-16T21:24:17-08:00",
+   "testo": "Run your website and business apps from ChatGPT or Claude",
+   "fonte": "Product Hunt (AI)",
+   "tipo": "vetrina",
+   "solo_titolo": false,
+   "categoria": "Strumenti",
+   "id": "u3a2"
   }
  },
  "fonti": [
@@ -1103,10 +1139,42 @@
   "stories",
   "usarmyseeksaisoftwaretomonitorencryptednetworksanddarkweb",
   "franceleadsnatosairaceleavingpolandbehindasparislaunchesitsowncentre",
-  "grecounicaltecnologieeiaperandareincontroaesigenzedellepersone"
+  "grecounicaltecnologieeiaperandareincontroaesigenzedellepersone",
+  "codedesignv3",
+  "superhumanunveilspersonalaiassistantandexpandsgoacrossentiresuite",
+  "europeancommissionhitbyhugecyberattackwithfreeaitoolstaffdatamaybeexposed",
+  "klarnalaunchesaiassistantforshoppingreturnsandbookings",
+  "asusproartgr1xarrivainitaliailminipcperliainlocale",
+  "openaisrumoredchatgptphoneiscomingfromapplesfavoritesupplier",
+  "msiclaw8exaivsacerpredatoratlas8arcg3compared",
+  "foolscapawritingappthatreadsyourbookandneverwritesforyou",
+  "zichuanlanfreebieradaraselfhostedradarfordealsandusefulinformation",
+  "googlelaunchesgemini4neonwithclaudeopus55levelcodingperformanceat25lowerapitoken",
+  "googlecloudlaunchesgeminiomni12flashforbusinessvideo",
+  "openairollsoutlivedictationforchatgptacrossallplansworldwide",
+  "anthropicrollsoutaiofficesuiteasiteyes644bipo",
+  "investorsscrambleforapieceofaigiantanthropicinblockbusteripo",
+  "isclaudemakeranthropicgoingpublicjustastheaibubblebursts",
+  "microsoftcopilotstudiobringspracticalaitofoundationworkinakoyago",
+  "samsungpreparesgalaxyaionsnapdragonxeliteforitsupcomingandroidlaptops",
+  "howchinasaiboyfriendsranintodeepseeksserverbill",
+  "chatgptcantranscribeasyouspeaknowwithlivedictation",
+  "atnasdaqopeningbellanthropicceorecommitstopacingaidevelopment",
+  "anthropicsipoputsaiscircularfinancingboomtothetest",
+  "moigecontrometaetiktokrinvioagennaio2027",
+  "commissioneeuropeaconfermacyberattaccocontoolai",
+  "blueoriginlanceràisatellitiaidigooglenel2029",
+  "miglioritabletandroidprezzieofferte2026",
+  "socialeaicirendonopiùfragiliperchélacolpanonèsolonostra",
+  "mdhsaddsincomeverificationtoolforsnapbenefits",
+  "howtotellarealbinancemessagefromascamverifyingofficialchannels",
+  "codeweaversaddsdigitalidchecksbeforefinancesubmissionsamonline",
+  "factcheckdidprabowoinauguratepurbayayudhisadewaasindonesiasvp",
+  "satelliteimagesshowcrimeanbridgeafternewneptunestrikephoto",
+  "theosintnewsletterissue131"
  ],
  "audio": "audio/2026-11-19.mp3",
- "durata": 251.5,
+ "durata": 291.8,
  "aggiornamenti": [
   {
    "generato": "2026-11-19T05:48:46+00:00",
@@ -1377,6 +1445,102 @@
       "cosa": "Tecla",
       "sito": "https://www.producthunt.com/r/p/1322379?app_id=339",
       "esito": "errore: HTTP Error 403: Forbidden"
+     }
+    ]
+   }
+  },
+  {
+   "generato": "2026-11-19T16:35:46+00:00",
+   "modello": "gemini-3.6-flash",
+   "testi_completi": 5,
+   "riassunto": {
+    "titolo_giorno": "CodeDesign v3 gestisce le app via AI e Foolscap affianca la scrittura",
+    "in_breve": "L'aggiornamento di oggi evidenzia l'evoluzione degli strumenti di supporto al lavoro e alla creatività: CodeDesign v3 permette di controllare siti e applicazioni da ChatGPT o Claude, mentre Foolscap aiuta chi scrive a tracciare la struttura dei propri testi senza sostituirsi al pensiero umano.",
+    "citati": [
+     "CodeDesign v3",
+     "Foolscap"
+    ],
+    "da_provare": [
+     {
+      "cosa": "CodeDesign v3",
+      "a_cosa_serve": "Permette di gestire ed eseguire il proprio sito web e le applicazioni aziendali direttamente interagendo con ChatGPT o Claude.",
+      "per_chi": "Lavoro",
+      "ambito": "Programmare senza codice",
+      "come_iniziare": [],
+      "costo": "Non indicato",
+      "piattaforme": [],
+      "sul_dispositivo": false,
+      "come_sfruttarla": "Gestire l'operatività di siti e applicazioni di lavoro attraverso conversazioni con l'assistente AI.",
+      "italiano": "Non indicato",
+      "difficolta": "Facile",
+      "temi": [
+       "Programmare senza codice",
+       "Lavoro e produttività",
+       "Assistenti e chatbot"
+      ],
+      "fonti": [
+       "u3a2"
+      ],
+      "affidabilita": "Appena lanciato",
+      "prova": "https://www.producthunt.com/products/codedesign"
+     },
+     {
+      "cosa": "Foolscap",
+      "a_cosa_serve": "Un'applicazione per la scrittura che analizza il testo durante la digitazione per individuare automaticamente personaggi, idee e fili narrativi, lasciando la stesura interamente all'utente.",
+      "per_chi": "Lavoro e tutti i giorni",
+      "ambito": "Scrittura e documenti",
+      "come_iniziare": [],
+      "costo": "Non indicato",
+      "piattaforme": [],
+      "sul_dispositivo": false,
+      "come_sfruttarla": "Mantenere organizzata la struttura e i personaggi di un libro o di un testo complesso mentre lo si scrive.",
+      "italiano": "Non indicato",
+      "difficolta": "Facile",
+      "temi": [
+       "Scrittura e documenti",
+       "Lavoro e produttività"
+      ],
+      "fonti": [
+       "u3a62"
+      ],
+      "affidabilita": "Appena lanciato",
+      "prova": "https://foolscap.works/"
+     }
+    ],
+    "osint": [],
+    "gemme": [],
+    "sezioni": [
+     {
+      "titolo": "In breve",
+      "breve": true,
+      "notizie": [
+       {
+        "titolo": "Rinviata la decisione sulla class action Moige contro Meta e TikTok",
+        "riassunto": "Il Tribunale di Milano ha posticipato la sentenza al 21 gennaio 2027 in attesa che il Parlamento valuti le possibili norme sull'accesso dei minori di 13 anni ai social media.",
+        "fonti": [
+         "u3a167"
+        ],
+        "temi": [
+         "Regole e leggi"
+        ],
+        "affidabilita": "Una fonte",
+        "solo_titoli": false
+       }
+      ]
+     }
+    ],
+    "formato": 2,
+    "controllo_siti": [
+     {
+      "cosa": "CodeDesign v3",
+      "sito": "https://www.producthunt.com/r/p/1319789?app_id=339",
+      "esito": "errore: HTTP Error 403: Forbidden"
+     },
+     {
+      "cosa": "Foolscap",
+      "sito": "https://foolscap.works/",
+      "pagina": 33396,
+      "trovate": []
      }
     ]
    }
