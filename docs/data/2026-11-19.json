@@ -399,6 +399,78 @@
    "solo_titolo": true,
    "categoria": "Strumenti",
    "id": "u1a44"
+  },
+  "u2a125": {
+   "titolo": "Superhuman pushes its Go assistant everywhere",
+   "link": "https://techcrunch.com/2026/11/19/superhuman-pushes-its-go-assistant-everywhere/",
+   "data": "2026-11-19T14:00:00+00:00",
+   "testo": "Productivity apps are simultaneously trying to feed more context to their AI tools while also making those AI assistants available in every nook and corner of their products. Superhuman (formerly Grammarly) is going in the same direction with the rollout of features, including a personalized Go assistant, making agents available in Docs, and third-party agent integrations. While some of the company’s AI features have faced criticism, Superhuman started pushing its Go assistant after its rebranding last year. With the new rollout, it is making Go learn context across different apps and give better personalized suggestions for prompts. Superhuman is revamping its onboarding flow to let users connect their preferred tools and load context about their work upfront. The assistant works inline with the cursor — just like Grammarly does — and also manages other agents. Superhuman is also making the agent proactive, which means it looks for your schedule, keeps an eye on your email, and even drafts responses. The updated Go agent also learns users’ writing styles and responds accordingly in email and Docs. The productivity company is adding 20 new connected agents, including DeepL, Legora, Amplitude, Databricks, and Blackboard, through its Go SDK. The company is also thinking about adding AI to different products, including Docs and Superhuman Mail. In Docs, all Go agents work natively, and you can set them off to work on different tasks in the background. Users can also set routines to trigger workflows based on events. Until now, Mail has used AI as its central tool, which is being replaced by Go. Users can also do enterprise search by using data from the company knowledge base and connected tools. Go also uses this context to form drafts and organize the inbox across Google…",
+   "fonte": "TechCrunch",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Testate tech",
+   "id": "u2a125",
+   "testo_completo": true
+  },
+  "u2a117": {
+   "titolo": "Canva adds an AI ‘off’ button",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1037126/canva-ai-features-off-button",
+   "sito": "",
+   "data": "2026-11-19T07:30:00-05:00",
+   "testo": "Canva will now allow you to turn off its generative AI features. With this change, you can disable the graphic design platform’s array of AI tools, such as its AI photo-extending Magic Expand feature, as well as turn off the ability to generate images with its Canva chatbot. Canva adds an AI ‘off’ button You can also select an option to see less AI-generated content in Canva’s library. This toggle doesn’t turn off every AI-powered feature on Canva, however. That includes Canva’s background remover and its Magic Grab tool, which lets you select an object in an image and move it somewhere else. Canva says these tools will stay on because they “make everyday tasks faster without generating anything new.” The toggle still turns off many of Canva’s other AI features, including Magic Write, Magic Design, Magic Layers, Magic Edit, Dream Lab, Canva Code, AI Shapes, and more. Since Canva’s big push into AI in 2023, some users have expressed frustration with the influx of AI features and asked for ways to turn them off. Canva has only continued to expand on its AI-powered image-editing suite since then, by rolling out a prompt-powered editing update in April and launching its first in-house AI model, Canva Craft, last month. You can also now switch a toggle to see less AI content in Canva’s content library. Switching this option on means you’ll see human-created content first when searching through Canva’s library for templates, graphics, and other design elements. Canva says a “small portion” of its library consists of AI-generated content, and that any design that uses one of these elements will have an AI label in its metadata. To turn off Canva’s AI features, head to Profile > Settings > Permission, and then toggle off Enable generative AI features. You can choose to see les…",
+   "fonte": "The Verge",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Testate tech",
+   "id": "u2a117",
+   "testo_completo": true
+  },
+  "u2a6": {
+   "titolo": "Nuko",
+   "link": "https://www.producthunt.com/products/nuko",
+   "sito": "https://www.producthunt.com/r/p/1322401?app_id=339",
+   "data": "2026-11-18T19:34:35-08:00",
+   "testo": "Motion design in your browser",
+   "fonte": "Product Hunt (AI)",
+   "tipo": "vetrina",
+   "solo_titolo": false,
+   "categoria": "Strumenti",
+   "id": "u2a6"
+  },
+  "u2a11": {
+   "titolo": "Tecla",
+   "link": "https://www.producthunt.com/products/tecla-3",
+   "sito": "https://www.producthunt.com/r/p/1322379?app_id=339",
+   "data": "2026-11-18T19:05:34-08:00",
+   "testo": "A proactive AI agent whose interface is a TODO list",
+   "fonte": "Product Hunt (AI)",
+   "tipo": "vetrina",
+   "solo_titolo": false,
+   "categoria": "Strumenti",
+   "id": "u2a11"
+  },
+  "u2a13": {
+   "titolo": "Wispr Flow Notetaker for iPhone",
+   "link": "https://www.producthunt.com/products/wisprflow",
+   "sito": "https://www.producthunt.com/r/p/1321899?app_id=339",
+   "data": "2026-11-18T08:19:49-08:00",
+   "testo": "Free AI meeting notes, wherever work takes you",
+   "fonte": "Product Hunt (AI)",
+   "tipo": "vetrina",
+   "solo_titolo": false,
+   "categoria": "Strumenti",
+   "id": "u2a13"
+  },
+  "u2a38": {
+   "titolo": "ChatGPT toglie il limite di 10 minuti alla dettatura. Anche per gli utenti gratis",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUHZOZTNqZGdXZVlWT1R6ZUFTdlNBYUhKN1RpTVI3Q3hSSjRMYW1YV1NoenQ0WmRXMW1jNjkxQzFCdmdBMDlFUVl4dkNMVUlNenJLeVpaRWVjcUtTZHlBdkJmUWFReUdGRE44ekZzWHQ2NkthV0FXMEIxRGdhNWg0SmJyMUFwdlBKaGR0aVBNWkQyVUJFN1c4U04xemxIeXRLUjZNRUQ4dlZLT1RiUHJndjZ4aEt3SFk?oc=5",
+   "data": "2026-11-19T09:17:00+00:00",
+   "testo": "",
+   "fonte": "DDay.it",
+   "tipo": "testata",
+   "solo_titolo": true,
+   "categoria": "Strumenti",
+   "id": "u2a38"
   }
  },
  "fonti": [
@@ -949,10 +1021,92 @@
   "pavimentipuliticonmenofaticairobotnarwalinoffertaalblackfridayamazon2026",
   "lineeguidaagidsullainellapaperchéilcapitolo4èdecisivo",
   "reportersnotebookwhattodowhenyourinvestigationgetsspiked",
-  "questaimmaginedibambinipalestinesinelletendeallagateèfalsa"
+  "questaimmaginedibambinipalestinesinelletendeallagateèfalsa",
+  "tooljet",
+  "noteshell",
+  "gemini4neon",
+  "adside",
+  "roomai",
+  "nuko",
+  "rezoraio",
+  "upsolvemcpconnections",
+  "enrichablebycontextdev",
+  "fieldworkcode",
+  "tecla",
+  "heygenavatar6",
+  "wisprflownotetakerforiphone",
+  "polylaneforazure",
+  "sesolaunchesrootlyaiassistantforfarms",
+  "aitrackerawslaunchesnewfeaturesforagenticaitool",
+  "10bestaiappsforipadin2026rankedwithprices",
+  "yangoplaylaunchesyasminainegyptthearabaiassistant",
+  "metasmuseaiassistantlaunchesinaustralia",
+  "kaydornailancialintelligenzaartificialesumisuraperlepmiitaliane",
+  "salutementaleomsappeintelligenzaartificialenonsostituisconoilrapportoumanonellac",
+  "congeminitaskslaipuòtelefonareefareacquistialpostotuo",
+  "intelligenzaartificialericercascientificaecondizioneumanaalteatrodiegofabbriarri",
+  "fakenewsarrivadalleuropaunaguidapersmascherarelenotiziefalsecinqueregoleperdifen",
+  "googlegeminicomeusaregemscanvasdeepresearcheskillssecondolepagineufficiali",
+  "geminivschatgptclaudecopilotegrokcomescegliere",
+  "chatgpttoglieillimitedi10minutialladettaturaanchepergliutentigratis",
+  "geminitaskslaidigooglediventagratuita",
+  "quadernodicampagnadigitaleentrofine2026dallenotevocalialregistroconwhispereclaud",
+  "cosèchatgptwalletecomefunzionaperpagarecongliagentiai",
+  "patriotlaunchesaimatrixssdanddramseriesengineeredforlocalaiworkloads",
+  "buildingofflineaionandroid5litertlmpitfallsandfixes",
+  "nvidiasrtxsparkminipcsgoonsaleforlocalaifrom4399",
+  "ddr6jedecsvelaimodulipiùcortidel44e128gtsdipartenza",
+  "googleaiultraplanbringsadfreeyoutubetothewholefamily",
+  "bestdatalabelingplatformin20267toolscomparedforaiteams",
+  "ivibecodedareplacementfortheonlypaidapponmyphoneandimneverpaying5amonthagain",
+  "claudecode21328automodeonbedrockandfoundry",
+  "werepartneringwithblueoriginonourfirstheavyliftprojectsuncatcherlaunch",
+  "googlelaunchesgemini4neontoutinglowercostsforcomplexaicodingtasks",
+  "googlelaunchesgeminiroboticspluginforantigravity",
+  "openailauncheschatgptforsaleswith30partnerplugins",
+  "openailauncheschatgptforaccountingwithfinancesoftwareplugins",
+  "prooflaunchesitsmcpinchatgptstartingwithx401soaiagentscanprovewhotheyactforandwh",
+  "visualpingclaudeconnectornowavailableinclaudesconnectorsdirectory",
+  "anthropicraises81bninrecordbreakingstockmarketdebut",
+  "aigiantanthropicraisesmorethan100billioninrecordsettingipo",
+  "anthropicipolivetheclaudemakergoespublictoday",
+  "anthropichistorycontroversiesclaudeai",
+  "whatyouneedtoknowaboutclaudesmakeranthropicipo",
+  "nflweek11predictionsbymicrosoftcopilotaiforeverygame",
+  "microsoftbringswordexcelandpowerpointintocopilothereswhatsnew",
+  "microsoftunveilscopilotworkspacesandsalesforcedeal",
+  "deepseekusagelimitsreportedcapsforchatsanddocuments",
+  "howmuchdoesaicostin2026thecompletepricingcomparison",
+  "metaaiagentmusefacesprivacyscrutinyoverunpromptedmessagesandappaccess",
+  "withthebiggestipoofalltimeanthropicsgoodguyreputationisontheline",
+  "iletapplesalwayslisteningaisummarizemylifefortwoweeks",
+  "canvaaddsanaioffbutton",
+  "superhumanpushesitsgoassistanteverywhere",
+  "anthropics813billioniposhattersspacexsrecordasrisingratesandpoliticalheadwindssh",
+  "openaisownresearchersnowsaytheyvaluetheiraitoolsmorethannearlyhalftheircolleague",
+  "googleslatestaimodelisfastercheaperandsmarterthanitsflagshippredecessorfromjustw",
+  "ocrmodelsnowdigitizeamillionpagesforunder130ascostsdropfivefoldin18months",
+  "gemini4neongenie4worldsaidesignschips",
+  "approvatoilregolamentosulladdestramentodeimodelliianellapatrentina",
+  "alibabaricaviincrescitanel2trimestremarestapressionesuai",
+  "paloaltoacquisisceappliedcomputeper45miliardidopounprimotrimetreincrescitaoltrel",
+  "agentiaiallasbarralacaliforniafacausaaopenaipergliincidenti",
+  "xpengl03powerxilsuvcoupéconrangeextendersuperai1000kmecosta38970euro",
+  "androidpieghevoligooglealzaillivelloappobbligateasupportarlimegliodaaprile2027",
+  "aisullavoroqualiregoledevonoseguireleaziendeitaliane",
+  "anthropicinborsaa1500miliardimailfuturodellaièoltre",
+  "nonbastasaperusarelailacompetenzacheserviràagliavvocati",
+  "cop31quantopuòincidereilpattosullaisenzaicolossiamericani",
+  "cop31chiraccontailclimaecomelaipuòcambiareilruolodeibrand",
+  "openailostcontrolofaiagentsover80timescaliforniaalleges",
+  "llmgemini038",
+  "stories",
+  "usarmyseeksaisoftwaretomonitorencryptednetworksanddarkweb",
+  "franceleadsnatosairaceleavingpolandbehindasparislaunchesitsowncentre",
+  "grecounicaltecnologieeiaperandareincontroaesigenzedellepersone"
  ],
  "audio": "audio/2026-11-19.mp3",
- "durata": 164.1,
+ "durata": 251.5,
  "aggiornamenti": [
   {
    "generato": "2026-11-19T05:48:46+00:00",
@@ -1059,6 +1213,170 @@
       "sito": "https://exitpath-ruddy.vercel.app/",
       "pagina": 2403,
       "trovate": []
+     }
+    ]
+   }
+  },
+  {
+   "generato": "2026-11-19T14:46:51+00:00",
+   "modello": "gemini-3.8-flash",
+   "testi_completi": 7,
+   "riassunto": {
+    "titolo_giorno": "Canva introduce l'opzione per spegnere l'AI e ChatGPT rimuove i limiti alla dettatura",
+    "in_breve": "Canva introduce la possibilità di disattivare gli strumenti generativi per chi preferisce un flusso di lavoro grafico tradizionale e privo di suggerimenti automatici. Al contempo, ChatGPT elimina la soglia massima di tempo per la dettatura vocale, rendendo l'inserimento continuo disponibile per tutti.",
+    "citati": [
+     "Canva",
+     "ChatGPT"
+    ],
+    "da_provare": [
+     {
+      "cosa": "Nuko",
+      "a_cosa_serve": "Permette di creare animazioni grafiche e contenuti di motion design direttamente dal browser web senza installare programmi dedicati.",
+      "per_chi": "Lavoro e tutti i giorni",
+      "ambito": "Foto e video",
+      "come_iniziare": [],
+      "costo": "Non indicato",
+      "piattaforme": [
+       "Browser"
+      ],
+      "sul_dispositivo": false,
+      "come_sfruttarla": "Realizzare brevi elementi visivi animati e grafiche in movimento per social o presentazioni.",
+      "italiano": "Non indicato",
+      "difficolta": "Facile",
+      "temi": [
+       "Video",
+       "Foto e immagini"
+      ],
+      "fonti": [
+       "u2a6"
+      ],
+      "affidabilita": "Appena lanciato",
+      "prova": "https://www.producthunt.com/products/nuko"
+     },
+     {
+      "cosa": "Tecla",
+      "a_cosa_serve": "Funziona come un agente proattivo che prende in carico compiti e attività quotidiane interagendo attraverso una semplice lista delle cose da fare.",
+      "per_chi": "Lavoro e tutti i giorni",
+      "ambito": "Organizzazione",
+      "come_iniziare": [],
+      "costo": "Non indicato",
+      "piattaforme": [],
+      "sul_dispositivo": false,
+      "come_sfruttarla": "Organizzare e delegare attività pratiche monitorandone l'avanzamento tramite una lista to-do.",
+      "italiano": "Non indicato",
+      "difficolta": "Facile",
+      "temi": [
+       "Agenti AI",
+       "Lavoro e produttività"
+      ],
+      "fonti": [
+       "u2a11"
+      ],
+      "affidabilita": "Appena lanciato",
+      "prova": "https://www.producthunt.com/products/tecla-3"
+     },
+     {
+      "cosa": "Wispr Flow Notetaker for iPhone",
+      "a_cosa_serve": "Registra e genera automaticamente note e verbali riassuntivi delle riunioni direttamente su iPhone durante le trasferte o gli incontri dal vivo.",
+      "per_chi": "Lavoro",
+      "ambito": "Organizzazione",
+      "come_iniziare": [],
+      "costo": "Gratis",
+      "piattaforme": [
+       "iPhone"
+      ],
+      "sul_dispositivo": false,
+      "come_sfruttarla": "Ottenere un riepilogo automatico dei punti principali discussi durante un colloquio o una riunione di lavoro.",
+      "italiano": "Non indicato",
+      "difficolta": "Facile",
+      "temi": [
+       "Voce e audio",
+       "Lavoro e produttività",
+       "Scrittura e documenti"
+      ],
+      "fonti": [
+       "u2a13"
+      ],
+      "affidabilita": "Appena lanciato",
+      "prova": "https://www.producthunt.com/products/wisprflow"
+     }
+    ],
+    "osint": [],
+    "gemme": [],
+    "sezioni": [
+     {
+      "titolo": "Novità negli strumenti che già usi",
+      "notizie": [
+       {
+        "titolo": "Arriva l'interruttore per disattivare le funzioni di intelligenza artificiale generativa",
+        "strumento": "Canva",
+        "riassunto": "Canva permette ora di disattivare la maggior parte degli strumenti generativi, come la generazione di immagini tramite chat, Magic Expand, Magic Write e Magic Edit, oltre a ridurre i modelli generati dall'AI nei risultati di ricerca della libreria. Rimangono comunque attive le funzioni di editing rapido non generative, come lo scontorno automatico e Magic Grab.",
+        "come_provarla": "Accedere a Profilo > Impostazioni > Permessi e disattivare la voce per abilitare le funzioni di AI generativa.",
+        "disponibilita": "Disponibile ora",
+        "fonti": [
+         "u2a117"
+        ],
+        "temi": [
+         "Foto e immagini",
+         "Lavoro e produttività",
+         "Ricerca e informazioni"
+        ],
+        "affidabilita": "Una fonte",
+        "solo_titoli": false
+       },
+       {
+        "titolo": "Cade il limite di dieci minuti per la dettatura vocale anche negli account gratuiti",
+        "strumento": "ChatGPT",
+        "riassunto": "OpenAI ha rimosso il limite temporale di 10 minuti per la dettatura vocale, consentendo di dettare testi lunghi e messaggi senza interruzioni forzate, opzione estesa anche agli utenti che usano il piano gratuito.",
+        "come_provarla": "",
+        "disponibilita": "Disponibile ora",
+        "fonti": [
+         "u2a38"
+        ],
+        "temi": [
+         "Voce e audio",
+         "Assistenti e chatbot",
+         "Scrittura e documenti"
+        ],
+        "affidabilita": "Una fonte",
+        "solo_titoli": true
+       },
+       {
+        "titolo": "L'assistente Go si integra nei documenti e impara lo stile di scrittura",
+        "strumento": "Superhuman",
+        "riassunto": "L'assistente Go viene integrato sia nella casella email sia nei documenti di testo, consentendo di monitorare la posta, redigere bozze contestuali e adattare i testi generati al tono e allo stile abituale dell'utente.",
+        "come_provarla": "",
+        "disponibilita": "Non indicato",
+        "fonti": [
+         "u2a125"
+        ],
+        "temi": [
+         "Scrittura e documenti",
+         "Lavoro e produttività",
+         "Assistenti e chatbot"
+        ],
+        "affidabilita": "Una fonte",
+        "solo_titoli": false
+       }
+      ]
+     }
+    ],
+    "formato": 2,
+    "controllo_siti": [
+     {
+      "cosa": "Wispr Flow Notetaker for iPhone",
+      "sito": "https://www.producthunt.com/r/p/1321899?app_id=339",
+      "esito": "errore: HTTP Error 403: Forbidden"
+     },
+     {
+      "cosa": "Nuko",
+      "sito": "https://www.producthunt.com/r/p/1322401?app_id=339",
+      "esito": "errore: HTTP Error 403: Forbidden"
+     },
+     {
+      "cosa": "Tecla",
+      "sito": "https://www.producthunt.com/r/p/1322379?app_id=339",
+      "esito": "errore: HTTP Error 403: Forbidden"
      }
     ]
    }
