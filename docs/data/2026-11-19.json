@@ -364,6 +364,41 @@
    "solo_titolo": true,
    "categoria": "Laboratori",
    "id": "a110"
+  },
+  "u1a62": {
+   "titolo": "ExitPath – Open-source ways out of Slack, Notion and Microsoft 365",
+   "link": "https://exitpath-ruddy.vercel.app/",
+   "data": "2026-11-18T16:04:43+00:00",
+   "testo": "",
+   "sito": "https://exitpath-ruddy.vercel.app/",
+   "fonte": "Show HN – progetti utili (gemme)",
+   "tipo": "vetrina",
+   "solo_titolo": true,
+   "categoria": "Gemme",
+   "id": "u1a62"
+  },
+  "u1a63": {
+   "titolo": "Type Fighter 2",
+   "link": "https://typefighter2.com/",
+   "data": "2026-11-18T11:11:53+00:00",
+   "testo": "Type Fighter II is an arcade inspired game for people learning to touch type. Free, no account, and progress stays local. You can try on mobile, best with a physical keyboard.",
+   "sito": "https://typefighter2.com/",
+   "fonte": "Show HN – progetti utili (gemme)",
+   "tipo": "vetrina",
+   "solo_titolo": false,
+   "categoria": "Gemme",
+   "id": "u1a63"
+  },
+  "u1a44": {
+   "titolo": "Proton's Lumo is Finally Useful and Gives Us Hope for a Real Private AI",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1NWTBocUcwMVNKaFFfdHpIU3hielIyVVhkeG15VlhtUnoyV0U0ZkZORFg0TFd1Sm5PSldEQTNicnZnNjg0Y0hLX1R0SUs3ZnNEeVBRVWxHeFg?oc=5",
+   "data": "2026-11-18T13:22:39+00:00",
+   "testo": "",
+   "fonte": "It's FOSS",
+   "tipo": "minore",
+   "solo_titolo": true,
+   "categoria": "Strumenti",
+   "id": "u1a44"
   }
  },
  "fonti": [
@@ -862,8 +897,171 @@
   "alviaprimacollaborazionedelcentrouecontrolefakenewsconongefactchecker",
   "mattarelladifendeivaccinimaggioranzadivisasuimedicinovax",
   "disinfoupdate18112026",
-  "europesmissingwatchdogshowboththedsaandtheaiactarefailingonenforcement"
+  "europesmissingwatchdogshowboththedsaandtheaiactarefailingonenforcement",
+  "uiverify",
+  "infaiw",
+  "10bestaiappsforiphonein2026testedranked",
+  "scotiabanklaunchesagenticaitooltogivebankersmoreclienttime",
+  "tokenfilaunchesaigenstudioanaitoolformintingnftsfromtextprompts",
+  "agritechfirmhalteropenswaikatofarmingarchiveandlaunchesaiassistantmav",
+  "eselasanitàiniziassedallepersonesanelanuovasfidadellaprevenzione",
+  "intelligenzaartificialelanuovafrontieradellassistenzaaglianziani",
+  "intelligenzaartificialelavoroepartecipazioneassolombardaesindacatifirmanounanuov",
+  "aiartyimageenhancerreviewlocalairepair",
+  "amdryzenaihalogetsprojectzenithforlocalaidevelopment",
+  "protonslumoisfinallyusefulandgivesushopeforarealprivateai",
+  "dosparalaunchespalmsizedproartgr1xwithrtxsparkforlocalai",
+  "screamburbilgiocohorrorchesigiocaconlafaccia",
+  "mastrafactorytheopensourcesoftwarefactoryweusetobuildmastra",
+  "takevoyager1apartdowntoasinglememorychip",
+  "exitpathopensourcewaysoutofslacknotionandmicrosoft365",
+  "typefighter2",
+  "alloycssdialogsmenusandtabsthatworkwithjavascriptoff",
+  "announcingdistributedkvcachingforselfhostedllmswithamazonelasticache",
+  "researchaccelerationthejaggedfrontier",
+  "howsumitomolifesleadershelpedteamsadoptchatgptenterprise",
+  "openailauncheschatgptforaccountingwithpluginsforquickbooksxeronetsuiteandmore",
+  "googlelaunchesgemini4neonpricingitat3permillioninputtokens",
+  "googlelaunchesgemini4neonwithopus55levelcodingperformanceat25lowerapitokenprices",
+  "alphabetlaunchesgeminitasksdeepeningcompetitioninconsumeraiagents",
+  "gemini4neonisreadytogetsomeworkdoneforaipropowerusers",
+  "anthropicipo83sharepriceandyearendvaluationodds",
+  "anthropicclaudedownwhyitsaiditwasunabletoauthenticatecode",
+  "anthropicsells813billioninsharesforarecordipo",
+  "theworldembracedtheaiboomnowmanyarehavingregrets",
+  "anthropicipo2026howtoinvestinanthropicincanada",
+  "microsoftacceleratescustomersupportwithanagentbuiltoncopilotstudio",
+  "informaticafromsalesforcebringstrustedenterprisedataintomicrosoftcopilotmicrosof",
+  "microsoftceosatyanadellacallsoutlookoutageaperfectstormhereswhatwentwrong",
+  "microsoftandsalesforceintroducecopilotforceintegrationsforcopilotteamsandfabric",
+  "deepseekvschatgpt2026comparisonverdict",
+  "amuslimauthorissuingxaiafterpeopleusedgroktostripherhijab",
+  "botinterrupteddeepseekusersreportnewlimitsonfreechats",
+  "governmentinvestigatorsfindaiplatformsproduceterrorplotplansinundercoverop",
+  "thenationslargestschooldistrictsconsiderditchinggooglesearch",
+  "microsoftceosatyanadellaexplainswhyheasked60kemployeestoquit",
+  "amidstfearsofaicyberattackssatyanadellasayslotsofcriticalinfrastructureisunpatch",
+  "elonmusksaysoustingjensenhuangislikekickingmichaeljordanoffyourteam",
+  "microsoftceosatyanadellaremainsconfidentinnvidiaafterhuangsexit",
+  "anthropicpricesipoat83ashareaboveprojectedrange",
+  "ansaabruxelleslaiapplysummitaunannodallastrategiaue",
+  "generalidallaioltre200milionidieurodicontributoalrisultatooperativo",
+  "pavimentipuliticonmenofaticairobotnarwalinoffertaalblackfridayamazon2026",
+  "lineeguidaagidsullainellapaperchéilcapitolo4èdecisivo",
+  "reportersnotebookwhattodowhenyourinvestigationgetsspiked",
+  "questaimmaginedibambinipalestinesinelletendeallagateèfalsa"
  ],
  "audio": "audio/2026-11-19.mp3",
- "durata": 133.5
+ "durata": 164.1,
+ "aggiornamenti": [
+  {
+   "generato": "2026-11-19T05:48:46+00:00",
+   "modello": "gemini-3.5-flash-lite",
+   "testi_completi": 6,
+   "riassunto": {
+    "titolo_giorno": "Proton Lumo: l'assistente AI privato che promette maggiore sicurezza",
+    "in_breve": "Tra le novità di oggi spicca Proton Lumo, lo strumento pensato per offrire un'esperienza AI incentrata sulla privacy dei dati personali. Spazio anche a nuove soluzioni open source e aggiornamenti per chi cerca strumenti utili senza cedere alle logiche dei grandi ecosistemi.",
+    "citati": [
+     "Proton Lumo"
+    ],
+    "da_provare": [
+     {
+      "cosa": "Proton Lumo",
+      "a_cosa_serve": "Un assistente AI focalizzato sulla privacy e sulla protezione dei dati personali dell'utente durante l'utilizzo.",
+      "per_chi": "Tutti i giorni",
+      "ambito": "Privacy e sicurezza",
+      "come_iniziare": [],
+      "costo": "Non indicato",
+      "piattaforme": [],
+      "sul_dispositivo": false,
+      "come_sfruttarla": "Chiedere informazioni o riassunti riducendo la condivisione di dati personali con le grandi piattaforme.",
+      "italiano": "Non indicato",
+      "difficolta": "Facile",
+      "fonti": [
+       "u1a44"
+      ],
+      "temi": [
+       "Privacy e sicurezza",
+       "Assistenti e chatbot"
+      ],
+      "affidabilita": "Da verificare",
+      "solo_titoli": true,
+      "prova": ""
+     }
+    ],
+    "osint": [],
+    "gemme": [
+     {
+      "cosa": "Type Fighter 2",
+      "a_cosa_serve": "Un gioco in stile arcade gratuito pensato per chi vuole imparare a scrivere velocemente con la tastiera.",
+      "perche_gemma": "Senza registrazione e con i progressi salvati localmente sul dispositivo.",
+      "con_ai": "",
+      "piattaforme": [
+       "Browser",
+       "Android"
+      ],
+      "self_hosted": false,
+      "costo": "Gratis",
+      "difficolta": "Facile",
+      "temi": [
+       "Open source e self-hosting",
+       "Scrittura e documenti"
+      ],
+      "fonti": [
+       "u1a63"
+      ],
+      "affidabilita": "Appena lanciato",
+      "come_iniziare": [],
+      "sul_dispositivo": false,
+      "come_sfruttarla": "",
+      "prova": "https://typefighter2.com/"
+     },
+     {
+      "cosa": "ExitPath",
+      "a_cosa_serve": "Raccolta di strumenti open source per facilitare la migrazione e l'esportazione dei propri dati da piattaforme come Slack, Notion e Microsoft 365.",
+      "perche_gemma": "Completamente open source per mantenere il controllo totale dei propri dati.",
+      "con_ai": "",
+      "piattaforme": [],
+      "self_hosted": false,
+      "costo": "Non indicato",
+      "difficolta": "Media",
+      "temi": [
+       "Open source e self-hosting",
+       "Privacy e sicurezza"
+      ],
+      "fonti": [
+       "u1a62"
+      ],
+      "affidabilita": "Appena lanciato",
+      "solo_titoli": true,
+      "italiano": "Non indicato",
+      "sul_dispositivo": false,
+      "come_iniziare": [],
+      "come_sfruttarla": "",
+      "prova": "https://exitpath-ruddy.vercel.app/"
+     }
+    ],
+    "sezioni": [],
+    "formato": 2,
+    "controllo_siti": [
+     {
+      "cosa": "Proton Lumo",
+      "esito": "nessun sito da aprire"
+     },
+     {
+      "cosa": "Type Fighter 2",
+      "sito": "https://typefighter2.com/",
+      "pagina": 1083,
+      "trovate": []
+     },
+     {
+      "cosa": "ExitPath",
+      "sito": "https://exitpath-ruddy.vercel.app/",
+      "pagina": 2403,
+      "trovate": []
+     }
+    ]
+   }
+  }
+ ]
 }
