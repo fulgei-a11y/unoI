@@ -385,6 +385,50 @@
    "solo_titolo": false,
    "categoria": "Testate tech",
    "id": "a153"
+  },
+  "u1a42": {
+   "titolo": "ASUS launches ProArt GR1X mini PC for local AI workloads...",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYXNHeWVfMnEySDBWTGdWSkVBS1FVbzdwMlE3VmgwZ2VYM3lQcnVOMFlpQ0EycEZPZjBrLTFIemZabHVMMUZ5aUZWeXlLUWVNcnk2cTBlZmhMYnF6aGxER29GOEpyeHVEVmtfVjNpUXZEUnRUdVRVaXgzTUpHUGpqc29oWkpLem5pN1hycUFqaWtzS3liczRUSjA0RktsZw?oc=5",
+   "data": "2026-11-20T00:49:09+00:00",
+   "testo": "",
+   "fonte": "Technology Record",
+   "tipo": "minore",
+   "solo_titolo": true,
+   "categoria": "Strumenti",
+   "id": "u1a42"
+  },
+  "u1a71": {
+   "titolo": "ZiChuanLan/freebie-radar: A self-hosted radar for deals and useful information",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMkpBeVlZcFJYamM2eGZvaFpybnMzdUEyb2J0RlBHY0NGZjJjNHYyaDVkOFExdF9YNTF0RC1YYXFURVM3TGlFaDByQjU4VnNRWVV6dkpUVTgxWl9wVjNMTjVZdjljQmg5akNrZWdjTEhJbnFzbERFYnNpZUZ5Nkk4MTZDMFdFWEd4YmVlQ3JKc0RPVDdLMW5vYnFTa0E3UHJ6UXFwUjBzdDJpQ3JEbDdoNEd5clNUR3BJ?oc=5",
+   "data": "2026-11-19T11:07:28+00:00",
+   "testo": "",
+   "fonte": "news.lavx.hu",
+   "tipo": "minore",
+   "solo_titolo": true,
+   "categoria": "Gemme",
+   "id": "u1a71"
+  },
+  "u1a69": {
+   "titolo": "agentes.chat: Self-Hosted Slack Alternative for AI Agents",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQzFWUzVldnJodnZhTFQ0cmVBUGdJNVZrUXVwRF9fcVJINUF1Y29wb0x6bTM5UFRGNHh0ZGtUa3ZuQnhXQkh2eDVDS2JIY2tVRjFVUXBvQWRRZDllNW5mSFJ1TWJMM2RXeFJ1RGkwRzZVNnNLYUdOZUd2TzNfd2JpN0dOb21qMXAtX0RlV2pkS2wxd0c3eUctY3RlYzVpcXNLR2o1ajhXa3dEank5ME1XRFRGeElxaDV5ZVZR?oc=5",
+   "data": "2026-11-20T00:00:00+00:00",
+   "testo": "",
+   "fonte": "explainx.ai",
+   "tipo": "minore",
+   "solo_titolo": true,
+   "categoria": "Gemme",
+   "id": "u1a69"
+  },
+  "u1a21": {
+   "titolo": "Base44 – AI App Builder, Natural Language Development & Integrated Hosting",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSWZkMmZiZDdla0ZLSklXc1BVZzdvRTJjM2p6YUFkWkhmV1lTakpRSkhEMWlDZUQ5ZHlqUjZhSmZsTktFbGNwMGRpdngwWi1QcHFHV3VRQWJuT3piYzdLNGFGOW1ob2k1ZFlqRzVnTTM4UThaRWxKNEVpSlFFVnRCZVd1NkFPbGlHVl82S0JGc3haUW1vRG5j?oc=5",
+   "data": "2026-11-19T19:11:21+00:00",
+   "testo": "",
+   "fonte": "Quasa.io",
+   "tipo": "minore",
+   "solo_titolo": true,
+   "categoria": "Strumenti",
+   "id": "u1a21"
   }
  },
  "fonti": [
@@ -884,8 +928,179 @@
   "alviaprimacollaborazionedelcentrouecontrolefakenewsconongefactchecker",
   "mattarelladifendeivaccinimaggioranzadivisasuimedicinovax",
   "disinfoupdate18112026",
-  "europesmissingwatchdogshowboththedsaandtheaiactarefailingonenforcement"
+  "europesmissingwatchdogshowboththedsaandtheaiactarefailingonenforcement",
+  "incredibleagents",
+  "superhumanexpandsgoaiassistantacrossitsapps",
+  "base44aiappbuildernaturallanguagedevelopmentintegratedhosting",
+  "fcarollsoutaitooltohelpfinancialinstitutionsmonitoraiadoption",
+  "googleunveilsaitooltomonitorandimproveapplications",
+  "allplan2027cosacambiaperiprogettistiduewebinarsullenovità",
+  "asuslaunchesproartgr1xminipcforlocalaiworkloads",
+  "nvidiamicrosoftunveilazureverarubinsystemsandondeviceaipushatignite",
+  "screamburbilgiocohorrorchesigiocaconlafaccia",
+  "amazonelasticachenowsupportsdistributedkvcachingforselfhostedllminference",
+  "agenteschatselfhostedslackalternativeforaiagents",
+  "zichuanlanfreebieradaraselfhostedradarfordealsandusefulinformation",
+  "deployingdaybreakred",
+  "seeprscansinaction",
+  "explorethecodexsecurityplugin",
+  "getstartedwithdaybreakblue",
+  "googlegeminilaunchesmaccomputercontrolfeatureworksautomaticallyinthebackgroundsu",
+  "visualpingclaudeconnectornowavailableinclaudesconnectorsdirectory",
+  "anthropicipoturnsthousandsoftechworkersintoovernightmillionairesreportssay",
+  "anthropicmarksitsipoatnasdaq",
+  "anthropicipodetailspricevaluationstocktickermore",
+  "anthropicipoclaudemakeropensat11150inrecordnasdaqdebut",
+  "anthropicsharesgain17onfirstdayoftradingafterrecordipo",
+  "howtoturnonappleintelligencesiriaiios27",
+  "muslimgirlfoundersuesxaioversexualizedgrokedits",
+  "applemaybedevelopingitsownaiagentthatrunsyourmac",
+  "anthropics7founderscashedoutnearly2binrecordbreakingipo",
+  "attaccohackeracommissioneueconiail22ottobrenessunaviolazione2",
+  "wireditalia",
+  "cop31chiraccontailclimaecomelaipuòcambiareilruolodeibrand",
+  "tokenfraudishereanditsbadyoutube",
+  "digitalsecuritybasicsforinvestigativejournalistsluisassardo",
+  "centroderecursos",
+  "aigeneratedpicturemisrepresentedasexnvidiaceoandhiswife",
+  "viralphotosclaimingbiocompletedfreetownbokenemarailwayprojectfalse",
+  "satelliteimagesshowcrimeanbridgeafternewneptunestrikephoto"
  ],
  "audio": "audio/2026-11-20.mp3",
- "durata": 152.0
+ "durata": 189.2,
+ "aggiornamenti": [
+  {
+   "generato": "2026-11-20T05:45:08+00:00",
+   "modello": "gemini-3.5-flash-lite",
+   "testi_completi": 2,
+   "riassunto": {
+    "titolo_giorno": "Nuovi strumenti per agenti AI fai-da-te e mini PC per intelligenza artificiale locale",
+    "in_breve": "Tra le novità odierne spiccano piattaforme per creare applicazioni con il linguaggio naturale e soluzioni per l'elaborazione locale, offrendo nuove possibilità per chi vuole sperimentare l'intelligenza artificiale direttamente sul proprio computer.",
+    "citati": [
+     "Base44",
+     "ASUS ProArt GR1X",
+     "agentes.chat",
+     "freebie-radar"
+    ],
+    "da_provare": [
+     {
+      "cosa": "Base44",
+      "a_cosa_serve": "Permette di creare applicazioni software utilizzando semplicemente il linguaggio naturale e gestendo l'hosting in modo integrato.",
+      "per_chi": "Lavoro e tutti i giorni",
+      "ambito": "Programmare senza codice",
+      "come_iniziare": [],
+      "costo": "Non indicato",
+      "piattaforme": [],
+      "sul_dispositivo": false,
+      "come_sfruttarla": "Sviluppare piccoli strumenti o prototipi di app aziendali senza scrivere codice.",
+      "italiano": "Non indicato",
+      "difficolta": "Facile",
+      "fonti": [
+       "u1a21"
+      ],
+      "affidabilita": "Da verificare",
+      "solo_titoli": true,
+      "prova": "",
+      "temi": [
+       "Programmare senza codice"
+      ]
+     },
+     {
+      "cosa": "ASUS ProArt GR1X",
+      "a_cosa_serve": "Un mini PC progettato specificamente per gestire carichi di lavoro di intelligenza artificiale direttamente in locale sul proprio dispositivo.",
+      "per_chi": "Lavoro e tutti i giorni",
+      "ambito": "Lavoro e produttività",
+      "come_iniziare": [],
+      "costo": "Non indicato",
+      "piattaforme": [],
+      "sul_dispositivo": true,
+      "come_sfruttarla": "Eseguire modelli di intelligenza artificiale complessi a casa o in ufficio senza inviare dati online.",
+      "italiano": "Non indicato",
+      "difficolta": "Facile",
+      "fonti": [
+       "u1a42"
+      ],
+      "affidabilita": "Da verificare",
+      "solo_titoli": true,
+      "prova": "",
+      "temi": [
+       "AI sul dispositivo",
+       "Lavoro e produttività"
+      ]
+     }
+    ],
+    "osint": [],
+    "gemme": [
+     {
+      "cosa": "agentes.chat",
+      "a_cosa_serve": "Un'alternativa a Slack pensata in modalità self-hosted e dedicata specificamente agli agenti di intelligenza artificiale.",
+      "perche_gemma": "Permette di ospitare autonomamente una chat collaborativa per i propri agenti intelligenti.",
+      "con_ai": "Consente di far comunicare diversi agenti AI tra loro in un ambiente privato e controllato.",
+      "piattaforme": [],
+      "self_hosted": true,
+      "costo": "Non indicato",
+      "difficolta": "Media",
+      "temi": [
+       "Open source e self-hosting",
+       "Agenti AI"
+      ],
+      "fonti": [
+       "u1a69"
+      ],
+      "affidabilita": "Da verificare",
+      "solo_titoli": true,
+      "italiano": "Non indicato",
+      "sul_dispositivo": false,
+      "come_iniziare": [],
+      "come_sfruttarla": "",
+      "prova": ""
+     },
+     {
+      "cosa": "freebie-radar",
+      "a_cosa_serve": "Un radar autogestito per monitorare offerte e informazioni utili sul web.",
+      "perche_gemma": "Aiuta a raccogliere segnalazioni e occasioni utili in autonomia.",
+      "con_ai": "",
+      "piattaforme": [],
+      "self_hosted": true,
+      "costo": "Non indicato",
+      "difficolta": "Media",
+      "temi": [
+       "Open source e self-hosting",
+       "Ricerca e informazioni"
+      ],
+      "fonti": [
+       "u1a71"
+      ],
+      "affidabilita": "Da verificare",
+      "solo_titoli": true,
+      "italiano": "Non indicato",
+      "sul_dispositivo": false,
+      "come_iniziare": [],
+      "come_sfruttarla": "",
+      "prova": ""
+     }
+    ],
+    "sezioni": [],
+    "formato": 2,
+    "controllo_siti": [
+     {
+      "cosa": "Base44",
+      "esito": "nessun sito da aprire"
+     },
+     {
+      "cosa": "ASUS ProArt GR1X",
+      "esito": "nessun sito da aprire"
+     },
+     {
+      "cosa": "agentes.chat",
+      "esito": "nessun sito da aprire"
+     },
+     {
+      "cosa": "freebie-radar",
+      "esito": "nessun sito da aprire"
+     }
+    ]
+   }
+  }
+ ]
 }
