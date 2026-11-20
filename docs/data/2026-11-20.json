@@ -522,6 +522,41 @@
    "solo_titolo": false,
    "categoria": "Gemme",
    "id": "u3a61"
+  },
+  "u4a139": {
+   "titolo": "Google rolls out new search homepage with AI chat history and no search button",
+   "link": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/",
+   "data": "2026-11-20T21:58:29+00:00",
+   "testo": "Google’s flagship search experience is evolving into an AI experience with stunning speed. Even time-tested elements of search are getting AI makeovers, and the latest to get this treatment is the search homepage on Google.com. A redesign that’s been in testing for the last few weeks is now official, bringing easier access to AI chats and dropping the dedicated search button entirely. Google search VP Robby Stein confirmed on X that Google is deploying the new desktop search page after a successful test. The page will now have a few more buttons under the search bar, all connected to AI features. There’s an image generation button, one for analyzing files, and one for brainstorming with Gemini. The “I’m Feeling Lucky” button remains, but the Google Search button that used to sit next to it is gone. The search button has obviously been a part of Google’s search page forever. However, it wasn’t in a very convenient location in the modern interface. When you begin typing a query, the autocomplete suggestions cover that button. You have to click out of the text field to access the button, which is an extra step compared to simply mashing the Enter key to run your search.",
+   "fonte": "Ars Technica",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Testate tech",
+   "id": "u4a139",
+   "testo_completo": true
+  },
+  "u4a81": {
+   "titolo": "Get your year-end tasks done with new Connected Apps.",
+   "link": "https://blog.google/products-and-platforms/products/search/connected-apps-holiday-errands/",
+   "data": "2026-11-20T18:00:00+00:00",
+   "testo": "Get your year-end tasks done with new Connected Apps. Tackling your to-do list just got a little easier. In the U.S., we’re rolling out new Connected Apps through Search and the Gemini app to help with your grocery runs, including Albertsons, Safeway, Shaw’s, and Target. Whether you’re preparing appetizers for your holiday party or need groceries for Thanksgiving, these new Connected Apps can help you build your order and check out with ease. Powered by the Universal Commerce Protocol, these apps can help you get more done this holiday season. The end of the year is also a great time to get your finances in order. Experian is already live on the Gemini app, and now we’re rolling it out to Search with the ability to help U.S. users check their credit rating and shop for a personal loan. U.S. users can also turn to H&R Block to calculate their taxes and estimate their refunds right from Search. In the coming weeks, you’ll also be able to link your accounts to Angi and Thumbtack in Search, streamlining your hunt for local pros who can fix that leaky faucet or put up last-minute decorations before your guests arrive.",
+   "fonte": "Google Gemini (blog)",
+   "tipo": "ufficiale",
+   "solo_titolo": false,
+   "categoria": "Laboratori",
+   "id": "u4a81",
+   "testo_completo": true
+  },
+  "u4a174": {
+   "titolo": "Google, la homepage sta per subire un cambiamento epocale | VIDEO",
+   "link": "https://www.hdblog.it/internet/articoli/n677783/google-homepage-novita-cambiamento-ai-gemini/",
+   "data": "2026-11-20T19:40:00+02:00",
+   "testo": "Con l'aggiunta della ricerca AI, vien da sé",
+   "fonte": "HDblog",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Italia",
+   "id": "u4a174"
   }
  },
  "fonti": [
@@ -1180,10 +1215,70 @@
   "nvidiastangledwebrisksofsmartphonetrackinginjapanbannedpesticidesinbrazilandfoxn",
   "ancorafrigoriferisottoattaccoilregnounitomobilitaistituzioniericercatoriinitalia",
   "nochristinelagardenonhadettocheglianzianivivonotroppoesonounrischioperleconomiam",
-  "questovideodironaldoalpallonedoroconlabandieradellapalestinaèfalso"
+  "questovideodironaldoalpallonedoroconlabandieradellapalestinaèfalso",
+  "docker",
+  "sponsorunitedlaunchessurfaceaitoolatsbjevent",
+  "nacfelaunchesasknacfeanaitoolfortruckingquestions",
+  "finmossidekicktheaiassistantthatknowsyourdeals",
+  "hackersuseautonomousaitoolcairntofindzerodaytakeoverserver",
+  "forgetsiritheiphone20couldgetapowerfulnewaiassistant",
+  "anythingaiappbuilderwebandmobiledevelopmentintegratedbackends",
+  "intelligenzaartificialegratisimiglioristrumentiaidausareonlinestartupnewsit",
+  "intelligenzaartificialeleimpreseitalianeaccelerano20112026",
+  "openaidotsintestpergliabbonatichatgptplus",
+  "googlemapscomeusareaskmapscongeminipercercareneituoimessaggi",
+  "microsoftbringsrdmaoverusb4towindowsallowingmultiplepcstorunonelocalaimodel",
+  "msiunveils13litredesktopforlocalaicomputing",
+  "asusproartgr1xminipcisbuiltforlocalai",
+  "windowspcscannowteamupoverusb4torunaimodelsthatwontfitononemachine",
+  "nvidialanciaidesktoprtxsparkdiasusdellemsiperlailocale",
+  "ireplacedendlessgmailscrollingwith5geminifeaturesthatsummarizethreadsanddraftrep",
+  "5precisesnapseedtoolsthatbeatgooglephotosaggressiveaiphotoeditor",
+  "theseselfhostedappsgotmoreusefulthemomentclaudecouldreadthem",
+  "combattingadversarialdistillation",
+  "canaihelpscientistsidentifypromisingdrugcandidates",
+  "howwatchdutyisusinggeminitogetwildfirealertsoutfaster",
+  "getyouryearendtasksdonewithnewconnectedapps",
+  "synclaunchesitsaimatchmakerinclaudesotheaipeoplealreadyusecanfindthemadate",
+  "anthropiclaunchesclaudeformanufacturing",
+  "googlelaunchescomputeruseingeminiformacrunningtasksinthebackground",
+  "isclaudemakeranthropicgoingpublicjustastheaibubblebursts",
+  "anthropicmathematicianclaimsaihelpedsolvea167yearoldmathmystery",
+  "anthropicresearchersaysheandclaudeprovedtheriemannhypothesisfirstposedin1859",
+  "anthropicmathematiciansaysheusedaitosolvetheriemannhypothesis",
+  "anthropicmathematiciansaysaihassolvedthemostfamousprobleminmath",
+  "microsoftscopilotstrategyofferspathtoenterpriseaigrowthsaysbankofamerica",
+  "microsoftcopilotforfinanceleadersanexecutivebriefing",
+  "microsoftbringsofficeintocopilotwhatchannelpartnerscandeploynow",
+  "microsoftbeginsrollingoutautopilotitsalwaysonpersonalaiagent",
+  "itriedreplacingnotebooklmandperplexitywithoneopensourceresearchappanditdoesmoret",
+  "iphone18proaifeatureseveryoneandwhichneedthenewphone",
+  "perplexitycomputerdockeralternativewhatrunslocally",
+  "welcomeinkling2minicuttingedgeperformanceforyourlocalsetup",
+  "trumpthreatenstremendoustaxformovingaidatacentersoutsidetheus",
+  "anthropicmathematicianclaimstohavesolvedprestigiousmillenniumprizeproblemwithcla",
+  "danielekbacksairesearchersfusionpowerstartuphereswhattheyrebuilding",
+  "aiclaimedasolutiontothe167yearoldriemannhypothesisandahumandidtoo",
+  "chipscansurvivethespaceenvironmentcantheirfinancing",
+  "googlerollsoutnewsearchhomepagewithaichathistoryandnosearchbutton",
+  "metareconsiders2030netzerogoalamidrecordemissionsfromaidatacenters",
+  "researcherplants2mcanariesintotheaisupplychainaprivacydisastersurfaced",
+  "themostmisunderstoodgraphinaijustgotamajorupdate",
+  "openaimakesitmuchharderforattackerstoextracthowitslatestaimodelsthink",
+  "signalblocksscreenshotsonios27andandroidtostopaiagentsfromreadingprivatechats",
+  "googlesgeminicannowrunmacappsandfinishdesktopchoresinthebackgroundwhileyoukeepwo",
+  "nascelafieradellintelligenzaartificialeguidatadalluomoadapriletornahumandrivenai",
+  "programmaricercaprotesicainail2026202836milioniper18progetti",
+  "vittoriadiapplegliordinidibackdoordevonoesserepubblici",
+  "volocancellato7promptaiperavereunpianodiriservapronto",
+  "googlelahomepagestapersubireuncambiamentoepocalevideo",
+  "chatgptdotsparteiltestpergliabbonatiplus",
+  "aiinospedalesenzaregolecosarischianodatiepazienti",
+  "quotingleventalpöge",
+  "newincomeverificationtoolforsnapeligibilityimplementedinmississippi"
  ],
  "audio": "audio/2026-11-20.mp3",
- "durata": 282.0,
+ "durata": 329.8,
  "aggiornamenti": [
   {
    "generato": "2026-11-20T05:45:08+00:00",
@@ -1530,6 +1625,66 @@
       "trovate": []
      }
     ]
+   }
+  },
+  {
+   "generato": "2026-11-20T22:48:42+00:00",
+   "modello": "gemini-3.8-flash",
+   "testi_completi": 16,
+   "riassunto": {
+    "titolo_giorno": "Google cambia la home page con scorciatoie AI e debutta il supporto a servizi esterni in Gemini",
+    "in_breve": "La pagina principale della Ricerca Google saluta il tradizionale pulsante di ricerca per fare spazio a tasti diretti per generare immagini e analizzare file. Parallelamente, Gemini introduce il collegamento con app e servizi esterni per completare commissioni quotidiane. Le novità mostrano come la ricerca web stia passando dalla consultazione passiva all'azione diretta.",
+    "citati": [
+     "Ricerca Google",
+     "Gemini"
+    ],
+    "da_provare": [],
+    "osint": [],
+    "gemme": [],
+    "sezioni": [
+     {
+      "titolo": "Novità negli strumenti che già usi",
+      "notizie": [
+       {
+        "titolo": "Nuova interfaccia desktop con pulsanti AI e rimozione del tasto Cerca",
+        "strumento": "Ricerca Google",
+        "riassunto": "Google ha iniziato la distribuzione della nuova home page desktop su Google.com. Lo storico tasto \"Cerca con Google\" è stato rimosso per fare spazio a pulsanti rapidi dedicati all'AI: uno per generare immagini, uno per analizzare file e uno per avviare sessioni di brainstorming con Gemini, con accesso facilitato alla cronologia delle chat AI.",
+        "come_provarla": "La nuova interfaccia compare progressivamente visitando la home page di Google da browser desktop.",
+        "disponibilita": "Disponibile ora",
+        "fonti": [
+         "u4a139",
+         "u4a174"
+        ],
+        "temi": [
+         "Ricerca e informazioni",
+         "Assistenti e chatbot",
+         "Foto e immagini"
+        ],
+        "affidabilita": "Confermata",
+        "solo_titoli": false
+       },
+       {
+        "titolo": "Arrivano le Connected Apps per gestire acquisti e commissioni",
+        "strumento": "Gemini",
+        "riassunto": "Google ha avviato il rilascio delle Connected Apps all'interno dell'app Gemini e della Ricerca. La funzione permette di collegare account di negozi e servizi (come catene di supermercati e fornitori di servizi finanziari o fiscali) per creare ordini di spesa o stimare rimborsi fiscali direttamente dall'assistente.",
+        "come_provarla": "",
+        "disponibilita": "Non in Italia",
+        "fonti": [
+         "u4a81"
+        ],
+        "temi": [
+         "Assistenti e chatbot",
+         "Lavoro e produttività",
+         "Ricerca e informazioni"
+        ],
+        "affidabilita": "Fonte ufficiale",
+        "solo_titoli": false
+       }
+      ]
+     }
+    ],
+    "formato": 2,
+    "controllo_siti": []
    }
   }
  ]
