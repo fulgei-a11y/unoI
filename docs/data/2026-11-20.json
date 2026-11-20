@@ -510,6 +510,18 @@
    "solo_titolo": false,
    "categoria": "Testate tech",
    "id": "u2a142"
+  },
+  "u3a61": {
+   "titolo": "Fast deterministic natural language search for OpenStreetMap data",
+   "link": "https://hippomaps.ch/?q=cafes+by+the+Limmat+100+m+from+the+lake+in+zurich#map=15.02/47.36708/8.54935",
+   "data": "2026-11-19T15:16:02+00:00",
+   "testo": "I want to show you HippoMaps. It is a fully featured map and navigation app built on OpenStreetMap with a custom Overpass API engine for really fast search of POIs, areas and ways. My aim with HippoMaps is to get to a level where I don't need Google Maps anymore. The biggest hurdle IMHO with OSM based apps is the lack of nice and fast search (where GMaps excels at). To get there I started working…",
+   "sito": "https://hippomaps.ch/?q=cafes+by+the+Limmat+100+m+from+the+lake+in+zurich#map=15.02/47.36708/8.54935",
+   "fonte": "Show HN – progetti utili (gemme)",
+   "tipo": "vetrina",
+   "solo_titolo": false,
+   "categoria": "Gemme",
+   "id": "u3a61"
   }
  },
  "fonti": [
@@ -1129,10 +1141,49 @@
   "newincomeverificationtoolaimedatbettertrackingsnapeligibilityimplementedinmissis",
   "howdwfactchecksfakenews",
   "thedorogobuzhplantinrussiawasattackedbydroneswhatisknownabouttheexplosion",
-  "noquestinonsonoidannidiunattaccoiranianoaunabaseusainbahreindinovembre2026"
+  "noquestinonsonoidannidiunattaccoiranianoaunabaseusainbahreindinovembre2026",
+  "greataireview",
+  "lingguangopenecosystemexpandsfurtheradds7connectivitycapabilitiesincludingwecoma",
+  "tiktokorasipuòverificareseunvideoèstatocreatoconliaeccocome",
+  "questaappprendeunatuafotoeticreaunalocandinadigta6personalizzatapuoifarloin2minu",
+  "arrivainitaliateslafsdvialiberadelmite99euroalmese",
+  "cosèchatgptwalletecomefunzionaperpagarecongliagentiai",
+  "bollettatroppoaltacomeusareliaperscopriredovesiconsumadipiùerisparmiare",
+  "gemininotebookexnotebooklm9funzionidariprovaredalcodicealsynccongemini",
+  "nvidiastartssellingrtxsparkminidesktopforlocalai",
+  "fastdeterministicnaturallanguagesearchforopenstreetmapdata",
+  "crooskilllauncheslettingclaudecodeandcodexusersdirectlycallon4000aiagents",
+  "fromainativeadvertisingtomarketingsystemdeliverybluemedialaunchespartnershipwith",
+  "anthropicmathematicianclaimstoproveriemannhypothesismostfamousprobleminallofmath",
+  "anthropicmathematicianclaimsaiassistedproofoftheriemannhypothesis",
+  "anthropicmathematicianclaimsriemannhypothesisproofwithclaudependingexpertchecks",
+  "howsapandmicrosoftinnovatetogethertodeliveraivaluefortheenterprise",
+  "salesforceandmicrosoftlaunchcopilotforcetoconnectcrmdatawithmicrosoftcopilot",
+  "whatifmicrosofthasgotitwrongdontbetononevision",
+  "tesla2026441turnsitsaicomputerintoansicomputer",
+  "theweekeverythingfellapart",
+  "thefalloutfromnvidiasjensenhuangscandalcontinues",
+  "bloomberganalysisof10millionjobpostingsshowsaiexposedrolesinchinafell10percentag",
+  "applejoinstheraceforaiagentsthatcontrolyourdevicewhileraisingnewbarriersforcompe",
+  "nvidiabetsatleast500milliononinceptionsdiffusionmodelstostrengthenitsopensourcen",
+  "geminitoolretrievalstripeevalsmethodsagentswarms",
+  "anthropiciporecordda935miliardididollari",
+  "blackfridayeraybanmetagrandeoffertasugliocchialismart",
+  "signaldisattivagliscreenshotperbloccaregeminiesiriai",
+  "daprimevideoèarrivatoilblackfridayscontisupersucanaliestore",
+  "sanxingduiilprimofilmcinesefattoconlaifaflopalcinema",
+  "googlecambialasuahomepageaddioalpulsantecercacongooglearrivagemini",
+  "aieblackoutinformaticiperchésatyanadellalancialallarme",
+  "googlegeminisumaccomputerusecontrollaapplicazioniefile",
+  "socialvietatiaiminoriinodigiuridicidelleproposteitaliane",
+  "databreachsistemicoerispostaglobaleilcasomicrosoft",
+  "nvidiastangledwebrisksofsmartphonetrackinginjapanbannedpesticidesinbrazilandfoxn",
+  "ancorafrigoriferisottoattaccoilregnounitomobilitaistituzioniericercatoriinitalia",
+  "nochristinelagardenonhadettocheglianzianivivonotroppoesonounrischioperleconomiam",
+  "questovideodironaldoalpallonedoroconlabandieradellapalestinaèfalso"
  ],
  "audio": "audio/2026-11-20.mp3",
- "durata": 267.2,
+ "durata": 282.0,
  "aggiornamenti": [
   {
    "generato": "2026-11-20T05:45:08+00:00",
@@ -1427,6 +1478,56 @@
       "cosa": "Fack’d",
       "sito": "https://www.producthunt.com/r/p/1323668?app_id=339",
       "esito": "errore: HTTP Error 403: Forbidden"
+     }
+    ]
+   }
+  },
+  {
+   "generato": "2026-11-20T16:32:34+00:00",
+   "modello": "gemini-3.5-flash-lite",
+   "testi_completi": 6,
+   "riassunto": {
+    "titolo_giorno": "HippoMaps porta la ricerca veloce basata su OpenStreetMap",
+    "in_breve": "Tra le novità spicca HippoMaps, un'applicazione per mappe e navigazione basata su OpenStreetMap che promette ricerche estremamente rapide di punti di interesse grazie a un motore Overpass API personalizzato. Spazio anche a HippoMaps e alle nuove opzioni per la privacy.",
+    "citati": [
+     "HippoMaps"
+    ],
+    "da_provare": [],
+    "osint": [],
+    "gemme": [
+     {
+      "cosa": "HippoMaps",
+      "a_cosa_serve": "App di mappe e navigazione basata su OpenStreetMap con un motore di ricerca rapido per punti di interesse, aree e percorsi.",
+      "perche_gemma": "Offre una ricerca veloce e dettagliata basata su dati aperti senza dipendere dai colossi commerciali.",
+      "con_ai": "",
+      "piattaforme": [
+       "Browser"
+      ],
+      "self_hosted": false,
+      "costo": "Gratis",
+      "difficolta": "Facile",
+      "temi": [
+       "Ricerca e informazioni",
+       "Open source e self-hosting"
+      ],
+      "fonti": [
+       "u3a61"
+      ],
+      "affidabilita": "Appena lanciato",
+      "come_iniziare": [],
+      "sul_dispositivo": false,
+      "come_sfruttarla": "",
+      "prova": "https://hippomaps.ch/?q=cafes+by+the+Limmat+100+m+from+the+lake+in+zurich#map=15.02/47.36708/8.54935"
+     }
+    ],
+    "sezioni": [],
+    "formato": 2,
+    "controllo_siti": [
+     {
+      "cosa": "HippoMaps",
+      "sito": "https://hippomaps.ch/?q=cafes+by+the+Limmat+100+m+from+the+lake+in+zurich#map=15.02/47.36708/8.54935",
+      "pagina": 3769,
+      "trovate": []
      }
     ]
    }
