@@ -1,0 +1,1137 @@
+{
+ "giorno": "2026-11-16",
+ "generato": "2026-11-16T05:31:09+00:00",
+ "modello": "gemini-3.6-flash",
+ "testi_completi": 16,
+ "riassunto": {
+  "titolo_giorno": "MW Geofind per l'analisi e la geolocalizzazione nelle indagini OSINT",
+  "in_breve": "Tra le risorse dedicate all'analisi delle informazioni da fonti aperte spicca MW Geofind, uno strumento focalizzato sulla geolocalizzazione. Questa soluzione evidenzia la continua evoluzione delle tecnologie di verifica territoriale a supporto di investigatori e analisti.",
+  "citati": [
+   "MW Geofind"
+  ],
+  "da_provare": [],
+  "osint": [
+   {
+    "cosa": "MW Geofind",
+    "a_cosa_serve": "Strumento dedicato alle indagini OSINT e alla geolocalizzazione di dati ed elementi territoriali.",
+    "uso": "Geolocalizzazione",
+    "piattaforme": [],
+    "costo": "Costo non indicato",
+    "difficolta": "Media",
+    "come_sfruttarla": "Analizzare ed esaminare dettagli geografici all'interno di un'indagine su fonti aperte.",
+    "temi": [
+     "OSINT e verifica"
+    ],
+    "fonti": [
+     "a169"
+    ],
+    "affidabilita": "Da verificare",
+    "come_iniziare": [],
+    "sul_dispositivo": false,
+    "prova": ""
+   }
+  ],
+  "gemme": [],
+  "sezioni": [],
+  "formato": 2,
+  "controllo_siti": [
+   {
+    "cosa": "MW Geofind",
+    "esito": "nessun sito da aprire"
+   }
+  ]
+ },
+ "articoli": {
+  "a169": {
+   "titolo": "The OSINT Newsletter - Issue #130",
+   "link": "https://osintnewsletter.com/p/130",
+   "data": "2026-11-10T16:01:01+00:00",
+   "testo": "OSINT Tool Tuesday: MW Geofind",
+   "fonte": "The OSINT Newsletter",
+   "tipo": "community",
+   "solo_titolo": false,
+   "categoria": "OSINT",
+   "id": "a169"
+  },
+  "u1a165": {
+   "titolo": "BigMoeOnEdge outperforms Strata and colibri on 8-16 GB cards and Mac and you can run any model",
+   "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xx5fng/bigmoeonedge_outperforms_strata_and_colibri_on/",
+   "sito": "",
+   "data": "2026-11-15T20:11:18+00:00",
+   "testo": "Hi! for those who might not know the solution: it takes any MoE GGUF llama.cpp can load, whatever the quant. No repacking, no special format it runs on whatever you have: NVIDIA, AMD, Intel, Mac, a phone, or just the CPU Windows, Linux, macOS, Android, iOS output is the same as llama.cpp, don't cut corners on quality you start it with --auto and it works out the settings for your machine Below is…",
+   "fonte": "Reddit (AI locale)",
+   "tipo": "community",
+   "solo_titolo": false,
+   "categoria": "Community",
+   "id": "u1a165"
+  },
+  "u1a5": {
+   "titolo": "LexiCAD",
+   "link": "https://www.producthunt.com/products/lexicad",
+   "sito": "https://www.producthunt.com/r/p/1318136?app_id=339",
+   "data": "2026-11-15T15:41:27-08:00",
+   "testo": "Describe a part in plain language to get a CAD design",
+   "fonte": "Product Hunt (AI)",
+   "tipo": "vetrina",
+   "solo_titolo": false,
+   "categoria": "Strumenti",
+   "id": "u1a5"
+  },
+  "u1a1": {
+   "titolo": "Punchcutter",
+   "link": "https://www.producthunt.com/products/punchcutter",
+   "sito": "https://www.producthunt.com/r/p/1317334?app_id=339",
+   "data": "2026-11-15T00:59:05-08:00",
+   "testo": "Turn a sentence or your handwriting into a real font family",
+   "fonte": "Product Hunt (AI)",
+   "tipo": "vetrina",
+   "solo_titolo": false,
+   "categoria": "Strumenti",
+   "id": "u1a1"
+  },
+  "u1a8": {
+   "titolo": "Cal.com v7",
+   "link": "https://www.producthunt.com/products/cal",
+   "sito": "https://www.producthunt.com/r/p/1317659?app_id=339",
+   "data": "2026-11-15T06:46:35-08:00",
+   "testo": "Cal.com now has events, discover, an assistant + more",
+   "fonte": "Product Hunt (AI)",
+   "tipo": "vetrina",
+   "solo_titolo": false,
+   "categoria": "Strumenti",
+   "id": "u1a8"
+  },
+  "u1a135": {
+   "titolo": "Asus UGen 300, l’AI in tasca da attaccare a PC e smartphone",
+   "link": "https://www.ilsole24ore.com/art/asus-ugen-300-l-ai-tasca-attaccare-pc-e-smartphone-AJWSBi5B",
+   "data": "2026-11-16T06:24:00+00:00",
+   "testo": "Asus UGen 300, l’AI in tasca da attaccare a PC e smartphone L’AI è ormai un po’ ovunque e non ci sorprende più che possa stare in un accessorio di moda come gli occhiali Meta o in un dispositivo sottile come qualche carta di credito (che magari prende appunti durante una riunione). Il punto, però, è che ancora manca quell’ecosistema che le fa fare tante cose davvero utili. Ecco che, allora, Asus si è inventata lo Ugen 300, una scatoletta grande come un battery pack che porta potenza di calcolo AI ovunque serva. Il suo scopo principale, però, non è quello di fornire AI ai dispositivi che non ne sono provvisti, ma quello di permettere a chiunque di sperimentare applicazioni e futuri dispositivi con l’AI. In pratica, dovrebbe essere per l’AI quello che Arduino è stato per l’elettronica: un facilitatore che permette di creare prototipi in pochi minuti. Certo, prototipi ingombranti e goffi, ma funzionanti e testabili nella vita di tutti i giorni. Del resto, potrebbe non essere un caso che l’elettronica che si trova al suo interno sia molto simile a quella che si collega al Raspberry PI per creare minicomputer AI. Il chip usato, infatti, è l’Hailo-10H, capace di generare 40 TOPS di potenza e a cui si affiancano 8 gigabyte di Ram. Con una quantità di memoria così risicata, si possono usare solo piccoli modelli linguistici, quindi niente che sia in grado di chiacchierare come Chat GPT, ma modelli capaci di riassumere documenti, convertire voce in testo e viceversa, analizzare foto per descriverne il contenuto o riconoscerne specifici elementi e così via. Hailo, inoltre, vanta una community molto attiva che fornisce supporto, tutorial e consigli a chi vuole entrare nel mondo della progettazione AI. Chiedilo al Sole «Lo Ugen 300” – dice Marco Astori, Country Manager di ASUS Ital…",
+   "fonte": "Il Sole 24 Ore Tecnologia",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Italia",
+   "id": "u1a135",
+   "testo_completo": true
+  },
+  "u1a2": {
+   "titolo": "Glifa",
+   "link": "https://www.producthunt.com/products/glifa",
+   "sito": "https://www.producthunt.com/r/p/1317504?app_id=339",
+   "data": "2026-11-15T04:25:03-08:00",
+   "testo": "The Markdown editor for Mac you can ask for anything",
+   "fonte": "Product Hunt (AI)",
+   "tipo": "vetrina",
+   "solo_titolo": false,
+   "categoria": "Strumenti",
+   "id": "u1a2"
+  },
+  "u2a118": {
+   "titolo": "Audible is trying to make it easier to find audiobooks you’ll actually like",
+   "link": "https://www.theverge.com/tech/1034083/audible-audio-discovery-ai-feature-availability",
+   "sito": "",
+   "data": "2026-11-16T09:00:00-05:00",
+   "testo": "Audible is introducing an AI-assisted synopsis feature that's designed to help users determine whether they'll enjoy an audiobook before they jump in and start listening to it. The new audio discovery feature combines audiobook samples, AI overviews, and author commentary to give users more information before choosing their next story, in addition to recommended audiobook […]",
+   "fonte": "The Verge",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Testate tech",
+   "id": "u2a118"
+  },
+  "u2a127": {
+   "titolo": "Google Maps can now build trip itineraries with real-time details about each stop",
+   "link": "https://techcrunch.com/2026/11/16/google-maps-can-now-build-trip-itineraries-with-real-time-details-about-each-stop/",
+   "data": "2026-11-16T14:48:13+00:00",
+   "testo": "Google announced on Monday that it’s rolling out new Maps features that are designed to help people plan trips and everyday tasks using AI. The company is launching the ability for Maps to create trip itineraries and find appointments for users. The new features reflect a broader shift in how tech companies are positioning AI, which is less as a tool that just answers questions and more as an assistant that can complete tasks on users’ behalf. While many companies have released AI agents to complete these tasks, Google is working to bring that approach into a service that millions of people already use every day. Google says users can use the navigation platform’s “Ask Maps” tool to build step-by-step trip itineraries and get real-time details about their route right when they pull up directions. For example, you could use Ask Maps to plan a holiday shopping day trip or something more complex, like a three-day road trip featuring coastal hikes and oceanfront dining, Google says. You’ll get a day-by-day itinerary with insider tips and numbered map pins for every stop. Once you’re happy with your itinerary, you can share it with friends and family or export it to Google Docs on desktop. When you’re ready to head out, you can use Ask Maps to reopen your itinerary or find the “itinerary” badge in your chat history. You’ll have access to real-time information, including traffic conditions, business hours, and a look at what the “vibe” is at your next stop, the company says. You could also adjust your schedule by asking Maps to do something like add a scenic viewpoint or lunch stop along your route. You can then tap any destination in your itinerary to get directions and navigate to your next stop. Additionally, users can use Ask Maps to find beauty, pet care, auto, and home…",
+   "fonte": "TechCrunch",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Testate tech",
+   "id": "u2a127",
+   "testo_completo": true
+  },
+  "u2a81": {
+   "titolo": "Ask Maps is coming to Europe.",
+   "link": "https://blog.google/products-and-platforms/products/maps/ask-maps-is-coming-to-europe/",
+   "data": "2026-11-16T14:00:00+00:00",
+   "testo": "Ask Maps is coming to Europe. Ask Maps is the biggest update to Google Maps in over a decade. Powered by the world’s freshest map and Gemini models, it answers complex, real-world questions a map couldn't before. Now, Ask Maps is expanding to 30+ countries across Europe. With information about over 300 million places, including reviews from more than 500 million contributors, Ask Maps is personalised to you and makes it easy to turn plans into action. Try: - Asking anything about anywhere: Ask “where can I charge my phone ASAP” or “find me a public tennis court with lights for playing tonight”. - Letting Ask Maps be your on-the-go companion: Create a trip itinerary, complete with “Know Before You Go” insider tips and real-time info about the weather and parking for each stop. - Searching your lists in seconds: Skip scrolling through hundreds of saved places. Just ask “Which spots saved in my lists have availability for 5 in 30 minutes?” Learn about what else you can do with Ask Maps here and here.",
+   "fonte": "Google (blog ufficiale)",
+   "tipo": "ufficiale",
+   "solo_titolo": false,
+   "categoria": "Laboratori",
+   "id": "u2a81",
+   "testo_completo": true
+  },
+  "u2a119": {
+   "titolo": "Google Maps can now create trip itineraries for you",
+   "link": "https://www.theverge.com/tech/1034110/google-ask-maps-ai-trip-planning",
+   "sito": "",
+   "data": "2026-11-16T09:00:00-05:00",
+   "testo": "Google is launching a new AI trip-planning feature for Maps that allows the app to create custom itineraries for you and provide real-time details about each stop. The update, which is rolling out to the Gemini-powered Ask Maps chatbot inside the app, lets you plan a one-day outing or a trip spanning several days. Google Maps can now create trip itineraries for you The AI-powered Ask Maps feature can suggest stops for your next trip, while providing real-time details about each location. As an example, Google says you can use Ask Maps to plan a day trip for holiday shopping, or have it create a schedule for a three-day road trip with stops for coastal hikes and oceanfront dining. From there, Ask Maps will generate a day-by-day schedule with a list of stops, while also showing your route and numbered pins for each location on the map. You can share the itinerary with friends or family members, as well as export it to Google Docs on desktop. You can ask Maps to show your trip schedule before you leave, or select the “itinerary” badge in your chat history. Along with directions, Google Maps will display real-time information about traffic, a location’s hours, and more. You can also view “know before you go” details about parking, car charging, weather conditions, potential delays, and tolls during your trip. In addition to trip planning, you can now use Ask Maps to find specific beauty, pet care, auto, and home repair appointments, and have it call the locations for you. You can also use Ask Maps to find saved places on your list by asking something like, “Which spots on saved in my lists have availability for five people in the next 30 minutes?” Google is expanding Ask Maps to over 30 countries in Europe, including Spain, Germany, and the UK. Trip-planning and saved list…",
+   "fonte": "The Verge",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Testate tech",
+   "id": "u2a119",
+   "testo_completo": true
+  },
+  "u2a60": {
+   "titolo": "Sniffnet: open-source network traffic monitor (now with support for routers, firewalls, servers)",
+   "link": "https://www.reddit.com/r/selfhosted/comments/1xxrxlg/sniffnet_opensource_network_traffic_monitor_now/",
+   "sito": "",
+   "data": "2026-11-16T15:15:52+00:00",
+   "testo": "Sniffnet is an open-source network monitoring tool I've been developing during the past 4 years, designed to be reliable and intuitive to use. Today I decided to share it in this sub since I just released a new version of the app that can collect IPFIX data exported by headless devices such as switches, routers and firewalls, and therefore I think it can be of interest for many self-hosters out h…",
+   "fonte": "Reddit r/selfhosted",
+   "tipo": "community",
+   "solo_titolo": false,
+   "categoria": "Gemme",
+   "id": "u2a60"
+  },
+  "u2a125": {
+   "titolo": "Audible turns to AI to help users discover audiobooks",
+   "link": "https://techcrunch.com/2026/11/16/audible-turns-to-ai-to-help-users-discover-audiobooks/",
+   "data": "2026-11-16T15:52:19+00:00",
+   "testo": "Amazon-owned audiobook service Audible is turning to AI to help listeners find their next book. The company on Monday launched a new “audio discovery” feature that provides a brief overview of a book’s themes and a summary of what readers liked about it, as well as commentary from an Audible editor or an author, in addition to playing the narrated sample. The overview audio itself is generated using AI, and the commentary is pulled from recordings of past Audible interviews, the company says. The idea is that this type of expanded introduction to a story could help users decide what to listen to next, particularly when they’re on the go and don’t have time to scroll through comments or reviews. The feature follows last month’s launch of a handful of AI tools that let users engage more with the story, interact with characters, or catch up with the help of recaps. These features have come as Audible faces new competition in the audiobooks market, namely from Spotify, which introduced audiobook listening hours as part of its paid subscriptions. That service expanded last month to over 180 markets. Audible’s new feature takes a cue from how Amazon is already using AI to help people shop: On the Amazon storefront, AI can summarize buyers’ product reviews so shoppers can get a quick sense of what people had to say, as well as the pros and cons of a particular item. In Audible’s case, it’s pulling information about what people liked about the book from publicly available reviews. But such a feature could limit users’ exposure to negative reviews if the AI only pulls information from those that offer positive remarks. (Further testing will be needed to see if this is the case, of course.) Audible says the overviews will also draw on other publicly available materials, like syn…",
+   "fonte": "TechCrunch",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Testate tech",
+   "id": "u2a125",
+   "testo_completo": true
+  },
+  "u2a153": {
+   "titolo": "Google Maps ora ci organizza anche i viaggi: l'AI crea itinerari personalizzati",
+   "link": "https://www.hdblog.it/smartphone/articoli/n677186/google-maps-organizza-viaggi/",
+   "data": "2026-11-16T16:05:00+02:00",
+   "testo": "Google ha annunciato un aggiornamento di Ask Maps",
+   "fonte": "HDblog",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Italia",
+   "id": "u2a153"
+  }
+ },
+ "fonti": [
+  {
+   "nome": "Product Hunt (AI)",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "Show HN (nuovi progetti)",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "Nuove app AI (internazionale)",
+   "ok": true,
+   "presi": 10
+  },
+  {
+   "nome": "Nuove app AI (Italia)",
+   "ok": true,
+   "presi": 8
+  },
+  {
+   "nome": "Novità AI da provare (Italia)",
+   "ok": true,
+   "presi": 4
+  },
+  {
+   "nome": "AI sul dispositivo (internazionale)",
+   "ok": true,
+   "presi": 8
+  },
+  {
+   "nome": "AI sul dispositivo (Italia)",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "Android Police (AI su Android)",
+   "ok": true,
+   "presi": 4
+  },
+  {
+   "nome": "Windows Central (AI su Windows)",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "Ollama (nuove versioni)",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "Open WebUI (nuove versioni)",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "Show HN – progetti utili (gemme)",
+   "ok": true,
+   "presi": 3
+  },
+  {
+   "nome": "Reddit r/selfhosted",
+   "ok": true,
+   "presi": 6
+  },
+  {
+   "nome": "Reddit r/opensource",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "Alternative open source (Google News)",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "n8n (nuove versioni)",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "Immich (nuove versioni)",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "OpenAI",
+   "ok": true,
+   "presi": 2
+  },
+  {
+   "nome": "Google (blog ufficiale)",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "Google Gemini (blog)",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "Nuove funzioni AI (Google News)",
+   "ok": true,
+   "presi": 12
+  },
+  {
+   "nome": "Anthropic / Claude",
+   "ok": true,
+   "presi": 6
+  },
+  {
+   "nome": "Microsoft Copilot",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "Altri assistenti AI (Perplexity, Mistral, Meta AI…)",
+   "ok": true,
+   "presi": 8
+  },
+  {
+   "nome": "Hugging Face (modelli e strumenti aperti)",
+   "ok": true,
+   "presi": 3
+  },
+  {
+   "nome": "Mistral AI",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "The Verge",
+   "ok": true,
+   "presi": 4
+  },
+  {
+   "nome": "TechCrunch",
+   "ok": true,
+   "presi": 6
+  },
+  {
+   "nome": "Ars Technica",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "MIT Technology Review",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "The Decoder",
+   "ok": true,
+   "presi": 4
+  },
+  {
+   "nome": "TLDR AI (newsletter)",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "ANSA",
+   "ok": true,
+   "presi": 6
+  },
+  {
+   "nome": "Wired Italia",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "Il Sole 24 Ore Tecnologia",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "Punto Informatico",
+   "ok": true,
+   "presi": 2
+  },
+  {
+   "nome": "HDblog",
+   "ok": true,
+   "presi": 2
+  },
+  {
+   "nome": "AI4Business",
+   "ok": true,
+   "presi": 4
+  },
+  {
+   "nome": "Agenda Digitale (AI)",
+   "ok": true,
+   "presi": 3
+  },
+  {
+   "nome": "Garante Privacy e AI",
+   "ok": true,
+   "presi": 3
+  },
+  {
+   "nome": "Malwarebytes (app e truffe AI)",
+   "ok": true,
+   "presi": 2
+  },
+  {
+   "nome": "Reddit",
+   "ok": true,
+   "presi": 8
+  },
+  {
+   "nome": "Reddit (AI locale)",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "Simon Willison (prove pratiche di strumenti AI)",
+   "ok": true,
+   "presi": 3
+  },
+  {
+   "nome": "Bellingcat (guide e strumenti)",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "GIJN (guide per giornalisti investigativi, via Google News)",
+   "ok": true,
+   "presi": 3
+  },
+  {
+   "nome": "OSINT – verifica e fact-checking (internazionale)",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "OSINT – nuovi strumenti (internazionale)",
+   "ok": true,
+   "presi": 4
+  },
+  {
+   "nome": "OSINT – strumenti (Italia)",
+   "ok": true,
+   "presi": 3
+  },
+  {
+   "nome": "Facta (fact-checking, contenuti falsi e AI)",
+   "ok": true,
+   "presi": 3
+  },
+  {
+   "nome": "Week in OSINT (Sector035)",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "The OSINT Newsletter",
+   "ok": true,
+   "presi": 2
+  },
+  {
+   "nome": "IDMO (osservatorio italiano sulla disinformazione)",
+   "ok": true,
+   "presi": 2
+  },
+  {
+   "nome": "EU DisinfoLab",
+   "ok": true,
+   "presi": 2
+  },
+  {
+   "nome": "Reddit (OSINT)",
+   "ok": true,
+   "presi": 4
+  },
+  {
+   "nome": "Hacker News (OSINT)",
+   "ok": true,
+   "presi": 0
+  }
+ ],
+ "visti": [
+  "rakazo",
+  "canvasbyagentgridio",
+  "byteaskcloudagents",
+  "peritmarketplace",
+  "thunder",
+  "applelaunchesanaihealthtoolaspartofaresearchstudyabcnews",
+  "alertmedialaunchesagenticaiassistanttohelpsecurityteamsassessrisksgenerateinsigh",
+  "applelaunchesaihealthresearchstudy",
+  "blimpmateaiassistantinaheliumballooniprogrammerinfo",
+  "whyarecryptopricesdownbinancefounderczlistspossiblereasons",
+  "tribalappstudentambassadorscentretapseklavyapupilstopromoteadivaani",
+  "gmsonstaraiassistantdebutsinthe2027cadillaclyriq",
+  "anthropiclaunchesclaudemeetingsforlivevideocalls",
+  "travelcounsellorsunveilsaitooltoidentifysalesopportunitiesforagentstravelweekly",
+  "britishpmsspeechesaremostlyallhisownworksaysukgovernmentafteraideaiphotos",
+  "lintelligenzaartificialeèdiventataunabollettamachilapagheràaimedicieagliinfermie",
+  "aromaarrivaunviaggiotraarteetecnologiainstallazioniimmersiveintelligenzaartifici",
+  "restanoifondamenticambianolemodalità",
+  "tumoredelpolmoneperchélintelligenzaartificialepuòaiutareaindividuarelacura",
+  "volvolintelligenzaartificialeèpropedeuticaalfattodievitareincidenti",
+  "balsiosuwhatsappcosèecomedisattivarelechatditerzeparti",
+  "chatgptarrivasuapplecarplayconlultimoaggiornamento",
+  "asavonapresentatamyboletuslapppertrovareifunghilasfidafaremoanchequellapercastag",
+  "chatgptwalletpartedaglistatiuniticomesiapprovanogliacquistieperchénonèdisponibil",
+  "elephantgoldfishmodelcomeusareilplugingoogleconclaudecode",
+  "nubianeo5gtspecialeditiondisponibileinitaliadoppiosistemadiraffreddamentopergioc",
+  "openailanciachatgptwalletconvisaemastercardacquistiiasenzacriptovalute",
+  "obscurifyaiimplementsunlinkableinferenceandblindsignaturesforprivateaiaccess",
+  "appleharborapplocalaion2thunderbolt5macs2026",
+  "gigabyteannouncesaitopaeroforlocalaidevelopment",
+  "mylocalaiagentneededabiggerbrainsoigaveitadecentralizedgpu",
+  "igaveanopensourcepdfreaderalocalaiinsteadofpayingadobe25amonthtochatwithmypdfs",
+  "bestdesktopworkstationsin2026labtestedleaderboard",
+  "theseoverlookedstoragehogscouldbetakingupgigabytesonyourphone",
+  "asusproartp16h7607reviewnvidiartxsparksuperchargesavenerableworkstationlaptop",
+  "maximultada805milionidieuropermetalaziendapreparailricorso",
+  "dellxps13coreultra7inoffertaa1399eurowwwtuttoappandroidcom",
+  "marcheunafamigliasudiecisenzainternetgliingegneripreparanounvademecumcontroildiv",
+  "preparazionecontroattacchiinformaticimarche1famigliasu10senzainternet",
+  "nuovoasusascentqn10potenteedinnovativominipc",
+  "androidautowithgeminineedsa5minuteprivacycheckbeforeanyoneridesshotgun",
+  "iaskedgeminichatgptandclaudetospotamazonscamsonlyonecouldtellarealemailfromafake",
+  "whyagalaxyaipaywallwoulddrivemeawayfromsamsungsaifeatures",
+  "iusedgeminitotrackmycreditcardbillsinevermissedapaymenteveragain",
+  "openwebuiv0130",
+  "deepseekv3in200linesofpurejax",
+  "agwebabrowserforagentsthatstaysoutofyourway",
+  "fursoyoutoforderrv64imafdvcoreinsystemveriloglinux66",
+  "updateyourseerr",
+  "twomonthsinstillextremelyhappywithselfhostingmyownai",
+  "infisicalpaywalledcustomrolesforselfhostersinapatchreleaseunstarit",
+  "karakeep035releasesecuritypolishand30kstars",
+  "vortixterminaluiforwireguardandopenvpnwithrealtimetelemetryandleakguarding",
+  "spacebinalightweightselfhostedpastebinserveringojsfreeencryptedpastes",
+  "jetbrainsrenewedtheirsupportforgodotenginethrough2027",
+  "redhatworkingtoimprovememorytieringforqemuvmstosaveram",
+  "contributorswanted",
+  "aregithubprojectsbecomingmoreshortlived",
+  "dawarichfreeopensourceselfhostablealternativetogoogletimeline",
+  "howmuchlatencydoesaselfhostedllmgatewayaddlangfusevslitellmvsacruxcore",
+  "coherefindingshowsselfhostedopenweightmodelsneedegresscontrols",
+  "ireplacedgithubwithafreeselfhostedalternativehereswhatigainedandlosthowtogeek",
+  "everyconsumerappbecomesanadcompanywestenbergargues",
+  "bruceröttgersdetailsalowcostpathtoselfhostedmaptileswithprotomaps",
+  "n8nstable",
+  "immichv340",
+  "asteptowarddefiningthestandardmodelonalattice",
+  "ournewblogforscience",
+  "googlegeminilaunchesorchestratortoenhancemultimodelworkflows",
+  "applelaunchesnewapptostudyhowpeopleuseaiforhealth",
+  "openailauncheschatgptwalletforsecureaiagentpayments",
+  "googledeepmindlaunchesgeminirobotics25withimproveddexterityandindustrialcapabili",
+  "openailauncheschatgptwalletofferingaipoweredpurchases",
+  "makeandupdatelaunchesgptbusinesstohelpsmallbusinessesclaimtheirbusinessinchatgpt",
+  "googlegeminilaunchesartificialanalysisformodelevaluationandbenchmarking",
+  "openailaunchesabusinesshubforbrandvisibilityinchatgpt",
+  "openailauncheschatgptwallettoletaiagentsshopandpayonusersbehalf",
+  "openailauncheschatgptwalletlettingaiagentspayforpurchases",
+  "openailauncheschatgptwalletforaiagentshoppingtaptoknowmoreinshorts",
+  "claudeaddsbetasheetsandwhiteboardsinsidechat",
+  "meetthemisomakingengineerbehindanthropicsbiggesthit",
+  "anthropicnewslatestupdatesontheaicompanybehindclaude",
+  "anthropicstrilliondollaripoisopentoaustralianstheresacatchforsmallinvestors",
+  "fromcarnegietoclaudeaiwealthcouldreshapephilanthropy",
+  "anthropicsclaudefable52doesntgenerateimagesitpaintsthem",
+  "anthropicheadstomarketwithbillionsridingonaispromise",
+  "microsoftcopilotaipredictsahugemaraholdingsrally",
+  "microsoftcopilotaipredictsaseismichyperliquidrallyby2027",
+  "5immediatelessonsfromtheglobalmicrosoftoutage",
+  "microsoftstockforecastisspending190billiononaiinfrastructurein2026ismsftabuyat45",
+  "microsoftopensitsdigitalinnovationcentermdicinkuwaittoaccelerateaiinnovationanda",
+  "aidailyquotascometodeepseekavisiblesignofchinasaichipcrunch",
+  "vibecodingboomexposescorporatedataasaiappbuildersfacesecuritygaps",
+  "samsungsgalaxyclawisnolongeramysteryanditlooksprettyambitious",
+  "samsungisdevelopingaipoweredmemoryappforgalaxyphones",
+  "bestsoraalternativesin2026whatreplacedeachpartofsora",
+  "applinkedmacassistantsgrokbotcannowaccessappleappslikemessagesandmail",
+  "10thingsyouriphonesnotesappcandootherthantakingnotes",
+  "applesmessagesappkeepsgettingbetterherearemyfavoriteupdates",
+  "buildarobotpickandplacesimulationwithsimreadyassets",
+  "xybenchhelpingwiththeproblembehindthequestion",
+  "llamacppv100astrongerfoundationforthelocalaiecosystem",
+  "applesnewstudylookstoimprovetheeffectivenessofaihealthtools",
+  "jensenhuangmightbeplottingareturnandmoreofthelatestnvidiadrama",
+  "congresswantstotightenexportrulesonaichipsafternvidiaspyscandal",
+  "anoverviewofjensenhuangsmessydays",
+  "indianchipstartupbharatsemilands24mseedroundasiteyesglobalaisensormarket",
+  "isbadnewsforjensenhuangalsobadnewsfortheaiindustry",
+  "snlgathersallthetechtycoonsforalessonindatingandspycraft",
+  "wherewasnvidiassecurityteam",
+  "elonmuskothertechexecssignpetitioncallingonnvidiatoreinstatejensenhuang",
+  "theaigraveyardarunninglistofprojectsandstartupsthatdidntmakeit",
+  "firmlinkedtojensenhuangsexloverreportedlybrokerednearly12billioninnvidiachiporde",
+  "australiascentralbankfindsaihittingyoungworkersfirstespeciallyinsoftwareandcusto",
+  "meituanreleasesa16trillionparameteragentmodelthatnevertouchedannvidiagpu",
+  "anthropicceoamodeiadmitstheresahugeuncertaintyinwhatsgoingtohappennextyeardaysbe",
+  "notiziarioansamed",
+  "oriettabertibocciasanremononciandròlivellobassotrabraniscartati",
+  "tornailrewritersfestromanellieventotrasversaletraistituzionieculturapop",
+  "ibotsiribellanoaipoliticicolpadimicrosoftdown",
+  "kreisstomkinssbancalalaskaprimogovernatoredemdal1998",
+  "folgierocantieridaaltaintensitàdilavoroadaltaintensitàtecnologica",
+  "datacenterlafrenatadellacorsaallaibrucia4200miliardiinborsa",
+  "geminiaccedeagooglewalletperlanalisidellespese",
+  "muskvuoleilritornodijensenhuangallaguidadinvidia",
+  "teslaapregliordinidelcybercabaiprivaticosta29990dollaripiùabbonamentomensile",
+  "ssdattenzioneaisoftwarechepossonousurarelunitàpiùvelocemente",
+  "laièlostresstestdellasovranitàdigitalemolteimpreseinritardo",
+  "crmeintelligenzaartificiale",
+  "nvidiailritornodihuangchepuòsuccedere",
+  "euaiactemanifatturaitrepilastriperessereconformi",
+  "articolidimonicaurbaniautoreperagendadigitale",
+  "contentmarketingeaicomeconquistarelutentedigitale",
+  "aiascuolapseudonimizzazionedatipersonalierischiperglistudenti",
+  "facebookilgaranteprivacysanzionametaper805milionidieuro",
+  "aiascuolacomecostruirelatuteladeidaticosadiceilgaranteprivacy",
+  "intelligenzaartificialenellescuolevialiberadelgaranteprivacyaccessipseudonimizza",
+  "musesleepbanduserswerenttoldtheirbraindatawastrainingai",
+  "possiblefalsepositivemalwareai695752146dllwrapexemsys2mingw",
+  "geminiargonhighresponse",
+  "claudewroteandtrainedalanguagemodelfordosthatfitsonafloppydisk",
+  "dontworryourjobsaresafe",
+  "thisnewbenchmarkiscrazy",
+  "thelatestclaudedesktopupdateinonepicture",
+  "updateinternalpromptleaked",
+  "chatgptimpressionsanyone",
+  "googleiscookingilegitthinktheyllwintheairace",
+  "europatheeusopenaimodelisaimingfornearly1trillionparameters",
+  "jensenhuangjust3weeksagoclaimedtohavesavedtheworldbythwartingagrowingtransnation",
+  "basalt040moremodelsstillasfastqwen27bupto770toksona5090",
+  "ihavecreatedatooltoobservewhathappensinsideanllmalsoallowsforthecomparisonoftwoq",
+  "llamacppperformanceimprovementovertimegemma4models",
+  "datasettemaplibre01a0",
+  "datasetteagent06a0",
+  "datasettellm01a11",
+  "visualstorytellingforinvestigationstipsandtools",
+  "howcopernicusmakesclimatedatasimpleandeasytounderstand",
+  "ijspotlightrussiasanctions",
+  "generalstaffconfirmsstrikeonrussiasakhtubinskbaseofsu34sanddescribesaftermath",
+  "dronesattackrussiastaganrogkeyelectricalsubstationpossiblytargeted",
+  "intatarstandronesattackoneofrussiaslargestpetrochemicalplants",
+  "atleast30explosionsreportedinsuspectedattackonrussiasakhtubinskairfield",
+  "securitymanageranalistagiuristafilosofotecnicoocomunicatore",
+  "decriptoafuturoremoto2026il12novembreallacittàdellascienzaconlestartupdicampania",
+  "quanteinformazionipersonalisilascianoonlinelosvelanordvpn",
+  "loscambiosocialincuimuskdiceabillgatesdinoncostringerloacompraremicrosoftèfalso",
+  "noquestononèlattentatoredicracoviachepartecipaaunamanifestazioneantirazzista",
+  "inuoviagentiaisonotroppocariniperessereinnocui",
+  "theosintnewsletterissue130",
+  "theosintnewsletterissue129",
+  "mattarelladifendeivaccinimaggioranzadivisasuimedicinovax",
+  "alviaprimacollaborazionedelcentrouecontrolefakenewsconongefactchecker",
+  "disinfoupdate4112026",
+  "europesmissingwatchdogshowboththedsaandtheaiactarefailingonenforcement",
+  "blockchaintracinginvestigationtool",
+  "skiptracingin2026howmuchcanyoustilldofromadeskvsinthefield",
+  "osintofthailand",
+  "howdoifindsomeoneslastnameifionlyknowtheirfirstmiddlenameandcity",
+  "punchcutter",
+  "glifa",
+  "stateweave",
+  "uisdkbyvercel",
+  "lexicad",
+  "bytevoice",
+  "papyras",
+  "calcomv7",
+  "agenticcanvas",
+  "whatisgeminieverythingyoushouldknowaboutgooglesaitool",
+  "johndeerelaunchesnewaiassistantthathelpsturndataintoinsights",
+  "danillilaunchesanaiapptoaskshopbuildwebsitesandstartabusiness",
+  "venturecapitalistjohndoerrsaysaicompanynamedforhislatebrothercouldhelpfixprimary",
+  "aveniunveilsfilecheckaitoolslashesfinancialadvicereviewtimesby78",
+  "avenilaunchesaitooltospeedupadvicefilereviews",
+  "avenilaunchesaitooltospeedupadvicecompliancereviews",
+  "businessaitooloffersindiepracticesfreeaccess",
+  "appleзапустиламедичногошіасистентадляiphone",
+  "iswitchedfromgeminitoclaudeonandroidthetradeoffssurprisedme",
+  "applelanciaappperstudiarelusodellintelligenzaartificialenellasalute",
+  "marinadiravennaarrivascoprimarinalintelligenzaartificialeguidaturistieresidenti",
+  "intelligenzaartificialelasiciliadavantiaunanuovasfidacambianoimpreseelavoro",
+  "lintelligenzaartificialeguidaresidentieturistichecercanoinfosueventiservizieatti",
+  "digitalecallarinaoniaunmodelladiiaaserviziodelterritorio",
+  "marinadiravennaarrivascoprimarinaliacherispondeatutteledomandesulterritorio",
+  "comeusarechatgptegeminipertrovaregliscontidelblackfriday2026",
+  "googlegeminiarrivasuapplecarplaysirihaunnuovorivaleinauto",
+  "geminiegooglewalletinitaliadisponibilitàeprivacy",
+  "cometrasformaregliappuntiinpodcastcongemininotebook",
+  "ankereufys2proarrivainitaliatiralatteindossabileconriscaldamentoemassaggio",
+  "gmktecevox3windows11cpuz",
+  "cinmoorelaunchessmartparkingcameratokeepwatchwhendriverswalkaway",
+  "aioninstructtakesoverfromphisilicaaswindowslocalaimodel",
+  "windows11girainlocalesuiphoneduograzieaunprogettosenzajailbreak",
+  "redmipotrebbepreparareunosmartphonecompattocondisplayltpoda63pollici",
+  "dellxps13coreultra7inoffertaa1399eurotuttoappandroid",
+  "maximultada805milionidieuroametainitaliaprivacyviolatasufacebook",
+  "galaxyclawlagenteaisamsungchepotrebbeagirenelleapp",
+  "imditchinggooglekeepforgoodclaudeandchatgptarewhy",
+  "iusedgeminitoconvertmyfavoritefantasybookintoastorybookmychildlovedit",
+  "mybackupplanwassogoodididntnoticemyvmhosthaddiedforaweek",
+  "anyblindselfhosters",
+  "formeopensourcesoftwarehaskindalostthebeautyofit",
+  "theygottrivytheygotaxiosnowtheyrecomingforthelinuxfoundationdianahagen7uy6erxuz5",
+  "thekingstrustandopenailaunch1mpartnership",
+  "whatteenagersreallythinkaboutonlinesafetyandai",
+  "helpingteensnavigateonlinenewsandinformation",
+  "listeningtoteensononlinesafety",
+  "openailauncheschatgptwalletforaiagentpurchases",
+  "googleaimodedropsgeminilabelrollsoutgemini4carbontoprosubs",
+  "openailauncheschatgptwalletsoaiagentscanshopforyouusingyourowncard",
+  "openailauncheschatgptwalletforagenticpaymentsintheus",
+  "daysafterdoordashubersaidtheircustomershardlyuseaiagentsandamazonbannedmetamuseo",
+  "openailauncheschatgptwallettoenableaiagentstomakepurchases",
+  "openailauncheschatgptwalletforagenticpayments",
+  "googleconnectsgeminitowalletasopenailauncheschatgptwallethowbothhandleyourmoneya",
+  "openailauncheschatgptwalletfaceidapprovalissolehumancheckonaiagentcardpayments",
+  "whoisanthropickidding",
+  "anthropicsclaudefable52blocksfewersecuritytaskswhilemythosgetsbetteratfindingbug",
+  "wallstreetbracesforanthropicsaggressivespending",
+  "withanthropicipodarioamodeibecomesaisleadingpitchman",
+  "anthropiciponearsclaudemakertodebutonnasdaqnov19keywatchpointsforantlisting",
+  "zurichreaches93copilotadoptiontobetterservecustomerswithmicrosoftai",
+  "microsoftoutagecouldcostglobaleconomy7billion",
+  "webflowannouncedthelaunchofnewmcpconnectorformicrosoftcopilot",
+  "deepseekusersreportdailycapsandshorterinputsonappandwebunconfirmedbydeepseek",
+  "deepseekimposescomputequotasonfreeusersasglobaltokenusageranksno1",
+  "deepseekopensapplicationapisfordevelopers",
+  "deepseekusagelimitsovercomputingshortagesraisedoubtsaboutsustainabilityoffreeser",
+  "deepseekletsdevelopersrebuilditschatbotappthroughpaidapitoolseastfrontier",
+  "samsunggalaxyclawcouldletaisendmessagesmakecallsandmanageyourschedule",
+  "freshworksalumsraise53mtotakeonsalesforcehubspotwithainativecrm",
+  "accordoassolombardasindacatisuintelligenzaartificialelavoroepartecipazione",
+  "borsalasiachiudeincaloconitimoriperlintelligenzaartificiale",
+  "chigovernalintelligenzaartificialeconvegnodellanormaleafirenze",
+  "nvidiahuangvalutailritornoalverticebessentserveunceoesternodomaniiconti",
+  "borsaleuropaattendewallstreetmilano03",
+  "vujcicbcerapidaespansioneaiedelevatodebitopubblicominaccianolastabilitàfinanziar",
+  "asusugen300laiintascadaattaccareapcesmartphone",
+  "futurodinvidiascottbessentvuoleunceoesterno",
+  "pearlabyssavantituttaconlainellosviluppodeivideogiochi",
+  "lgdualinverteraiarrivainitalialalavasciugacheusalaiperproteggereitessuti",
+  "cybersicurezzalacnlintelligenzaartificialefacilitagliattacchi",
+  "qualitàdeidatiperlaiperchéiprogettiaziendalifalliscono",
+  "gpt6astraeilmodellostandardilnuovopassodellainellafisica",
+  "aisovranaleuropainvestemalasfidaèconquistareleimprese",
+  "medicicolpagraveeailariformaarrivaalsenato",
+  "intelligenzaartificialenellescuolevialiberadelgaranteprivacycosaincludeildecreto",
+  "falsepositivemalwareai3775179338onoursignedarabictranslationinstaller",
+  "clauderefusedtocancelhisworkeventhoheprobablyknewitwasillegal",
+  "creepyglitchresponsejustnowwheniaskedaboutaclickingsoundinmycar",
+  "gemini4helixthenewflashlite",
+  "futurehistorianswillbefascinatediftheyexist",
+  "whydownloadabliteratedflashnextmodelswhenloraexists",
+  "bigmoeonedgeoutperformsstrataandcolibrion816gbcardsandmacandyoucanrunanymodel",
+  "usingthesafeboxnetworktoprotectstorieslaurentrichard",
+  "reportersnotebookwhattodowhenyourinvestigationgetsspiked",
+  "investigativejournalismtrainersguidepartiintroduction",
+  "factcheckvideoofschoolgirlgettingstabbedsharedwithfalsecommunalclaim",
+  "videoofaruckusatarestaurantinbangladeshsharedasrssworkershooliganismatarestauran",
+  "seeristawardedpositiononfbispecializedosinttoolsidiqforterrorismrelatedinformati",
+  "satelliteimagepointstopossibleil76hitinukrainianstrikeonrussianairfield",
+  "dbbranchdatabasebranchesinsecondsforaiagentsandciviazfs",
+  "applehaslaunchedamedicalaiassistantfortheiphone",
+  "coveryoulaunchesciaसयavoiceaiassistantthatletsdoctorsbuyprofessionalindemnityins",
+  "storefeederwmslaunchesdaveaiassistantforwarehouseteams",
+  "arrivanaonialassistentedigitaleaidipordenonecapitaledellacultura2027",
+  "intelligenzaartificialelavoroepartecipazioneassolombardaesindacatifirmanounanuov",
+  "pordenonedagennaio2027laguidadigitalenaoniaconintelligenzaartificiale",
+  "intelligenzaartificialeaccordotrausaealleatiperproteggerechipetecnologiedallacin",
+  "chiediamapsarrivaineuropapreparaitineraricompletiecercatraipostichehaisalvato",
+  "ristorazioneeaigestireilmenueleprenotazionidinataleecapodannoconclaudeewhatsapp",
+  "chatgptwalletopenailanciailnuovoportafogliodigitaleperorasolonegliusa",
+  "ijustreplacedduolingowithalocalllmthattooktwominutestosetuponmyandroidphonehowto",
+  "applelaunchesprivateaihealthstudyappfirstofitskindbetaopensto200000testersbutyou",
+  "flagstarbankbuildsasecuremanageablefoundationforaiwithwindows11",
+  "localaifoundationllamacppreachesfirstv100signalingapistabilityafter35years",
+  "liaarrivasuinostripcmachicontrollaciòchepuòvedere",
+  "perplexityportablecomputerportalailocalesullegpunvidiartxprivacyepotenzasenzaclo",
+  "sniffnetopensourcenetworktrafficmonitornowwithsupportforroutersfirewallsservers",
+  "kist20aselfhostedlibraryformediaandeaglecadfiles",
+  "whatisthebestuidesigntool8toolscomparedbythejobtheydo2026",
+  "nextcloudlaunchesfreemicrosoftofficealternativeforwindowsmacandlinux",
+  "advancingcomputeruseagentsforhealthcareteams",
+  "morewaystomovecareforwardwithchatgptforhealthcare",
+  "askmapsiscomingtoeurope",
+  "googlewalletusersgaingeminiinsightschatgptlaunchesitswallet",
+  "openailauncheschatgptwalletsoitsaiagentscanpayforpurchases",
+  "openailauncheschatgptwalletforpurchasesmadebyagents",
+  "lumahealthlauncheschatgptpluginwith59clinicworkflowactions",
+  "openailaunchesbusinessesinchatgptstartingintheus",
+  "anthropicipoguideeverythingyouneedtoknow",
+  "thespacexipohadmusksstarpoweranthropicshasfomo",
+  "techsharesslideaheadofnvidiaearningsanthropicipo",
+  "anthropicsaysthekeytoagentmemoryisknowingwhattoforgetnothowmuchtostore",
+  "microsoftdatashowsclaudeisstallingagainstcopilotinoffice",
+  "microsoftservicerestoredafterwidespreadoutagecompanysays",
+  "legoraextendsofferingwithlegalintakeinmicrosoftteamsandagenticsearchacrossmicros",
+  "flagstarbankbringshybridaiandmobilebankingtolifewithmicrosoftsurface",
+  "deepseekfreeusershitsuddencomputecapsasglobalapivolumetopscharts",
+  "deepseekofficiallyimplementsusagequotaswhatusersneedtoknow",
+  "deepseekthechineseaithatchallengessiliconvalley",
+  "audibleistryingtomakeiteasiertofindaudiobooksyoullactuallylike",
+  "googlemapscannowcreatetripitinerariesforyou",
+  "thenvidiascandalisntslowingdown",
+  "audibleturnstoaitohelpusersdiscoveraudiobooks",
+  "ustightensaichipexportcontrolstodeterchinesecompaniesfromaccessingcomputeremotel",
+  "googlemapscannowbuildtripitinerarieswithrealtimedetailsabouteachstop",
+  "jensenhuangalliesbuildawarroomtogethimbackatnvidia",
+  "buildingaithatcanworkacrosstheenterprise",
+  "claudenowbuildsinteractivewebsitesinsidecanvasgraphicsrevivingtheflasherawithrea",
+  "chatgptwalletdevinappsalwaysonagents",
+  "intelligenzaartificialeascuola27alunniraccontanoilterritorioaquilano",
+  "nuoverestrizioniusavietatolaccessoremotoaichipai",
+  "aipercrearegiochiabyssalgardenesaltlinefattidafable52",
+  "futurodinvidiascottbessentvuoleunceoesternoupdate",
+  "microsoftpaviliondentrolanuovasedediromatraaiestoriavideo",
+  "googlemapsoraciorganizzaancheiviaggilaicreaitineraripersonalizzati",
+  "latruffaègiàdentrolatuaemailcosìlaicambiagliattacchibec",
+  "lineeguidaagidsullailachecklistoperativapericomuni",
+  "aieappinprontosoccorsocomecambialattesadeifamiliari",
+  "intelligenzaartificialenellescuoleokdelgaranteprivacy",
+  "criminalsareusingartexaiagentstospeedupcyberattacksfbiwarns",
+  "gemini4oxygenakathenextflashcheckpointgoogleaintstoppingnow",
+  "geminimodelsattheendoftheyear",
+  "howmeetingswillbein2027",
+  "weredoublingthecontextwindowforargoncarbonandhydrogeninantigravity",
+  "featurewhynccdevicecheckertypeapprovalnecessary",
+  "doesthisphotoshownvidiaceojensenhuangwithchinesespyalicehuang",
+  "damagetocrimeabridgeafternovember16attackcausesmajordisruptionsanddeformedarch"
+ ],
+ "audio": "audio/2026-11-16.mp3",
+ "durata": 156.7,
+ "aggiornamenti": [
+  {
+   "generato": "2026-11-16T13:46:49+00:00",
+   "modello": "gemini-3.6-flash",
+   "testi_completi": 6,
+   "riassunto": {
+    "titolo_giorno": "Dai font personalizzati con Punchcutter ai progetti 3D con LexiCAD",
+    "in_breve": "Tra le novità di questo aggiornamento spiccano Punchcutter, che trasforma testi e scrittura a mano in carattere tipografico, e LexiCAD, per generare modelli 3D partendo da una semplice descrizione. Gli strumenti basati sull'AI continuano a rendere accessibili lavorazioni complesse senza richiedere competenze tecniche avanzate.",
+    "citati": [
+     "Punchcutter",
+     "LexiCAD"
+    ],
+    "da_provare": [
+     {
+      "cosa": "Punchcutter",
+      "a_cosa_serve": "Trasforma una frase descrittiva o un campione della propria scrittura a mano in una vera e propria famiglia di font tipografici pronti all'uso.",
+      "per_chi": "Lavoro e tutti i giorni",
+      "ambito": "Creatività e grafica",
+      "come_iniziare": [],
+      "costo": "Non indicato",
+      "piattaforme": [
+       "Browser"
+      ],
+      "sul_dispositivo": false,
+      "come_sfruttarla": "Creare un carattere tipografico unico per la propria attività o per un progetto grafico partendo da una frase o dalla scrittura manuale.",
+      "italiano": "Non indicato",
+      "difficolta": "Facile",
+      "temi": [
+       "Foto e immagini",
+       "Programmare senza codice"
+      ],
+      "fonti": [
+       "u1a1"
+      ],
+      "affidabilita": "Appena lanciato",
+      "prova": "https://www.producthunt.com/products/punchcutter"
+     },
+     {
+      "cosa": "LexiCAD",
+      "a_cosa_serve": "Genera disegni tecnici e modelli CAD in 3D descrivendo semplicemente l'oggetto desiderato in linguaggio naturale.",
+      "per_chi": "Lavoro",
+      "ambito": "Progettazione e 3D",
+      "come_iniziare": [],
+      "costo": "Non indicato",
+      "piattaforme": [
+       "Browser"
+      ],
+      "sul_dispositivo": false,
+      "come_sfruttarla": "Abbozzare rapidamente componenti meccanici o pezzi di ricambio in 3D senza dover utilizzare software di modellazione complessi.",
+      "italiano": "Non indicato",
+      "difficolta": "Facile",
+      "temi": [
+       "Scrittura e documenti",
+       "Lavoro e produttività",
+       "Foto e immagini"
+      ],
+      "fonti": [
+       "u1a5"
+      ],
+      "affidabilita": "Appena lanciato",
+      "prova": "https://www.producthunt.com/products/lexicad"
+     },
+     {
+      "cosa": "Asus UGen 300",
+      "a_cosa_serve": "Un dispositivo hardware portatile dotato di chip AI dedicato (Hailo-10H) che consente di elaborare modelli di intelligenza artificiale locale collegandolo a PC o smartphone.",
+      "per_chi": "Lavoro",
+      "ambito": "Hardware e AI",
+      "come_iniziare": [],
+      "costo": "Non indicato",
+      "piattaforme": [
+       "Windows"
+      ],
+      "sul_dispositivo": true,
+      "come_sfruttarla": "Trascrivere audio, riassumere documenti e analizzare immagini direttamente sul proprio dispositivo senza inviare dati online.",
+      "italiano": "Non indicato",
+      "difficolta": "Media",
+      "temi": [
+       "AI sul dispositivo",
+       "Privacy e sicurezza"
+      ],
+      "fonti": [
+       "u1a135"
+      ],
+      "affidabilita": "Una fonte",
+      "prova": ""
+     },
+     {
+      "cosa": "Glifa",
+      "a_cosa_serve": "Editor di testo in formato Markdown per ambienti Mac integrato con un assistente AI a cui richiedere modifiche, riassunti o revisioni dei propri appunti.",
+      "per_chi": "Lavoro e tutti i giorni",
+      "ambito": "Scrittura e organizzazione",
+      "come_iniziare": [],
+      "costo": "Non indicato",
+      "piattaforme": [
+       "Mac"
+      ],
+      "sul_dispositivo": false,
+      "come_sfruttarla": "Riorganizzare e correggere appunti o documenti di testo chiedendo direttamente all'AI di eseguire i cambiamenti desiderati.",
+      "italiano": "Non indicato",
+      "difficolta": "Facile",
+      "temi": [
+       "Scrittura e documenti",
+       "Assistenti e chatbot"
+      ],
+      "fonti": [
+       "u1a2"
+      ],
+      "affidabilita": "Appena lanciato",
+      "prova": "https://www.producthunt.com/products/glifa"
+     }
+    ],
+    "osint": [],
+    "gemme": [
+     {
+      "cosa": "BigMoeOnEdge",
+      "a_cosa_serve": "Strumento open source che permette di eseguire modelli linguistici di tipo MoE (Mixture of Experts) in formato GGUF su computer e smartphone sfruttando il motore llama.cpp.",
+      "perche_gemma": "Consente di far girare modelli AI complessi su schede grafiche o processori di fascia media mantenendo inalterata la qualità del modello.",
+      "con_ai": "Esegui modelli linguistici avanzati direttamente sul tuo computer o telefono salvaguardando la riservatezza dei dati.",
+      "piattaforme": [
+       "Android",
+       "Windows",
+       "iPhone",
+       "Mac",
+       "Linux"
+      ],
+      "self_hosted": true,
+      "costo": "Gratis",
+      "difficolta": "Per esperti",
+      "temi": [
+       "Open source e self-hosting",
+       "AI sul dispositivo"
+      ],
+      "fonti": [
+       "u1a165"
+      ],
+      "affidabilita": "Da verificare",
+      "come_iniziare": [],
+      "sul_dispositivo": false,
+      "come_sfruttarla": "",
+      "prova": ""
+     }
+    ],
+    "sezioni": [
+     {
+      "titolo": "Novità negli strumenti che già usi",
+      "notizie": [
+       {
+        "titolo": "Cal.com introduce la versione 7.0 con un assistente AI integrato",
+        "strumento": "Cal.com",
+        "riassunto": "La piattaforma per l'organizzazione degli appuntamenti aggiorna il proprio servizio integrando un assistente AI dedicato, nuovi tipi di eventi e la funzione Discover per facilitare la gestione dell'agenda.",
+        "come_provarla": "",
+        "disponibilita": "Disponibile ora",
+        "fonti": [
+         "u1a8"
+        ],
+        "temi": [
+         "Lavoro e produttività",
+         "Assistenti e chatbot",
+         "Scrittura e documenti"
+        ],
+        "affidabilita": "Appena lanciato",
+        "solo_titoli": false
+       }
+      ]
+     }
+    ],
+    "formato": 2,
+    "controllo_siti": [
+     {
+      "cosa": "Asus UGen 300",
+      "esito": "nessun sito da aprire"
+     },
+     {
+      "cosa": "BigMoeOnEdge",
+      "esito": "nessun sito da aprire"
+     },
+     {
+      "cosa": "LexiCAD",
+      "sito": "https://www.producthunt.com/r/p/1318136?app_id=339",
+      "esito": "errore: HTTP Error 403: Forbidden"
+     },
+     {
+      "cosa": "Glifa",
+      "sito": "https://www.producthunt.com/r/p/1317504?app_id=339",
+      "esito": "errore: HTTP Error 403: Forbidden"
+     },
+     {
+      "cosa": "Punchcutter",
+      "sito": "https://www.producthunt.com/r/p/1317334?app_id=339",
+      "esito": "errore: HTTP Error 403: Forbidden"
+     }
+    ]
+   }
+  },
+  {
+   "generato": "2026-11-16T16:27:47+00:00",
+   "modello": "gemini-3.6-flash",
+   "testi_completi": 11,
+   "riassunto": {
+    "titolo_giorno": "Google Maps crea itinerari di viaggio automatici con l'AI",
+    "in_breve": "Google Maps porta in Europa la pianificazione automatica dei viaggi tramite l'AI di Ask Maps, capace di creare itinerari dettagliati e verificare i posti salvati. Audible introduce riassunti vocali per scegliere più facilmente il prossimo libro, mentre Sniffnet permette di controllare quali dati inviano le applicazioni sul PC.",
+    "citati": [
+     "Google Maps",
+     "Audible",
+     "Sniffnet"
+    ],
+    "da_provare": [],
+    "osint": [],
+    "gemme": [
+     {
+      "cosa": "Sniffnet",
+      "a_cosa_serve": "Visualizza in modo chiaro e grafico tutto il traffico dati in entrata e in uscita dal proprio computer o dalla rete di casa.",
+      "perche_gemma": "È un programma completamente gratuito, open source e pensato per proteggere la privacy senza richiedere competenze di rete.",
+      "con_ai": "Permette di controllare a quali server esterni si collegano i modelli e le app AI installate sul computer.",
+      "piattaforme": [
+       "Windows",
+       "Mac",
+       "Linux"
+      ],
+      "self_hosted": false,
+      "costo": "Gratis",
+      "difficolta": "Facile",
+      "temi": [
+       "Privacy e sicurezza",
+       "Open source e self-hosting"
+      ],
+      "fonti": [
+       "u2a60"
+      ],
+      "affidabilita": "Da verificare",
+      "come_iniziare": [],
+      "sul_dispositivo": false,
+      "come_sfruttarla": "",
+      "prova": ""
+     }
+    ],
+    "sezioni": [
+     {
+      "titolo": "Novità negli strumenti che già usi",
+      "notizie": [
+       {
+        "titolo": "Pianificazione automatica dei viaggi con l'AI e arrivo di Ask Maps in Europa",
+        "strumento": "Google Maps",
+        "riassunto": "Google Maps introduce la funzione 'Ask Maps', capace di generare itinerari di viaggio personalizzati giorno per giorno a partire da una semplice richiesta. L'assistente organizza le tappe, risponde a domande sui luoghi salvati dall'utente e fornisce informazioni in tempo reale su traffico, meteo, parcheggi e orari.",
+        "come_provarla": "Si utilizza avviando l'assistente Ask Maps all'interno dell'app di Google Maps.",
+        "disponibilita": "In arrivo",
+        "fonti": [
+         "u2a81",
+         "u2a119",
+         "u2a127",
+         "u2a153"
+        ],
+        "temi": [
+         "Assistenti e chatbot",
+         "Ricerca e informazioni"
+        ],
+        "affidabilita": "Fonte ufficiale",
+        "solo_titoli": false
+       },
+       {
+        "titolo": "Anteprime e riassunti vocali dei temi dei libri con l'AI",
+        "strumento": "Audible",
+        "riassunto": "Audible lancia la funzione 'Audio Discovery', che genera una scheda audio sintetica con i temi principali del libro e un riepilogo dei commenti dei lettori. Il sistema affianca l'anteprima audio tradizionale per aiutare a decidere se un titolo è interessante prima di avviarne l'ascolto.",
+        "come_provarla": "È visibile nelle schede di dettaglio dei libri nell'app Audible.",
+        "disponibilita": "Disponibile ora",
+        "fonti": [
+         "u2a118",
+         "u2a125"
+        ],
+        "temi": [
+         "Voce e audio",
+         "Ricerca e informazioni",
+         "Scrittura e documenti"
+        ],
+        "affidabilita": "Confermata",
+        "solo_titoli": false
+       }
+      ]
+     }
+    ],
+    "formato": 2,
+    "controllo_siti": [
+     {
+      "cosa": "Sniffnet",
+      "esito": "nessun sito da aprire"
+     }
+    ]
+   }
+  }
+ ]
+}

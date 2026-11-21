@@ -1,0 +1,1703 @@
+{
+ "giorno": "2026-11-12",
+ "generato": "2026-11-12T05:24:53+00:00",
+ "modello": "gemini-3.6-flash",
+ "testi_completi": 32,
+ "riassunto": {
+  "titolo_giorno": "Apple lavora a Harbor per l'AI locale su Mac e DeepL traduce le emozioni vocali",
+  "in_breve": "Apple sta sviluppando Harbor per consentire l'esecuzione di modelli AI locali e privati sui Mac senza passare dal cloud. Nel frattempo DeepL aggiorna la sua traduzione vocale per mantenere tono e sarcasmo dell'interlocutore, mentre Google sperimenta Tabletop per creare strumenti di lavoro a parole.",
+  "citati": [
+   "Apple Harbor",
+   "DeepL Voice",
+   "Tabletop di Google"
+  ],
+  "da_provare": [
+   {
+    "cosa": "Tabletop di Google",
+    "a_cosa_serve": "Un esperimento AI di Google per creare hub e plance di collaborazione personalizzate descrivendo a parole ciò di cui si ha bisogno.",
+    "per_chi": "Lavoro e tutti i giorni",
+    "ambito": "Organizzazione e lavoro",
+    "come_iniziare": [],
+    "costo": "Non indicato",
+    "piattaforme": [
+     "Browser"
+    ],
+    "sul_dispositivo": false,
+    "come_sfruttarla": "Creare una plancia personalizzata per coordinare progetti di lavoro o organizzare attività di gruppo senza programmare.",
+    "italiano": "Non indicato",
+    "difficolta": "Facile",
+    "temi": [
+     "Lavoro e produttività",
+     "Assistenti e chatbot",
+     "Scrittura e documenti"
+    ],
+    "fonti": [
+     "a133"
+    ],
+    "affidabilita": "Una fonte",
+    "prova": ""
+   },
+   {
+    "cosa": "DeepL Voice",
+    "a_cosa_serve": "Servizio di traduzione vocale in tempo reale aggiornato con il nuovo modello Aure, in grado di trasferire emozione, tono, sarcasmo e ritmo del parlato originale nella lingua tradotta.",
+    "per_chi": "Lavoro e tutti i giorni",
+    "ambito": "Voce e audio",
+    "come_iniziare": [],
+    "costo": "Non indicato",
+    "piattaforme": [
+     "Browser"
+    ],
+    "sul_dispositivo": false,
+    "come_sfruttarla": "Tradurre conversazioni dal vivo o riunioni online senza perdere le sfumature emotive del discorso.",
+    "italiano": "Sì",
+    "difficolta": "Facile",
+    "temi": [
+     "Voce e audio",
+     "Lavoro e produttività"
+    ],
+    "fonti": [
+     "a163"
+    ],
+    "affidabilita": "Una fonte",
+    "prova": ""
+   },
+   {
+    "cosa": "Project Screen Test di Adobe",
+    "a_cosa_serve": "Strumento creativo che permette di configurare e dirigere personaggi virtuali conversando a voce prima di generare provini e video animati.",
+    "per_chi": "Lavoro",
+    "ambito": "Video e immagini",
+    "come_iniziare": [],
+    "costo": "Non indicato",
+    "piattaforme": [
+     "Browser"
+    ],
+    "sul_dispositivo": false,
+    "come_sfruttarla": "Intervistare a voce un avatar virtuale per definirne personalità ed espressività prima di creare contenuti video.",
+    "italiano": "Non indicato",
+    "difficolta": "Facile",
+    "temi": [
+     "Video",
+     "Foto e immagini",
+     "Voce e audio"
+    ],
+    "fonti": [
+     "a135"
+    ],
+    "affidabilita": "Una fonte",
+    "prova": ""
+   },
+   {
+    "cosa": "MiniMax H3-Image",
+    "a_cosa_serve": "Modello di intelligenza artificiale per la generazione rapida di immagini in risoluzione 4K in 10 secondi.",
+    "per_chi": "Lavoro e tutti i giorni",
+    "ambito": "Foto e immagini",
+    "come_iniziare": [],
+    "costo": "Non indicato",
+    "piattaforme": [],
+    "sul_dispositivo": false,
+    "come_sfruttarla": "Generare rapidamente immagini e grafiche ad alta definizione per presentazioni e social media.",
+    "italiano": "Non indicato",
+    "difficolta": "Facile",
+    "temi": [
+     "Foto e immagini"
+    ],
+    "fonti": [
+     "a11"
+    ],
+    "affidabilita": "Appena lanciato",
+    "prova": "https://www.producthunt.com/products/minimax"
+   }
+  ],
+  "osint": [],
+  "gemme": [
+   {
+    "cosa": "Tesserae",
+    "a_cosa_serve": "Piattaforma per progettare dashboard personalizzate via browser e trasmetterle a schermi e-ink a colori.",
+    "perche_gemma": "Gratuita, open source, utilizzabile via Docker o Home Assistant senza bisogno di creare un account.",
+    "con_ai": "",
+    "piattaforme": [
+     "Browser"
+    ],
+    "self_hosted": true,
+    "costo": "Gratis",
+    "difficolta": "Media",
+    "temi": [
+     "Open source e self-hosting",
+     "Lavoro e produttività"
+    ],
+    "fonti": [
+     "a68"
+    ],
+    "affidabilita": "Da verificare",
+    "come_iniziare": [],
+    "sul_dispositivo": false,
+    "come_sfruttarla": "",
+    "prova": ""
+   }
+  ],
+  "sezioni": [
+   {
+    "titolo": "Novità negli strumenti che già usi",
+    "notizie": [
+     {
+      "titolo": "In arrivo l'app Harbor per eseguire AI locale su Mac",
+      "strumento": "Apple Harbor",
+      "riassunto": "Apple sta lavorando all'applicazione Harbor per Mac, pensata per trasformare i computer in server AI locali ed eseguire grandi modelli senza inviare dati al cloud e senza usare la riga di comando.",
+      "come_provarla": "",
+      "disponibilita": "In arrivo",
+      "fonti": [
+       "a56",
+       "a44",
+       "a47"
+      ],
+      "temi": [
+       "AI sul dispositivo",
+       "Privacy e sicurezza"
+      ],
+      "affidabilita": "Una fonte",
+      "solo_titoli": true
+     },
+     {
+      "titolo": "Alexa per lo Shopping arriva ufficialmente in Italia",
+      "strumento": "Amazon Alexa",
+      "riassunto": "Debutta anche in Italia il nuovo assistente vocale AI Alexa per lo Shopping, studiato per guidare gli utenti con consigli su misura durante gli acquisti.",
+      "come_provarla": "",
+      "disponibilita": "Disponibile ora",
+      "fonti": [
+       "a32"
+      ],
+      "temi": [
+       "Assistenti e chatbot",
+       "Lavoro e produttività",
+       "Voce e audio"
+      ],
+      "affidabilita": "Una fonte",
+      "solo_titoli": true
+     }
+    ]
+   },
+   {
+    "titolo": "In breve",
+    "breve": true,
+    "notizie": [
+     {
+      "titolo": "ChatGPT ritirerà le vecchie modalità vocali",
+      "riassunto": "OpenAI ritirerà le modalità vocali Standard e Avanzata di ChatGPT l'11 dicembre 2026 per migrare tutti gli utenti sulla nuova voce GPT-Live.",
+      "fonti": [
+       "a180"
+      ],
+      "temi": [
+       "Assistenti e chatbot",
+       "Voce e audio"
+      ],
+      "affidabilita": "Una fonte",
+      "solo_titoli": false
+     }
+    ]
+   }
+  ],
+  "formato": 2,
+  "controllo_siti": [
+   {
+    "cosa": "Tabletop di Google",
+    "esito": "nessun sito da aprire"
+   },
+   {
+    "cosa": "DeepL Voice",
+    "esito": "nessun sito da aprire"
+   },
+   {
+    "cosa": "Project Screen Test di Adobe",
+    "esito": "nessun sito da aprire"
+   },
+   {
+    "cosa": "Tesserae",
+    "esito": "nessun sito da aprire"
+   },
+   {
+    "cosa": "MiniMax H3-Image",
+    "sito": "https://www.producthunt.com/r/p/1311715?app_id=339",
+    "esito": "errore: HTTP Error 403: Forbidden"
+   }
+  ]
+ },
+ "articoli": {
+  "a47": {
+   "titolo": "Apple wants to turn your Mac into a private AI server without making you touch the Terminal",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWHE3TjdJcG9ndmx3RThacHNxNDd1V0poU3Nud1IzNWFha0FZVFB3RkhidmFvUnltYUxhLWFJaGREOEtESl85TjNmb2xJZVJsOXVOVnR1dmU4bm1MR184YkVrdHZhS0xURVYteTNxVUJBYnpHbkJvcTd1M0hHYWphS0tXaGFPX1BhMlk4ZFc2d0pBdW1XYVdjUHFYT2VEWTdOTDRjX1hfbVlmTURORjJzOTA0VzNRQXhOdkM0VDBLNU1iN2dPZ1hjcGhwc1E?oc=5",
+   "data": "2026-11-11T11:59:19+00:00",
+   "testo": "",
+   "fonte": "Digital Trends",
+   "tipo": "minore",
+   "solo_titolo": true,
+   "categoria": "Strumenti",
+   "id": "a47"
+  },
+  "a44": {
+   "titolo": "Harbor: Apple Plans a Mac App for Local A.I. Without the Cloud",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5uNEFfcHJMSEVjMG1mU1k4eFhQMXFPUzhXTzRsd0VWdWwwOWlDRjZmd1F1em9JX00zZXZKcl9NcXR0X0laUHN6andma2RFWmZUQUlJN0w1LWluOHhxYUVVbUxISmhXUlZTT2w5bA?oc=5",
+   "data": "2026-11-11T10:58:33+00:00",
+   "testo": "",
+   "fonte": "www.trendingtopics.eu",
+   "tipo": "minore",
+   "solo_titolo": true,
+   "categoria": "Strumenti",
+   "id": "a44"
+  },
+  "a32": {
+   "titolo": "Alexa per lo Shopping arriva in Italia, cos'è e come funziona il nuovo assistente AI",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNFJKY1h6T0t5cEFFLWZLUVpWX3o0b3BqdG1KS0FTYzhnRWhadTc2MTFIMXdRbkNJWUhGb2E2TGdGZFE5R0FmSE1QU1IzQkM5WTBJc2ZWTjFMZ1hJdjhhaG9vdDlBSVVOamxNQWNsekhJcmxRYXYyOXc5aU9QWW12SXFGYw?oc=5",
+   "data": "2026-11-11T15:19:31+00:00",
+   "testo": "",
+   "fonte": "Sky TG24",
+   "tipo": "testata",
+   "solo_titolo": true,
+   "categoria": "Strumenti",
+   "id": "a32"
+  },
+  "a56": {
+   "titolo": "Apple lavora a un'app per trasformare i Mac in datacenter AI in locale",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTlJvRDV6aVd1NjZyMXNPMVFnajRxLVR3ZXZoU295RHc1SG9idTNKTWtmOWRKNUpWXzRUeDNwMF9sUTM4NWcxci14WEExeVNYNDVoNmE0Nkl0LXFzV0pMX2dxOGhqYXY1VUdFRFRMZjYzTmltbXl6bl9YUkpJQkk1anNLOEc0WG5xVkhwaw?oc=5",
+   "data": "2026-11-11T10:46:16+00:00",
+   "testo": "",
+   "fonte": "HDblog.it",
+   "tipo": "testata",
+   "solo_titolo": true,
+   "categoria": "Strumenti",
+   "id": "a56"
+  },
+  "a133": {
+   "titolo": "Google’s Tabletop AI experiment lets you build custom collaboration apps",
+   "link": "https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability",
+   "sito": "",
+   "data": "2026-11-11T11:00:00-05:00",
+   "testo": "Google has cooked up a new experimental AI tool called Tabletop that generates customized collaborative hubs to help you coordinate with family, and friends. The Tabletop platform shares some visual similarities with workplace management apps like Asana and Monday, but with a built-in AI feature that allows you to vibecode personalized interactive tools by describing […]",
+   "fonte": "The Verge",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Testate tech",
+   "id": "a133"
+  },
+  "a180": {
+   "titolo": "GPT-Live: cambia la modalità vocale di ChatGPT",
+   "link": "https://www.punto-informatico.it/gpt-live-cambia-modalita-vocale-chatgpt/",
+   "data": "2026-11-11T13:40:57+00:00",
+   "testo": "OpenAI ritira le modalità vocali Standard e Avanzata di ChatGPT l'11 dicembre 2026 e passa tutti a GPT-Live. Cosa succede alle conversazioni. The post GPT-Live: cambia la modalità vocale di ChatGPT appeared first on Punto Informatico .",
+   "fonte": "Punto Informatico",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Italia",
+   "id": "a180"
+  },
+  "a11": {
+   "titolo": "MiniMax H3-Image",
+   "link": "https://www.producthunt.com/products/minimax",
+   "sito": "https://www.producthunt.com/r/p/1311715?app_id=339",
+   "data": "2026-11-10T08:35:28-08:00",
+   "testo": "Bringing 4K image generation into the 10-second era",
+   "fonte": "Product Hunt (AI)",
+   "tipo": "vetrina",
+   "solo_titolo": false,
+   "categoria": "Strumenti",
+   "id": "a11"
+  },
+  "a135": {
+   "titolo": "Adobe’s AI experiments let you walk around in photos and interview your characters",
+   "link": "https://www.theverge.com/tech/1031505/adobe-max-2026-sneaks-experiments-ai",
+   "sito": "",
+   "data": "2026-11-11T09:00:00-05:00",
+   "testo": "Some of the most impressive tech that Adobe showcases at its annual Max conference each year is the experimental features it’s developing, and the latest of those tools are being announced today: they can transform images into explorable 3D scenes, design AI characters by talking to them, and turn photo editing into a copy/paste process. Adobe’s AI experiments let you walk around in photos and interview your characters Here are some of the experimental ‘sneaks’ being showcased at Adobe Max. The first (and weirdest, in my opinion) is Project Screen Test, which is designed to make AI-generated characters easier to develop and use for video content. Instead of just describing how the character should sound and behave in text prompts, the tool lets you talk to the character and direct them in an audition-like environment. You start by describing some base personality traits, such as “anxious, shy, awkward,” and giving the character a voice, either by selecting a preset, describing how it sounds in a prompt, or uploading sample audio for it to reference. You can then expand its persona in further detail by conversing with the character as if you’re talking on FaceTime, outlining its backstory, temperament, goals, flaws, fears, movement quirks and more. Once you’re happy, the tool lets you generate animated screen tests with the character by describing an environment or scenario you want to put them in. This is currently a standalone creative exercise, and it’s not clear how (or if) it could feature in any of Adobe’s existing AI video tools. The results provided a more identifiable and consistent personality compared to many soulless animated AI characters I’ve seen, but that’s the entire reason this exists — AI video generation provides far less creative control compared to…",
+   "fonte": "The Verge",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Testate tech",
+   "id": "a135",
+   "testo_completo": true
+  },
+  "a68": {
+   "titolo": "What a self-hosted dashboard looks like on 31.5 inches of colour e-ink",
+   "link": "https://www.reddit.com/r/selfhosted/comments/1xtaf06/what_a_selfhosted_dashboard_looks_like_on_315/",
+   "sito": "",
+   "data": "2026-11-11T06:18:43+00:00",
+   "testo": "I maintain Tesserae, a self-hosted server for e-ink dashboards. You compose a dashboard in the browser, the server renders it headless, and it pushes the frame to your panels. It's AGPL-3.0, runs as a Docker container or Home Assistant add-on, and needs no account. The frame is a Fraimic Large Canvas, a 31.5\" colour e-ink display. Two dashboards are in rotation on it: The project's own numbers fo…",
+   "fonte": "Reddit r/selfhosted",
+   "tipo": "community",
+   "solo_titolo": false,
+   "categoria": "Gemme",
+   "id": "a68"
+  },
+  "a163": {
+   "titolo": "DeepL wants real-time translation to finally capture sarcasm and mood shifts",
+   "link": "https://the-decoder.com/with-its-new-voice-model-deepl-voice-now-translates-intonation-and-speaking-speed-into-other-languages-as-well/",
+   "data": "2026-11-11T13:50:30+00:00",
+   "testo": "DeepL wants real-time translation to finally capture sarcasm and mood shifts DeepL Voice's real-time translations are about to sound a lot more natural. The company's new Aure model carries over tone, emotion, emphasis, and speaking pace from the original speaker's voice into the target language. Until now, DeepL Voice generated translated speech from a static voice sample captured at the start of a conversation. That meant it couldn't pick up on mood shifts or sarcasm. Aure works differently, continuously analyzing both the translated text and the original audio as the conversation unfolds. During training, DeepL separates voice identity, speech melody, and content so each component can be transferred into the new language independently. Reinforcement learning keeps accents out of the output. Aure runs automatically in DeepL Voice for Online Meetings, In-Person Conversations, and the DeepL API. At launch, the model supports English, German, Spanish, French, Italian, Japanese, Portuguese, and Korean. DeepL first rolled out voice preservation in September. In May, the company cut about 250 jobs to restructure around smaller, AI-powered teams as part of what it called becoming an \"AI-native\" company. DeepL also acquired the team behind audio streaming specialist Mixhalo to bolster its real-time speech translation. Block is chasing a similar goal of capturing meaning beyond words. The company recently unveiled Dessa, a speech model designed to detect emotions and sarcasm directly from audio. AI News Without the Hype – Curated by Humans Subscribe to THE DECODER for ad-free reading, a weekly AI newsletter, our exclusive \"AI Radar\" frontier report six times a year, full archive access, and access to our comment section. Subscribe now",
+   "fonte": "The Decoder",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Testate tech",
+   "id": "a163",
+   "testo_completo": true
+  },
+  "u1a156": {
+   "titolo": "Intelligenza artificiale nelle scuole, ok del Garante privacy",
+   "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPN3Mya1NPdDZFbFFRZEZyOVoxZ09ISUlXdlFrQU56Ry1fRWtpNGtKSk8yeWo4VFEwcGpRSHhIWG0tTDZ4azVtUzZkbnFVUDkwejd4TjN0ZUhFd2dMQjZmQWV2Q2ZIajMtRUw0bXFhVE1vY1AwOGx4bHZWUHhsa2xjODJ5WkxQVEZ0dVAyMVpPNW1pX05JWWpCemhWWHdRczM5azBCOTRXODRJYk5vWkc3ZjJ0WUxGNHZYNnVjSGxrcFNWR3A3T3lHRW1XdEUtam1HdjZKdlVHU1RBT29RQUhsM1BmNWNCWkVtM2pEZjF1Y3pfVHg3VjFVM2E1TkVoanU2V1HSAYICQVVfeXFMTzdzMmtTT3Q2RWxRUWRGcjlaMWdPSElJV3ZRa0FOekctX0VraTRrSkpPMnlqOFRRMHBqUUh4SFhtLUw2eGs1bVM2ZG5xVVA5MHo3eE4zdGVIRXdnTEI2ZkFldkNmSGozLUVMNG1xYVRNb2NQMDhseGx2VlB4bGtsYzgyeVpMUFRGdHVQMjFaTzVtaV9OSVlqQnpoVlh3UXMzOWswQjk0Vzg0SWJOb1pHN2YydFlMRjR2WDZ1Y0hsa3BTVkdwN095R0VtV3RFLWptR3Y2SnZVR1NUQU9vUUFIbDNQZjVjQlpFbTNqRGYxdWN6X1R4N1YxVTNhNU5FaGp1NldR?oc=5",
+   "data": "2026-11-12T11:24:42+00:00",
+   "testo": "",
+   "fonte": "ANSA",
+   "tipo": "testata",
+   "solo_titolo": true,
+   "categoria": "Italia",
+   "id": "u1a156"
+  },
+  "u1a67": {
+   "titolo": "Phylum - Self Hosted Cloud File Storage",
+   "link": "https://www.reddit.com/r/selfhosted/comments/1xu1y9l/phylum_self_hosted_cloud_file_storage/",
+   "sito": "",
+   "data": "2026-11-12T03:15:21+00:00",
+   "testo": "Hello again, fellow self-hosters! I made a post last year announcing Phylum - a self-hosted cloud file storage platform meant to replace the likes of Google Drive, Dropbox, or even NextCloud if all you need is file storage. Admittedly, it's an ambitious project, and while it's nowhere near feature parity with the Goliaths, it's come a long way since that first alpha post. I have already been usin…",
+   "fonte": "Reddit r/selfhosted",
+   "tipo": "community",
+   "solo_titolo": false,
+   "categoria": "Gemme",
+   "id": "u1a67"
+  },
+  "u1a178": {
+   "titolo": "Intelligenza artificiale nelle scuole, via libera del Garante Privacy al decreto MIM: accessi pseudonimizzati per gli studenti e nuove regole per i docenti",
+   "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQX0F1RXdUUm91YjBoX2V3Tks2czZJWm1rQ1dlM2p0WUJrSXJSUVhWX2JHVnMtWXE5elhGMWQwV2N3RFBjRVpBeFVsQk9mT0FqM1JTemlMbXpVZjM0U210V0hsMlRsSHJHZVhsczlGd1NuMkZ0dnpFTVlSV3BhdUVZQkNIeDc4WWNPMk9JaWJVNlZfVF9HblNKcnhMcy1CcGhhNDVUZHJtR2xxU2hjU1REY2xTaUxVWXN4YTloQWI1cEZERG03Yk9ISkEteGR5cWJIelBSQWpMRjV5cDgtNFR6WXJHSnp6WTNOV0pQVWwzSWJNZjV6cWNoaC1wX0h3N0c2eWxwTTRPTzdNeFUyTmw0WTc3TQ?oc=5",
+   "data": "2026-11-12T11:05:52+00:00",
+   "testo": "",
+   "fonte": "Orizzonte Scuola Notizie",
+   "tipo": "minore",
+   "solo_titolo": true,
+   "categoria": "Italia",
+   "id": "u1a178"
+  },
+  "u1a165": {
+   "titolo": "Gmail, Gemini arriva a tutti gli utenti Workspace",
+   "link": "https://www.punto-informatico.it/gmail-gemini-tutti-utenti-workspace/",
+   "data": "2026-11-12T09:14:43+00:00",
+   "testo": "Un paio di funzioni di intelligenza artificiale finora riservate a pochi privilegiati stanno arrivando a tutti gli utenti Workspace maggiorenni di Gmail. Come funzionano AI Overview e Help me write su Gmail e come disattivarli La prima si chiama AI Overview per le conversazioni. Prende una catena di mail lunga e ne tira fuori i punti salienti. La seconda è Help me write, nella versione non personalizzata. Significa che l’assistente non va a pescare nel proprio archivio di mail per imitare il proprio stile, ma lavora solo sulle istruzioni che si danno. Si può chiedere di scrivere un’email da zero oppure di ripulire una bozza scritta di fretta. Google fa l’esempio di un classico: Scrivi un follow-up professionale e un ringraziamento per il colloquio . Fino a ieri queste funzioni erano appannaggio degli account personali e di alcune edizioni di Workspace. Ora entrano nel perimetro “core” di Workspace e si aprono a chiunque abbia più di 18 anni. Non conta se si usa una licenza aziendale o scolastica. Quindi professionisti, studenti e insegnanti, tutta la fauna che vive in una casella di posta traboccante. La motivazione ufficiale di Google è quasi commovente: gestire la comunicazione online e rispondere in tempo a una inbox fuori controllo è già un lavoro a sé, e l’AI dovrebbe dare una mano. Va detto che a Mountain View la fiducia degli utenti è diventata una priorità. Gemini si è infilato su Gmail pezzo dopo pezzo negli ultimi mesi, e ora vuole che ci si fidi abbastanza da lasciarlo leggere la posta per noi. Le funzioni sono attive in automatico. Chi non ne vuole proprio sapere, deve andare nelle impostazioni a disattivarle. Lo stesso vale per gli amministratori Workspace, che hanno una guida dedicata, e la loro scelta vale più di quella del singolo utente. Se l’admin dic…",
+   "fonte": "Punto Informatico",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Italia",
+   "id": "u1a165",
+   "testo_completo": true
+  },
+  "u1a1": {
+   "titolo": "Marqly 7.0",
+   "link": "https://www.producthunt.com/products/marqly",
+   "sito": "https://www.producthunt.com/r/p/1313154?app_id=339",
+   "data": "2026-11-11T09:31:09-08:00",
+   "testo": "Bookmarks you can query to find the things you saved",
+   "fonte": "Product Hunt (AI)",
+   "tipo": "vetrina",
+   "solo_titolo": false,
+   "categoria": "Strumenti",
+   "id": "u1a1"
+  },
+  "u1a195": {
+   "titolo": "I'm releasing a Local World Model Ive been building that turns images into interactive videos you control in real time. It works on RTX 3060, 4060 and anything above, linking huggingface",
+   "link": "https://www.reddit.com/r/LocalLLaMA/comments/1xtpc2v/im_releasing_a_local_world_model_ive_been/",
+   "sito": "",
+   "data": "2026-11-11T18:20:57+00:00",
+   "testo": "Hi Everyone, I'm releasing my world model, been on this sub for a few months https://huggingface.co/lucidml/gta I know it says gta but it's more stable than the general model. It can take any image and turn it into an interactive video. If you'd like to test it instantly I am also setting up a simple funny drifty site link : https://lucidml.ai/dashboard/minidemo?world=gta5 That link uses any GPU …",
+   "fonte": "Reddit (AI locale)",
+   "tipo": "community",
+   "solo_titolo": false,
+   "categoria": "Community",
+   "id": "u1a195"
+  },
+  "u2a171": {
+   "titolo": "Bing permette di disattivare l’AI, ma cambia il motore di ricerca…",
+   "link": "https://www.punto-informatico.it/bing-permette-disattivare-ai-cambia-motore-ricerca/",
+   "data": "2026-11-12T14:35:39+00:00",
+   "testo": "Microsoft ha deciso di dare agli utenti un modo per liberarsi delle risposte generate dall’AI, e i metodi sono due. Uno è scomodo, l’altro nasconde un tranello. Negli ultimi anni Bing si è riempito di funzioni basate sull’intelligenza artificiale, a cominciare dalle risposte generate che compaiono accanto ai risultati tradizionali. Ogni tanto sono utili, ogni tanto no. Microsoft ammette in un post sul blog, pubblicato ieri, che dalle sue ricerche emerge una cosa piuttosto ovvia: c’è chi vuole il riassunto pronto e chi preferisce scorrere i link, confrontare le fonti e farsi un’idea per conto proprio. I secondi, a quanto pare, esistono ancora. L’estensione che disattiva le risposte generate dall’AI (e porta con sé Bing) La soluzione numero uno si chiama Microsoft Bing AI Search Choice. È un’estensione per Chrome e Edge, per ora in anteprima. Una volta installata, mette a disposizione un interruttore per abilitare o disabilitare le risposte AI di Bing. La scelta vale per tutte le ricerche, quindi non bisogna ripeterla a ogni domanda. Fin qui tutto bene. Poi si legge la riga in piccolo: installare l’estensione imposta Bing come motore di ricerca predefinito del browser. Cioè, per chiedere a Bing di essere meno invadente, gli si regala anche la porta di casa. Una richiesta del tutto superflua per chi voleva solo un po’ di silenzio. Perché dovrebbe servire un’estensione per una cosa così elementare? Bastava un interruttore nelle impostazioni di Bing, e magari uno bene in vista nella pagina dei risultati. Nessun download, nessun cambio di browser, nessuna trattativa. Invece no, si passa dal Chrome Web Store. L’operatore -ai La seconda via non richiede installazioni. Basta aggiungere -ai alla fine della ricerca, per esempio migliori portatili 2026 -ai, e Bing restituisce i ri…",
+   "fonte": "Punto Informatico",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Italia",
+   "id": "u2a171",
+   "testo_completo": true
+  },
+  "u2a138": {
+   "titolo": "Cyberattack on Fireworks AI allowed hackers to access Notion customers’ chat transcripts",
+   "link": "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/",
+   "data": "2026-11-12T15:02:28+00:00",
+   "testo": "A cyberattack at Fireworks AI has exposed some of its customers’ data, the company has confirmed. Fireworks AI, a platform that developers use to access and use open AI models, said an attacker breached its cloud provider to gain access to a Fireworks development system, which allowed access to some of its customers’ data. The company said in its latest security advisory that the cybercriminals took Fireworks’ customers’ billing information and some datasets. Fireworks touts tens of thousands of customers worldwide using its platform, including legal tech company Harvey and AI company Cursor. At least one confirmed affected customer is online document editor and notetaker Notion, which said in a disclosure that the breach affected around 1% of its own customers. Notion said that Fireworks alerted the company to a security incident and later confirmed that the hackers had stolen some Notion customer data. On November 3, Notion said it disconnected its systems from Fireworks, deleted the data stored in its systems, and stopped all connectivity between the two. Notion confirmed this week that the hackers took chat transcripts of its Notion AI customers who used the “Insights” feature. The company said that the transcripts include “any input to or output from the model that was written to the chat is included in that chat transcript,” but added that much of the data was unattributable and could not be determined from which customer it was obtained. The breach at Fireworks AI shows how tech companies are reliant on other tech providers for their own offerings, and how cyberattacks can, as a result, spill over into other customers. Fireworks said that it believes the hackers are financially motivated and that their goals are focused on selling tokens from breaching access to…",
+   "fonte": "TechCrunch",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Testate tech",
+   "id": "u2a138",
+   "testo_completo": true
+  },
+  "u3a72": {
+   "titolo": "Securo maintainer here: 8 months of work, and the results so far",
+   "link": "https://www.reddit.com/r/selfhosted/comments/1xunhqd/securo_maintainer_here_8_months_of_work_and_the/",
+   "sito": "",
+   "data": "2026-11-12T20:17:40+00:00",
+   "testo": "Hey selfhosted, It's my pleasure to finally post here for the first time, after seeing posts talking about and recommending my (still baby, but serious) project :) I am Tássio, maintainer of Securo, a self-hosted personal and small-business finance manager, 100% open source under AGPL-3.0. It has been 8 months since the first commit, and this time I wrote the numbers by hand for the photo. What h…",
+   "fonte": "Reddit r/selfhosted",
+   "tipo": "community",
+   "solo_titolo": false,
+   "categoria": "Gemme",
+   "id": "u3a72"
+  },
+  "u3a144": {
+   "titolo": "Google’s latest Search upgrade promises better answers to your most complicated questions",
+   "link": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/",
+   "data": "2026-11-12T19:27:45+00:00",
+   "testo": "Google Search is getting better at understanding complicated questions, including those with multiple parts, highly specific requests, or confusing typos. The updates are coming via the company’s newly released Gemini 4 Hydrogen model, which Google claims is its “biggest model improvement to Search yet.” While Google’s frontier models, Gemini 4 Carbon and Gemini 4 Argon, are best at deep reasoning for hard problems, Hydrogen is designed for fast execution across a variety of agentic workflows, or tasks in which an AI carries out multiple steps on its own, the company explained in an announcement. The idea behind the model’s release is that using the most powerful model isn’t always needed — sometimes a faster, cheaper, and reasonably smart one will do. Google says Hydrogen completes tasks 2.5 times faster than Gemini 3.8 Flash, its previous fast model, but it’s still pretty smart, even beating the more powerful Gemini 4 Argon on one broad intelligence benchmark, the Artificial Analysis Intelligence Index, at its default high thinking level. In Search, Hydrogen brings several improvements, including a better understanding of user intent, the ability to offer more helpful links and visual responses, and better answers across the different languages supported by Google’s AI Mode. In terms of intent, Google says Hydrogen can handle more nuanced and complicated questions more quickly. This means people can ask their questions in their natural train of thought, including those that have multiple parts or that include highly specific requests. Hydrogen is also better at navigating hard-to-understand typos, Google says. Because of its improvements and better ability to follow instructions and call the right tools, Hydrogen is able to more precisely address each part of a user’…",
+   "fonte": "TechCrunch",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Testate tech",
+   "id": "u3a144",
+   "testo_completo": true
+  },
+  "u3a148": {
+   "titolo": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
+   "link": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/",
+   "data": "2026-11-12T17:17:58+00:00",
+   "testo": "United Airlines said it will restrict access to AI agents seeking to book flights and manage reservations on their users’ behalf, citing a risk to cybersecurity and undermining federal regulations. The airline is the latest American corporate giant to prevent customers from using AI agents and autonomous assistants to access their systems. The move comes as airlines and banks are struggling to differentiate between real customers and AI systems operating on their behalf, such as when users share their logins with their AI assistants. Sharing passwords with apps and assistants can create security risks if those credentials get leaked or exposed. United warns that “sharing account credentials with personal, third-party, AI assistants can expose sensitive information, and actions taken by these tools may result in unintended purchases, account changes, or use of MileagePlus miles.” The airline also warns of a risk of violating federal aviation rules, such as requiring that a human completes flight check-ins to acknowledge that their bags do not contain banned substances. “As a result, United is taking steps to restrict access — directly within our digital platforms and indirectly via travel agencies and aggregators — to prohibit use by unauthorized, third-party personal AI agents or assistants,” the airline said in a statement. “This work includes updates to our booking, ticketing and distribution policies.” The airline’s move follows a warning from banks, including Bank of America, which last week urged customers not to share their passwords with their AI assistants.",
+   "fonte": "TechCrunch",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Testate tech",
+   "id": "u3a148",
+   "testo_completo": true
+  },
+  "u3a131": {
+   "titolo": "Google’s new Gemini model is better at understanding complicated questions",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
+   "sito": "",
+   "data": "2026-11-12T16:55:32-05:00",
+   "testo": "Google says its new Gemini 4 Hydrogen model can give more helpful answers to complex questions, including \"questions with multiple parts, hard-to-understand typos, or highly specific requests.\" The new model can break down your questions and address each part in its responses. It's available starting today in search, the Gemini app, all tiers of Google […]",
+   "fonte": "The Verge",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Testate tech",
+   "id": "u3a131"
+  },
+  "u3a90": {
+   "titolo": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+   "link": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
+   "data": "2026-11-12T18:00:00+00:00",
+   "testo": "Google Search gets a major upgrade with Gemini 4 Hydrogen Today, Google Search is bringing cutting-edge intelligence to everyone with Gemini 4 Hydrogen. This is the biggest model upgrade to Search yet. Hydrogen is now available globally in Google Search for all users, delivering more helpful, visual, and intuitive responses with improved model capabilities: - Better understanding of intent: Search can now handle even more nuanced and complicated questions, quickly understanding what you need. Just ask in your natural flow of thought — including questions with multiple parts, hard-to-understand typos, or highly specific requests. With deeper instruction following and tool calling, Search more precisely follows what you want and gives you relevant responses that address each part of your question. - Improved query fan-out and linking: Hydrogen’s advanced reasoning supercharges our query fan-out technique in Search, connecting you to a broader range of helpful links than before. By more thoroughly understanding your question and conducting simultaneous queries across all the relevant subtopics, Search helps you find sites you previously might not have discovered. - More visual responses: You get highly adaptive, visual, and easy-to-scan responses that are uniquely relevant to your needs — at the speed of Search. You’ll see more images, structured responses, comparison tables, and custom tools built for you. - Richer language understanding: No matter what language you ask in, you’ll now get more highly nuanced and helpful responses across all supported AI Mode languages. Try out Gemini 4 Hydrogen in Search today.",
+   "fonte": "Google (blog ufficiale)",
+   "tipo": "ufficiale",
+   "solo_titolo": false,
+   "categoria": "Laboratori",
+   "id": "u3a90",
+   "testo_completo": true
+  },
+  "u3a150": {
+   "titolo": "Phota Labs uses AI to turn everyday photos into professional-looking shots",
+   "link": "https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots/",
+   "data": "2026-11-12T17:00:00+00:00",
+   "testo": "A new iOS app called Phota Labs gives users access to a personal AI photo assistant that turns everyday snapshots into images that look like they were taken by a professional photographer, all while preserving the authenticity of the image. Rather than giving consumers yet another photo-editing tool, Phota Labs aims to use advances in AI to automate the editing process so it’s easier for anyone to get access to better photos. The a16z-backed startup was founded by Cecilia Zhang and Zach Xia, who met at Adobe while working on computational photography products, including Project Indigo, Lightroom, and Photoshop. The duo saw a gap in the editing tools on the market and believed that although editing tools can be powerful for enhancing photos, they aren’t very effective at fixing a photo that wasn’t captured well in the first place. Phota Labs changes that by focusing on fixing the shot itself while preserving the natural appearances of those in the image. “Phota is your personal photo assistant that can make great photos for any moment you want to keep before you even ask, which means that it’s a very proactive experience,” Zhang told TechCrunch in an interview. “Think of it almost like a photographer or virtual photographer who looks over your camera roll and tries to understand what’s happening and how they could have taken that photo for you on the spot for that scene.” The idea is to use AI to transform photos, whether that’s turning a wide-angle group photo into a tighter portrait or transforming a selfie into a regular shot. Users can choose from different photography styles that determine how AI transforms their images, ranging from subtle edits that preserve the original lens and composition to more dramatic transformations that introduce effects like fish-eye le…",
+   "fonte": "TechCrunch",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Testate tech",
+   "id": "u3a150",
+   "testo_completo": true
+  },
+  "u3a64": {
+   "titolo": "My $300 embroidery machine needed a subscription, so I built my own app",
+   "link": "https://github.com/simpsoka/zigzag",
+   "data": "2026-11-12T17:02:42+00:00",
+   "testo": "ZigZag is a visual embroidery editor built in Rust for performance, with built-in MCP (Model Context Protocol) support so AI agents can create and edit designs alongside you. Turn SVG artwork into stitches, fine-tune it in the editor, and export PES, DST, EXP, JEF, or VP3 for broad compatibility with embroidery machines—or send designs directly to a Brother Skitch (PP1) over Bluetooth. Draw in Illustrator, draw in ZigZag, or let an agent draw. The Rust engine and zigzag command-line tool power the same workflow outside the editor. zigzag-demo.mp4 Stitching on a Brother Skitch (PP1) Download the video (MP4, 1080p) · Original post on X. For Apple Silicon and Intel Macs, macOS 11 or later. Open the DMG, then drag ZigZag into Applications. The release is signed and notarized by Apple. No Rust installation is needed. Download ZigZag for Windows — the ZigZag-<version>-x86_64-windows.zip asset on the latest release. For 64-bit Windows 10 (version 1709 or later) and Windows 11. Unzip it and double-click ZigZag.exe. Windows SmartScreen warns on apps without a Microsoft-trusted signature the first time they run; click More info → Run anyway. No Rust installation is needed. Release notes and checksums · Publishing a release zigzag/ src/svg.rs SVG import (usvg): fill and stroke parts, transforms, text src/document/ editable document; settings saved back into SVG ids, layout edits as SVG transforms, lettering src/params.rs stitch settings tokens + fabric presets src/stitch/fill.rs tatami fill (scanline sections, staggered rows) src/stitch/satin.rs satin columns: two rails, auto-satin, underlays, short stitches src/stitch/stroke.rs running / triple-run stitch src/boolean.rs polygon booleans and offsets (i_overlay) src/design.rs planner: overlap removal, cap order, routing, trims src…",
+   "sito": "https://github.com/simpsoka/zigzag",
+   "fonte": "Show HN – progetti utili (gemme)",
+   "tipo": "vetrina",
+   "solo_titolo": false,
+   "categoria": "Gemme",
+   "id": "u3a64",
+   "testo_completo": true
+  },
+  "u3a94": {
+   "titolo": "Get quick answers from Gemini on any website.",
+   "link": "https://blog.google/innovation-and-ai/products/gemini-app/research-with-gemini-in-chrome/",
+   "data": "2026-11-12T17:00:00+00:00",
+   "testo": "Get quick answers from Gemini on any website. Use Gemini in Chrome to get the answers you need without opening another tab. Here's how. - Click the Gemini icon in your Chrome toolbar to open the side panel. - Ask Gemini to summarize a dense report, compare product details, or explain complicated topics in plain language — all while keeping your spot.",
+   "fonte": "Google (blog ufficiale)",
+   "tipo": "ufficiale",
+   "solo_titolo": false,
+   "categoria": "Laboratori",
+   "id": "u3a94",
+   "testo_completo": true
+  }
+ },
+ "fonti": [
+  {
+   "nome": "Product Hunt (AI)",
+   "ok": true,
+   "presi": 15
+  },
+  {
+   "nome": "Show HN (nuovi progetti)",
+   "ok": true,
+   "presi": 2
+  },
+  {
+   "nome": "Nuove app AI (internazionale)",
+   "ok": true,
+   "presi": 10
+  },
+  {
+   "nome": "Nuove app AI (Italia)",
+   "ok": true,
+   "presi": 8
+  },
+  {
+   "nome": "Novità AI da provare (Italia)",
+   "ok": true,
+   "presi": 8
+  },
+  {
+   "nome": "AI sul dispositivo (internazionale)",
+   "ok": true,
+   "presi": 8
+  },
+  {
+   "nome": "AI sul dispositivo (Italia)",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "Android Police (AI su Android)",
+   "ok": true,
+   "presi": 3
+  },
+  {
+   "nome": "Windows Central (AI su Windows)",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "Ollama (nuove versioni)",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "Open WebUI (nuove versioni)",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "Show HN – progetti utili (gemme)",
+   "ok": true,
+   "presi": 6
+  },
+  {
+   "nome": "Reddit r/selfhosted",
+   "ok": true,
+   "presi": 6
+  },
+  {
+   "nome": "Reddit r/opensource",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "Alternative open source (Google News)",
+   "ok": true,
+   "presi": 6
+  },
+  {
+   "nome": "n8n (nuove versioni)",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "Immich (nuove versioni)",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "OpenAI",
+   "ok": true,
+   "presi": 3
+  },
+  {
+   "nome": "Google (blog ufficiale)",
+   "ok": true,
+   "presi": 4
+  },
+  {
+   "nome": "Google Gemini (blog)",
+   "ok": true,
+   "presi": 3
+  },
+  {
+   "nome": "Nuove funzioni AI (Google News)",
+   "ok": true,
+   "presi": 12
+  },
+  {
+   "nome": "Anthropic / Claude",
+   "ok": true,
+   "presi": 6
+  },
+  {
+   "nome": "Microsoft Copilot",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "Altri assistenti AI (Perplexity, Mistral, Meta AI…)",
+   "ok": true,
+   "presi": 8
+  },
+  {
+   "nome": "Hugging Face (modelli e strumenti aperti)",
+   "ok": true,
+   "presi": 3
+  },
+  {
+   "nome": "Mistral AI",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "The Verge",
+   "ok": true,
+   "presi": 9
+  },
+  {
+   "nome": "TechCrunch",
+   "ok": true,
+   "presi": 12
+  },
+  {
+   "nome": "Ars Technica",
+   "ok": true,
+   "presi": 6
+  },
+  {
+   "nome": "MIT Technology Review",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "The Decoder",
+   "ok": true,
+   "presi": 8
+  },
+  {
+   "nome": "TLDR AI (newsletter)",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "ANSA",
+   "ok": true,
+   "presi": 6
+  },
+  {
+   "nome": "Wired Italia",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "Il Sole 24 Ore Tecnologia",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "Punto Informatico",
+   "ok": true,
+   "presi": 11
+  },
+  {
+   "nome": "HDblog",
+   "ok": true,
+   "presi": 4
+  },
+  {
+   "nome": "AI4Business",
+   "ok": true,
+   "presi": 4
+  },
+  {
+   "nome": "Agenda Digitale (AI)",
+   "ok": true,
+   "presi": 3
+  },
+  {
+   "nome": "Garante Privacy e AI",
+   "ok": true,
+   "presi": 3
+  },
+  {
+   "nome": "Malwarebytes (app e truffe AI)",
+   "ok": true,
+   "presi": 2
+  },
+  {
+   "nome": "Reddit",
+   "ok": true,
+   "presi": 8
+  },
+  {
+   "nome": "Reddit (AI locale)",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "Simon Willison (prove pratiche di strumenti AI)",
+   "ok": true,
+   "presi": 4
+  },
+  {
+   "nome": "Bellingcat (guide e strumenti)",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "GIJN (guide per giornalisti investigativi, via Google News)",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "OSINT – verifica e fact-checking (internazionale)",
+   "ok": true,
+   "presi": 4
+  },
+  {
+   "nome": "OSINT – nuovi strumenti (internazionale)",
+   "ok": true,
+   "presi": 4
+  },
+  {
+   "nome": "OSINT – strumenti (Italia)",
+   "ok": true,
+   "presi": 2
+  },
+  {
+   "nome": "Facta (fact-checking, contenuti falsi e AI)",
+   "ok": true,
+   "presi": 3
+  },
+  {
+   "nome": "Week in OSINT (Sector035)",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "The OSINT Newsletter",
+   "ok": true,
+   "presi": 2
+  },
+  {
+   "nome": "IDMO (osservatorio italiano sulla disinformazione)",
+   "ok": true,
+   "presi": 2
+  },
+  {
+   "nome": "EU DisinfoLab",
+   "ok": true,
+   "presi": 2
+  },
+  {
+   "nome": "Reddit (OSINT)",
+   "ok": true,
+   "presi": 3
+  },
+  {
+   "nome": "Hacker News (OSINT)",
+   "ok": true,
+   "presi": 0
+  }
+ ],
+ "visti": [
+  "xolace",
+  "valin",
+  "misterblocks",
+  "mitramcp",
+  "nodbyn8n",
+  "museemberbymeta",
+  "scribev3byelevenlabs",
+  "bondschat",
+  "shotvideo",
+  "earlybird",
+  "minimaxh3image",
+  "rigspark",
+  "binqo",
+  "inspobycontextdev",
+  "mujoco4",
+  "kladapaintappyourcodingagentcandrivesourceavailable",
+  "getyourcodingagentoff2019javascriptontomodernwebprimitives",
+  "bytedancepreparesmetasmuselikeagentinpushtocloseaigap",
+  "11bestaiappbuildersin2026rankedandcompared",
+  "thisagencybuiltanaitooltomakeitspeoplebetterattheirjobsdoemployeeswantin",
+  "koreanformerprosecutordevelopslegalaitool",
+  "montrealwomanwithalshearsherownvoiceagainthankstoaiapp",
+  "bluephonegivesgooglespixel10proanaiassistantthatgoesbeyondgemini",
+  "lloydsunveilsaitooltospotdocumenterrorsforukexporters",
+  "metasmuseaicomestoapplewatchesandandroidwearossmartwearables",
+  "agodalaunchesaiassistantforseamlesstravelplanning",
+  "meetalexaforshoppingyourpersonalisedaiassistantonamazon",
+  "inauguratooggiilmicrosoftpavilionlanuovasededimicrosoftaromaperaccelerarelafront",
+  "automatticlanciaspacefastcreareappconlaidiventafacile",
+  "coreweavelanciaunserviziodidatabasepericlientidellintelligenzaartificiale",
+  "geminioraconosceletueabitudinielesfruttaquandoguidi",
+  "alexaperloshoppingarrivainitaliacosèecomefunzionailnuovoassistenteai",
+  "halterilcollaresmartpervacchecheeliminairecinti",
+  "eurunanuovavitaperlexpadiglionenatoaprelasededimicrosoftaroma",
+  "arrivanoicassonetticonlanuovacalottaanchenelcentrodimestre",
+  "checosèclaudemeetingsecomecambiagooglemeetconlai",
+  "geministaarrivandosuapplecarplay",
+  "comeusarelaiegooglesheetspermonitoraregliscontidelblackfriday",
+  "pixeldropnovembre2026cosaarrivainitalia",
+  "claudepuòanalizzarecontibancariecartedicreditocisonorischiperlaprivacydegliutent",
+  "geminiintelligencearrivasuipixel10sicreanowidgetaparolemalautomazionedeitasknona",
+  "googlepixeldropdinovembre2026geminiintelligencearrivasuipixel10edebuttapixeltag",
+  "geminimemorysummarycomecontrollareemodificareiricordi",
+  "harborappleplansamacappforlocalaiwithoutthecloud",
+  "appleharborturnsmacsintoprivateaiserverswithnocloudfees",
+  "applesharborappwillmakerunninglocalaiacrossmultiplemacstrivial",
+  "applewantstoturnyourmacintoaprivateaiserverwithoutmakingyoutouchtheterminal",
+  "applehasnewmacappcomingtomakerunninglocalaimodelseasy",
+  "applesupcomingharborapppromiseseasierwaytorunlocalaionyourmacs",
+  "applesclaristestingharborappforlocalaionmacs",
+  "datacolaunchesprivateaiplatformanddatamarketplacefeaturing91datasetsfrom25provid",
+  "korapresentaundesktoplinuxconiasuldispositivoperipcsnapdragon",
+  "perplexityportablecomputerportalailocalesullegpunvidiartxprivacyepotenzasenzaclo",
+  "applepreparaharborpiùmacinsiemeperfargiraremodellidiailocaleenormi",
+  "samsunggallerysisincronizzaconlospaziogoogle",
+  "applelavoraaunapppertrasformareimacindatacenteraiinlocale",
+  "androidautoisgettingakillergeminifeatureeverydriveractuallywants",
+  "samsungcouldgivebixbygeministyleautonomousagentpowerswithoneui95",
+  "geminimakestheleaptoapplecarplay",
+  "microsoftadmitspeopledontwantaiinsearchreleasesnewtoolstoletyouturnitoffonbingus",
+  "openwebuiv0130",
+  "irecreatedpaperspleasebutyouredecidingwhichycstartupstofund",
+  "yogurtfreeprivateopensourcealternativetogranola",
+  "godboltinafloatingwindowforneovimccrust",
+  "blackopsiistaticallyrecompiledtonativearm64macos",
+  "valenciaspaininsimcityisometricview",
+  "a15mbselfhostednetflixandspotifyforyourmediaserver",
+  "whataselfhosteddashboardlookslikeon315inchesofcoloureink",
+  "pidockwifiaraspberrypi5routerwithtwowificardspiholeandwebdashboard",
+  "docktail18tailscaleservicesforyourdockercontainersnowwithcustompathsmultipleserv",
+  "mediaserverdashboardv2",
+  "doyouuseyourowncaselfsignedcertificatesforyourselfhostedservices",
+  "selfhostedgleanalternativejustranked1onenterpriseragbenchaheadofthelistedsystems",
+  "synapticsappearstouselegalthreatstoblockopensourcedisplaylinkdriver",
+  "anyoneelsecompletelydonewithsmartphonesbeingantiprivacyblackboxeswhydidweletthep",
+  "project2027anrfctorebuildpublictechusingtheeconomicsofopensource",
+  "contributorswanted",
+  "servobrowserenginecontinuesbroadeningwebcompatibilitynewfeatures",
+  "iditchedadobeacrobatforaselfhostedalternativeandiwontbegoingbackhowtogeek",
+  "amneziawarnsselfhostedxrayserversneedalinuxkernelupdate",
+  "immichisagooglephotosalternativeyoucanhostyourself",
+  "whatishermesagentdefinitionfeaturesandhowitworks",
+  "theenemystruckshevchenkivskyidistrictwithadroneuav",
+  "btcpayserver247updatefixessecurityissuesurgingselfhostedmerchantstoupgradeimmedi",
+  "n8nstable",
+  "immichv340",
+  "gilberttobinrethinksthebusinessoflawwithai",
+  "chatgptplusforveteransandservicemembers",
+  "jiostarschiefarchitectonaidiscoveryat500muserscale",
+  "geminidecisionsapifastcalibratedmultimodaldecisions",
+  "talkitthroughwithgemininowonapplecarplay",
+  "geminiintelligencenewfeaturesonmoredevices",
+  "pixel10withgeminiintelligencecustomwidgetsandmoreinournovemberpixeldrop",
+  "introducingthemultimodalknowledgeagentbenchmark",
+  "gemini4carbonisnowavailable",
+  "werebringingadobescreativeandproductivitytoolsclosertoyoureverydaygoogleapps",
+  "googlegemininowavailableonapplecarplaywithhandsfreeaifeatures",
+  "onthisdayinspacenov111966nasalaunchesgemini12missionwithastronauticonsbuzzaldrin",
+  "googlesnovemberpixeldropbringsgeminiintelligencetothepixel10andlaunchesthe2999pi",
+  "googlelaunchesgeminidecisionsapiforrapidaichoices",
+  "googlesgeminichatbotisnowavailableonapplecarplay",
+  "googlebringsgeminiaitoapplecarplay",
+  "googlecloudlaunchesgeminiforhealthcareintegratingaiworkflowsacrossepicoracleheal",
+  "googlelaunchesgeminidecisionsapiformultimodalaiworkflows",
+  "googlelaunchesgeminidecisionsapiforfastmultimodalchoices",
+  "withipoloominganthropiclaunchesnewaimodelsworkplacetools",
+  "metasaimodelsnowavailableongooglecloud",
+  "googlecloudrollsoutgeminiforhealthcareinpreviewtargetingadministrativebacklog",
+  "claudetrafficsurges24inoctoberasanthropicipoloomsbeatingairivals",
+  "metasaibotwontrevolutionizeyourfinances",
+  "anthropictargetsworkplacecollaborationwithclaudemeetings",
+  "anthropicsaysaiiserodingnvidiascudaleadcuttinganamdchipswitchfrommonthstothreeda",
+  "whatyouneedtoknowaboutclaudesmakeranthropicipo",
+  "anthropicsclaudefable52builtashooterin1promptanditonlytook8hoursand550",
+  "kpmgscaletrustedenterpriseaiinthailandthroughmicrosoftcopilotandmicrosoftagent36",
+  "bringyourbusinesscontexttochatgptclaudemicrosoftcopilotcoworkandgrokbot",
+  "idcquantanowworksinsidemicrosoftcopilot",
+  "literabringsdocumentcomparisonandfirmaisearchtomicrosoftcopilotforlegal",
+  "carrierdeliversconsistenthumancenteredemployeesupportwithmicrosoft365copilot",
+  "over35000grokbuiltappsexposedonlinesomeleakingconfidentialdataandpasswords",
+  "deepseekapipricing20260151moffpeakchatfree",
+  "metaaicheatsheetfeaturespricingandhowtouseit",
+  "gopufflaunchesfirstfullyintegrateddeliveryexperienceonspacexsisgrokbot",
+  "grokbot10launcheswithslackintegrationandvideocallsupport",
+  "grokbuiltappsexposedpatientdataplaintextpasswordsandspacexsisownsalespipeline",
+  "over35000appsbuiltwithgrokbuildexposedunprotectedincludingspacexsisownsalesmater",
+  "grokappbuilderleft35578appsopentoanyonewiththelink",
+  "botpsyondevicepersonalassistantwithasubbillionparameteragenticlanguagemodel",
+  "tokenpoolingawaretrainingformultivectorembeddingmodels",
+  "payforhuggingfacehubwithyourgooglecloudaccount",
+  "nvidiaisreportedlypreparingtofirejensenhuang",
+  "unitedwontletyouraiagentbookyourflight",
+  "googlestabletopaiexperimentletsyoubuildcustomcollaborationapps",
+  "googlesalphagenome2zoomsinonthecellularrootsofdisease",
+  "adobesaiexperimentsletyouwalkaroundinphotosandinterviewyourcharacters",
+  "theusiswinningtheairacejensenhuangcouldhaveblownit",
+  "chatgptisgettingverifiedaibusinessagents",
+  "theindiegamecommunityisindisarrayoveraiandbigwalk",
+  "anthropichasitsownaipoweredofficesuitenow",
+  "whocouldreplacejensenhuangahighlyunscientificlistofpossiblesuccessors",
+  "theunfoldingjensenhuangscandalatimeline",
+  "nvidiasstockdropsasboardreportedlyprepstooustceojensenhuang",
+  "jensenhuangaccusedofhavinganotheraffairwithannvidiaexec",
+  "whythedatacenteryoudreadmightneverevenbebuilt",
+  "metaislosingitslongtimeheadofinfrastructure",
+  "howbacklashandredtapecontinuetoslowdatacenterspostbluewave",
+  "coreweaveturnstocustomerprepaymentsshortercontractstofundaigrowth",
+  "with720mroundbritainsfractilegetsalegupintheraceforaichips",
+  "congresstocalljensenhuangintoanswerforallegedchinesespyaffair",
+  "isjensenhuangsbadbehaviormorecommonplacethanitseems",
+  "openaisquarterlyrevenuereportedlycrosses10bforthefirsttime",
+  "taiwanschipmakinggianttsmctoinvest1binanthropicopenai",
+  "bigwalkusedaitofixabugnowtheindiegamingworldishavingareckoning",
+  "googledeepmindjustmathematicallyverifiedkeypartsofsignal",
+  "ringcamerasgomobileasamazondebutsaipoweredsecuritydroneandrobot",
+  "grokbuildcodingagentleaksoodlesofconfidentialinfosomebelongingtospacexsi",
+  "whathappenstomathematicswhenaibecomesanoracle",
+  "googlejoinsthedecisionmodelwavewithgeminidecision1scoring1000questionsinasinglep",
+  "uscorporateaispendinghitsanewhighinoctoberbutgrowthslowsto165percent",
+  "googledeepmindsalphaproofcodeverifiedsignalscryptographiccoreinfourweeksinsteado",
+  "helsingbuiltanaisystemthatpreparestargetsforweaponssystemsandsayseverydecisionwi",
+  "usdatabrokersaresellinghalfabilliondollarsinrltrainingenvironmentstochineseailab",
+  "deeplwantsrealtimetranslationtofinallycapturesarcasmandmoodshifts",
+  "enterprisesalespushopenaisquarterlyrevenueto10billionthoughitstilltrailsanthropi",
+  "ukregulatorthreatensuniversitieswithsanctionsunlesstheyadoptaiproofexamformats",
+  "gemini4carbonclaudesheetsantigravityswarm",
+  "ouraacquisisceunastartupdiintelligenzaartificialeinambitomedicoperoltre600milion",
+  "intelligenzagenerativaeprofessionigiuridicheuncorsoallacattolica",
+  "lianonsipuòfermareanewyorkciclodiconferenzeperilprogressoumano",
+  "acquistidiffusiineuropaconlottimismosullai",
+  "techincorsatrainatodatechnoprobeestmamilano",
+  "technoprobericaviacceleranoneinovemesiaggiornatoiltargetperlafinedellanno",
+  "anthropicsfidagoogleworkplaceemicrosoftoffice",
+  "migliaiadichipaidinvidiaincinarestrizioniinutili",
+  "le7paroledellaichetuttiusanoepochisannospiegare",
+  "cadiamodalperosullaguerraibridaharagionecrosetto",
+  "obblighiesanzioniperleaziendeaiinaustralia",
+  "claudemeetingspartecipaalleriunionisugooglemeet",
+  "koraèilnuovoosaibasatosulinuxchevuolesfidarewindows",
+  "gptlivecambialamodalitàvocaledichatgpt",
+  "grokbuildsveladatiriservatianchequellidispacexsi",
+  "appletvarrivalalinguadeisegnimalisnoncè",
+  "geminiintelligenceanchesupixel10emotorolasignature27",
+  "businessesinchatgptopenaistrizzalocchioalleaziende",
+  "openaipuntasulturismoacquisitalastartupaiodessia",
+  "effettogtavilogitechregalaungiornodiferieaidipendentipergiocare",
+  "openailanciabusinesshubchatgptdiventapiùsimileagoogle",
+  "itermicipotrebberosparireentroil2040ilceodimercedesspiegailfuturodeimotori",
+  "matricedidelegaaiautonomiasupervisioneefirmaumana",
+  "anthropicsfidamicrosoftofficearrivanoclaudesheetsedata",
+  "expriviavalidmindalleanzasullaiperlebanche",
+  "riflessivitàalgoritmicacomelaiimitailpensieroriflessivo",
+  "attacchiaifrigoriferiperchéilverorischioarrivadaimanutentori",
+  "aidovefunzionadavveroedoverestafragile",
+  "modellidecisionaliaicomeportarlineiflussidilavoroaziendali",
+  "videosorveglianzainaziendalastangatadelgarante",
+  "sanzionigaranteprivacyaposteedeutschebankinformativegdprnonconformi",
+  "garantedellaprivacysiapreilcasosullapropostadiaumentodistipendiofinoa50milaeuro",
+  "musesleepbanduserswerenttoldtheirbraindatawastrainingai",
+  "scammersuseaigeneratedimagesofmissingpetstoextortowners",
+  "theonlyaithatcanbeofhelp",
+  "whatdoido",
+  "howtofailanaijobinterview",
+  "cycleneverends",
+  "newbenchmarkjustdropped",
+  "theydidnteventrytohideit",
+  "ramaltman",
+  "ibuiltatinywindowstaskbarwidgetwithclaudecodethatshowsyourclaude5handweeklyusage",
+  "nvidiaispreparingtooustnvidiaceojensenhuang",
+  "nvidiareportedlycancelsgeforcertx508024gblaunchbringsback16gbmodelovergddr7costs",
+  "opensourceselfdrivingishere",
+  "microsoftfilesapatentapplicationtotrainaimodelsonidleconsumergpus",
+  "modttkciarisharassingthissub",
+  "awsemulator",
+  "browsetoolssimonwillisonnetbytag",
+  "anthropicsiporoadshowvideo",
+  "llmgemini036",
+  "usingthesafeboxnetworktoprotectstorieslaurentrichard",
+  "filmingtheauthoritiesknowyourrights",
+  "artículos",
+  "8reportingtipsforcoldcontactinginsiders",
+  "isthisrealaserbianinvestigativejournalistreflectsonthecountrysstunningelection",
+  "thisvideodoesntshowbulldozeractionagainstaccusedintripurabsfattack",
+  "factcheckdoesthisvideoshowrecentdiwalicelebrationsindubaino",
+  "googledeepmindhassuccessfullyformallyverifiedthesecurityofthesignalprotocolusing",
+  "defimarketjournalpublishesguidetopigbutcheringvsromancescams",
+  "successfulneptuneflamingoandstormshadowstrikesdoubledthisfallosintcountshows",
+  "novateksustlugaterminalburnsafterovernightdroneraidosint",
+  "africainvestigativejournalismlabstrengthensinvestigativereportingkonradadenauers",
+  "satelliteimageshaveemergedshowingasecondstrikeonprotonusingneptunemissiles",
+  "lagermaniainveste50milionidieuronellosviluppodellintelligenzaartificiale",
+  "decriptoafuturoremoto2026il12novembreallacittàdellascienzaconlestartupdicampania",
+  "quantisonodavveroifemminicidiinitalia",
+  "loscambiosocialincuimuskdiceabillgatesdinoncostringerloacompraremicrosoftèfalso",
+  "questovideodeimilitarispagnolichearrestanodeputaticorrottièfalso",
+  "theosintnewsletterissue130",
+  "theosintnewsletterissue129",
+  "alviaprimacollaborazionedelcentrouecontrolefakenewsconongefactchecker",
+  "barachinisullaiservonoregoleglobalieunintesatraigrandi",
+  "disinfoupdate4112026",
+  "eudisinfolabsapproachtofundraising",
+  "blockchaintracinginvestigationtool",
+  "osintofthailand",
+  "darksidedatabase",
+  "marqly70",
+  "insight7voiceaiagents",
+  "crossfade",
+  "diditmcp",
+  "adobeaiassistant",
+  "threedev",
+  "klang",
+  "grokbot10",
+  "harnessmemory",
+  "foxpit",
+  "offstagecloud",
+  "ifflaunchesaitoolforfoodandbeverageconceptgeneration",
+  "anydaylaunchesfreeexploittotalaitoolwith200reportedexploits",
+  "ocbclaunchesaiassistantforbusinessbankingplatform",
+  "ifflaunchesaitoolforfoodandbeverageconceptcreationbyinvestingcom",
+  "kvslaunchesspecialaitooltotrackstudentperformanceattendanceacrossschools",
+  "kvslaunches3newdigitalinitiativescheckaitoolparentconnectappandalumniportal",
+  "googleaddsgeminivoiceaiassistanttoapplecarplay",
+  "geminiarrivasuapplecarplayconlintelligenzaartificiale",
+  "windtreajazzinncapitale2026datiintelligenzaartificialeeconnettivitàalserviziodel",
+  "instagramarrivaeffectbuilderbastaunpromptpercrearenuovifiltri",
+  "chatgptarrivasuapplecarplayconlultimoaggiornamento",
+  "trafrigoriferichesisurriscaldanoefalsiallarminuclearièarrivataunepidemiadiattacc",
+  "comeusareclaudeseoicomandielavisibilitànellericercheai",
+  "geminilivearrivasuapplecarplaycondisponibilitàglobale",
+  "googlegeminiarrivasuapplecarplay",
+  "chatgptlanciabusinessesinbetaprofiliaziendaliebusinessagentperleimprese",
+  "ihopedlocalaicouldsavemetimebutispentalldaygettingnowhere",
+  "appleharborcouldturnyourmacintoaprivateaiserver",
+  "tetherlaunchesondeviceaiagentbotpsyclaimswinoverlargerqwenthatqwensownscorenarro",
+  "openaibringslocalaiprocessingtoindiaexpandsdataresidencyoptionsforapiusers",
+  "heartbotailaunchesanyinsightedgeendingthetradeoffbetweenprivateaiandagenticprodu",
+  "applesharborappwouldletmacsrunlocalaimodelstogether",
+  "allarmibombanellescuoleesupermercatihackeratinellemarcheunafamigliasudiecièsenza",
+  "spuntaharborlappapplechetrasformailmacinunserveraiprivato",
+  "geminiforhomeupdatemakesyoursmartdisplayalotmoreuseful",
+  "walmartdrives",
+  "adashboardmywifeisfinallyinterestedin",
+  "phylumselfhostedcloudfilestorage",
+  "m720qtinyasadiynashomelabmostreliablesataexpansionfor4drives",
+  "jetbrainsrenewedtheirsupportforgodotenginethrough2027",
+  "sekoiarecognizedasaninnovatorinfrostsullivansfrostradaraisoc",
+  "lnbitsflawupdateto170androtateyourkeys",
+  "supportingresearchonaiandchildrenssafety",
+  "tuyalaunchestuyaclouddevicesformetasaiagentmuse",
+  "googlegemininowavailableoncarplayapplestillblockingthefeatureeverybodyneeds",
+  "geminiapplaunchesonapplecarplayforhandsfreedrivingconversations",
+  "bluemedialauncheschatgptadspartnershipforchinesebrands",
+  "googlegeminiliveaivoicechatbotnowavailableonapplecarplay",
+  "anthropiclaunchesclaudesheetsandclaudewhiteboardsinbeta",
+  "geminiarrivesonapplecarplaybutitwontreplacesiri",
+  "anthropictoseek13trillionvaluationinipo",
+  "microsoftstockat521anthropicslandlordcustomerandrival",
+  "anthropicinlondonaiandscience",
+  "jimcramerthisisthebetyouremakingifyoubuytheanthropicipo",
+  "nflweek10predictionsbymicrosoftcopilotaiforeverygame",
+  "gopufflaunchesfullyintegrateddeliveryexperiencethroughspacexsisaiagent",
+  "grokbuildflawexposeddatafromthousandsofappsincludingspacexsisown",
+  "grokvsclaudewhichaiisactuallybetterin2026",
+  "elonmusksgrokbuildcodingagentisleakingaseriousamountofconfidentialdata",
+  "metaaicheatsheetmodelsfeaturespricingprivacy",
+  "glmvsclaudegptgeminigrokanddeepseekhowzhipusopenmodelcompares",
+  "ninekoreanstartupsvieforaspotindisrupt2027sstartupbattlefield200competition",
+  "elevenlabsscribev3liveusesconversationalcontexttostopvoiceagentsfromcuttingoffca",
+  "googledeepmindshiftsgenomicsaifrombulktissuepredictionstosinglecelltyperesolutio",
+  "australiasproposedaisafetybillwouldforcefrontiermodelmakerstoopenuptoindependent",
+  "intelligenzaartificialenellescuoleokdelgaranteprivacy",
+  "conferenzaatorontosulrapportotraintelligenzaartificialeescienzeumanistiche",
+  "scottibankitaliadagliagentiianuovesfideacommercioefinanzadigitali",
+  "esprinetsoffreinborsadopoicontibeneimarginiattenzioneascorte",
+  "toyotainvestesutecnologieperautoefabbricheper63miliardididollarilanno",
+  "geminiarrivasuapplecarplaycosasipuòchiedere",
+  "socialmediabanestesoa150piattaformenelregnounito",
+  "gmailgeminiarrivaatuttigliutentiworkspace",
+  "tabletopdigooglecreaappconlaiperorganizzareviaggiespese",
+  "nvidiajensenhuangverràlicenziatochisaràilnuovoceo",
+  "contodepositoal4per6mesiperinuoviclienticréditagricole",
+  "laidigooglestudiaperchécelluleconlostessodnaagisconoinmodidiversi",
+  "decisiondrivenmarketinglaiasupportodellescelteaziendali",
+  "governancedelcloudtrasovranitàdigitalecostieai",
+  "alfabetizzazioneaicosadevonodocumentaredavverolepmi",
+  "daichipallabollettaisettecontinascostidellai",
+  "intelligenzaartificialenellescuolevialiberadelgaranteprivacyaldecretomimaccessip",
+  "blackfridayisuggerimentidelgaranteprivacyperacquistipiùsicuri",
+  "ilprossimogarantedellaprivacydovràtornareadarecertezzeacittadinieimprese",
+  "absolutecinematicrealityweliverightnow",
+  "googleintroducestheirfirstdecisionmodelgeminidecision1",
+  "trulyincredible",
+  "getting3freefablerstforanniversary",
+  "evenanthropicgavefables52totheirprousersforoneweekmeanwhilegooglejustdeletedcarb",
+  "reverseengineeranythingaicompaniescrackdownonthecoolestthingpeopleweredoingwitha",
+  "imreleasingalocalworldmodelivebeenbuildingthatturnsimagesintointeractivevideosyo",
+  "oldvideooflanddisputeinpakistanfalselysharedascommunalincidentinbangladesh",
+  "defenceexpertprafulbakshididntcallkulgamattackafalseflagoperation",
+  "videoofrajnathsinghtalkingaboutlowmoraleinindianarmyisadeepfake",
+  "russiafiresiskandersatukraineasatelliteimageshowswhatukrainesmissilesleftofabuil",
+  "bangladeshpoliceijmagreetostrengthenstrategicpartnershipagainsthumantraffickingo",
+  "securitymanageranalistagiuristafilosofotecnicoocomunicatore",
+  "dueaereiquasiimpercettibilinellaudiocosìunoyoutuberhageolocalizzatoilframmentodi",
+  "ilvideodelsegretariodelladifesaingleseinminigonnaaunacerimoniaufficialeèfalso",
+  "ringolaunchescharliethefirstaiassistantforsynclicensingthatlivesonwhatsapp",
+  "servicenowlaunchesaitooltospeedupcrmmigrations",
+  "alexaperloshoppingarrivainitaliaaiutaascegliereeconfrontareiprodotti",
+  "claudecodeecodexentranonellacentralinadiunajeepdel1994",
+  "nvidiasinterimceoisitscfoanddatacentersdwarfgamingrevenueareyouasworriedasiamfor",
+  "results2026selfhostusersurveyselfhst",
+  "anunknowndeviceonmywifinowpingsmyphoneinunder20seconds",
+  "jcrewlaunchesclaudepoweredstyleadvisorforoutfitshopping",
+  "googlelaunchesgeminidecision1apifor1000questionspercall",
+  "freightrightlaunchesfreightrightmcpforchatgpt",
+  "anthropicsclaudeaiblockspokémonfangamesovercopyrightconcernswhatchanged",
+  "anthropicbansclaudebuiltfakesitesaimedatgamingaianswers",
+  "stolenclaudeapikeyscanturnclaudecodeintoaremotecontrolledimplant",
+  "microsoftbingtoutstwomethodstoturnoffaiinsearchbutnotasearchsetting",
+  "metaaiglassescanoverheatwhenwet5modelsneedupdate130",
+  "bestfreeaimodelsin2026whichonescostnothingandwheretousethem",
+  "grokbuildsecuritylapseexposesover35000aiappsandspacexdata",
+  "thedefinitivefinetuningguidefor3dgenerationmodels",
+  "readnvidiasinternalemailsabouttheextraordinarilydifficultperiodamidceoshakeup",
+  "nvidiaceojensenhuanghasresignedwhathappensnext",
+  "ireviewedtheapplehomeviewaskmeanything",
+  "nvidiaceojensenhuangresignsamidspyaffairscandals",
+  "trumpfloatsapplechairmantimcookasjensenhuangssuccessor",
+  "jensenhuangisoutatnvidiawhoiscolettekresshisinterimreplacement",
+  "norwestpushesdeeperintoaiwithnew4bfund",
+  "cyberattackonfireworksaiallowedhackerstoaccessnotioncustomerschattranscripts",
+  "googlepushesprivacyangleasgeminipoweredsmartglassesdebutstartingat395",
+  "jensenhuangresignsasnvidiaceoafterespionagescandalwipesout14trillioninmarketvalu",
+  "grokbot10alphagenome2geminidecisions",
+  "confindustriaaltoadriaticoattivailprontosoccorsocyberattack",
+  "spacexilpianodimuskperalimentarelaiconlenergiadelsole",
+  "bingpermettedidisattivarelaimacambiailmotorediricerca",
+  "ourainveste625milioninellasalutedigitaleaiemedicidisponibiliattraversolanello",
+  "genzaiecreativitàlafotografiadellenovogenerationcreationreport",
+  "foxconnricaviincrescitadel46liphoneduopotrebbevenderepiùdelprevisto",
+  "jensenhuangsidimettedanvidiacolettekressèlanuovaceoadinterim",
+  "menoformazionemenovocecosìanchelaiemarginaledonne",
+  "modellidecisionaliaigooglesfidaopenaichioffrecosa",
+  "aimasterpiecejustdropped",
+  "fable52builtthissceneinblender",
+  "nvidiasjensenhuangresignsasceocolettekressnamedinterim",
+  "factcheckviralvideoofwomantouristbeingassaultedinindiaisactuallyfromuzbekistan",
+  "jackdorseysquarematesaitoollaunchesforallsquaresellers",
+  "screenburngrouplaunchesaitooltowritefullmicrodramaseasons",
+  "googleportalintelligenzaartificialesuapplecarplayconlappgemini",
+  "cop31quandolintelligenzaartificialediventalanuovasfidaclimatica",
+  "suinstagramoraèpossibilecrearefiltriconlaigrazieaeffectbuilder",
+  "geminilivearrivasucarplaypuoigestiremaileappuntamentiinauto",
+  "monicamondolianoncispaventiusataeticamentepuòservireperilbenecomune",
+  "pianospostamenticasalavoroentroil31dicembresondaggioecalcoloco2conmicrosoftforms",
+  "applesharborappcouldmakerunninglocalaionmaceasier",
+  "applewantstoturnyourmacintoaprivateaiserver",
+  "asusannunciailminipcascentqn10",
+  "familylinkcantstopgeminifromdoingyourkidshomeworkbut5settingsmakeitharder",
+  "microsoftwantsdevelopersspendinglesstimefixingaimistakes",
+  "my300embroiderymachineneededasubscriptionsoibuiltmyownapp",
+  "securomaintainerhere8monthsofworkandtheresultssofar",
+  "tryingtogetfamilymusicandaudiobooksoffspotifyandaudibleopensourcestuffthatseemst",
+  "anopenlettertonvidiasnextceoitstimetoopensourcecuda",
+  "selfhostedclaudemanagedagentskeepsagentcredentialsinyourenvironment",
+  "anthropiclaunchesselfhostedclaudemanagedagentsinprivatebeta",
+  "anthropicletscustomersselfhostclaudemanagedagents",
+  "googlesearchgetsamajorupgradewithgemini4hydrogen",
+  "gemini4hydrogeneverydaycodingandagenticworkflowsfordevelopers",
+  "introducinggemini4hydrogen",
+  "scientistsareusinggoogleaitohelprestoregiantkelpforests",
+  "getquickanswersfromgeminionanywebsite",
+  "googlerollsoutgemini4hydrogenfinallyreplacing38flash",
+  "anthropiclaunchesclaudeformanufacturing",
+  "withipoloominganthropiclaunchesclaudeproductformanufacturers",
+  "openairollsoutchatgptbusinessprofiles",
+  "chatgptlaunchesgooglelikeprofilesforbusinesses",
+  "googlelaunchesgemini4hydrogenforfastercodingandagentictasks",
+  "googlelaunchesgemini4hydrogenforeverydayagenticworkflows",
+  "googlelaunchesgemini4hydrogenforagenticcoding",
+  "advisorstakenoteasopenailauncheschatgptbusinessprofiles",
+  "webflowlaunchesnewmcpconnectorformicrosoftcopilot",
+  "anthropiclaunchesclaudeformanufacturingmidiporoadshow",
+  "anthropicsipoisaboutsixtimesoversubscribed",
+  "claudemeetingsletsanthropicsaijoinyourvideocalls",
+  "anthropicopenaisuedforallegedlyinfringinginventorsneuralnetworkpatents",
+  "claudeaipredictsamonsterxrpmoveaheadofanthropicipo",
+  "anthropicsclaudemeetingsbetaputsanaiinyourvideocalls",
+  "anthropiclaunchesclaudemeetingsbetaforlivevideocalls",
+  "microsoftworkstoaddressmassiveoutageacrosscopilotteams",
+  "ortecusesmicrosoft365copilottoturnlogisticsexpertiseintofastertrusteddecisions",
+  "ismicrosoftdownrightnowmicrosoftoutageshitoutlookcopilotmore",
+  "ismicrosoftoutlookdownwhatcompanysaysaboutmicrosoft365outage",
+  "microsoftoutageaffectingoutlookteamscopilotandmore",
+  "perplexityaisuedoverundisclosedusagecapsonpaidsubscriptionfeatures",
+  "grokbot10launcheswithsharedbotsinslackteamsandmeetings",
+  "alicehuangscompaniesreportedlyinvestindeepseekandpromiseitnvidiachips",
+  "grokbotcannowreadandsendmessagesonyourmac",
+  "llmonanllmnativemarkuplanguagenowingranite413band8b",
+  "googlesnewgeminimodelisbetteratunderstandingcomplicatedquestions",
+  "noaiagentsdidnotdiscoverapreviouslyunknownmayasite",
+  "ohpalantirisprogressivenowisit",
+  "thejensenhuangscandalishardlyover",
+  "aichatbotsarerecommendingfakeretailwebsitesstudyfinds",
+  "moregamedevelopersarestartingtousegenerativeai",
+  "jensenhuangisoutwhatdidchinawantfromhim",
+  "nebiusteststheneocloudplaybookwith40billioninplannedspending",
+  "jensenhuangwashavingathirdaffairreutersreports",
+  "googleslatestsearchupgradepromisesbetteranswerstoyourmostcomplicatedquestions",
+  "nectarlaunchesanaiagenttoautomatecreatordiscoveryandoutreachforbrands",
+  "jensenhuangsexitputsnvidiassupportforopensourceinquestion",
+  "huggingfaceceovowstokeepfightingforopensourceaiafterjensenhuangsexit",
+  "unitedairlinesblocksaiagentsfrombookingflightscitingcybersecurityrisks",
+  "softbanksbilliondollarlossmayhaveputacaponaisnaturalgasambitions",
+  "photalabsusesaitoturneverydayphotosintoprofessionallookingshots",
+  "jensenhuangagreestotestifybeforecongress",
+  "fivewaysjensenhuangsousterfromnvidiacoulddamagetheaiindustry",
+  "arslivewhatdroneattacksondatacentersmeanformodernlifeinthecloud",
+  "googlefacescallsforaimoratoriumsinschoolsaftergeminipilotbacklash",
+  "nvidiaprivatelyconfirmeditcouldtrackchipstofightsmugglingevenasindustrypubliclyq",
+  "googlesgemini4hydrogenoutscoresthebiggerargonjustfourweeksafteritslaunch",
+  "openaisdatasuggeststhatfrontiermodelsarehidingtheirthoughtsbecausedevelopersopti",
+  "bolandceseacostanuovoecosistemadelliatutelicompetitivitàediritti",
+  "mediasetpresentamialagenteiachelavorainsintoniacongliumani",
+  "occhialismartdiapplesenzadisplayillancionel2027",
+  "googleaprelevenditedeglismartglasscongemini",
+  "gemini4carbon5usiconcretieipromptdaprovaresubito",
+  "trumpproponetimcookcomenuovoleaderdinvidia",
+  "microsoftdownproblemiaoutlook365copilotxboxetantialtriservizi",
+  "nuovabmwi350xdrivelaneueklassesiconfrontaconlastoriavideo",
+  "adobemax2026conlaipuoientrarenellefotoeparlarecoipersonaggi",
+  "rtx5080da24gbnvidiaciripensalegddr7costanotroppo",
+  "autousatele5truffepiùdiffuseineuropaeperlequalièmegliodrizzareleantenne",
+  "newsletterdel12novembre2026",
+  "possiblefalsepositivemalwareai695752146dllwrapexemsys2mingw",
+  "bestnewsiveseentoday",
+  "mygamegotremovedfromgamedevsubsforusingaisoheresexactlyhowimadeitwithclaude",
+  "hellonicetomeetyournamehere",
+  "arewenotallowedtoevenaskbasicbiologyquestions",
+  "sothiswillbetrueincoupleofyears",
+  "theregulationoflocalaicouldshouldbeviewedasthelargestcensorshipimplementationint",
+  "anupdatetoourcolumnaboutcaliforniasailaw",
+  "thenumberoftankersbeingloadedattherussianportofustlugahasnearlyhalved",
+  "europesmissingwatchdogshowboththedsaandtheaiactarefailingonenforcement",
+  "skiptracingin2026howmuchcanyoustilldofromadeskvsinthefield",
+  "cananyonehelpwithcheaterapps"
+ ],
+ "audio": "audio/2026-11-12.mp3",
+ "durata": 304.2,
+ "aggiornamenti": [
+  {
+   "generato": "2026-11-12T13:57:36+00:00",
+   "modello": "gemini-3.6-flash",
+   "testi_completi": 6,
+   "riassunto": {
+    "titolo_giorno": "Novità AI in arrivo su Gmail Workspace e ricerca intelligente con Marqly",
+    "in_breve": "L'aggiornamento di oggi porta le funzioni AI di riassunto e scrittura su tutti gli account Gmail Workspace. Tra le novità spiccano Marqly per interrogare i propri segnalibri web e Phylum per gestire un cloud personale di file al riparo da occhi indiscreti.",
+    "citati": [
+     "Gmail",
+     "Marqly",
+     "Phylum"
+    ],
+    "da_provare": [
+     {
+      "cosa": "Marqly 7.0",
+      "a_cosa_serve": "Un gestore di segnalibri avanzato che permette di fare domande in linguaggio naturale per ritrovare link, articoli e pagine web salvate in precedenza.",
+      "per_chi": "Lavoro e tutti i giorni",
+      "ambito": "Ricerca e organizzazione",
+      "come_iniziare": [],
+      "costo": "Non indicato",
+      "piattaforme": [
+       "Browser"
+      ],
+      "sul_dispositivo": false,
+      "come_sfruttarla": "Ritrovare all'istante una pagina web salvata mesi fa descrivendone il contenuto principale invece di cercare tra centinaia di cartelle.",
+      "italiano": "Non indicato",
+      "difficolta": "Facile",
+      "temi": [
+       "Ricerca e informazioni",
+       "Lavoro e produttività"
+      ],
+      "fonti": [
+       "u1a1"
+      ],
+      "affidabilita": "Appena lanciato",
+      "prova": "https://www.producthunt.com/products/marqly"
+     },
+     {
+      "cosa": "LucidML World Model",
+      "a_cosa_serve": "Uno strumento capace di trasformare una singola immagine statica in un video interattivo e controllabile in tempo reale direttamente sul proprio computer.",
+      "per_chi": "Tutti i giorni",
+      "ambito": "Foto e video",
+      "come_iniziare": [],
+      "costo": "Gratis",
+      "piattaforme": [
+       "Windows",
+       "Linux"
+      ],
+      "sul_dispositivo": true,
+      "come_sfruttarla": "Animare fotografie trasformandole in scenari video dinamici da esplorare senza inviare alcuna immagine su server esterni.",
+      "italiano": "Non indicato",
+      "difficolta": "Media",
+      "temi": [
+       "AI sul dispositivo",
+       "Foto e immagini",
+       "Video"
+      ],
+      "fonti": [
+       "u1a195"
+      ],
+      "affidabilita": "Da verificare",
+      "prova": ""
+     }
+    ],
+    "osint": [],
+    "gemme": [
+     {
+      "cosa": "Phylum",
+      "a_cosa_serve": "Una piattaforma di archiviazione cloud gestibile in proprio, progettata come alternativa essenziale e privata a servizi come Google Drive o Dropbox.",
+      "perche_gemma": "Gratuito, open source e focalizzato unicamente sul salvataggio sicuro dei file senza funzioni superflue.",
+      "con_ai": "",
+      "piattaforme": [
+       "Browser"
+      ],
+      "self_hosted": true,
+      "costo": "Gratis",
+      "difficolta": "Media",
+      "temi": [
+       "Open source e self-hosting",
+       "Privacy e sicurezza",
+       "Lavoro e produttività"
+      ],
+      "fonti": [
+       "u1a67"
+      ],
+      "affidabilita": "Da verificare",
+      "come_iniziare": [],
+      "sul_dispositivo": false,
+      "come_sfruttarla": "",
+      "prova": ""
+     }
+    ],
+    "sezioni": [
+     {
+      "titolo": "Novità negli strumenti che già usi",
+      "notizie": [
+       {
+        "titolo": "Arrivano le funzioni AI Overview e Help me write per gli account Workspace",
+        "strumento": "Gmail",
+        "riassunto": "Google sta estendendo a tutti gli utenti Workspace maggiorenni le funzioni di intelligenza artificiale per riassumere lunghe conversazioni via email ('AI Overview') e per farsi aiutare a comporre o rielaborare bozze di testo ('Help me write'). Le opzioni sono attive di default nelle impostazioni.",
+        "come_provarla": "Apri una catena di email lunga su Gmail per visualizzare il riassunto automatico oppure usa l'assistente di scrittura nella finestra di composizione.",
+        "disponibilita": "Disponibile ora",
+        "fonti": [
+         "u1a165"
+        ],
+        "temi": [
+         "Scrittura e documenti",
+         "Lavoro e produttività"
+        ],
+        "affidabilita": "Una fonte",
+        "solo_titoli": false
+       }
+      ]
+     },
+     {
+      "titolo": "In breve",
+      "breve": true,
+      "notizie": [
+       {
+        "titolo": "Via libera del Garante Privacy all'AI nelle scuole",
+        "riassunto": "Il Garante per la protezione dei dati personali ha approvato il decreto del Ministero dell'Istruzione sull'uso dell'intelligenza artificiale nelle scuole, introducendo l'obbligo di accessi anonimizzati per gli studenti e nuove linee guida per i docenti.",
+        "fonti": [
+         "u1a156",
+         "u1a178"
+        ],
+        "temi": [
+         "Regole e leggi",
+         "Privacy e sicurezza"
+        ],
+        "affidabilita": "Una fonte",
+        "solo_titoli": true,
+        "come_provarla": ""
+       }
+      ]
+     }
+    ],
+    "formato": 2,
+    "controllo_siti": [
+     {
+      "cosa": "LucidML World Model",
+      "esito": "nessun sito da aprire"
+     },
+     {
+      "cosa": "Phylum",
+      "esito": "nessun sito da aprire"
+     },
+     {
+      "cosa": "Marqly 7.0",
+      "sito": "https://www.producthunt.com/r/p/1313154?app_id=339",
+      "esito": "errore: HTTP Error 403: Forbidden"
+     }
+    ]
+   }
+  },
+  {
+   "generato": "2026-11-12T16:31:58+00:00",
+   "modello": "gemini-3.6-flash",
+   "testi_completi": 11,
+   "riassunto": {
+    "titolo_giorno": "Come disattivare i riassunti AI su Bing e la falla di sicurezza su Notion AI",
+    "in_breve": "Nell'aggiornamento del pomeriggio vediamo come disattivare le risposte generate dall'AI nelle ricerche di Bing utilizzando un semplice comando o un'estensione. Segnaliamo inoltre un incidente di sicurezza che ha coinvolto i dati di trascrizione di Notion AI.",
+    "citati": [
+     "Bing",
+     "Notion AI"
+    ],
+    "da_provare": [],
+    "osint": [],
+    "gemme": [],
+    "sezioni": [
+     {
+      "titolo": "Novità negli strumenti che già usi",
+      "notizie": [
+       {
+        "titolo": "Come disattivare i riassunti generate dall'AI nelle ricerche",
+        "strumento": "Bing",
+        "riassunto": "Microsoft Bing offre due modalità per nascondere i riassunti e i box generati dall'AI dai risultati di ricerca. È possibile aggiungere l'operatore `-ai` alla fine di una query oppure installare l'estensione per browser 'Microsoft Bing AI Search Choice' che aggiunge un interruttore per disabilitare l'AI.",
+        "come_provarla": "Aggiungi l'operatore `-ai` al termine della ricerca su Bing (ad esempio 'migliori portatili 2026 -ai') oppure installa l'estensione dal Chrome Web Store.",
+        "disponibilita": "Disponibile ora",
+        "fonti": [
+         "u2a171"
+        ],
+        "temi": [
+         "Ricerca e informazioni",
+         "Assistenti e chatbot",
+         "Scrittura e documenti"
+        ],
+        "affidabilita": "Una fonte",
+        "solo_titoli": false
+       }
+      ]
+     },
+     {
+      "titolo": "In breve",
+      "breve": true,
+      "notizie": [
+       {
+        "titolo": "Falla di sicurezza presso un fornitore espone le chat di Notion AI",
+        "riassunto": "Un attacco informatico ai sistemi del fornitore Fireworks AI ha esposto le trascrizioni delle chat di alcuni utenti di Notion AI che utilizzavano la funzione Insights.",
+        "fonti": [
+         "u2a138"
+        ],
+        "temi": [
+         "Privacy e sicurezza",
+         "Assistenti e chatbot",
+         "Voce e audio"
+        ],
+        "affidabilita": "Una fonte",
+        "solo_titoli": false
+       }
+      ]
+     }
+    ],
+    "formato": 2,
+    "controllo_siti": []
+   }
+  },
+  {
+   "generato": "2026-11-12T22:28:33+00:00",
+   "modello": "gemini-3.6-flash",
+   "testi_completi": 29,
+   "riassunto": {
+    "titolo_giorno": "Debutta Gemini 4 Hydrogen nella Ricerca Google e arrivano nuovi strumenti creativi",
+    "in_breve": "La Ricerca Google si aggiorna con il modello Gemini 4 Hydrogen, capace di analizzare quesiti articolati e mostrare risposte visive. Nel campo della creatività arrivano Phota Labs per ritoccare le foto su iPhone e ZigZag per progettare ricami con l'AI su PC.",
+    "citati": [
+     "Google Search",
+     "Phota Labs",
+     "ZigZag"
+    ],
+    "da_provare": [
+     {
+      "cosa": "ZigZag",
+      "a_cosa_serve": "Un'applicazione per progettare e modificare disegni di ricamo a partire da immagini vettoriali SVG. Integra il supporto per agenti AI che possono creare o modificare i motivi insieme all'utente.",
+      "per_chi": "Lavoro e tutti i giorni",
+      "ambito": "Creatività e hobby",
+      "come_iniziare": [
+       "Scarica l'archivio ZIP per Windows o il pacchetto DMG per Mac ed esegui l'applicazione",
+       "Importa una grafica vettoriale in formato SVG o fai generare il disegno all'agente AI",
+       "Esporta lo schema nel formato compatibile con la tua macchina da ricamo (es. PES, DST, EXP)"
+      ],
+      "costo": "Gratis",
+      "piattaforme": [
+       "Windows",
+       "Mac"
+      ],
+      "sul_dispositivo": false,
+      "come_sfruttarla": "Creare e personalizzare motivi di ricamo da inviare direttamente alle macchine da cucire compatibili.",
+      "italiano": "Non indicato",
+      "difficolta": "Facile",
+      "temi": [
+       "Agenti AI",
+       "Open source e self-hosting",
+       "Foto e immagini"
+      ],
+      "fonti": [
+       "u3a64"
+      ],
+      "affidabilita": "Appena lanciato",
+      "prova": "https://github.com/simpsoka/zigzag",
+      "piattaforme_verificate": true
+     },
+     {
+      "cosa": "Phota Labs",
+      "a_cosa_serve": "Un'applicazione fotografica guidata dall'AI che trasforma gli scatti quotidiani in immagini di qualità professionale, correggendo inquadratura e illuminazione senza alterare i tratti delle persone.",
+      "per_chi": "Tutti i giorni",
+      "ambito": "Foto e video",
+      "come_iniziare": [],
+      "costo": "Non indicato",
+      "piattaforme": [
+       "iPhone"
+      ],
+      "sul_dispositivo": false,
+      "come_sfruttarla": "Ricavare ritratti definiti da foto di gruppo o scatti veloci mantenendo un aspetto naturale.",
+      "italiano": "Non indicato",
+      "difficolta": "Facile",
+      "temi": [
+       "Foto e immagini",
+       "Assistenti e chatbot",
+       "Video"
+      ],
+      "fonti": [
+       "u3a150"
+      ],
+      "affidabilita": "Una fonte",
+      "prova": ""
+     }
+    ],
+    "osint": [],
+    "gemme": [
+     {
+      "cosa": "Securo",
+      "a_cosa_serve": "Un gestore di finanze personali e per piccole attività open source, progettato per essere installato sul proprio server locale o privato.",
+      "perche_gemma": "Ti permette di tenere traccia di entrate e uscite senza condividere dati finanziari con servizi cloud esterni.",
+      "con_ai": "",
+      "piattaforme": [
+       "Browser"
+      ],
+      "self_hosted": true,
+      "costo": "Gratis",
+      "difficolta": "Media",
+      "temi": [
+       "Privacy e sicurezza",
+       "Open source e self-hosting",
+       "AI sul dispositivo"
+      ],
+      "fonti": [
+       "u3a72"
+      ],
+      "affidabilita": "Da verificare",
+      "come_iniziare": [],
+      "sul_dispositivo": false,
+      "come_sfruttarla": "",
+      "prova": ""
+     }
+    ],
+    "sezioni": [
+     {
+      "titolo": "Novità negli strumenti che già usi",
+      "notizie": [
+       {
+        "titolo": "Arriva il modello Gemini 4 Hydrogen nella Ricerca Google",
+        "strumento": "Google Search",
+        "riassunto": "Google introduce Gemini 4 Hydrogen nella Ricerca per rispondere meglio a domande articolate e con più richieste contemporanee. Il sistema genera risposte più visive con tabelle e immagini e gestisce con maggiore precisione gli errori di battitura.",
+        "come_provarla": "Fai una ricerca su Google ponendo una domanda complessa o dettagliata.",
+        "disponibilita": "Disponibile ora",
+        "fonti": [
+         "u3a90",
+         "u3a131",
+         "u3a144"
+        ],
+        "temi": [
+         "Ricerca e informazioni",
+         "Assistenti e chatbot",
+         "Foto e immagini"
+        ],
+        "affidabilita": "Fonte ufficiale",
+        "solo_titoli": false
+       },
+       {
+        "titolo": "Gemini integrato nel pannello laterale del browser",
+        "strumento": "Google Chrome",
+        "riassunto": "Attraverso il pannello laterale di Chrome è possibile interrogare Gemini per riassumere articoli complessi, confrontare prodotti o spiegare argomenti direttamente sulla scheda aperta, senza cambiare pagina.",
+        "come_provarla": "Clicca sull'icona di Gemini nella barra degli strumenti di Chrome per aprire la barra laterale.",
+        "disponibilita": "Disponibile ora",
+        "fonti": [
+         "u3a94"
+        ],
+        "temi": [
+         "Assistenti e chatbot",
+         "Lavoro e produttività"
+        ],
+        "affidabilita": "Fonte ufficiale",
+        "solo_titoli": false
+       }
+      ]
+     },
+     {
+      "titolo": "In breve",
+      "breve": true,
+      "notizie": [
+       {
+        "titolo": "United Airlines vieta l'uso di agenti AI per le prenotazioni",
+        "riassunto": "La compagnia aerea ha bloccato l'accesso agli agenti AI esterni per la prenotazione e gestione dei voli a causa dei rischi di sicurezza legati al riutilizzo delle password dei passeggeri.",
+        "fonti": [
+         "u3a148"
+        ],
+        "temi": [
+         "Agenti AI",
+         "Privacy e sicurezza"
+        ],
+        "affidabilita": "Una fonte",
+        "solo_titoli": false
+       }
+      ]
+     }
+    ],
+    "formato": 2,
+    "controllo_siti": [
+     {
+      "cosa": "Phota Labs",
+      "esito": "nessun sito da aprire"
+     },
+     {
+      "cosa": "Securo",
+      "esito": "nessun sito da aprire"
+     },
+     {
+      "cosa": "ZigZag",
+      "sito": "https://github.com/simpsoka/zigzag",
+      "pagina": 379833,
+      "trovate": [
+       "Windows",
+       "Mac"
+      ]
+     }
+    ]
+   }
+  }
+ ]
+}

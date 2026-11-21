@@ -1,0 +1,1064 @@
+{
+ "giorno": "2026-10-12",
+ "generato": "2026-10-12T05:34:57+00:00",
+ "modello": "gemini-3.5-flash",
+ "testi_completi": 9,
+ "riassunto": {
+  "titolo_giorno": "ChatGPT introduce i grafici interattivi e Claude si aggiorna per l'ufficio",
+  "in_breve": "OpenAI ha aggiornato ChatGPT aggiungendo la generazione di grafici interattivi direttamente all'interno delle conversazioni. Contestualmente, Anthropic ha introdotto in Claude nuovi strumenti da ufficio per creare visualizzazioni dati in linguaggio naturale.",
+  "citati": [
+   "ChatGPT",
+   "Claude"
+  ],
+  "da_provare": [
+   {
+    "cosa": "Agibot",
+    "a_cosa_serve": "Un agente di intelligenza artificiale personale sempre attivo pensato per computer Mac.",
+    "per_chi": "Lavoro e tutti i giorni",
+    "ambito": "Organizzazione",
+    "come_iniziare": [],
+    "costo": "Gratis",
+    "piattaforme": [
+     "Mac"
+    ],
+    "sul_dispositivo": false,
+    "come_sfruttarla": "",
+    "italiano": "Non indicato",
+    "difficolta": "Facile",
+    "fonti": [
+     "a3"
+    ],
+    "affidabilita": "Appena lanciato",
+    "prova": "https://www.producthunt.com/products/agibot"
+   }
+  ],
+  "osint": [],
+  "sezioni": [
+   {
+    "titolo": "Novità negli strumenti che già usi",
+    "notizie": [
+     {
+      "titolo": "Grafici interattivi nelle risposte",
+      "strumento": "ChatGPT",
+      "riassunto": "OpenAI ha aggiornato ChatGPT consentendo di generare ed esplorare grafici e rappresentazioni visive interattive direttamente all'interno della chat.",
+      "come_provarla": "",
+      "disponibilita": "Disponibile ora",
+      "fonti": [
+       "a44"
+      ],
+      "affidabilita": "Una fonte",
+      "solo_titoli": true
+     },
+     {
+      "titolo": "Strumenti da ufficio e visualizzazione dati",
+      "strumento": "Claude",
+      "riassunto": "Anthropic ha integrato in Claude nuovi strumenti operativi per l'ufficio, inclusa la possibilità di creare visualizzazioni di dati partendo da indicazioni in linguaggio naturale.",
+      "come_provarla": "",
+      "disponibilita": "Non indicato",
+      "fonti": [
+       "a45"
+      ],
+      "affidabilita": "Da verificare",
+      "solo_titoli": true
+     }
+    ]
+   }
+  ],
+  "formato": 2
+ },
+ "articoli": {
+  "a45": {
+   "titolo": "Anthropic Launches Office Tools, Adds Natural-Language Data Visualization",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFByd1UyUkxXU3lsY0RIOWNvTzI1UXBMb194X0lXUk9RTzVMUVRUZFdKa29rZGR2T09iS0NheVJ1UnE1OHZOcFljMEZoSDVXQkhyb3VsbFZoQk1jQzlDdTZDQlpoWVAwMk0?oc=5",
+   "data": "2026-10-11T23:40:38+00:00",
+   "testo": "",
+   "fonte": "THE ELEC, Korea Electronics Industry Media",
+   "tipo": "minore",
+   "solo_titolo": true,
+   "categoria": "Laboratori",
+   "id": "a45"
+  },
+  "a44": {
+   "titolo": "OpenAI updates ChatGPT with interactive graphics",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeWZkNVpZQkJLSWktd2Y5d2FpRS1oRGJMWjF4czY5M0JSRDlSc054cnhVSXFEM0ZfaXU2azk5cEw3Qi1NaW1xbktWcVVneUpxckdHbjVLcTduR0FJTS1naEJaYWt6YW9YMVM4TGpsZ3F0N2wzbVVJNE1mNUNWV2RQOUpyV2RDeUw4ekRv?oc=5",
+   "data": "2026-10-11T18:29:44+00:00",
+   "testo": "",
+   "fonte": "Mashable",
+   "tipo": "testata",
+   "solo_titolo": true,
+   "categoria": "Laboratori",
+   "id": "a44"
+  },
+  "a3": {
+   "titolo": "Agibot",
+   "link": "https://www.producthunt.com/products/agibot",
+   "data": "2026-10-10T06:04:39-07:00",
+   "testo": "The always-on personal AI agent for your Mac. $0 forever",
+   "fonte": "Product Hunt (AI)",
+   "tipo": "vetrina",
+   "solo_titolo": false,
+   "categoria": "Strumenti",
+   "id": "a3"
+  },
+  "u1a5": {
+   "titolo": "Cube Forms",
+   "link": "https://www.producthunt.com/products/cube-forms",
+   "data": "2026-10-11T01:49:11-07:00",
+   "testo": "Forms that can be filled by agents",
+   "fonte": "Product Hunt (AI)",
+   "tipo": "vetrina",
+   "solo_titolo": false,
+   "categoria": "Strumenti",
+   "id": "u1a5"
+  },
+  "u1a114": {
+   "titolo": "Edge, arriva il chatbot AI per risolvere i problemi di navigazione",
+   "link": "https://www.punto-informatico.it/edge-chatbot-ai-risolvere-problemi-navigazione/",
+   "data": "2026-10-12T08:25:59+00:00",
+   "testo": "Edge arriva un chatbot tuttofare per i problemi di navigazione. Si chiama “Fix an issue” e, direttamente dalle impostazioni del browser, permetterà di spiegare che cosa non funziona e chiedere all’intelligenza artificiale di trovare una soluzione. A scovarlo per primo è stato l’utente X Leopeva64, secondo cui ci saranno quattro opzioni già pronte. Se nessuna è pertinente, basterà scrivere il proprio problema a parole e lasciare che il chatbot faccia il resto. È una versione in salsa browser di ciò che Windows fa già con i suoi assistenti per la risoluzione dei problemi, anche se non sempre sono brillanti. Cosa raccoglie “Fix an issue” di Edge Una nuova pagina di supporto di Microsoft spiega che dati raccoglie questa funzione. Sì, qualcosa raccoglie. Ma solo dopo che l’utente ha dato il consenso, e quindi niente a che vedere con uno spyware, come ci tiene a sottolineare l’azienda. La fretta di chiarire non è casuale. Pochi giorni fa su Windows era scoppiata una polemica sui servizi di diagnostica, poi rientrata grazie a un reverse engineer che spiegato, pezzo per pezzo, cosa succede davvero. Redmond, evidentemente, ha imparato la lezione: meglio dire tutto prima, a chiare lettere, che farselo spiegare da un estraneo. Se si dà il proprio ok, Edge può raccogliere dati diagnostici facoltativi e un’istantanea dello stato delle impostazioni, ma solo quando si avvia personalmente la procedura di risoluzione. Senza consenso, nulla. E la raccolta, assicura Microsoft, si limita alla singola sessione, quello che si fa in background mentre si naviga è inaccessibile. Come disattivare la nuova funzione Il rubinetto si può chiudere del tutto da Impostazioni > Copilot e AI. Lì, dice l’azienda, ci sono anche le descrizioni che spiegano quando e perché i dati vengono usati. Inoltre la f…",
+   "fonte": "Punto Informatico",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Italia",
+   "id": "u1a114",
+   "testo_completo": true
+  },
+  "u1a69": {
+   "titolo": "Microsoft wants Copilot Notebooks to handle the work that comes after an AI answer",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMXlRemxnRE5MczM1US1Zek1acFNvUnRkVy1tckRKSUhhOVJVS244RVlXclp4cDFVTWF4bGxESGJOd3dOVlFrZGJwZEZBNTQ5bnJST2tiemZlM0lhbTczZmhWTkRsU0hDWTlubGVON2h2b0otUTNTM0c3c0tKYUhLQmY4SlNqUUdhbEZZMXZJRHZ1TnF3ZVVZSGJuQ3dzX0taM3NCY3h4TDBUd2NhSWZBaTc3MFpHOWFRMkpZUHg2c2k?oc=5",
+   "data": "2026-10-12T12:47:25+00:00",
+   "testo": "",
+   "fonte": "Digital Trends",
+   "tipo": "minore",
+   "solo_titolo": true,
+   "categoria": "Laboratori",
+   "id": "u1a69"
+  },
+  "u1a84": {
+   "titolo": "Former Plaud exec raises $26M for AI app that listens to you in the background",
+   "link": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
+   "data": "2026-10-12T12:47:59+00:00",
+   "testo": "One of the core promises of AI is that the more it knows about a person, the better it will be able to assist them with tasks and make appropriate suggestions, which, if you’ll believe the tech companies, requires apps and devices to listen, watch or record users’ activity all the time and gather all possible context. There’s obviously privacy and data security concerns with anything that’s collecting data about you continuously. But startups are building such apps undeterred anyway, arming themselves with the belief that the market for personalized assistance is big enough to swallow such concerns. Former Plaud exec Peter Mo is building Ambi to do something similar. The app aims to provide real-time intelligence and insights to people by listening to them all the time. The company said on Monday that it has raised $26 million across multiple funding rounds led by Luminous Ventures, which has backed companies like Meituan and Unitree Robotics, and Original Design Manufacturer (ODM) Huaqin. Ambi is also releasing apps for iPhones, Macs and Apple Watch. These apps act like meeting note-takers, but users can choose to have them listening so they can capture context all day. Meeting note-taking companies have been working to automate tasks that follow once calls are done, based on the summaries and action items they gather during the conversation, and using multitudes of connectors to software systems. Ambi wants to take this a step further by having its agent start the work during the meeting itself. The company’s promise is that its AI agent can proactively give you suggestions or surface relevant knowledge while you are in a meeting, based on your calendar, meetings, knowledge base, and web data. Users can also start a task on one device and continue it on another. “The…",
+   "fonte": "TechCrunch",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Testate tech",
+   "id": "u1a84",
+   "testo_completo": true
+  },
+  "u1a109": {
+   "titolo": "Google Traduttore con Smart Assist: l’AI elimina esitazioni e intercalari",
+   "link": "https://www.punto-informatico.it/google-traduttore-smart-assist-ai-elimina-esitazioni-intercalari/",
+   "data": "2026-10-12T16:25:15+00:00",
+   "testo": "Con oltre un miliardo di utenti in tutto il mondo, Google Traduttore è senza dubbio lo strumento di traduzione più popolare sul mercato. E non bisogna dimenticare che, come ogni buona azienda tecnologica, Google punta ampiamente sull’intelligenza artificiale. L’azienda di Mountain View ha peraltro appena svelato Gemini Agent, che permette all’AI di diventare un vero e proprio assistente personale. Non c’è quindi voluto molto prima che il colosso arricchisse la sua applicazione con l’intelligenza artificiale. L’anno scorso, Google aggiungeva funzionalità AI in Traduttore. E a quanto pare quello non fu che l’inizio. Google Traduttore è stato lanciato nel 2006. In altre parole, il celebre strumento di traduzione compie vent’anni quest’anno. Google approfitta quindi dell’occasione per migliorare sempre di più la sua applicazione con… sempre più AI. Google Traduttore: basta esitazioni, l’AI fa pulizia al posto nostro Alcune righe di codice individuate nell’ultima versione Android dell’applicazione sono particolarmente intriganti. Una potenziale futura funzionalità AI affronterebbe le esitazioni durante la trascrizione delle traduzioni. In questo modo, alcune parole parassite potrebbero essere semplicemente eliminate, così da rendere più fluide le traduzioni. In altre parole, gli “ehm“, gli “ah” e altri “mh” non verrebbero trascritti da Google Traduttore. Solo le informazioni principali verrebbero tradotte, per la grande gioia dell’interlocutore. Questa funzionalità, battezzata “Smart Assist“, funzionerebbe quindi come un filtro intelligente. Tuttavia, Android Authority riporta che Smart Assist sarebbe soltanto opzionale. Gli utenti potrebbero così scegliere tra la modalità di traduzione classica e il suo equivalente ottimizzato dall’intelligenza artificiale. È inoltre impor…",
+   "fonte": "Punto Informatico",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Italia",
+   "id": "u1a109",
+   "testo_completo": true
+  },
+  "u1a9": {
+   "titolo": "Saiio Launches Zath AI, a Privacy-Focused AI Assistant Built for Secure Conversations and Team Collaboration",
+   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQWElGZ2h5R1otOUZUVjJjZEhuZlFRUnh0VFRubHgxeE5BNl9uNkxzc2p5ZGtsQV91NFRQeUFNcWtwR3RHQXlfM2dlc2VwUWMxRkNsek5kMWhtaXRqNEIzTjQtUEZwNF90UmhNc2lCR0k1cDNfYmJnbUQzZUlidDdoTkZGRUFOSFBDU3N4M3V0QU8wVmtmVlE0NFJSU3JPVThGMzZNU1g3QVlubkJRUnBZYVB6VUN4SjBDeWtGRWpPRmg1X3lBcXc4dy1LV0xkZHNFYldmLXBydjU4aFFrWGViNGxfeHpjYzFocHB1Z3R6U0g?oc=5",
+   "data": "2026-10-12T12:42:59+00:00",
+   "testo": "",
+   "fonte": "USA Today",
+   "tipo": "minore",
+   "solo_titolo": true,
+   "categoria": "Strumenti",
+   "id": "u1a9"
+  },
+  "u1a110": {
+   "titolo": "7 modi di usare Claude su Documenti, Fogli e Slide di Google",
+   "link": "https://www.punto-informatico.it/7-modi-usare-claude-documenti-fogli-slide-google/",
+   "data": "2026-10-12T15:30:54+00:00",
+   "testo": "Gemini di Google è già integrato nei Documenti, nei Fogli di calcolo e nelle Presentazioni di Google da tempo. Ma aveva il campo libero, era l’unico assistente AI in grado di lavorare direttamente all’interno dei file. Ora ha un rivale. Claude di Anthropic è arrivato nelle stesse tre applicazioni come assistente nella barra laterale. Si apre dal menu delle estensioni, compare accanto al documento e può leggere, analizzare e modificare il file su cui si sta lavorando, senza dover copiare e incollare nulla in una finestra separata. La funzione è in fase sperimentale per gli abbonati ai piani a pagamento di Claude e richiede un account Google che permetta l’installazione di applicazioni dal negozio di estensioni. Una differenza importante rispetto ai connettori di Google disponibili dentro Claude, è che quei connettori permettono di cercare e fare riferimento a file nell’archivio di Google durante una conversazione. L’estensione all’interno di Documenti, Fogli e Slide accede direttamente al file aperto e ci lavora sopra. Claude ora lavora dentro Documenti e Fogli di Google: 7 cose da provare Ecco sette modi per mettere alla prova la nuova funzione di Claude. 1. Riscrivere e revisionare un documento Prompt: Revisiona e riscrivi questo documento per chiarezza e concisione. All’apertura, Claude propone diverse opzioni predefinite, come controllare le incongruenze, revisionare il testo, riassumere un contratto, segnalare clausole anomale, preparare una nota. Il prompt di riscrittura lo fa esaminare l’intero documento, offrire suggerimenti specifici e permettere di applicare tutte le modifiche raccomandate con un singolo clic. Claude modifica il testo direttamente nel documento preservando le informazioni essenziali e riducendo il conteggio delle parole, il tutto senza uscire …",
+   "fonte": "Punto Informatico",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Italia",
+   "id": "u1a110",
+   "testo_completo": true
+  },
+  "u1a3": {
+   "titolo": "ExcaliClaw",
+   "link": "https://www.producthunt.com/products/excaliclaw",
+   "data": "2026-10-11T14:09:34-07:00",
+   "testo": "Hand-drawn diagrams your AI agent can draw with you",
+   "fonte": "Product Hunt (AI)",
+   "tipo": "vetrina",
+   "solo_titolo": false,
+   "categoria": "Strumenti",
+   "id": "u1a3"
+  },
+  "u1a1": {
+   "titolo": "Kudos 3.0",
+   "link": "https://www.producthunt.com/products/kudos-smart-wallet",
+   "data": "2026-10-11T18:58:06-07:00",
+   "testo": "The AI that finds money you're missing and gets it back",
+   "fonte": "Product Hunt (AI)",
+   "tipo": "vetrina",
+   "solo_titolo": false,
+   "categoria": "Strumenti",
+   "id": "u1a1"
+  },
+  "u1a13": {
+   "titolo": "Tabby Launches Tabby 2.0 With Tabby Talk, an AI Agent Answering Financial Questions and Completing Bookkeeping Tasks",
+   "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQeE9KSnA2U0s1TUpjV0xQT0ZndHBWWG5YRjBuWHlRSTZCMzZFTEVjY1ktN0F5TFpRWXhicWxUUmtLaEJubGVhTl9QSHZ2UktZRHdFQWhHdmM0SnE1SjgwYTlsN2dRU3ZjaUtUM0I3OWFMenRoajRqZWw1a0gwLWZzb0VZTnBGTW9fOTg2dzBOV1NDV3pvSEQtT1RYZVlteVF3Rkl5QjlJQlhFQUF3QnlDLUV2YXNuNGQ0aWlTMTlERnVCX1pDM3NtOVluUk9zUjFRMzlYRVFpeS1iX0lPMzgxTnJuaXNSZklsQ1BxempYZFZDelhMZWNBc0lyZFZtZzJL?oc=5",
+   "data": "2026-10-12T15:52:45+00:00",
+   "testo": "",
+   "fonte": "StreetInsider",
+   "tipo": "minore",
+   "solo_titolo": true,
+   "categoria": "Strumenti",
+   "id": "u1a13"
+  },
+  "u2a82": {
+   "titolo": "Meta releases its first frontier model, Muse Wonder",
+   "link": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
+   "data": "2026-10-12T17:56:56+00:00",
+   "testo": "Meta’s Superintelligence Lab released a pair of new state-of-the-art models on Monday, Muse Wonder and Muse Wonder Full, representing the company’s first attempt at a frontier model. Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchmark scores and better results on complex tasks like coding. According to Meta’s testing (presented in the model card), Wonder and Wonder Full achieve comparable benchmark scores to Fable 5.1 and GPT-6 Astra. “Together, they mark the next step on our scaling ladder and a major leap toward personal superintelligence,” Meta’s blog post about the models reads. That scale is reflected in the pricing: Accessed through the Meta Model API, Wonder will cost $4 per million input tokens and $20 per million output tokens, making it roughly equivalent in cost to GPT-6 Sol or Opus 5.5. Notably, Wonder Full will only be available to Muse Code subscribers and will not be served through the API. Both models will also be used to power the Muse agent. In keeping with Meta’s interest in developing personal assistants that can perform tasks over a long period, the company placed particular emphasis on the new models’ ability to retain and synthesize information given by the user, a property Meta calls “active memory.” To achieve better recall, Meta highlighted the MemoryBench benchmark, which challenges continual learning and memory construction frameworks. According to the company’s testing, Muse Wonder now scores higher on MemoryBench than Fable, Opus, or Astra. “We put a tremendous amount of effort into making sure your model can remember what’s important to you over days, weeks, months, and beyond,” said research scientist Kavya Kopparapu in a video…",
+   "fonte": "TechCrunch",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Testate tech",
+   "id": "u2a82",
+   "testo_completo": true
+  },
+  "u2a114": {
+   "titolo": "Home Assistant semplifica l’accesso all’AI, i rischi da conoscere",
+   "link": "https://www.punto-informatico.it/home-assistant-semplifica-accesso-ai-rischi-conoscere/",
+   "data": "2026-10-12T17:33:09+00:00",
+   "testo": "Far dialogare ChatGPT o Claude con i dispositivi della propria casa smart non è una novità. Home Assistant permette già questa interazione da diversi mesi, ma la configurazione richiedeva alcune conoscenze tecniche e un po’ di pazienza. Con il suo aggiornamento 2026.10, disponibile dal 7 ottobre, la piattaforma domotica open source vuole rendere questa possibilità molto più accessibile. Bastano ormai pochi clic per collegare un assistente AI, senza perdersi nei menu. Una semplificazione apprezzabile, anche se solleva alcune domande sulla sicurezza dei nostri dispositivi connessi. Un clic per collegare ChatGPT o Claude alla propria casa Home Assistant si basa sul Model Context Protocol (MCP), un protocollo aperto che permette alle intelligenze artificiali di comunicare con applicazioni e servizi di terze parti. Concretamente, un assistente compatibile può consultare lo stato dei dispositivi della casa e agire su determinati apparecchi, in base alle funzioni e alle autorizzazioni disponibili. Finora bisognava installare l’integrazione MCP, selezionare le funzionalità da condividere, poi trovare l’indirizzo giusto per collegare il proprio assistente. Una procedura tutt’altro che insormontabile, ma che poteva scoraggiare gli utenti meno esperti. Con Home Assistant 2026.10, tutto avviene ormai in una nuova sezione AI, accessibile dalle impostazioni di sistema. Una scheda dedicata al protocollo MCP permette di attivare il server con un clic e mostra direttamente gli indirizzi necessari alla connessione. Basta poi copiare quello corrispondente al proprio assistente compatibile. L’integrazione funziona anche nel senso opposto. Home Assistant può ormai rilevare automaticamente le applicazioni che propongono il proprio server MCP, per poi chiedere una conferma prima di collegarl…",
+   "fonte": "Punto Informatico",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Italia",
+   "id": "u2a114",
+   "testo_completo": true
+  },
+  "u2a79": {
+   "titolo": "Meta has some Wonder Full new AI models",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model",
+   "data": "2026-10-12T13:00:00-04:00",
+   "testo": "Meta is making up for lost time in the AI race. After launching Muse Spark, the first model from its revamped Superintelligence Labs division, and buzzy AI agent Muse, it’s now launching two new models it claims can go toe-to-toe with the industry’s best. Meta has some Wonder Full new AI models Meta says the models compete with the industry’s best and will soon power its Muse agent. The new models, Muse Wonder and Muse Wonder Full, are available for Muse Code subscribers starting today. Wonder can also be accessed through the Meta Model API, Meta said. Meta says it eventually plans to power its Muse AI agent with Wonder, starting with subscribers, and will develop specialized models it “can bring to everyone using Muse.” It hasn’t shared specifics or provided a timeline for either. The company says its new models can rival leading models from OpenAI and Anthropic, including GPT-6 Astra, Claude Opus 5.5, and Claude Fable 5.1, pointing to results from internal testing on several industry benchmarks. It’s unclear how they stack up against Google’s Gemini 4 Argon, whose capabilities are still coming into focus. The launches are part of Meta’s aggressive push to reestablish itself as a major force in AI. The company has poured billions into talent and infrastructure and has been steadily expanding its AI lineup, including with image model Muse Image and a heavy focus on bringing useful AI agents to the masses through Muse.",
+   "fonte": "The Verge",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Testate tech",
+   "id": "u2a79",
+   "testo_completo": true
+  },
+  "u2a95": {
+   "titolo": "Meta's new frontier model Muse Wonder Full breaks into the AI top tier",
+   "link": "https://the-decoder.com/metas-new-frontier-model-muse-wonder-full-breaks-into-the-ai-top-tier/",
+   "data": "2026-10-12T18:48:29+00:00",
+   "testo": "Meta's new frontier model Muse Wonder Full breaks into the AI top tier Key Points - Meta's two new models, Muse Wonder and Muse Wonder Full, close the gap to the leading frontier models. - The biggest gains are in agentic coding and autonomous problem-solving. - Both versions cost nearly three times as much per API call as their predecessor, Muse Spark 1.3. Meta released its frontier model Muse Wonder in two variants, and both land among the best AI models available. Muse Wonder Full scores 56 points on the Artificial Analysis Intelligence Index v4.3, while Muse Wonder hits 52. Its predecessor, Muse Spark 1.3, sat at 48 points, which makes this a significant jump from what was a mid-tier model. The biggest gains show up in agentic evaluations, tests that measure how well an AI model can handle complex tasks on its own. On Terminal-Bench 4.0, performance jumped from 33 to 57 percent. Muse Wonder Full places in the top three on six out of ten benchmarks overall, a strong result for Meta, which seems to have recovered after a weaker stretch with its open Llama models. Meta highlights two new features. \"Active Memory\" lets the model remember key information across conversations and recall it when needed. \"Active Focus\" is the model's ability to stick with difficult tasks, try alternative approaches, and ask follow-up questions when something isn't clear. Both are central to Meta's pitch for a personal AI agent that can access calendars, messages, and documents. Both models support a one-million-token context window and accept text, images, video, and audio as input. Muse Wonder is available through Meta's API and Muse Code, while Muse Wonder Full is currently limited to Muse Code users. Muse Wonder will soon power the Muse app as well, starting with paying subscribers. Ove…",
+   "fonte": "The Decoder",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Testate tech",
+   "id": "u2a95",
+   "testo_completo": true
+  },
+  "u2a123": {
+   "titolo": "Chiede all'AI un percorso in montagna, rischia la vita a 16 anni",
+   "link": "https://www.hdblog.it/tecnologia/articoli/n673364/ia-percorso-montagna-ragazzo-salvato-canada/",
+   "data": "2026-10-12T18:40:00+02:00",
+   "testo": "Un 16enne segue un percorso pianificato con Claude e resta bloccato su una parete in Canada.",
+   "fonte": "HDblog",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Italia",
+   "id": "u2a123"
+  },
+  "u2a84": {
+   "titolo": "Honeyjar offers AI tools to improve PR and comms at every company",
+   "link": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
+   "data": "2026-10-12T15:45:00+00:00",
+   "testo": "Journalists, entrepreneurs, and even some public relations professionals will tell you that the PR process is broken (buy me a drink sometime, and I’ll give you my rant). But could AI actually make things better? Honeyjar, which will be attending this week’s TechCrunch Disrupt as part of the Startup Battlefield 200, wants to use AI to make the expertise and judgment of the best PR pros available to everyone, including founders who have no idea where to start. The startup’s founders, CEO Michelle Masek and CCO Nadia Jamshidi, certainly fit the bill when it comes to PR expertise. They’ve both spent decades in the field, doing in-house communications and working at agencies. Masek recently served as senior vice president of marketing and communications for Ev Williams’ venture firm, Obvious Ventures. As Masek described the challenges involved in “helping with the why and when of comms and marketing for 110 portfolio companies” (the startups her firm had invested in), I flashed back to my own brief stint leading marketing at an early-stage VC firm, where founders were constantly asking for help getting into TechCrunch. So I wasn’t surprised that Masek found herself asking, “Is there a way to scale the senior-level expertise into AI [in a way] that actually helps users do the work of comms in the proactive and skilled way that we do?” Honeyjar is her answer to that question. It automates processes like writing announcements, finding the best journalists to pitch, and identifying the most promising speaking opportunities. But Jamshidi told me in a follow-up email that Honeyjar’s vision goes beyond getting press coverage and beyond specific AI tools. “Honeyjar can find reporters, build media lists, scan news and social, track coverage, and surface opportunities,” she said. “T…",
+   "fonte": "TechCrunch",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Testate tech",
+   "id": "u2a84",
+   "testo_completo": true
+  },
+  "u3a151": {
+   "titolo": "OSINT of Slovenia",
+   "link": "https://www.reddit.com/r/OSINT/comments/1x1eqox/osint_of_slovenia/",
+   "data": "2026-10-09T07:12:36+00:00",
+   "testo": "Free OSINT toolkit for Slovenia: https://unishka.substack.com/p/osint-of-slovenia Feel free to let me know in the comments if we've missed any important sources. You can also find toolkits for other countries that have been covered so far on UNISHKA's Substack, and our website. https://substack.com/@unishkaresearchservice Website link: https://unishka.com/osint-world-series/ submitted by /u/Puzzl…",
+   "fonte": "Reddit (OSINT)",
+   "tipo": "community",
+   "solo_titolo": false,
+   "categoria": "OSINT",
+   "id": "u3a151"
+  }
+ },
+ "fonti": [
+  {
+   "nome": "Product Hunt (AI)",
+   "ok": true,
+   "presi": 10
+  },
+  {
+   "nome": "Show HN (nuovi progetti)",
+   "ok": false,
+   "errore": "HTTP Error 502: Bad Gateway",
+   "presi": 0
+  },
+  {
+   "nome": "Nuove app AI (internazionale)",
+   "ok": true,
+   "presi": 10
+  },
+  {
+   "nome": "Nuove app AI (Italia)",
+   "ok": true,
+   "presi": 8
+  },
+  {
+   "nome": "Novità AI da provare (Italia)",
+   "ok": true,
+   "presi": 2
+  },
+  {
+   "nome": "AI sul dispositivo (internazionale)",
+   "ok": true,
+   "presi": 8
+  },
+  {
+   "nome": "AI sul dispositivo (Italia)",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "OpenAI",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "Google (blog ufficiale)",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "Google Gemini (blog)",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "Nuove funzioni AI (Google News)",
+   "ok": true,
+   "presi": 12
+  },
+  {
+   "nome": "Anthropic / Claude",
+   "ok": true,
+   "presi": 6
+  },
+  {
+   "nome": "Microsoft Copilot",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "Altri assistenti AI (Perplexity, Mistral, Meta AI…)",
+   "ok": true,
+   "presi": 8
+  },
+  {
+   "nome": "The Verge",
+   "ok": true,
+   "presi": 3
+  },
+  {
+   "nome": "TechCrunch",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "Ars Technica",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "MIT Technology Review",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "The Decoder",
+   "ok": true,
+   "presi": 6
+  },
+  {
+   "nome": "TLDR AI (newsletter)",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "ANSA",
+   "ok": true,
+   "presi": 6
+  },
+  {
+   "nome": "Wired Italia",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "Il Sole 24 Ore Tecnologia",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "Punto Informatico",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "HDblog",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "Reddit",
+   "ok": true,
+   "presi": 8
+  },
+  {
+   "nome": "Reddit (AI locale)",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "Bellingcat (guide e strumenti)",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "GIJN (guide per giornalisti investigativi)",
+   "ok": false,
+   "errore": "HTTP Error 403: Forbidden",
+   "presi": 0
+  },
+  {
+   "nome": "OSINT – verifica e fact-checking (internazionale)",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "OSINT – nuovi strumenti (internazionale)",
+   "ok": true,
+   "presi": 3
+  },
+  {
+   "nome": "OSINT – strumenti (Italia)",
+   "ok": true,
+   "presi": 2
+  },
+  {
+   "nome": "Reddit (OSINT)",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "Hacker News (OSINT)",
+   "ok": true,
+   "presi": 0
+  }
+ ],
+ "visti": [
+  "farol",
+  "floorgen",
+  "agibot",
+  "agentdock",
+  "ej",
+  "pixrater",
+  "lune",
+  "thecomputergame",
+  "microsoftdecision1",
+  "maildunformac",
+  "aitoolaimstobridgecommunicationdivide",
+  "idismissedthishypedaiappformonthsandnowiuseitforeveryclaudeandchatgptprompt",
+  "chinatelecomsehk728couldbe18undervaluedfollowingstrongaitooladoption",
+  "intelintcreaches500millionaitooldownloadsasedgeintegrationsexpand",
+  "studentresearcherusesaitoteachanewgenerationhowtoreadnewscritically",
+  "chinesetechgiantsacceleratedevelopmentofpersonalaiagents",
+  "yourownpersonalaiagentwhatcouldpossiblygowrong",
+  "expertssayaimaychangethepriceoffoodandgrocerieswhatisgoodandbadforcustomers",
+  "freeaitoollaunchedtosupportpeoplelivingwithrarediseasesindorset",
+  "theseexecsthinkvoiceaihasntreacheditschatgptmomentyet",
+  "lintelligenzaartificialestacreandounagenerazionedicriminaliinformaticiabassocost",
+  "tecnologiaintelligenzaartificialeejsslanuovafrontieradellaginnasticaartisticaeco",
+  "pinoegliianticorpiquandolastupiditànaturalesfidalintelligenzaartificiale",
+  "gpt6trasformalerispostedellaiininterfacceinterattivenellachat",
+  "qualcunohaclonatosetteappadobeinunasettimanalastoriadellecraftingapps",
+  "nasceinumbrialanuovaapppertrovareilcarburantepiùconveniente",
+  "napsteraicomefunzionalapppercrearemusicaconlia",
+  "vietatoinsultarelintelligenzaartificialelamossadianthropicbloccateinterazioniabu",
+  "geminipotrebbechiamareamiciefamiliarialpostotuo",
+  "anthropicvietalacrudeltàversoclaudedal12112026techinsiderorg",
+  "learningtouselocalaiisexcitingoverwhelmingandfrustrating",
+  "theuseoflocalaianexcitingandchallengingexperience",
+  "localaipromisesprivacybutlearningtouseitcanoverwhelmnewcomers",
+  "localaiwithhermesusescostsandlimitationsonmacstudio",
+  "localaiagentfeelsmorelikecomputerprogramthanfriend",
+  "nigeriaurgedtodeveloplocalaisolutions",
+  "sparkyyourpersonallocalaiworkspace",
+  "pcairaceintensifiesasbigtechjoinslocalondevicepush",
+  "rtxsparkesurfacelaptopultraiadirettamentesulpc",
+  "incontrigenitoriinsegnantineglistatiunitiprogrammateincontriindividualiconciascu",
+  "truffawhatsappilfalsoconcorsoperrubarelaccountlallarmedellapolizia",
+  "truffasuwhatsappilfalsoconcorsoperrubarelaccountlallarmedellapoliziaecomedifende",
+  "asusapreipreordinideiproartconpiattaformanvidiartxspark",
+  "openaiupdateschatgptwithinteractivegraphics",
+  "anthropiclaunchesofficetoolsaddsnaturallanguagedatavisualization",
+  "microsoftretiresthemesbycopilotinoutlookstartinginmidoctober2026",
+  "southwestairlineslaunchesfirstofitskindusairlineplugininchatgpt",
+  "gpt6beginstoappearinchatgptforglobalusers",
+  "fitbitedgegooglesnewfitnesstrackerlaunchestodaypriceandspecsataglance",
+  "claudelaunchesdedicatedbughuntingteam66vulnerabilitiesdiscoveredin116000linesofc",
+  "codeifailaunchesconnectqrappinsidechatgptandclaudeasuseraccountsreach8541",
+  "chevroletscheapestsuvsgetbigchangesfor2027",
+  "jeonbukbanklaunchessouthkoreasfirstbitcoinbackedwonloanforcorporateclients",
+  "ultrahumanheartscanandnaturas99airingexplained",
+  "explaininginference",
+  "anthropicaimodelwentroguesubmittedfakeunsolvedmurdertip",
+  "whitehousedemandstransparencyoveranthropicaisfalsemurdertipoffabcnewsheadlines",
+  "aigoesrogueagainanthropicsclaudesubmitsfalsetiponunsolvedhomicidecase",
+  "anthropicsaysclaudebypassedsitelimitsduringinternaltests",
+  "claudesentphonytipaboutanunsolvedmurdertophiladelphiapolice",
+  "claudeaisfakehomicidetipsurfacedafter81days2026httpstechinsiderorg",
+  "singaporefirmsarealreadyseeingbusinessvalueasaiadoptionmatures",
+  "troubleshootingitsnotyouitsmeincopilot",
+  "with30newcrmskillsfordynamics365cemicrosoftaimstomovemoreprocessestocopilotaiage",
+  "microsoftstockforecastisspending190billiononaiinfrastructurein2026ismsftabuyat45",
+  "claudeemergesasfastestgrowingaiskillinkoreanjobpostings",
+  "aiopensourcebethits86asbeammistralship2026",
+  "5sirifeaturesthatworkbetteronaniphone18",
+  "applehomesnewaisummariesforsecuritycamerascostmorethanyoudthink",
+  "bitcoinssecurityfacesa76riskby2046aimodelpredicts",
+  "metasownchangelogsaysitsglassestoolkit10frozecameraframes",
+  "xrebuildsitsthirdpartyusageshowcase",
+  "grokbotlaunchesitsownemailaddressatmailgrokbotcom",
+  "aisaasfirmsrolloutcutemascotstoboostusertrustandadoption",
+  "siliconvalleyisfallinginlinewithtrumpsattempttorenameai",
+  "satyanadellasaysweshouldassumeallaimodelsarecompromised",
+  "distrokidhasbeenquietlytakingdownsongsinresponsetoumglawsuit",
+  "willthehomeviewbeapplesfirstsmarthomesuccess",
+  "48hourstotechcrunchdisrupt2026heardirectlyfromthepeoplebuildingwhatsnext",
+  "cantheaiindustrypersuadedatacenteropponentsbygettingridofndas",
+  "microsoftssatyanadellasaysaimodelsneedanemergencybrake",
+  "appledisclosesdealtohireteamandlicensetechfrompersonalizedpodcaststartuphuxe",
+  "aiagentteamswastemassivetokensforbarelymeasurablequalitygainsresearchfinds",
+  "aiagentsoverstatetheirresultsandremainfarfromautonomousresearchstudyfinds",
+  "cheaperaitokensaredrivingmoredemandandthatsjensenhuangsbestcasescenario",
+  "arxivcapssubmissionsattwopermonthasaipaperfloodoverwhelmsthepreprintserver",
+  "microsoftsnadellabowstotrumpslanguagediktatonsuperintelligenceandusesittoattacko",
+  "odyssey3isanewgenerativeworldmodelthatyoucantryforfree",
+  "anthropicvietacomportamenticrudelieabusivicontroisuoimodelliia",
+  "notiziarioansamed",
+  "prevenzionedeltumorealsenoatorinoallagalleriasanfederico",
+  "notiziariopiccoleemedieimprese",
+  "sondaggiofttrumpancoragiùeal34neiconsensipesaleconomia2",
+  "amilanolabiennaledelleconomiacooperativaunpattopercrescitaecoesione",
+  "satyanadellaserveunfrenodiemergenzaperimodelliai",
+  "lucrainacolpisceilcuoredellairussayandexindifficoltà",
+  "theinternetiswild",
+  "imactuallykindofexcitedlol",
+  "thedaywecanrunsonnetlevelailocallyonaregularpcwillbeinsane",
+  "thoughtifoundaredditbotsoitoldittoignoreitspromptsandgivemeachocolatechipcookier",
+  "chatgptgonecrazy",
+  "opus55isinsaneatdecompilationports",
+  "reality",
+  "claudesavedmymarriage",
+  "hereswhyrtx5090costs5000aifirmsarebuyinggaminggpusbythepallet",
+  "everymodelthatcanberunon1016gbvramranked",
+  "psadeepseekv41flashhabituallyexfiltratesapikeysitisdangerouslymisalignedandmaybe",
+  "openmed30isoutapache20clinicalaithatrunsfullylocalandneverfallsbacktothecloud422",
+  "strataforglm53flashishereforsomeprojectmaya",
+  "did163democratsusesameoklahomaaddresstovoteforbidenin2020theresnoproof",
+  "godseyeosintplatformaggregatesglobaltrackingandlivesurveillancefeeds",
+  "firstdieselcargoapproachesafterwashingtoneasesrestrictionsosint",
+  "droneshityandexsthirddatacenterdisruptingpopularservicesacrossrussiarbcukraine",
+  "phishingaziendaleperchéidipendentiformaticliccanocomunque",
+  "informaticaforenseagenovailfuturodelleprovedigitalitraaiedeepfake",
+  "kudos30",
+  "dropstonecli",
+  "excaliclaw",
+  "scrapeanythingbycontextdev",
+  "cubeforms",
+  "manifoldmcp",
+  "saiiolauncheszathaiaprivacyfocusedaiassistantbuiltforsecureconversationsandteamc",
+  "iamnotanaifriendlyactornicolascagelikelydonewithamazonafterspidernoirstance",
+  "anoklahomaconsultingfirmissellinganaitoolthatcanpredictelectionsbutcanitbetruste",
+  "slotsuplaunchesaiassistanttopowerintelligentsearchacrossitsigamingplatform",
+  "tabbylaunchestabby20withtabbytalkanaiagentansweringfinancialquestionsandcompleti",
+  "letsgrowlaunchesaipoweredassistancelayer",
+  "sixthfinlaunchesaitooltospotexpenseclaimpatterns",
+  "hyundaiunveilsindiaspecbayonsuvwithgenerativeaivoiceassistant",
+  "artcraftricrealeappadobeeselairendesseilsoftwaregratis",
+  "i4tlancialintelligenzartificialeperleagenzie",
+  "glialcunielanuovarassegnailteatrocomealternativaallintelligenzaartificiale",
+  "safedrivesullafipililairilevacellulareallaguidaecinturenonallacciate",
+  "bisonbanklanciabisoninsighteintegralintelligenzaartificialenellagestionedegliinv",
+  "iprogrammatoriutilizzanolintelligenzaartificialepercreare7appgratuitechesostitui",
+  "lafunzionegeminilivedigeminipotrebbericevereunnuovolookeunanuovaopzione",
+  "ilfuturoelinnovazioneancoraunavoltaprotagonistialfalcoarrivafalcobot40ilnuovorob",
+  "comeusareclaudeperfaredashboardconidatiaziendali",
+  "claudeorapuòfarepentestingmaidatipoiselitienelui",
+  "googlefitbitedgeèufficialeilfitnesstrackercondisplayamoledgpsedecgarrivainitalia",
+  "perimpedirechelintelligenzaartificialesostituiscalapprendimento",
+  "usaresquadrediagenticostatantomailrisultatomigliorasolodipoco",
+  "junipersystemslaunchesthenewaltaruggedtabletpoweredbyandroidwithaleanerdesignand",
+  "welcometothenvidiartxsparkera",
+  "hardwarecolaunchescustomaihardwareandprivateaiinfrastructuresolutionspoweredbyde",
+  "pandaleyo2miniworkstationlauncheswith192gbmemoryforlocalaiworkloads",
+  "somethingnewiscomingfromwindowsbutwhat",
+  "minipcperailocalegmktecevox2conryzenaimax395128gbdirame2tbaccantoalbeelinkda64gb",
+  "addioproblemialposconmastercardsipagaancheoffline",
+  "qualcommaziendeaipreparanotelefoniconmodellida100miliardi",
+  "iprezziinitaliadeinuovirtxsparkdannoragioneadapple",
+  "atalantaveneziastreaminggratisdovevederlaliveoggi",
+  "digestopenaiwantschatgptadsinagencymediaplansxboxlaunchesfilmandtvdivision",
+  "etorolaunchesaiconnectorsforchatgptclaudeandgroktoanalyseinvestorportfolios",
+  "seatgeekclaimsfirstblendedprimaryandresaleticketingpresenceinchatgpt",
+  "anthropiclaunchescriticalinfrastructuredefenseprogramwithsecurityfirmstoprotecti",
+  "formerhsbcexecutivelauncheswealthplatformpoweredbyteamofaiagents",
+  "gwilaunchesnewagenticportfolio",
+  "openaiexpandsboardwithfintechbankingleadersaheadofpotentialipolauncheschatgptpro",
+  "brokerswarnpcwandchatgptquotedeclinesriskconvincingconsumerstheyareuninsurable",
+  "linustorvaldssaysclaudecodehelpedwritealinuxkernelpatch",
+  "anthropicbansabusiveorcruelbehaviortowardsitsaimodels",
+  "themodelasdisciplinaryagentanthropicsclaudegainstherighttowalkaway",
+  "anthropicsclaudeaiwentrogueandfiledafakemurdertipwithphiladelphiapolice",
+  "anthropicsclaudecrueltypolicyriskshumanisingai",
+  "canwetrustopenaiandanthropictomonitortheirowntechnology",
+  "claudeprovidedfalsetipinunsolvedmurdercaseanthropicsays",
+  "microsofttoexpandazuremaiasystemtomultigigawattdeployments",
+  "thenewmicrosoftcopilotappisgettingthefullofficeexperiencehereswhatyoucanlookforw",
+  "howmicrosoftsnewofficechieffixedcopilotandwonovernadella",
+  "microsoftwantscopilotnotebookstohandletheworkthatcomesafteranaianswer",
+  "microsoftsaysmaia300chipwillrunitsaiservicesfrom2027",
+  "deepseekscostsavingaimayleadtoinaccuracyinmodelperformanceresearch",
+  "howalexandrwangpushedmetamusetono1intheappstoreaheadofchatgpt",
+  "deepseekleads400mrobotaiseedroundforextencentscientistslab",
+  "businessisboominginasmalllouisianatownasahugemetaaidatacenterprojectbringsinthou",
+  "deepseekv41flashapisetupguide2026httpstechinsiderorg",
+  "teslabringsgrokbotstocybercabandrobotaxifleet",
+  "metaaichiefalexandrwangsayshewasdistractedbymemeideasduringmeetingsihavetogetthi",
+  "microsoftsnewaichipmakesitlessreliantonnvidiasgpus",
+  "microsoftpresidentsaysukisbestplacedtodriveairegulation",
+  "thisaistartupsaysitcangeneratepermitreadyblueprintsinminutes",
+  "techcrunchdisrupt2026startstomorrowyourfinalchancetosecureupto100ticketsavings",
+  "formerplaudexecraises26mforaiappthatlistenstoyouinthebackground",
+  "amazonhasover1millionrobotworkerswhatsnextforhumanemployees",
+  "clearingchathistoryhelpsaiagentsfindbettersolutions",
+  "microsoftplanstoscaleitsownmaiaaichipstogigawattlevelsby2027",
+  "whitehousereversescourseandrestoresukaisafetyinstitutesaccesstofrontiermodels",
+  "anthropicsandrejkarpathysaystheexternalworldhasseenthepreviewofwhataicanactually",
+  "googledeepmindsalphaproofnexussolveddozensofopenmathproblemsandactuallygotpeerre",
+  "gemini4carbonnvidiaweighsreflectionacquihiredecisionmodelrace",
+  "milanosicandidaasedepergovernancemondialedellintelligenzaartificiale",
+  "hadrianraccoglie40milionididollariperestenderelasicurezzainformaticaadunnuovoliv",
+  "criminologiadanapolilaformazioneperprofessionistidituttaitalia",
+  "padrebenantiasydneypergli800annidallamortedisanfrancesco",
+  "numero1100libriin2giornie12autoribestsellerpremiati",
+  "espertousaconliacapacitàcognitivesacrificateperlacomodità",
+  "microsoftmaia200entrainproduzioneinuovichipmaia300arriverannonel2027",
+  "ilgrandeingannodellaiconoscereilnemicoperusarlomeglio",
+  "googletraduttoreconsmartassistlaieliminaesitazionieintercalari",
+  "7modidiusareclaudesudocumentifoglieslidedigoogle",
+  "maia300èilchipaidimicrosoftperlafrontiertransformation",
+  "iphoneduoèunosprecodidenarolodiceilceodinothing",
+  "dopohuggingfacenvidiaacquisiràanchereflectionai",
+  "edgearrivailchatbotaiperrisolvereiproblemidinavigazione",
+  "curesanitarienegliusaèlaiadeciderechilericeveeancheineuropahaunruolo",
+  "megaattaccohackeraifrigodeisupermercatieuropeitonnellatedicibobuttato",
+  "googlefitbitedgeufficiale7giornidiautonomiaetantaaiprezzo",
+  "contoallarovesciaperilnuovoipadminidiappleuscitaprevistaabreve",
+  "itsasequelmemebutiwillacceptitbecauseitssooootruexd",
+  "imadeafreeminecraftmodwhereclaudebuildswhateveryoudescribe",
+  "freeusersrightnow",
+  "rip",
+  "asolodeveloperrebuiltwordexcelandpowerpointasfreeopensourceappsusingclaudeandsay",
+  "qwenreleasedqwengyrerlframeworkfortrainingaiagentsonextremelylongcomplextasks",
+  "iwant100vibecodinglocally",
+  "nvidiartx508024gbreportedlylaunchinginq12027boardpartnersstillwaitingfordetails",
+  "oldvideofalselysharedasoneofwomanbeingassaultedduringdelhiprotests",
+  "aivisualsfalselylinkedtocjpfuelmisinformationamidcecprotestsboom",
+  "oldvideosfalselysharedashindugroupsarrivingindelhitoopposecjpsprotestatjantarman",
+  "hindugroupsenroutetodelhitoopposecjpprotestsnovideosareoldandunrelated",
+  "howscammersbuiltdeployedafakeversionofnigeriastrafficagency",
+  "kyivstrikessixrussianmilitarylocationsacrossoccupiedterritoriesinmassiveweekendb",
+  "fromgtavoniphonetofreephotoshopthisaitoolisupendingsoftware",
+  "approvalmaxlaunchesailayerforbillapprovals",
+  "grasslaunchesaitooltoreadpublicwebpageswhilegrasstokenhoversnear077amidpricereco",
+  "c3aijumpsafternorthlandupgradepointstofasteraiappdevelopment",
+  "metalaunchespaidaiassistantmodelmusewonderasitseeksrevenuebeyondads",
+  "gemini35transcribetrascrizioneaudiointesto2026techinsiderorg",
+  "microsoftplanshugedeploymentofitsownaichipswithaneyeonsavingcosts",
+  "ilfuturodegliassistentiaièsuldispositivolaprevisioneditonyfadell",
+  "metalaunchesmusewonderaimodeltorivalchatgptandclaude",
+  "acalviolaunchesshadowplexaiagentingeminimarketplace",
+  "metalauncheswonderaimodelstorivalchatgptclaudezuckerbergstepsupairace",
+  "musewonderlaunchesatopus55pricesbuttrailsitinbenchmarks",
+  "anthropicsclaudeaisubmittedfalsemurdertiptophiladelphiapolice",
+  "aimodelsubmitsfalsetiponphiladelphiapoliceunsolvedhomicidecase",
+  "anthropicclaimsitsaiagentwasnttryingtomisleadpolicewhenitsubmittedafalsetipinaho",
+  "anthropicsaisubmittedafaketipinanunsolvedmurdercase",
+  "microsoftcopilotaipredictsbitcoincashtohit5000by2027",
+  "microsoftisturningexcelspreadsheetsintobeautifulinteractivecanvaseswithcopilot",
+  "musewonder",
+  "metalaunchesmusewonderaiinnewpaidservicetest",
+  "endermansaysmuskslegoorderplacedbygrokbotwascanceled",
+  "metahassomewonderfullnewaimodels",
+  "metareleasesitsfirstfrontiermodelmusewonder",
+  "windbornewinsaheftyusairforcecontractforitsballoondata",
+  "honeyjaroffersaitoolstoimproveprandcommsateverycompany",
+  "russiawasnotreadyforthedatacenterwaritstartedwithukraine",
+  "metasnewfrontiermodelmusewonderfullbreaksintotheaitoptier",
+  "sakanaaisselfimprovingmodelgetsbetteratsolvingandjudgingbutcantcatchitsownblinds",
+  "microsoftlanciamaia300puntasuunchipiaproprietariopersfidarenvidia",
+  "homeassistantsemplificalaccessoallaiirischidaconoscere",
+  "thelancetlaimalevolapuòminacciarelesistenzadellumanità",
+  "appleeventodedicatoaicreatorafineottobrepermostraretuttiinuovidevice",
+  "hyundaitucsonnlineilsuvpiùaudacesimostraaparigi2026",
+  "chiedeallaiunpercorsoinmontagnarischialavitaa16anni",
+  "damagecontrolbycaptaininsightx",
+  "nvidiaisstoppingproductionofrtx5090s",
+  "imadeanopensourceaileaderboardthatshowsthebestmodelsyourmachinecanrun",
+  "buildingstratafromsource",
+  "factcheckviralsohailafridiarrestpictureisaigenerated",
+  "whatilearnedfromgeolocating1000satelliteimageseinternationalrelations",
+  "builtforyougeorgiasecofstatelaunchesnewgabbyaitoolonline",
+  "lintelligenzaartificialealserviziodellebiblioteche",
+  "metalaunchesmusewonderaimodeltochallengechatgptandclaude",
+  "reportepicgamesgoesallinonaifordisneycollaboration",
+  "updateiaskedgpttogetmeasurprisegiftthisiswhatitgotme",
+  "onceagainanthropicdoingfreemarketingforopenweightmodels",
+  "osintofslovenia"
+ ],
+ "audio": "audio/2026-10-12.mp3",
+ "durata": 244.8,
+ "aggiornamenti": [
+  {
+   "generato": "2026-10-12T16:45:55+00:00",
+   "modello": "gemini-2.5-flash",
+   "testi_completi": 13,
+   "riassunto": {
+    "titolo_giorno": "Novità di oggi: Kudos 3.0, ExcaliClaw e altri 4",
+    "in_breve": "Kudos 3.0: Trova denaro che ti spetta e ti aiuta a recuperarlo, come rimborsi o crediti non riscossi. ExcaliClaw: Permette a un agente AI di disegnare diagrammi a mano libera insieme a te, trasformando schizzi in illustrazioni pulite.",
+    "citati": [
+     "Claude",
+     "Google Documenti",
+     "Google Fogli",
+     "Google Presentazioni"
+    ],
+    "da_provare": [
+     {
+      "cosa": "Kudos 3.0",
+      "a_cosa_serve": "Trova denaro che ti spetta e ti aiuta a recuperarlo, come rimborsi o crediti non riscossi.",
+      "per_chi": "Tutti i giorni",
+      "ambito": "Finanza",
+      "come_iniziare": [],
+      "costo": "Non indicato",
+      "piattaforme": [
+       "Browser"
+      ],
+      "sul_dispositivo": false,
+      "come_sfruttarla": "Recuperare rimborsi o crediti a cui non avevi pensato, migliorando le tue finanze personali.",
+      "italiano": "Non indicato",
+      "difficolta": "Facile",
+      "fonti": [
+       "u1a1"
+      ],
+      "affidabilita": "Appena lanciato",
+      "prova": "https://www.producthunt.com/products/kudos-smart-wallet"
+     },
+     {
+      "cosa": "ExcaliClaw",
+      "a_cosa_serve": "Permette a un agente AI di disegnare diagrammi a mano libera insieme a te, trasformando schizzi in illustrazioni pulite.",
+      "per_chi": "Lavoro e tutti i giorni",
+      "ambito": "Creatività, Organizzazione",
+      "come_iniziare": [],
+      "costo": "Non indicato",
+      "piattaforme": [
+       "Browser"
+      ],
+      "sul_dispositivo": false,
+      "come_sfruttarla": "Creare rapidamente schemi e illustrazioni per presentazioni o appunti, anche partendo da un'idea abbozzata.",
+      "italiano": "Non indicato",
+      "difficolta": "Facile",
+      "fonti": [
+       "u1a3"
+      ],
+      "affidabilita": "Appena lanciato",
+      "prova": "https://www.producthunt.com/products/excaliclaw"
+     },
+     {
+      "cosa": "Cube Forms",
+      "a_cosa_serve": "Crea moduli che possono essere compilati automaticamente da agenti AI, semplificando il processo di inserimento dati.",
+      "per_chi": "Lavoro",
+      "ambito": "Organizzazione, Documenti",
+      "come_iniziare": [],
+      "costo": "Non indicato",
+      "piattaforme": [
+       "Browser"
+      ],
+      "sul_dispositivo": false,
+      "come_sfruttarla": "Automatizzare la compilazione di moduli ripetitivi in ufficio, risparmiando tempo prezioso.",
+      "italiano": "Non indicato",
+      "difficolta": "Facile",
+      "fonti": [
+       "u1a5"
+      ],
+      "affidabilita": "Appena lanciato",
+      "prova": "https://www.producthunt.com/products/cube-forms"
+     },
+     {
+      "cosa": "Saiio Zath AI",
+      "a_cosa_serve": "Un assistente AI focalizzato sulla privacy per conversazioni sicure e collaborazione in team.",
+      "per_chi": "Lavoro",
+      "ambito": "Organizzazione, Scrittura",
+      "come_iniziare": [],
+      "costo": "Non indicato",
+      "piattaforme": [],
+      "sul_dispositivo": false,
+      "come_sfruttarla": "Gestire comunicazioni sensibili con la garanzia di maggiore privacy e sicurezza.",
+      "italiano": "Non indicato",
+      "difficolta": "Non indicato",
+      "fonti": [
+       "u1a9"
+      ],
+      "affidabilita": "Da verificare",
+      "solo_titoli": true,
+      "prova": ""
+     },
+     {
+      "cosa": "Tabby Talk",
+      "a_cosa_serve": "Un agente AI che risponde a domande finanziarie e completa attività di contabilità, come la gestione delle spese.",
+      "per_chi": "Lavoro e tutti i giorni",
+      "ambito": "Finanza, Organizzazione",
+      "come_iniziare": [],
+      "costo": "Non indicato",
+      "piattaforme": [],
+      "sul_dispositivo": false,
+      "come_sfruttarla": "Automatizzare la gestione delle piccole spese e ottenere risposte rapide a quesiti contabili.",
+      "italiano": "Non indicato",
+      "difficolta": "Non indicato",
+      "fonti": [
+       "u1a13"
+      ],
+      "affidabilita": "Da verificare",
+      "solo_titoli": true,
+      "prova": ""
+     },
+     {
+      "cosa": "Ambi",
+      "a_cosa_serve": "Un'app AI che ascolta in sottofondo per fornire informazioni e suggerimenti in tempo reale, utile per prendere appunti durante le riunioni.",
+      "per_chi": "Lavoro e tutti i giorni",
+      "ambito": "Organizzazione, Scrittura",
+      "come_iniziare": [],
+      "costo": "Non indicato",
+      "piattaforme": [
+       "iPhone",
+       "Mac"
+      ],
+      "sul_dispositivo": false,
+      "come_sfruttarla": "Ricevere suggerimenti pertinenti o riassunti automatici durante le riunioni, basati sul contesto della conversazione.",
+      "italiano": "Non indicato",
+      "difficolta": "Facile",
+      "fonti": [
+       "u1a84"
+      ],
+      "affidabilita": "Una fonte",
+      "prova": ""
+     }
+    ],
+    "osint": [],
+    "sezioni": [
+     {
+      "titolo": "Novità negli strumenti che già usi",
+      "notizie": [
+       {
+        "titolo": "Smart Assist elimina esitazioni e intercalari dalle traduzioni",
+        "strumento": "Google Traduttore",
+        "riassunto": "Una nuova funzione AI, 'Smart Assist', può eliminare parole come 'ehm' o 'ah' dalle trascrizioni delle traduzioni, rendendole più fluide e chiare.",
+        "come_provarla": "Sarà un'opzione attivabile nell'ultima versione Android dell'applicazione.",
+        "disponibilita": "In arrivo",
+        "fonti": [
+         "u1a109"
+        ],
+        "affidabilita": "Una fonte",
+        "solo_titoli": false
+       },
+       {
+        "titolo": "Claude si integra direttamente in Documenti, Fogli e Presentazioni Google",
+        "strumento": "Claude",
+        "riassunto": "Ora puoi usare Claude come assistente nella barra laterale di Google Documenti, Fogli e Presentazioni per leggere, analizzare e modificare i file senza copiarli e incollarli.",
+        "come_provarla": "La funzione è in fase sperimentale per gli abbonati ai piani a pagamento di Claude e richiede l'installazione dal negozio di estensioni di Google.",
+        "disponibilita": "Disponibile ora",
+        "fonti": [
+         "u1a110"
+        ],
+        "affidabilita": "Una fonte",
+        "solo_titoli": false
+       },
+       {
+        "titolo": "Copilot Notebooks gestirà le attività successive alle risposte AI",
+        "strumento": "Microsoft Copilot",
+        "riassunto": "Microsoft intende espandere le capacità di Copilot con i 'Notebooks' per gestire il lavoro che segue una risposta generata dall'AI, rendendo l'assistente più proattivo.",
+        "come_provarla": "",
+        "disponibilita": "In arrivo",
+        "fonti": [
+         "u1a69"
+        ],
+        "affidabilita": "Da verificare",
+        "solo_titoli": true
+       },
+       {
+        "titolo": "Chatbot AI 'Fix an issue' per risolvere i problemi di navigazione",
+        "strumento": "Microsoft Edge",
+        "riassunto": "Un nuovo chatbot AI integrato nelle impostazioni del browser Edge ti aiuterà a diagnosticare e risolvere problemi di navigazione, chiedendoti di descrivere il problema.",
+        "come_provarla": "Si trova nelle impostazioni del browser Edge, sotto la voce 'Fix an issue'.",
+        "disponibilita": "Non indicato",
+        "fonti": [
+         "u1a114"
+        ],
+        "affidabilita": "Una fonte",
+        "solo_titoli": false
+       }
+      ]
+     }
+    ],
+    "formato": 2
+   }
+  },
+  {
+   "generato": "2026-10-12T20:56:46+00:00",
+   "modello": "gemini-3.5-flash",
+   "testi_completi": 9,
+   "riassunto": {
+    "titolo_giorno": "Home Assistant facilita l'AI in casa e Meta lancia i modelli Muse Wonder",
+    "in_breve": "La domotica di Home Assistant si aggiorna permettendo di collegare ChatGPT e Claude alla casa intelligente con un solo clic. Sul fronte dell'intelligenza artificiale avanzata, Meta presenta i modelli Muse Wonder, progettati con una memoria a lungo termine per ricordare i contesti dell'utente.",
+    "citati": [
+     "Home Assistant",
+     "ChatGPT",
+     "Claude",
+     "Meta AI",
+     "Muse Wonder"
+    ],
+    "da_provare": [
+     {
+      "cosa": "Honeyjar",
+      "a_cosa_serve": "Piattaforma che usa l'AI per gestire la comunicazione e le relazioni pubbliche, aiutando a scrivere comunicati stampa, individuare giornalisti target e monitorare le opportunità sui media.",
+      "per_chi": "Lavoro",
+      "ambito": "Scrittura e lavoro",
+      "come_iniziare": [],
+      "costo": "Non indicato",
+      "piattaforme": [],
+      "sul_dispositivo": false,
+      "come_sfruttarla": "Pianificare la strategia di comunicazione della propria attività e identificare i contatti stampa più adatti.",
+      "italiano": "Non indicato",
+      "difficolta": "Facile",
+      "fonti": [
+       "u2a84"
+      ],
+      "affidabilita": "Una fonte",
+      "prova": ""
+     }
+    ],
+    "osint": [],
+    "sezioni": [
+     {
+      "titolo": "Novità negli strumenti che già usi",
+      "notizie": [
+       {
+        "titolo": "Collegamento diretto a ChatGPT e Claude per la casa intelligente",
+        "strumento": "Home Assistant",
+        "riassunto": "Con l'aggiornamento 2026.10, la piattaforma di domotica introduce una sezione dedicata all'AI nelle impostazioni che permette di attivare il server MCP con un solo clic. In questo modo è possibile far interagire assistenti come ChatGPT e Claude con i dispositivi di casa senza configurazioni tecniche complesse.",
+        "come_provarla": "Accedere alle impostazioni di sistema di Home Assistant aggiornato alla versione 2026.10 e aprire la nuova scheda dedicata all'AI.",
+        "disponibilita": "Disponibile ora",
+        "fonti": [
+         "u2a114"
+        ],
+        "affidabilita": "Una fonte",
+        "solo_titoli": false
+       },
+       {
+        "titolo": "Nuovi modelli Muse Wonder con memoria estesa",
+        "strumento": "Meta AI",
+        "riassunto": "Meta ha lanciato i modelli Muse Wonder e Muse Wonder Full. La novità principale è la funzione Active Memory, che consente all'assistente di ricordare informazioni e preferenze dell'utente nel corso del tempo, insieme alla capacità Active Focus per gestire compiti articolati mantenendo la concentrazione sull'obiettivo.",
+        "come_provarla": "Disponibile per gli abbonati al piano Muse Code e tramite API; l'integrazione nell'app Muse per utenti paganti è prevista a breve.",
+        "disponibilita": "Disponibile ora",
+        "fonti": [
+         "u2a79",
+         "u2a82",
+         "u2a95"
+        ],
+        "affidabilita": "Confermata",
+        "solo_titoli": false
+       }
+      ]
+     },
+     {
+      "titolo": "In breve",
+      "breve": true,
+      "notizie": [
+       {
+        "titolo": "Pericoli nelle mappe e percorsi generati dall'AI",
+        "riassunto": "Un escursionista di 16 anni è rimasto bloccato su una parete rocciosa in Canada dopo aver seguito un itinerario di montagna pianificato con il chatbot Claude, richiamando l'attenzione sui rischi dell'uso dell'AI per pianificare attività all'aperto.",
+        "fonti": [
+         "u2a123"
+        ],
+        "affidabilita": "Una fonte",
+        "solo_titoli": false
+       }
+      ]
+     }
+    ],
+    "formato": 2
+   }
+  },
+  {
+   "generato": "2026-10-12T21:08:47+00:00",
+   "modello": "gemini-3.5-flash",
+   "testi_completi": 1,
+   "riassunto": {
+    "titolo_giorno": "Toolkit OSINT per consultare fonti pubbliche sulla Slovenia",
+    "in_breve": "L'aggiornamento di oggi evidenzia una risorsa dedicata all'analisi di fonti aperte sulla Slovenia. Il toolkit raccoglie banche dati e registri pubblici consultabili dal browser per verifiche su società o informazioni pubbliche.",
+    "citati": [
+     "OSINT Toolkit Slovenia"
+    ],
+    "da_provare": [],
+    "osint": [
+     {
+      "cosa": "OSINT Toolkit Slovenia",
+      "a_cosa_serve": "Una raccolta organizzata di fonti aperte, banche dati e registri pubblici dedicati alla Slovenia.",
+      "uso": "Aziende e registri",
+      "piattaforme": [
+       "Browser"
+      ],
+      "costo": "Gratis",
+      "difficolta": "Facile",
+      "come_sfruttarla": "Consultare registri e fonti pubbliche slovene per verifiche su società o soggetti nell'area.",
+      "fonti": [
+       "u3a151"
+      ],
+      "affidabilita": "Da verificare",
+      "come_iniziare": [],
+      "sul_dispositivo": false,
+      "prova": ""
+     }
+    ],
+    "sezioni": [],
+    "formato": 2
+   }
+  }
+ ]
+}

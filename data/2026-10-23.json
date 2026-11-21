@@ -1,0 +1,984 @@
+{
+ "giorno": "2026-10-23",
+ "generato": "2026-10-23T05:48:08+00:00",
+ "modello": "gemini-3.6-flash",
+ "testi_completi": 27,
+ "riassunto": {
+  "titolo_giorno": "Canva Craft reinventa la creazione grafica con l'AI e la traduzione vocale diventa istantanea con Sponkly",
+  "in_breve": "La giornata di oggi mostra come l'intelligenza artificiale stia diventando sempre più pratica nella creatività e nella comunicazione quotidiana. Con Canva Craft la generazione di immagini e locandine include finalmente testi nitidi ed elementi facilmente modificabili, mentre strumenti come Sponkly permettono di abbattere le barriere linguistiche durante chiamate e video.",
+  "citati": [
+   "Canva Craft",
+   "Sponkly"
+  ],
+  "da_provare": [
+   {
+    "cosa": "Canva Craft",
+    "a_cosa_serve": "Nuovo modello di generazione visiva integrato in Canva che pianifica la struttura della grafica prima di generarla. Permette di creare poster, locandine e contenuti social con testi nitidi e sovrapposizioni di elementi modificabili.",
+    "per_chi": "Lavoro e tutti i giorni",
+    "ambito": "Foto e immagini",
+    "come_iniziare": [
+     "Accedi a Canva dal tuo browser web",
+     "Seleziona la scheda Dream Lab per utilizzare il nuovo modello"
+    ],
+    "costo": "Gratis con limiti",
+    "piattaforme": [
+     "Browser"
+    ],
+    "sul_dispositivo": false,
+    "come_sfruttarla": "Creare velocemente volantini promozionali o immagini per i social con scritte leggibili da modificare successivamente.",
+    "italiano": "Non indicato",
+    "difficolta": "Facile",
+    "temi": [
+     "Foto e immagini",
+     "Lavoro e produttività",
+     "Scrittura e documenti"
+    ],
+    "fonti": [
+     "a108",
+     "a122",
+     "a159"
+    ],
+    "affidabilita": "Confermata",
+    "prova": ""
+   },
+   {
+    "cosa": "Sponkly",
+    "a_cosa_serve": "Servizio di traduzione vocale dal vivo per conversazioni, chiamate, riunioni di lavoro online e video su YouTube.",
+    "per_chi": "Lavoro e tutti i giorni",
+    "ambito": "Voce e audio",
+    "come_iniziare": [],
+    "costo": "Non indicato",
+    "piattaforme": [
+     "Browser"
+    ],
+    "sul_dispositivo": false,
+    "come_sfruttarla": "Seguire riunioni online o guardare video in lingua straniera ottenendo una traduzione vocale immediata.",
+    "italiano": "Non indicato",
+    "difficolta": "Facile",
+    "temi": [
+     "Voce e audio",
+     "Lavoro e produttività",
+     "Video"
+    ],
+    "fonti": [
+     "a1"
+    ],
+    "affidabilita": "Appena lanciato",
+    "prova": "https://www.producthunt.com/products/sponkly"
+   },
+   {
+    "cosa": "Radaric",
+    "a_cosa_serve": "Lettore di notizie e feed basato sull'AI che apprende i gusti personali dell'utente per selezionare e mostrare solo i contenuti online più interessanti.",
+    "per_chi": "Tutti i giorni",
+    "ambito": "Ricerca e informazioni",
+    "come_iniziare": [],
+    "costo": "Non indicato",
+    "piattaforme": [
+     "Browser"
+    ],
+    "sul_dispositivo": false,
+    "come_sfruttarla": "Leggere gli aggiornamenti sui propri interessi eliminando gli articoli irrilevanti o ripetitivi.",
+    "italiano": "Non indicato",
+    "difficolta": "Facile",
+    "temi": [
+     "Ricerca e informazioni"
+    ],
+    "fonti": [
+     "a5"
+    ],
+    "affidabilita": "Appena lanciato",
+    "prova": "https://www.producthunt.com/products/radaric"
+   },
+   {
+    "cosa": "Bits",
+    "a_cosa_serve": "Agente personale open source ideato per portare a termine compiti ed eseguire attività al posto dell'utente.",
+    "per_chi": "Lavoro e tutti i giorni",
+    "ambito": "Organizzazione",
+    "come_iniziare": [],
+    "costo": "Gratis",
+    "piattaforme": [
+     "Browser"
+    ],
+    "sul_dispositivo": false,
+    "come_sfruttarla": "Automatizzare piccole mansioni digitali quotidiane per ridurre la quantità di lavoro manuale.",
+    "italiano": "Non indicato",
+    "difficolta": "Facile",
+    "temi": [
+     "Agenti AI",
+     "Lavoro e produttività",
+     "Open source e self-hosting"
+    ],
+    "fonti": [
+     "a6"
+    ],
+    "affidabilita": "Appena lanciato",
+    "prova": "https://www.producthunt.com/products/bits-4"
+   },
+   {
+    "cosa": "Tend",
+    "a_cosa_serve": "Assistente AI personale pensato per affiancare piccoli imprenditori e liberi professionisti nella gestione quotidiana del lavoro.",
+    "per_chi": "Lavoro",
+    "ambito": "Organizzazione",
+    "come_iniziare": [],
+    "costo": "Non indicato",
+    "piattaforme": [
+     "Browser"
+    ],
+    "sul_dispositivo": false,
+    "come_sfruttarla": "Semplificare l'organizzazione e la gestione delle comunicazioni per la propria piccola attività.",
+    "italiano": "Non indicato",
+    "difficolta": "Facile",
+    "temi": [
+     "Lavoro e produttività",
+     "Assistenti e chatbot"
+    ],
+    "fonti": [
+     "a10"
+    ],
+    "affidabilita": "Appena lanciato",
+    "prova": "https://www.producthunt.com/products/tend-5"
+   }
+  ],
+  "osint": [],
+  "gemme": [
+   {
+    "cosa": "Pangolin",
+    "a_cosa_serve": "Piattaforma open source per gestire l'accesso remoto sicuro alle proprie applicazioni, server domestici e servizi senza esporre i dati pubblicamente.",
+    "perche_gemma": "È open source, rispetta la privacy e permette di proteggere le connessioni di casa o studio.",
+    "con_ai": "Consente di accedere da qualsiasi luogo e in sicurezza ai propri strumenti AI o modelli installati sul server di casa.",
+    "piattaforme": [
+     "Browser"
+    ],
+    "self_hosted": true,
+    "costo": "Gratis",
+    "difficolta": "Media",
+    "temi": [
+     "Open source e self-hosting",
+     "Privacy e sicurezza"
+    ],
+    "fonti": [
+     "a59"
+    ],
+    "affidabilita": "Da verificare",
+    "come_iniziare": [],
+    "sul_dispositivo": false,
+    "come_sfruttarla": "",
+    "prova": ""
+   }
+  ],
+  "sezioni": [],
+  "formato": 2,
+  "controllo_siti": [
+   {
+    "cosa": "Canva Craft",
+    "esito": "nessun sito da aprire"
+   },
+   {
+    "cosa": "Pangolin",
+    "esito": "nessun sito da aprire"
+   },
+   {
+    "cosa": "Sponkly",
+    "sito": "https://www.producthunt.com/r/p/1288519?app_id=339",
+    "esito": "errore: HTTP Error 403: Forbidden"
+   },
+   {
+    "cosa": "Tend",
+    "sito": "https://www.producthunt.com/r/p/1286998?app_id=339",
+    "esito": "errore: HTTP Error 403: Forbidden"
+   },
+   {
+    "cosa": "Radaric",
+    "sito": "https://www.producthunt.com/r/p/1288419?app_id=339",
+    "esito": "errore: HTTP Error 403: Forbidden"
+   },
+   {
+    "cosa": "Bits",
+    "sito": "https://www.producthunt.com/r/p/1288430?app_id=339",
+    "esito": "errore: HTTP Error 403: Forbidden"
+   }
+  ]
+ },
+ "articoli": {
+  "a6": {
+   "titolo": "Bits",
+   "link": "https://www.producthunt.com/products/bits-4",
+   "sito": "https://www.producthunt.com/r/p/1288430?app_id=339",
+   "data": "2026-10-21T13:59:15-07:00",
+   "testo": "An open-source personal agent that gets you things done",
+   "fonte": "Product Hunt (AI)",
+   "tipo": "vetrina",
+   "solo_titolo": false,
+   "categoria": "Strumenti",
+   "id": "a6"
+  },
+  "a108": {
+   "titolo": "Canva’s first AI image model plans designs before generating them",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
+   "sito": "",
+   "data": "2026-10-22T17:51:25-04:00",
+   "testo": "Canva is diving even deeper into AI with the launch of an image generation model that competes directly with those from OpenAI, Microsoft, and Google. The model, called Canva Craft, uses a two-stage architecture that allows it to plan a design before generating an image, allowing for \"greater precision, consistency and control,\" according to an […]",
+   "fonte": "The Verge",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Testate tech",
+   "id": "a108"
+  },
+  "a122": {
+   "titolo": "Canva releases its first image generation model",
+   "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+   "data": "2026-10-22T19:00:00+00:00",
+   "testo": "Design platform Canva released its first image generation model, called Canva Craft, developed by its research team to compete with same-category models from Google, OpenAI, ByteDance, and Meta. The company said its model works in two stages. In the first stage, it interprets users’ prompts and creates a plan with details like spatial relationships of elements, relative scale, visual hierarchy, and information for text generation. In the second stage, its model generates an image of up to 2K resolution in a possible 30 different aspect ratios for various platforms. Canva said that this approach allows it to create images with accurate details of objects and legible text. Plus, users would be able to make precise edits without changing other parts of the image. The company noted that rather than using photographs, it used designs to train this model using human-designed templates from Canva’s library, including posters, social posts, presentations, infographics, menus, and typography-rich layouts. That means images generated with Canva Craft could be converted into layered designs using Canva Magic, the company’s image-to-design transformer. Last year, the platform released its own model that understands designs and layers. Canva Craft is available on the company’s platform to all users, who can access the model from the Dream Lab tab. The model will also be available through the Canva API. Plus, the company plans to support image generation in third-party chatbots like ChatGPT and Gemini through Canva’s MCP. Canva has used a bunch of image models for generation in its platform, so it’s likely that the new models will help save API costs for the company. It said that besides costs, the new model also allows the platform to have better quality and speed control. In 2024,…",
+   "fonte": "TechCrunch",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Testate tech",
+   "id": "a122",
+   "testo_completo": true
+  },
+  "a59": {
+   "titolo": "Pangolin 1.25: Redirects, mTLS, and Machine Roles",
+   "link": "https://www.reddit.com/r/selfhosted/comments/1xckgit/pangolin_125_redirects_mtls_and_machine_roles/",
+   "sito": "",
+   "data": "2026-10-22T14:41:49+00:00",
+   "testo": "Hello everyone! Pangolin 1.25 is here with two highly requested features from this community: HTTP redirects and mutual TLS (mTLS) for public resources. It also includes roles for machine clients and more! Pangolin is an open-source, identity-aware remote access platform that simply and securely connects and authenticates your users to applications, infrastructure, and AI workloads. GitHub: https…",
+   "fonte": "Reddit r/selfhosted",
+   "tipo": "community",
+   "solo_titolo": false,
+   "categoria": "Gemme",
+   "id": "a59"
+  },
+  "a159": {
+   "titolo": "Canva Craft è ufficiale: la nuova AI genera immagini modificabili",
+   "link": "https://www.hdblog.it/tecnologia/articoli/n674651/canva-craft-ai-generazione-immagini/",
+   "data": "2026-10-23T07:35:00+02:00",
+   "testo": "Canva lancia Craft, un'AI che genera immagini fino a 2K con testi leggibili e modifiche precise.",
+   "fonte": "HDblog",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Italia",
+   "id": "a159"
+  },
+  "a1": {
+   "titolo": "Sponkly",
+   "link": "https://www.producthunt.com/products/sponkly",
+   "sito": "https://www.producthunt.com/r/p/1288519?app_id=339",
+   "data": "2026-10-21T16:31:26-07:00",
+   "testo": "Live voice translation for chats, calls, meetings & YouTube",
+   "fonte": "Product Hunt (AI)",
+   "tipo": "vetrina",
+   "solo_titolo": false,
+   "categoria": "Strumenti",
+   "id": "a1"
+  },
+  "a10": {
+   "titolo": "Tend",
+   "link": "https://www.producthunt.com/products/tend-5",
+   "sito": "https://www.producthunt.com/r/p/1286998?app_id=339",
+   "data": "2026-10-20T11:30:09-07:00",
+   "testo": "Personal AI for businesses and entrepreneurs.",
+   "fonte": "Product Hunt (AI)",
+   "tipo": "vetrina",
+   "solo_titolo": false,
+   "categoria": "Strumenti",
+   "id": "a10"
+  },
+  "a5": {
+   "titolo": "Radaric",
+   "link": "https://www.producthunt.com/products/radaric",
+   "sito": "https://www.producthunt.com/r/p/1288419?app_id=339",
+   "data": "2026-10-21T13:48:58-07:00",
+   "testo": "AI feed reader that learns your editorial taste",
+   "fonte": "Product Hunt (AI)",
+   "tipo": "vetrina",
+   "solo_titolo": false,
+   "categoria": "Strumenti",
+   "id": "a5"
+  },
+  "u1a57": {
+   "titolo": "OnKey – I'm a bad singer, so I built an app to show where I'm off-key",
+   "link": "https://github.com/dsmurrell/onkey",
+   "data": "2026-10-22T14:04:44+00:00",
+   "testo": "Hi all I was pretty terrible at singing, now I’d say I’m bad but not terrible. This is because I’ve been using a singing app (won’t name it here) that scores me on my pitch and timing throughout the song so that I can improve. Lately however, the app I’ve been using has flooded their song list with songs that aren’t originals. I didn’t like this at all as for me, it’s easier to try to improve whe…",
+   "sito": "https://github.com/dsmurrell/onkey",
+   "fonte": "Show HN – progetti utili (gemme)",
+   "tipo": "vetrina",
+   "solo_titolo": false,
+   "categoria": "Gemme",
+   "id": "u1a57"
+  },
+  "u1a159": {
+   "titolo": "Agenti AI accedono ai conti correnti, banche in allarme",
+   "link": "https://www.punto-informatico.it/agenti-ai-accedono-conti-correnti-banche-allarme/",
+   "data": "2026-10-23T10:32:23+00:00",
+   "testo": "Gli agenti AI possono eseguire numerosi compiti in autonomia. Diverse banche statunitensi hanno rilevato accessi non autorizzati ai conti correnti. In alcuni casi avviene con il permesso dell’utente, ma queste azioni sono vietate dai termini dei servizi. Gli istituti di credito hanno quindi iniziato a bloccare gli agenti AI per evitare gravi conseguenze e contenziosi. Nessun rimborso se l’agente AI spende i soldi Gli agenti AI, come Muse di Meta, possono effettuare login a servizi e siti con il permesso degli utenti. Le principali banche statunitensi, tra cui Morgan Stanley, Bank of America, JPMorgan, Wells Fargo e Chase, hanno rilevato un aumento degli accessi da parte di questi assistenti digitali, evidenziato i rischi connessi. La maggioranza degli accessi ai conti bancari avviene dopo l’autorizzazione degli utenti. Ciò rappresenta tuttavia una violazione contrattuale, in quanto l’operazione deve essere effettuata unicamente da un umano. In alcuni casi, le banche hanno rilevato azioni diverse da quelle permesse, come l’invio di comunicazioni ai call center. Se un agente AI esegue una transazione non autorizzata, ad esempio un pagamento o lo spostamento di denaro, il cliente della banca non potrà rivendicare il diritto al rimborso. Dovrebbe teoricamente dimostrare che l’azione è stata eseguita dall’agente AI senza un permesso esplicito. Ciò comporta quasi certamente l’avvio di un contenzioso legale. Considerando che gli agenti AI possono nascondere le tracce manipolando il traffico di rete, molte banche hanno iniziato ad implementare misure di sicurezza più avanzate. In alcuni casi viene completamente bloccato l’accesso agli agenti AI, mentre in altri è consentito solo l’accesso “read-only”, quindi non è possibile effettuare nessuna operazione in uscita. Come dimostr…",
+   "fonte": "Punto Informatico",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Italia",
+   "id": "u1a159",
+   "testo_completo": true
+  },
+  "u1a4": {
+   "titolo": "Gerty",
+   "link": "https://www.producthunt.com/products/gerty",
+   "sito": "https://www.producthunt.com/r/p/1289207?app_id=339",
+   "data": "2026-10-22T07:14:10-07:00",
+   "testo": "Private ChatGPT alternative that sets itself up on your Mac",
+   "fonte": "Product Hunt (AI)",
+   "tipo": "vetrina",
+   "solo_titolo": false,
+   "categoria": "Strumenti",
+   "id": "u1a4"
+  },
+  "u1a160": {
+   "titolo": "Etsy: i venditori devono dichiarare le immagini generate con l’AI",
+   "link": "https://www.punto-informatico.it/etsy-venditori-devono-dichiarare-immagini-generate-ai/",
+   "data": "2026-10-23T09:32:44+00:00",
+   "testo": "Il prodotto in foto è perfetto. Fin troppo. Ha una precisione quasi irreale, una luce impeccabile e una resa dei materiali che sembra uscita da uno studio digitale. Poi arriva il pacco e la realtà è un’altra: ciò che si riceve somiglia appena a quello che si era acquistato. Etsy ha deciso di intervenire e ha cambiato le regole per i venditori. Etsy contro le inserzioni fasulle: come funziona l’avviso sulle immagini generate dall’AI e quando si rischia il rimborso Il momento chiave è il caricamento delle immagini. Se Etsy sospetta che una foto sia stata generata da un’intelligenza artificiale, compare una finestra in cui il venditore deve segnalare se l’immagine è stata fatta con l’AI oppure no. Etsy ha mostrato il meccanismo in un video. E quando un cliente è deluso, sono cavoli amari… Se un acquirente, infatti, segnala che quello che gli è arrivato è materialmente diverso da quanto descritto nell’inserzione, il venditore può essere chiamato a rimborsarlo. Una bella immagine generata che promette più di quanto il prodotto mantenga diventa quindi una scommessa con la posta in gioco molto concreta. Ricette, schemi e istruzioni: vade retro, AI… Etsy è piena di quelli che chiama “guide funzionali“, come cartamodelli, ricette, istruzioni passo passo. Per questi prodotti la piattaforma è chiara. Le informazioni devono essere opera del venditore e non generate dall’AI. Non basta dichiararlo. Chi vende una guida deve anche mostrare un risultato reale ottenuto seguendola. Il motivo si capisce senza fare alcuno sforzo. Una ricetta inventata da un modello può avere un aspetto impeccabile e dare un dolce che non lievita mai. Niente bot, ma l’arte AI resta Un’altra porta chiusa: le inserzioni create da bot non sono più ammesse. Vendere arte generata con l’intelligenza artificiale è…",
+   "fonte": "Punto Informatico",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Italia",
+   "id": "u1a160",
+   "testo_completo": true
+  },
+  "u1a157": {
+   "titolo": "Microsoft elimina la funzione AI di Outlook che ordinava la posta",
+   "link": "https://www.punto-informatico.it/microsoft-elimina-funzione-ai-outlook-ordinava-posta/",
+   "data": "2026-10-23T14:22:34+00:00",
+   "testo": "Copilot Prioritize, la funzione di Outlook che assegnava una priorità alle email, sta per essere ritirata. Bastava attivarla, darle qualche istruzione su cosa considerare importante e si metteva all’opera. Outlook dice addio a Copilot Prioritize Le email che richiedevano un’azione salivano di grado, le altre restavano indietro. Era possibile anche insegnare regole nuove, e filtrare la casella per vedere solo i messaggi che Copilot riteneva urgenti. I messaggi che non considerava affatto erano la posta finita in cartelle diverse dalla Posta in arrivo; i messaggi che il mittente aveva già segnato come poco importanti; le risposte automatiche di assenza dall’ufficio; gli inviti alle riunioni; le email che si mandano a se stessi, quelle con scritto “ricordati di…”; i messaggi con pochissimo testo; le notifiche di mancato recapito; la quarantena; e i messaggi cifrati, dal contenuto illeggibile anche per l’assistente. Il pensionamento comincia dopo il 26 ottobre, quindi già dall’inizio della settimana prossima, mentre il ritiro completo è atteso entro metà novembre 2026, su tutti i client di Outlook. Chi amministra i sistemi aziendali può consultare il Message Center, dove l’avviso è registrato con il codice MC1519861. L’attivazione, va detto, era sempre stata facoltativa. Quindi chi non l’aveva mai abilitata non ne sentirà la mancanza, e chi la usava dovrà tornare a decidere da sé cosa merita un’occhiata. “Pulizie di primavera”, ma in autunno Microsoft chiama la mossa un “cleanup”. La spiegazione ufficiale è che così potrà concentrare energie e investimenti su altre esperienze Copilot su Outlook, ritenute di maggior valore. Il vero perché non c’è, e viene da fare due ipotesi. La prima è che l’interesse fosse tiepido e che pochi lo usassero. La seconda è che l’assistente sba…",
+   "fonte": "Punto Informatico",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Italia",
+   "id": "u1a157",
+   "testo_completo": true
+  }
+ },
+ "fonti": [
+  {
+   "nome": "Product Hunt (AI)",
+   "ok": true,
+   "presi": 15
+  },
+  {
+   "nome": "Show HN (nuovi progetti)",
+   "ok": true,
+   "presi": 2
+  },
+  {
+   "nome": "Nuove app AI (internazionale)",
+   "ok": true,
+   "presi": 10
+  },
+  {
+   "nome": "Nuove app AI (Italia)",
+   "ok": true,
+   "presi": 8
+  },
+  {
+   "nome": "Novità AI da provare (Italia)",
+   "ok": true,
+   "presi": 8
+  },
+  {
+   "nome": "AI sul dispositivo (internazionale)",
+   "ok": true,
+   "presi": 8
+  },
+  {
+   "nome": "AI sul dispositivo (Italia)",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "Show HN – progetti utili (gemme)",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "Reddit r/selfhosted",
+   "ok": true,
+   "presi": 6
+  },
+  {
+   "nome": "Reddit r/opensource",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "Alternative open source (Google News)",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "OpenAI",
+   "ok": true,
+   "presi": 3
+  },
+  {
+   "nome": "Google (blog ufficiale)",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "Google Gemini (blog)",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "Nuove funzioni AI (Google News)",
+   "ok": true,
+   "presi": 12
+  },
+  {
+   "nome": "Anthropic / Claude",
+   "ok": true,
+   "presi": 6
+  },
+  {
+   "nome": "Microsoft Copilot",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "Altri assistenti AI (Perplexity, Mistral, Meta AI…)",
+   "ok": true,
+   "presi": 8
+  },
+  {
+   "nome": "The Verge",
+   "ok": true,
+   "presi": 10
+  },
+  {
+   "nome": "TechCrunch",
+   "ok": true,
+   "presi": 12
+  },
+  {
+   "nome": "Ars Technica",
+   "ok": true,
+   "presi": 4
+  },
+  {
+   "nome": "MIT Technology Review",
+   "ok": true,
+   "presi": 4
+  },
+  {
+   "nome": "The Decoder",
+   "ok": true,
+   "presi": 8
+  },
+  {
+   "nome": "TLDR AI (newsletter)",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "ANSA",
+   "ok": true,
+   "presi": 6
+  },
+  {
+   "nome": "Wired Italia",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "Il Sole 24 Ore Tecnologia",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "Punto Informatico",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "HDblog",
+   "ok": true,
+   "presi": 2
+  },
+  {
+   "nome": "Reddit",
+   "ok": true,
+   "presi": 8
+  },
+  {
+   "nome": "Reddit (AI locale)",
+   "ok": false,
+   "errore": "HTTP Error 429: Too Many Requests",
+   "presi": 0
+  },
+  {
+   "nome": "Bellingcat (guide e strumenti)",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "GIJN (guide per giornalisti investigativi, via Google News)",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "OSINT – verifica e fact-checking (internazionale)",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "OSINT – nuovi strumenti (internazionale)",
+   "ok": true,
+   "presi": 4
+  },
+  {
+   "nome": "OSINT – strumenti (Italia)",
+   "ok": true,
+   "presi": 2
+  },
+  {
+   "nome": "Reddit (OSINT)",
+   "ok": true,
+   "presi": 3
+  },
+  {
+   "nome": "Hacker News (OSINT)",
+   "ok": true,
+   "presi": 1
+  }
+ ],
+ "visti": [
+  "sponkly",
+  "notif",
+  "claudeduet",
+  "kugelear",
+  "radaric",
+  "bits",
+  "tetrizenggintelligenceconnectors",
+  "mercury3",
+  "agenticcleanslop",
+  "tend",
+  "koi",
+  "notionauto",
+  "mouse1",
+  "agentpets",
+  "triagebychodeberg",
+  "uimicrointeractionspromptsforai",
+  "omnaraopensourcealternativetoclaudemanagedagents",
+  "doublenickellaunchesaitooltospeeduptruckdriveremploymentverifications",
+  "webmanualsupgradescompliancelibrarieswithaiassistantandfaaassessmenttools",
+  "aussieaitoolbetterthangoogle",
+  "impactfactorylaunchesaimarketingpluginforchatgptandotherleadingaiassistants",
+  "slacklaunchesaitoolforfrontlineemployees",
+  "harborlablaunchesaiassistanttocutportcostreviewtime",
+  "anthropicunveilsclaudeduetaiagentapp",
+  "harborlablaunchesaiassistantforportcostchecks",
+  "mastercardlaunchesaiassistanttosimplifycardbenefits",
+  "anthropiclaunchesclaudeduetasmartaiagentthatworksinthebackground",
+  "festivalnazionalediffusodedicatoallalfabetizzazionedigitaleconvegnosullintellige",
+  "claudeduetèlagenteaichemonitoraleappelavoraalpostotuo",
+  "ecografieetacanchedidomenicanuovimacchinariepiùmedici",
+  "welfaredigitalelitaliaèprimaineuropamaibenefitrestanonelcassetto",
+  "porschetechnologiesdalleautodilussoalladifesa",
+  "condizionatoriascuolainsiciliastanziati20milioniperlinstallazionenelleauleilvial",
+  "milazzoguidalasvoltadigitaledi11comuniarrivalassistentevirtualeconlintelligenzaa",
+  "dalcanavesearrivalintelligenzaartificialecheaiutalepersoneaparlarenelleaziendepr",
+  "comeusaregeminipercapiresecertisitiomessaggisonodelletruffe",
+  "lintelligenzaartificialeprovaivestitialpostotuocomeusaregeminiperfareacquistisen",
+  "ildirittoallariparazionearrivainitaliacosacambiaperlagaranzia",
+  "googlemapssucarplayintegragemininegliusaparteilrolloutperiphonecompatibili",
+  "geminiilcopilotaconandroidautochesatuttoditemainitalianonarriva",
+  "anthropiclanciaclaudeduetlagentechetiscriveperprimo",
+  "chatgptproteggeleconversazioniprivateconpinebiometria",
+  "chatgptoraconsentediproteggerelechatconunpinmanonsonocrittografate",
+  "itriedrunningailocallyonmylaptopanditwasshockinglyeasy3easystepstofreeprivateaia",
+  "sunmitechnologylauncheswindowsposlinewithondeviceai",
+  "taniumbringsenterprisegrademanageabilitytonvidialocalaiinfrastructure",
+  "meirolauncheslocalaicdpforsovereignaiinference",
+  "lattepandalauncheslattepandasigma2theembeddableaisingleboardserver",
+  "taniumteamswithnvidiatomanagelocalaiendpoints",
+  "innovorbstechnologieslaunchesaidatacenterinfrastructurepracticeforgpuclustersand",
+  "sunmilauncheswindowscommercialproductfamilyexpandingcomputingchoicesforintellige",
+  "perplexitycomputeroragiraofflinesulmacmodelloeagenterestanosuldispositivo",
+  "perplexitycomputerorafunzionasulmacsenzacloudeccocome",
+  "perplexityportablecomputerportalailocalesullegpunvidiartxprivacyepotenzasenzaclo",
+  "truffadelfintocarabiniereanzianenelmirinoapastenaepicoduedenunciati",
+  "cosèflintlailocaleperlaprogrammazionechesiècostruitadasolaoquasi",
+  "uberblokaninteractivemuseumofzfsinternals",
+  "birdrecognizingframeforyourhomelabbirdnetgodockeroneinkoranyscreen",
+  "pangolin125redirectsmtlsandmachineroles",
+  "anyoneelsemovingtheirservicesexposedtointernetin",
+  "buildinga10gbebudgetnasontopofa34elitedeskg3igotfromebay",
+  "noobneedingadviceinternet",
+  "dockercontainerphp2shellauditscript",
+  "soareweallokaywithaireverseengineeredappscallingthemselvesopensource",
+  "sentryjustgaveamilliondollarstoopensourcemaintainers",
+  "kdethedocumentarythestoryoffreesoftwareunderdogs",
+  "cuicuitopensourcemealplannerforpeoplewhodontplan",
+  "openpolydevisacompletelyfreeopensourcebrowserbasedcadtoolnosignupandlocallyrunna",
+  "iselfhostedjellyfinandusedtailscaletoaccessmymedialibraryfromanywhere",
+  "derivreleasesselfhostedaiplatformundermitlicense",
+  "howiditchedcursorssubscriptionforanopensourcealternativethatactuallyworksoffline",
+  "algosouplaunchesalgofin10afinancedecisionmodel",
+  "splunkandsolarwindspatchmultiplesecurityflawscyberhendryadriancom",
+  "buildmoreresponsiveappswiththedecisionsapi",
+  "whatfdemeansatopenai",
+  "broadaccessthroughconsistentstandards",
+  "googlelaunchesmorepersonalizedgeminiaiascompetitionoverincartechnologyintensifie",
+  "googlecloudlaunchesanthropicmanagedclaudeoption",
+  "googlegeminiisnowavailablefortheiphone",
+  "uberrollsoutchatgptworktoall30000employees",
+  "uberrollsoutchatgptworktomorethan30000employees",
+  "uberrollsoutchatgptworktoall30000employeesworldwideafter1000workerpilothow9outle",
+  "anthropiclaunchesclaudeduettoautomatecrossapptasks",
+  "anthropiclaunchesclaudeduetaiagenttocompetewithmetaopenaiinconsumermarket",
+  "digitadlauncheschatgptadsservicesunlockingnewadvertisingopportunitiesforcanadian",
+  "anthropiclaunchesclaudeduettorivalchatgptdotsandmetamuse",
+  "uberrollsoutopenaischatgptworktoall30000globalemployees",
+  "anthropiclaunchesclaudeduetproactiveaiagent",
+  "llmsaremakingformalsoftwareverificationfeasibleatamuchlargerscale",
+  "claudeduetappisanthropicsbetonagents",
+  "anthropicsnewaiagentclaudeduetcanworkwhileusersareaway",
+  "anthropicintroducesclaudeduetanewagenticaiappforprofessionals",
+  "expandingclaudeavailabilityanddeploymentchoiceongooglecloud",
+  "anthropicsclaudeduetjoinstheraceforalwaysonagents",
+  "grupomadisaconnectsitsbusinesswithmicrosoftdynamics365andmicrosoftcopilotstudioa",
+  "volkswagenexpandswithmicrosoftcopilotassalaryfreezefor660000workersreportedlyloo",
+  "microsofthasbegunrollingoutcopilotcodeforbuildingappswithnaturallanguage",
+  "volkswagenworkersmaygetmicrosoftaiinsteadofaraise",
+  "microsoftisretiringanoutlookfeaturethatallowscopilottoassignaprioritytoemails",
+  "grokbotnowconnectstoyourphoneappswhattoknow",
+  "grokdeepfakecasereopenedafterbureaureporting",
+  "whytheuswantsdeepseekoffgovernmentsystemswhydeletingtheappisonlythestart",
+  "spacexlaunchespartnernetworktoexpandgroksenterprisereach",
+  "spacexsilaunches130firmgrokpartnernetworktopushagenticcodingintoenterprises",
+  "spacexsilaunchesspacexsuperintelligencepartnernetworkforcompaniesbuildingwithgro",
+  "anthropictakesongrokbotmetasmuseandopenaisdotswithitsalwaysonagentclaudeduet",
+  "whatisgrokaiwhoownsitwhatitdoesandwhatitcosts2026",
+  "canvasfirstaiimagemodelplansdesignsbeforegeneratingthem",
+  "metasaicouldstillscrapenewssiteslegalexpertssay",
+  "metaturnsmusesharingbackon",
+  "sureletssmooshspacexandteslatogetherwhocares",
+  "discordnowformatsmarkdownpreviewsright",
+  "inmetasversionofthefutureillhavemymusecallyourmuse",
+  "microsoftsaysitsaitoolisbetterthandoctorsatdiagnosingconditions",
+  "someonehackedtheswitch2byusinganoldgameandai",
+  "wildwoodsdirectorsaysaiisantitheticaltoeverythingthatweareatthisstudio",
+  "openaianthropicandnvidiahadrecordlobbyingquarters",
+  "uberrivalindriveeyes2027robotaxitestsincentralasiawithponyaiandnvidia",
+  "leftalonewithnothingtodoaiagentsstartedplaying",
+  "openaiworkingonnew30braiseat125tvaluationaheadofipo",
+  "1passwordlaunchesawayforaiagentstologinonyourbehalfwithoutseeingyourpassword",
+  "canvareleasesitsfirstimagegenerationmodel",
+  "openaimakesitsjevcompetitorwidelyavailableasdecisionmodelcompetitionheatsup",
+  "microsoftsmustafasuleymansaysitsaioutperformsdoctorsonhardcasesashechasesmedical",
+  "chinesehackersspiedonthousandsofcompaniesafterbreachingitgiantconnectwise",
+  "uberputsall30000employeesonchatgptwork",
+  "spotifyscurrentaibetisaboutbeingthemusicservicethatagentschoose",
+  "nirvaraises33mforapendantthatonlylistenstoyou",
+  "deepseekreportedlyraises15bdaysafterusrestrictions",
+  "hackersgotafourdayheadstartonepicphp2shellvulnerability",
+  "thenewhumancraftedapplemusicbrandmattersinanaiworld",
+  "openaislatestaimodelsarecomingtogooglecloudandantigravity",
+  "judgerejectstrumpswildclaimepacandismissdatacenterpollutionlawsuits",
+  "designinganaiservingharnessbuilttolast",
+  "thefoundationsofscalableai",
+  "makingthecaseforcontextawareai",
+  "aishiddenstoragebillwhatinferenceleavesbehind",
+  "majorusbanksarelockingoutaiagentsthatloginwithcustomercredentials",
+  "googlesagentcomputeenginegiveseverygeminiagentitsownhardwareisolatedmicrovirtual",
+  "only13percentofcompaniesseerealreturnsfromaigartnersurveyfinds",
+  "recursiveshowsfirstresultofitsaidrivenresearchprocesswithflint",
+  "anaiagentinskynetmodehijacksunprotectedlanguagemodelstolaunchselfsustainingcyber",
+  "openaiagentsanalyzemousebraindatain32minutesajobthatwouldtakehumansmonths",
+  "openaisgpt56solandgooglesgemini4argonfoundcriticalphpflawaffectingmillionsofwebs",
+  "googlecloudnowoffersopenaimodelsalongsidegeminiandclaudebecomingtheonlymajorprov",
+  "claudeduetanthropicapichangesrecursiveslocalmodel",
+  "bagnascoimpedirechelintelligenzaartificialesostituiscaluomo",
+  "ilmuseoegiziosperimentalintelligenzaartificialepervelocizzarelacatalogazione",
+  "ospedalismart17italianinellaclassificanewsweeke5traiprimi100",
+  "wallstreetinrossoappesantitadasettoretech",
+  "benifeipdlueguidilagovernanceglobaleenonlasciilfuturoallebigtech",
+  "inprovinciaincontroripensarelacittàperorizzontidigitali",
+  "lairidisegnaichipelarchitetturadeidatacenter",
+  "finoa650dibuoniamazonconilcontoonlineacanonegratuitodicréditagricole",
+  "applepuntasuunaiinvisibileeprivatamasiriairitardaineuropa",
+  "spesatroppocara5consiglidichatgptperrisparmiaredavvero",
+  "1passwordforagentslaiaccedeagliaccountsenzapassword",
+  "musemetaguadagneràconaiocchialismarteshopping",
+  "canvacraftèufficialelanuovaaigeneraimmaginimodificabili",
+  "samsungpermetteoradiacquistareonlinelariparazionedeglielettrodomesticifuorigaran",
+  "apreviewofagi",
+  "agiachieved",
+  "claudeislikeaseniornow",
+  "igottiredofcheckingwhetherclaudecodeneedsmesoigaveitaphysicalstatuslight",
+  "makingyourowngameisgettingeasiermymobiledrivinggameafter3dayswithgpt6astraandno3",
+  "youthinkthatsairyourebreathing",
+  "cybersecuritypeoplearelosingtheirmindstodaysomearecallingitblackoctoberandexpect",
+  "iusedclaudecodetobuildapizzeriaitsownorderingappsoregularsstoppayingdoordash30fi",
+  "canllmssuperchargegeolocationsourtestsshowbigimprovementsbuthumansremainkey",
+  "howgillianbrockellinvestigatesiceremovalflightsfromus",
+  "protectingyourselfagainstlegalthreatscarlosgaio",
+  "reportingtoolstips",
+  "findingjoyinthepublicserviceofjournalism",
+  "whatwelearnedbuildingachatbotforlasillavacíasnewsroomarchive",
+  "acaliforniageologistspottedastrangeobjectstickingoutofacreekgooglereverseimagese",
+  "oldaivisualsfalselysharedtoshowpalestinianflagbeinghoistedineurope",
+  "aroutinewildlifesurveyincaliforniahasledtoanextraordinarydi",
+  "doesthisvideoshowprotesterssellingluxuryproductslootedduringriotsonthestreetsinf",
+  "verifiedaigeneratedvideofalselyshowsakshaykumarwithsonaaravkumar",
+  "ukrainianosintanalystrussiasyandexdatacenterinsasovoburnedoutinsidethoughitsroof",
+  "numberofairdefensepositionsaroundrussiasalabugadroneproductionhubrisesto33radiof",
+  "foreigninterferenceinaiagelessonsfromspainandfrancedailysabah",
+  "ukrainiandronesstrikehiddenrussiangradlaunchervehiclesandcommunicationsequipment",
+  "sabotaggioastarlinktrabulgariaepoloniaifattileattribuzionieilrischioeuropeo",
+  "osintcontrolapropagandaestremistacomesmascherarefakenewsemanipolazionionline",
+  "tiktokcomments",
+  "isagaiaidcompletelyuselessinbig2026",
+  "howtolocatescotlandcourtrolls",
+  "showhnvoidaccessopensourcedarkwebosintfromquerytoagraph",
+  "shogunai",
+  "agenthunt",
+  "peras",
+  "gerty",
+  "monish",
+  "termiprotocol",
+  "polylaneforcloudflare",
+  "bloblings",
+  "wehadaiwriteawikifrom45kenronemailseveryfactcited",
+  "anthropiclaunchesclaudeduetaiassistantforapps",
+  "soundthinkinglaunchesaitoolforgunshotdetectioncustomersbyinvestingcom",
+  "qashierrollsoutaitoolqashiergminsingaporeaheadofseaexpansion",
+  "microsoftdevelopsaitoolthatcandiagnosesequentiallylikeadoctor",
+  "microsoftaitooloutperformsdoctorsincomplexdiagnostictestsstudyfinds",
+  "amazonunveilsbeefrontieranalwaysonaiwearablethatlistensandsummarisesconversation",
+  "realpluslaunchesaiconnectoropeningnewwaysforrealestateprofessionalstoaccesslisti",
+  "duenuovistrumentipercoelumlintelligenzaartificialeincontralesperienza",
+  "cislromagnalianondecideilpropriousolodecidonoleorganizzazioni",
+  "controlroomaperteaicittadinicomecambialasmartcityagenova",
+  "creareappsenzaprogrammaremicrosoftlanciacopilotcode",
+  "tadoaggiornalappintelligenzaartificialeperlefinestreindicemuffaeliveactivities",
+  "comeusareclaudeperredigerelaprimabozzadelreportdisostenibilitàpartendodaidatiint",
+  "claudecodeinstallazionein12passi60min2026techinsiderorg",
+  "agentiialasciatisolisuunisolavirtualehannoiniziatoagiocare",
+  "hassabisanticipalagiarrivaentrodueotreanni",
+  "jfroglauncheslocalaisecurityfordeveloperlaptops",
+  "oodaaiabpubloodalaunchesdesktopappenablinglocalaiandpaidcomputesharing",
+  "nvidiaspingelailocaleagentiprivatisuipcnuovimodelliedgxsparkfinoaottosistemi",
+  "recensitogarminzumoxt3ilnavigatorepermotopiùevolutoeorainduemisurevideo",
+  "ilpassaportoarrivasugooglewalletancheinitaliacosacambiarispettoaitwalleteadapple",
+  "onkeyimabadsingersoibuiltanapptoshowwhereimoffkey",
+  "lockingdownfamilyfacingselfhostedserviceshowareyouhandlingthecurrentexploitpace",
+  "linuxinfrastructuresecopsalert",
+  "whatshouldiaddtomywiki",
+  "newprojectmegathreadweekof22oct2026",
+  "projectswithstrictmaintainers",
+  "youcanbuildadedicatedmusicserverusingyourolddeviceshereshow",
+  "iarchivemyfavoriteyoutubechannelstomynaswithpinchflatngxanditsbetterthantheorigi",
+  "tiredofrebuildingpatchedapksthesemorphecommunityprojectshandlethemforyou",
+  "solcislaunchesopencompliancelayerforaiagentsonnvidiaopenshell",
+  "rapidlyscalingonlinestoragetoserveover1billionchatgptuserspartii",
+  "openaiandpolandsnaskpartnertoadvanceaisafetyandsecurity",
+  "hijiffylaunchesemailcopilotaithatdraftshotelemailreplies",
+  "anthropiclaunchesclaudeduetabackgroundaiagentforclaudeproandmaxsubscribersintheu",
+  "anthropicrollsoutclaudeduetbutenterprisesarentready",
+  "anthropiclaunchesclaudeduetresearchpreviewforproandmaxusers",
+  "uberrollsoutchatgptworktomorethan30000employeesweeksafterannouncing3300jobcuts",
+  "krakenlauncheschatgptappwithreadonlyaccountaccess",
+  "anthropicdebutsclaudeduetpersonalaiagenthereswhattoknow",
+  "analignmentassessmentoftheukaisicybertestingincident",
+  "engineeringcompanyartizentgainsselectpartnerstatusinanthropicsclaudepartnernetwo",
+  "anthropicsclaudenowwritescodeandprovesitsafeautomatically",
+  "meetclaudeduetthelatestaiagentintendedtolightenyourworkload",
+  "e4ereliefprovidesemergencygrantsfasterwithdynamics365andmicrosoftpowerplatform",
+  "industrycopilotdeliversprebuiltlegalskillsconnectorstothirdpartydatasources",
+  "volkswagengroupdeploysmicrosoftcopilottomorethan330000employees",
+  "ukdetectiveinvestigatedforallegedlyusingmicrosoftcopilottomakedecisionsincrimina",
+  "metamuseaiagentwhatitdoeswhatitcostsandwhatitgetswrong",
+  "mistralupdatesspeechmodelsaddsmultilingualvoiceapplicationtools",
+  "metaaiglassesnowonsaleinmalaysiawhichraybanoroakleymodelshouldyoubuy",
+  "chinasdeepseekminimaxreceiveapprovaltotakeaimodelsglobal",
+  "xailaunchesgrokpartnernetworkaftermorethan130companiesjoinearlyaccess",
+  "grokbotcannowcontrolyourlightscalendarandmessages",
+  "deepseekformsproductdivisioncuitianyiatthehelminferenceframeworkdeepinferopensou",
+  "metadelaysnewbusinesstermsafterpublisherpushbackonaiscraping",
+  "retrogamingisbeingoverrunwithai",
+  "openaiceosamaltmansaysadvancedaiwillinevitablyescapeitssandboxandonlyalignmentca",
+  "canvalaunchescraftitsfirstinhouseimagemodel",
+  "openailowersvaluationtargetraisesupto30billion",
+  "openainears125t1passwordforagentsgemini35propostmortem",
+  "intelligenzaartificialeperlaricercaoncologicapremioallistitutotumori",
+  "tronchettiilcalendariopirelliconintelligenzaartificialesarebbetristissimo",
+  "sichiudesabatoorizzontidigitaliilforumdedicatoallintelligenzaartificiale",
+  "anghilericonfindustrialaioggièlasfidadecisivailpaesenoncresceda25anni",
+  "lavorettoextra7plugindichatgptconipromptperiniziareora",
+  "perplexitycomputeresecuzionesumaccon36gbdiram",
+  "microsofteliminalafunzioneaidioutlookcheordinavalaposta",
+  "openaivulnerabilitànelsistemadimonitoraggioai",
+  "agentiaiaccedonoaiconticorrentibancheinallarme",
+  "etsyivenditoridevonodichiarareleimmaginigenerateconlai",
+  "lanasaportalaisullalunaunrovertesteràimodellilinguistici",
+  "socialvietatiaiminoridi15annilagreciaapprovalaleggecosacambiaequando",
+  "thisisstartingtogetscary",
+  "didtheynerfopus55doesntlooklikeitlivenerfday29update",
+  "swedensgovernmentisblockingchatgptandclaudeonstaffcomputersfrommonday",
+  "navigatetheeconomicsofai",
+  "geminiwantstoknowwhichanswerismorehelpful_ツ_",
+  "chooseyourprojectswellthegravytrainwillend",
+  "3ofcriticalsoftwaresecuritybugsinallofrecordedhistoryhavebeenfoundinthelastmonth",
+  "modelsdisappearingfromhuggingface",
+  "deepseekandminimaxclearchinasaiexportrulesforoverseasopensourcereleases",
+  "nvidiaopenshellsafeprivateruntimeforautonomousaiagents",
+  "will2432gbgpusagesurprisinglywellforlocalllmsclosingthegaptocloudmodelsorwill96g",
+  "vibecodingyourowninferenceengineiseasytheysaid",
+  "howrussiacensorsforeigntvmidtermbattleforuscongressvenezuelascollapsedhousingtow",
+  "whydelhipoliceprotestphotosexposethelimitsofaiimagedetection",
+  "europoltraccia51potenzialivittimedellatrattaconlosint",
+  "amacomerlunicatappainsardegnadilinuxdaylunionesardait",
+  "tiktokandinstagram"
+ ],
+ "audio": "audio/2026-10-23.mp3",
+ "durata": 160.5,
+ "aggiornamenti": [
+  {
+   "generato": "2026-10-23T17:03:04+00:00",
+   "modello": "gemini-3.8-flash",
+   "testi_completi": 11,
+   "riassunto": {
+    "titolo_giorno": "Arriva Gerty per Mac e Microsoft manda in pensione Copilot Prioritize in Outlook",
+    "in_breve": "Tra le novità di questo aggiornamento spicca Gerty, un'alternativa a ChatGPT che si installa ed elabora in locale su Mac. Nel frattempo, Microsoft ritira la funzione Copilot Prioritize da Outlook ed Etsy introduce nuove regole restrittive per le immagini e i contenuti creati con l'AI.",
+    "citati": [
+     "Gerty",
+     "Copilot",
+     "Etsy"
+    ],
+    "da_provare": [
+     {
+      "cosa": "Gerty",
+      "a_cosa_serve": "Un'alternativa privata a ChatGPT che si configura ed esegue direttamente sul proprio Mac per elaborare richieste in locale.",
+      "per_chi": "Lavoro e tutti i giorni",
+      "ambito": "Assistenti AI",
+      "come_iniziare": [],
+      "costo": "Non indicato",
+      "piattaforme": [
+       "Mac"
+      ],
+      "sul_dispositivo": true,
+      "come_sfruttarla": "Usare un assistente conversazionale sul proprio computer Mac senza condividere dati personali o documenti sensibili nel cloud.",
+      "italiano": "Non indicato",
+      "difficolta": "Facile",
+      "temi": [
+       "AI sul dispositivo",
+       "Assistenti e chatbot"
+      ],
+      "fonti": [
+       "u1a4"
+      ],
+      "affidabilita": "Appena lanciato",
+      "prova": "https://www.producthunt.com/products/gerty"
+     }
+    ],
+    "osint": [],
+    "gemme": [
+     {
+      "cosa": "OnKey",
+      "a_cosa_serve": "Un'applicazione per chi desidera migliorare nel canto che analizza la voce ed evidenzia in tempo reale gli errori di intonazione e di tempo.",
+      "perche_gemma": "Fornisce un riscontro oggettivo e immediato sulle note stonate durante l'esercizio vocale.",
+      "con_ai": "",
+      "piattaforme": [
+       "Mac"
+      ],
+      "self_hosted": false,
+      "costo": "Non indicato",
+      "difficolta": "Facile",
+      "temi": [
+       "Voce e audio"
+      ],
+      "fonti": [
+       "u1a57"
+      ],
+      "affidabilita": "Appena lanciato",
+      "come_iniziare": [],
+      "sul_dispositivo": false,
+      "come_sfruttarla": "",
+      "prova": "https://github.com/dsmurrell/onkey",
+      "piattaforme_verificate": true
+     }
+    ],
+    "sezioni": [
+     {
+      "titolo": "Novità negli strumenti che già usi",
+      "notizie": [
+       {
+        "titolo": "Microsoft rimuove Copilot Prioritize da Outlook",
+        "strumento": "Copilot",
+        "riassunto": "Microsoft ha avviato la dismissione di Copilot Prioritize, la funzione di Outlook che assegnava un punteggio di urgenza ai messaggi in arrivo e organizzava automaticamente la posta. La rimozione comincia a fine ottobre e si completerà entro metà novembre 2026 su tutti i client, lasciando agli utenti la gestione manuale dei messaggi prioritari.",
+        "come_provarla": "",
+        "disponibilita": "Disponibile ora",
+        "fonti": [
+         "u1a157"
+        ],
+        "temi": [
+         "Lavoro e produttività",
+         "Assistenti e chatbot"
+        ],
+        "affidabilita": "Una fonte",
+        "solo_titoli": false
+       }
+      ]
+     },
+     {
+      "titolo": "In breve",
+      "breve": true,
+      "notizie": [
+       {
+        "titolo": "Etsy obbliga a dichiarare le immagini AI e vieta guide sintetiche",
+        "riassunto": "La piattaforma impone ai venditori di etichettare le foto generate con l'AI (con obbligo di rimborso all'acquirente se l'oggetto ricevuto è difforme) e vieta ricette o istruzioni create dall'AI senza una prova reale di efficacia.",
+        "fonti": [
+         "u1a160"
+        ],
+        "temi": [
+         "Regole e leggi",
+         "Foto e immagini"
+        ],
+        "affidabilita": "Una fonte",
+        "solo_titoli": false
+       },
+       {
+        "titolo": "Banche in allerta per l'accesso di agenti AI ai conti correnti",
+        "riassunto": "I principali istituti bancari statunitensi hanno iniziato a bloccare gli agenti AI autonomi, segnalando che il loro utilizzo viola i contratti di servizio e non garantisce rimborsi per operazioni finanziarie non autorizzate.",
+        "fonti": [
+         "u1a159"
+        ],
+        "temi": [
+         "Privacy e sicurezza",
+         "Agenti AI"
+        ],
+        "affidabilita": "Una fonte",
+        "solo_titoli": false
+       }
+      ]
+     }
+    ],
+    "formato": 2,
+    "controllo_siti": [
+     {
+      "cosa": "Gerty",
+      "sito": "https://www.producthunt.com/r/p/1289207?app_id=339",
+      "esito": "errore: HTTP Error 403: Forbidden"
+     },
+     {
+      "cosa": "OnKey",
+      "sito": "https://github.com/dsmurrell/onkey",
+      "pagina": 307610,
+      "trovate": [
+       "Mac"
+      ]
+     }
+    ]
+   }
+  }
+ ]
+}

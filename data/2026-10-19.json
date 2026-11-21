@@ -1,0 +1,566 @@
+{
+ "giorno": "2026-10-19",
+ "generato": "2026-10-19T05:45:15+00:00",
+ "modello": "gemini-3.8-flash",
+ "testi_completi": 12,
+ "riassunto": {
+  "titolo_giorno": "Google Gemini arriva ufficialmente su iPhone con un'app dedicata",
+  "in_breve": "L'assistente Gemini sbarca su iPhone con la sua applicazione autonoma, ampliando l'accesso rapido all'AI in mobilità senza passare dal browser. La mossa evidenzia la spinta dei grandi modelli a diventare strumenti pratici e sempre a portata di mano su ogni smartphone.",
+  "citati": [
+   "Gemini"
+  ],
+  "da_provare": [],
+  "osint": [],
+  "sezioni": [
+   {
+    "titolo": "Novità negli strumenti che già usi",
+    "notizie": [
+     {
+      "titolo": "Arriva l'applicazione ufficiale per iPhone",
+      "strumento": "Gemini",
+      "riassunto": "Google ha reso disponibile l'assistente Gemini come applicazione dedicata per iPhone. Gli utenti iOS possono ora interagire con il chatbot direttamente tramite app senza dover utilizzare il browser web.",
+      "come_provarla": "",
+      "disponibilita": "Disponibile ora",
+      "fonti": [
+       "a42"
+      ],
+      "affidabilita": "Una fonte",
+      "solo_titoli": true
+     }
+    ]
+   }
+  ],
+  "formato": 2
+ },
+ "articoli": {
+  "a42": {
+   "titolo": "Google Gemini is now available for the iPhone",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5wcm0wV3dZVDVWN2t3TXFrRkZwUm9tRDlFdnNSaG5fNHd6YUtUVmRET2NVdzVabzAxX0V3QUFsRTNlRGhMUDRscWlKcHRmZzhhX2ZGVzhLUDZXNlFjU3c?oc=5",
+   "data": "2026-10-18T22:00:00+00:00",
+   "testo": "",
+   "fonte": "Mashable",
+   "tipo": "testata",
+   "solo_titolo": true,
+   "categoria": "Laboratori",
+   "id": "a42"
+  },
+  "u1a30": {
+   "titolo": "InsurStaq AI Launches Local macOS Code-Security Auditing Tool With On-Device AI Reasoning",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNFZEVXFhN3g1TzNyVWVkbldhOXZJdjZZMTRlNUJVaDQ3T2tyU2dhNERZNmZDQlUtRmRxWW56UVljb3hiRnQtZ3ZOR0pIQVZWU1FEcnlkN2ZBNVFjdV9UUFpqdkJWbkhrSEZlYS1USC1MVDM5NUhQek9GZEozcnNTbFZNX21Idk9xRlRJcllHLV82emx0b1NWa2h6RHRyY1pxdkN4aU4tdGd4bHJFWm9jTjFscnhwTk01VjVnV09jRUpNdw?oc=5",
+   "data": "2026-10-19T08:52:53+00:00",
+   "testo": "",
+   "fonte": "Konsulteer",
+   "tipo": "minore",
+   "solo_titolo": true,
+   "categoria": "Strumenti",
+   "id": "u1a30"
+  },
+  "u1a1": {
+   "titolo": "Beam.win",
+   "link": "https://www.producthunt.com/products/beam-win",
+   "data": "2026-10-18T12:13:45-07:00",
+   "testo": "Run AI agents on one Mac and use its windows on another",
+   "fonte": "Product Hunt (AI)",
+   "tipo": "vetrina",
+   "solo_titolo": false,
+   "categoria": "Strumenti",
+   "id": "u1a1"
+  },
+  "u1a34": {
+   "titolo": "Google Messages’ New Scam Protection Uses Cloud AI: What Happens to Your Privacy?",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYVZaWUR5S05ydktyRU9BWnpfMVJtUXFpNTBGLWFrVzNaRGNlOFJ2U2JFUVJ5NTZVZnhXM1V5ZzNNRkVkUmVackJYSjZWazFrV1FjOGNQNXN0bi1BRTZnallyMVZxQ19hVHBZQzBCUWdZNTFXbTlEZGxBcGl3S2trM25mUEJkYnR0Wnp4V2xZWQ?oc=5",
+   "data": "2026-10-19T10:23:45+00:00",
+   "testo": "",
+   "fonte": "TechRepublic",
+   "tipo": "testata",
+   "solo_titolo": true,
+   "categoria": "Strumenti",
+   "id": "u1a34"
+  },
+  "u1a36": {
+   "titolo": "Google Unveils New Android AI Protections to Block Scam Calls, Phishing Links and OTP Theft",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9HWlFqR1dwWFR4TjFhby1uQlRyRjgweE4zV0ZsQk16Nk9ubU9JSlJJZXpzZmJTcVdZUWY2VTljbnV4QlExclI1RU5jOS1JT19CUzhkckh2QVZkcG5tLVd5cnpJcGlvclZ0N0ctWEczNHQ2SkdzTmh0VDd5bkjSAYIBQVVfeXFMUDdBbE8yWXVVcTBDM2JSajVUcVhYU21vZ2h1QkVnaUNON3FkaEh6MDZBY2ljTllreWdzMW4xanVIdmRVWWVMSldHeUczODZHUlI4VlU2bUQ0MWIzLTd6Y195R24yWmQxWndKeHZ5dHFMRzFJX2htVVFKajNPZ1dUZXRuZw?oc=5",
+   "data": "2026-10-19T06:15:34+00:00",
+   "testo": "",
+   "fonte": "CyberSecurityNews",
+   "tipo": "minore",
+   "solo_titolo": true,
+   "categoria": "Strumenti",
+   "id": "u1a36"
+  }
+ },
+ "fonti": [
+  {
+   "nome": "Product Hunt (AI)",
+   "ok": true,
+   "presi": 4
+  },
+  {
+   "nome": "Show HN (nuovi progetti)",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "Nuove app AI (internazionale)",
+   "ok": true,
+   "presi": 10
+  },
+  {
+   "nome": "Nuove app AI (Italia)",
+   "ok": true,
+   "presi": 8
+  },
+  {
+   "nome": "Novità AI da provare (Italia)",
+   "ok": true,
+   "presi": 4
+  },
+  {
+   "nome": "AI sul dispositivo (internazionale)",
+   "ok": true,
+   "presi": 8
+  },
+  {
+   "nome": "AI sul dispositivo (Italia)",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "OpenAI",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "Google (blog ufficiale)",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "Google Gemini (blog)",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "Nuove funzioni AI (Google News)",
+   "ok": true,
+   "presi": 12
+  },
+  {
+   "nome": "Anthropic / Claude",
+   "ok": true,
+   "presi": 6
+  },
+  {
+   "nome": "Microsoft Copilot",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "Altri assistenti AI (Perplexity, Mistral, Meta AI…)",
+   "ok": true,
+   "presi": 8
+  },
+  {
+   "nome": "The Verge",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "TechCrunch",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "Ars Technica",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "MIT Technology Review",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "The Decoder",
+   "ok": true,
+   "presi": 6
+  },
+  {
+   "nome": "TLDR AI (newsletter)",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "ANSA",
+   "ok": true,
+   "presi": 6
+  },
+  {
+   "nome": "Wired Italia",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "Il Sole 24 Ore Tecnologia",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "Punto Informatico",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "HDblog",
+   "ok": true,
+   "presi": 2
+  },
+  {
+   "nome": "Reddit",
+   "ok": true,
+   "presi": 8
+  },
+  {
+   "nome": "Reddit (AI locale)",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "Bellingcat (guide e strumenti)",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "GIJN (guide per giornalisti investigativi)",
+   "ok": false,
+   "errore": "HTTP Error 403: Forbidden",
+   "presi": 0
+  },
+  {
+   "nome": "OSINT – verifica e fact-checking (internazionale)",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "OSINT – nuovi strumenti (internazionale)",
+   "ok": true,
+   "presi": 3
+  },
+  {
+   "nome": "OSINT – strumenti (Italia)",
+   "ok": true,
+   "presi": 2
+  },
+  {
+   "nome": "Reddit (OSINT)",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "Hacker News (OSINT)",
+   "ok": true,
+   "presi": 0
+  }
+ ],
+ "visti": [
+  "mylens",
+  "tomoforchatgpt",
+  "gputerminalbycontextdev",
+  "salience",
+  "sphinxahookthatquizzesyouonyouraiscodebeforeshipping",
+  "israelihospitallaunchesaitooltohelpnonverbalchildrencommunicate",
+  "amexgbtlaunchesagenticaitooltospeedhotelsourcing",
+  "medasystemslaunchesmcpserverinbetabringingexpandedaccessprogramdatatoaiassistant",
+  "openaihelps3busygrandpasgetstuffdoneinukchatgptvoicecampaignlbblbb",
+  "konecranesportalaiassistantgoesglobalforindustrialserviceandequipmentcustomersne",
+  "eskolaunchesverifycomply",
+  "anaitoolcalledreanowreverseengineerssoftwareinminutesnotyears",
+  "metablamesclaudeaitoolfornokingsinstagramsuspension",
+  "metalaunchesmusewondercatchingopenaianthropichowtotryitbenchmarkresults",
+  "anopensourcehotelpmsconnectorkeepsaibookingchangesoffbydefault",
+  "welfaredigitalelitaliaèprimaineuropamaibenefitrestanonelcassetto",
+  "chatgptarrivasuapplecarplayconlultimoaggiornamento",
+  "volvoenvidiaunisconoleforzerivoluzioneinarrivoperlaguidaautonoma",
+  "previsionimeteoalungoterminelintelligenzaartificialeapreunanuovafase",
+  "unavitaafarecalcoliepoiarrivaliailrischiodellesuberoesistenziale",
+  "geminicosècomefunzionaecomeusarlogratis2026",
+  "illagodeicignientranelleradellintelligenzaartificialeabitrittolamagiadelballetto",
+  "intelligenzaartificialeunanuovalevacreativaperlamodavietnamita",
+  "rogxboxallyx20arrivainitaliaa2599euromasolonelbundle",
+  "gpt6trasformalerispostedellaiininterfacceinterattivenellachat",
+  "dopoalcunimesidipausailavoratoriamericanisonorimastisbalorditidallintelligenzaar",
+  "googleuniversalcartcomefunzionaequandoarrivainitalia",
+  "rtxsparkignitesglobalcelebrationasnewwindowspcsarrive",
+  "microsoftsurfacelaptopultraisherepricespecsandwhoshouldactuallybuyone",
+  "30bclassmodelssqueezedintophonesondeviceaiarmsraceignitesnewmemorybattleground",
+  "5localaiappsthatfinallymakerunninganllmonmyphoneworthit",
+  "nvidiabetslocalaiagentscandodgethecloudtrustproblem",
+  "nvidiartxsparkvsmacbookprom5proandm5maxwhichisbetterforlocalai",
+  "nvidialaunchesrtxsparkailaptopsinkoreastartingat58millionwon",
+  "explorethepotentialoflocalaiprocessingonyourlaptop",
+  "addioawhatsappsuquestidispositivismetteràdifunzionare",
+  "whatsappcambiarenumerosenzaperderechategruppicosafareprimadidisattivarelavecchia",
+  "googlefotoriempielamemoriaquattroimpostazioniperliberarespazio",
+  "ios18comeattivaresubitotuttelenuovefunzionisenzaaspettaregliaggiornamenti",
+  "windows1124h2terminail13ottobrecomeaggiornaresenzaperderedati",
+  "openailauncheschatgptvoiceintheukwithcampaignshowinggrandpascompletingtasks",
+  "googlegeminiisnowavailablefortheiphone",
+  "buildasecuremcpserverforclaude12steps2026",
+  "itestedchatgptclaudeandgeminisidebysideforamonthhereswhichoneiactuallyuse",
+  "vinciairportslaunchesmodernisationandexpansionofterminal2atlyonsaintexupéryairpo",
+  "claudecodehooksbuilddeterministicgatesandlinting",
+  "violooptheaiboxthatusesyourmouseandkeyboardlaunchesat399",
+  "claudecodepluginsgoofficialatv213022026httpstechinsiderorg",
+  "zoomradarlaunchesrealtimeweatherradaronchatgptpluginstorepressservices",
+  "welcometooctober182026",
+  "anthropicplans5stakepledgetotackleaisimpactonworkers",
+  "googlefinallyupgradeditssmartspeakerafter6yearswasitworththewait",
+  "claude55family2modelsin6dayshaikunext2026",
+  "metablamesanthropicsclaudeforwronglysuspendingnokingsinstagram",
+  "anthropictocommit5staketonewpublicbenefitfund",
+  "anthropicproposescongressbillmirroringclaudesinternalsafetypolicies",
+  "anthropicunveilsnextgenmultiagentorchestrationarchitectureclaudenowgeneratesself",
+  "anthropicsclaudeaiuncoversoriginsofnsaprovidedcryptographickeysafter25years",
+  "newaiframeworkbridgesacriticalgapinmidrangeweatherforecasts",
+  "copilotvsmetaaivslechat25pricegap2026httpstechinsiderorg",
+  "githubcopilotretires6modelsshiftstogpt562026",
+  "copilotvsgeminivsmetaaigeminiwins91musers2026techinsiderorg",
+  "businesstechnologynewsanewcopilotappincludeswordandexcel",
+  "fasterandleanerdeepseekrollsoutupgradedaimodelafterrecentservicedisruptions",
+  "elonmuskhasgrokbuyinghimlegosets",
+  "metaadmitsitssmartglassesbrieflyrecordedaudiowithoutawakephrase",
+  "deepseekv41flash1017hlescorehits4262026",
+  "whatisapplesimageplaygroundappforandhowdoyouuseit",
+  "deepseekshipsafasterflashmodelanditsownsearchapi",
+  "deepseekpushesoutupdatedaimodelitsaysisfasterleaner",
+  "deepseekrollsoutfasterleaneraimodelstepsupchallengetousrivals",
+  "awomanwasarrestedinphillyforblockingadeliveryrobot",
+  "anthropicsaysitscommitting5ofitssharestoapublicbenefitfund",
+  "disneyagreestohirethemajorityofcharacteraisworkforce",
+  "metaremoveslanguagethatraisedscrapingandaitrainingconcerns",
+  "anthropicsaysitsworkforcehasbecomelessjuniorandisspendingmoretimeinmeetings",
+  "replitmakesopenaiitsdefaultoveranthropicceosays",
+  "anthropicgivesoutsideaiwatchdogemployeelikeaccess",
+  "anthropichasnearlystoppedhiringjuniorstaffbecauseaiagentsnowworksixtimesasmanyho",
+  "fourgemini4argonagentsbeatminecraftwithoutanyhumanhelp",
+  "twogermancourtsnowholdgoogleliableforwhatitsaioverviewssay",
+  "anthropicconsultslawfirmstosetfairnegotiationnormsbeforeaiagentsstartcuttingdeal",
+  "aiagentshavebadtasteinlongtermdecisionsandanewbenchmarkprovesit",
+  "aiagentschasinga465trainrefundinventedexcusesleakedmedicaldataandspammedanmpsoff",
+  "cordascoallarmiiapossibiletentativodeibigdiorientareleregole",
+  "notiziarioansamed",
+  "linceiregoleancorainsufficientisullusodellianellamedicina",
+  "accadeoggi",
+  "borsatokyoaperturaincalo090",
+  "dallastoriadellascienzaunalezioneperleggeremeglioilpresente",
+  "wireditalia",
+  "sitowebinpochiminutigrazieallintelligenzaartificialediionos",
+  "microsoftostacolalaconcorrenzaconisuoisoftware",
+  "perplexityspacesandboxopensourceperagentiai",
+  "qualilavorilainonpuòsostituiresecondochatgpteclaude",
+  "oraletueideefinisconoonlineinmodosempliceconhostinger",
+  "disneyspingesucharacterai60milionilannoperidipendenti",
+  "musicoletportaglimp3suandroidautosenzapassaredaiservizistreaming",
+  "literally",
+  "npcscantalkbacknowfromuniversalmodderonxintroducingnpctalkmakethenpcsofanygameta",
+  "adobeofficeoutlookelevenlabsaiiscloningallofitinrust",
+  "itiswhatitis",
+  "anthropicisontracktostophiringtechnicaljuniorsnextyear",
+  "anthropicat2trillionvs35saascompaniesat948billionareaivaluationsgettingoutofcont",
+  "harariwarnsaicouldsoonreducehumanstothecowsofthefuture",
+  "mysideprojectmade130initsfirstmonthafewthoughts",
+  "googleopensourcesharness2forselfimprovingaiagents",
+  "72hoursfourbigopenweightsdropstheonlyonethatfitsin24gbcamefromnvidiaofallcompani",
+  "unslothdeepseekv41flash1017ggufhuggingface",
+  "toldqwen3827btohackmyrouter",
+  "howa4agentteamclaudecodexgeminilocalopenweightqwenhermesreverseengineereda2026tp",
+  "zoomandbigfinancialfirmsaddproofofhumanbadgesfromsamaltmansworldtostopfraudandde",
+  "itispossiblethatrussiaisalreadypreparingforwarwithnatonewtanksareappearingatstor",
+  "day18osintintelligencehowpublicinformationcancrackacase",
+  "defenceministerrajnathsinghtovisittajikistanforscomeetingonoctober1920regionaltr",
+  "phishingaziendaleperchéidipendentiformaticliccanocomunque",
+  "sabotaggioastarlinktrabulgariaepoloniaifattileattribuzionieilrischioeuropeo",
+  "tiktokcomments",
+  "beamwin",
+  "rusteeriobycontextdev",
+  "quello",
+  "own1",
+  "calixlaunchessubscriberagentincommandiqtosimplifytheconnectedhomereducesupportco",
+  "calixaddsaiassistanttocommandiqappforhomenetwork管理",
+  "timeerolaunchesmcpservertobringworkforcedataintoaiassistants",
+  "chinesepost2000sfoundedlocalmusegoesviralinsiliconvalleyaicommunitysecuresinvest",
+  "newamexgbtagenticaitoolletsteamsfocusonstrategynegotiation",
+  "amexgbtlaunchesagenticaitooltoacceleratehotelsourcing",
+  "amexgbtlaunchesagenticaitooltoacceleratehotelsourcingimprovecorporatetravelprogr",
+  "asanbenedettoarrivazauttelintelligenzaartificialealserviziodeicittadini",
+  "intelligenzaartificialeintoscanaarrivano100milioniperleimpresebandialvianellepro",
+  "basilicataarrivapaidos15milioniperlapediatriaadomicilioconlintelligenzaartificia",
+  "festivalnazionalediffusodedicatoallalfabetizzazionedigitaleconvegnosullintellige",
+  "vialiberadellagiuntaregionalealprogettopaidosnuovaretedisanitàdigitaleepediatria",
+  "amazonlunaarrivasuprimevideoinitaliagiochigratissufiretv",
+  "nasceinlombardiaofficinaailazisdedicataallintelligenzaartificiale",
+  "geminipotrebbechiamareamiciefamiliarialpostotuo",
+  "harkproreviewaprivateaiassistantfromthefounderoffigureai",
+  "insurstaqailauncheslocalmacoscodesecurityauditingtoolwithondeviceaireasoning",
+  "googleplaynowletsanyonebuildandrunprivateaigeneratedappsonandroid",
+  "gnomemutterlandsimprovementforreducinggpuworkwhileinpowersavingsmode",
+  "googlemessagesnewscamprotectionusescloudaiwhathappenstoyourprivacy",
+  "googleunveilsnewandroidaiprotectionstoblockscamcallsphishinglinksandotptheft",
+  "cosèecomefunzionaquestominipcchesfruttalaiinlocale",
+  "whatsappnonvuolefarviusciredallappepreparaunsuobrowserperapriretuttiilinksuiphon",
+  "perplexityportablecomputerportalailocalesullegpunvidiartxprivacyepotenzasenzaclo",
+  "orapuoiattivarelamodalitàhalloweensuwhatsapp",
+  "4tipsforstylingoutfitswithgemini",
+  "googlereleasesgemini4argonitsnewfrontiermodelbenchmarkshowtotryitandpricing",
+  "newsgeminisignalsfullsuezreturnbyq1asitlaunchesnewasiamedservice",
+  "huntingtonbanklaunchesaipowered1866studiowithgooglecloudgemini",
+  "rankpagelauncheschatgptadsmanagementformalaysianbrands",
+  "cryptoservicesfirmzerohashlaunchesauthtosimplifytransfersbetweenwallets",
+  "brandaxislaunchespayasyougoaivisibilitytrackingtohelpagenciesandbusinessescutllm",
+  "inceptionlaunchesmercury3settinganewparetofrontierinspeedandintelligence",
+  "digestgooglerollsoutaishoppingcartuniversalmusicgroupcutsjobsandreshufflesleader",
+  "wereplacedasystemonedecisionmodelwithclaudehaiku55",
+  "googleuniversalcartgoesliveintheus",
+  "gemini4argonhitsaimodein19countries2026",
+  "openaichatgptadsnewvisualadformatsupdatedconversionpageperformanceemailsmore",
+  "anthropicclaudeenterpriseaiagentsand965bnvaluation",
+  "anthropicaisendsfakemurdertiptophiladelphiapolice",
+  "anthropicsclaudedesignsmoreefficientquantumcircuitswithautomatedfeedback",
+  "makingsensereachesselecttierinanthropicsclaudepartnernetwork",
+  "anthropicsclaudeaifixesoblivionremasteredonpcbycreatingamodthatboostsperformance",
+  "anthropiccommits5ofitssharestoapublicbenefitfund",
+  "microsoftfixesclassicoutlookbugthathidcopilotbuttons",
+  "windows11shybridintelligencefeatureswillbreathenewlifeintocopilotpcs",
+  "unframedhowwppisgivingitspeopleaisuperpowerstoreshapeadvertising",
+  "roommasterintroducesaiconnectorbringinglivehotelpmsdataintochatgptclaudemicrosof",
+  "microsoft365copilotvsgooglegeminienterprise2026adoptionproductivitygainsandrealw",
+  "usmovestobardeepseekfromfederalagenciesandcontracts",
+  "deepseekreleasedanupdatedv41flashmodelwithhigherscoresandshorteroutputs",
+  "dhsbansdeepseekonfederalsystemsunder2018law2026",
+  "doolamcpbringsusllcformationtogrokbuildclosingthegapbetweenbuildinganappandownin",
+  "dhsbansdeepseekfromfederalitsystems2026httpstechinsiderorg",
+  "deepseeklauncheswebsearchandpagefetchingapisforaiagents",
+  "deepseekv41flashupdateenableswishdrivenprogramming",
+  "deepseeksfreemodeledgedopus5atcoding",
+  "jbpritzkerthinksaicouldhelpusliveto100orthreatenuslikenukes",
+  "ahackerbrokeintojohndeereandsharkninjawithanarmyofaiagents",
+  "democratsthinkcrackingdownonaicouldgivethemanedge",
+  "peopleareusingaitomaketheirsmarttvsdumbagain",
+  "nvidialaunchesnewopenmodelstorunagentsintheenterpriseandonpcs",
+  "disneyfoundawaytobuycharacteraiwithoutbuyingitslawsuits",
+  "airesearchersstrandedclaudeonavirtualdesertislanditstartedtoplay",
+  "stripesaysaiagentpurchasesareaddingupbutitwontsharethenumbers",
+  "theneocloudshakeoutiscomingandnvidiahasthemosttolose",
+  "anthropicplansfundforworkersthreatenedbyaimuskcounterswithspacexsharesforchildre",
+  "deepseeksnewflashreplitdropsanthropicanthropicsworkforce",
+  "perugianextil22inprovinciaaperugiacinqueincontrigratuitisullia",
+  "wallstreetperlopiùpositivatrainatadaiproduttoridichip",
+  "bojuedainflazionedifondomoltovicinaallobiettivodel2",
+  "ilmacsisurriscaldaclaudecodetrovaunmalwarenascosto",
+  "comecapireseunimmagineèstatacreatadallaidimeta",
+  "acquisizionenetcocommissioneueconfermairregolaritàdikkr",
+  "arrivailfilmdinatalerealizzatoconlaimerrythechristmaswitch",
+  "problemiconchatgptdownil19ottobrecosasuccederisolto",
+  "bloccaunrobotperleconsegneperprotesacontrolautomazione",
+  "adceptionattaccoclickfixconclaudetramitebingegoogle",
+  "markwahlbergsìallaimanonalpostodiattoriesceneggiatori",
+  "robotumanoideopenaialtmanprometteunademonel2027",
+  "fiat500hybridilcoloresisceglieinbasealvisoarrivalaconsulenzapersonalizzata",
+  "markwahlbergapreaicloniaiattoreanchedopolamorte",
+  "cèunamodcreataconlaidiclaudecheraddoppiaiframedioblivionremastered",
+  "msiprestigen16flipaiilconvertibileperfargirareliainlocale",
+  "teslacostruiràunparcogiochiconrampeeloopperiproprietaridellaroadsterrocket",
+  "youcanliterallyjustrecreatealmostanyappinaday",
+  "youcantaccessargoninantigravityifyougotproplanthroughpromotionaloffers",
+  "asupermario64demakeforthegbabuiltwithclaudemariosphysicsarebitidenticaltotheorig",
+  "psadonotconnectyourgmailanddrivewithyourdotsatthemoment",
+  "theguardianswarningtorejectcheapchineseaiisatransparentattempttoscaredevelopersb",
+  "ailabsreportbenchmarkscores64higherthanindependenttestersonaverage",
+  "factcheckoldvideoofsanitationworkersprotestsharedasrecentfromcjpprotest",
+  "factwatchdebunksclaimofattackonpriestsatpalashbaritemple",
+  "samaltmanbackedworldlaunchesaieraidentitytoolforbankswhatitiswhatitdoes",
+  "imagesofatikutambuwalreceivingbanditkingpinintoadcaigenerated",
+  "tesseraintegratesautonomousosintcapabilitiesdesignedtoanticipatethreatsandactone",
+  "newrussiantanksappearnearnatoborders",
+  "dozensofnewt90mtankshaveappearedatabase500kmfromthebalticstates"
+ ],
+ "audio": "audio/2026-10-19.mp3",
+ "durata": 75.1,
+ "aggiornamenti": [
+  {
+   "generato": "2026-10-19T17:05:55+00:00",
+   "modello": "gemini-3.5-flash-lite",
+   "testi_completi": 18,
+   "riassunto": {
+    "titolo_giorno": "Come controllare se una foto è stata creata dall'AI di Meta",
+    "in_breve": "Meta ha introdotto un sistema di filigrana digitale invisibile per smascherare foto, video e audio creati dai suoi strumenti. Uno strumento utile per verificare l'autenticità dei contenuti che circolano online in pochi secondi.",
+    "citati": [],
+    "da_provare": [
+     {
+      "cosa": "Beam.win",
+      "a_cosa_serve": "Permette di eseguire agenti di intelligenza artificiale su un Mac e di utilizzare le finestre di quel computer da un altro.",
+      "per_chi": "Lavoro",
+      "ambito": "Organizzazione",
+      "come_iniziare": [],
+      "costo": "Non indicato",
+      "piattaforme": [
+       "Mac"
+      ],
+      "sul_dispositivo": false,
+      "come_sfruttarla": "Gestire flussi di lavoro complessi su più computer Mac da remoto.",
+      "italiano": "Non indicato",
+      "difficolta": "Media",
+      "fonti": [
+       "u1a1"
+      ],
+      "affidabilita": "Appena lanciato",
+      "prova": "https://www.producthunt.com/products/beam-win"
+     },
+     {
+      "cosa": "InsurStaq AI",
+      "a_cosa_serve": "Uno strumento di analisi e controllo della sicurezza del codice per macOS che utilizza l'intelligenza artificiale direttamente sul dispositivo.",
+      "per_chi": "Lavoro",
+      "ambito": "Ricerca",
+      "come_iniziare": [],
+      "costo": "Non indicato",
+      "piattaforme": [
+       "Mac"
+      ],
+      "sul_dispositivo": true,
+      "come_sfruttarla": "Controllare la sicurezza del codice sorgente su Mac senza inviare i dati online.",
+      "italiano": "Non indicato",
+      "difficolta": "Media",
+      "fonti": [
+       "u1a30"
+      ],
+      "affidabilita": "Da verificare",
+      "solo_titoli": true,
+      "prova": ""
+     }
+    ],
+    "osint": [],
+    "sezioni": [
+     {
+      "titolo": "Novità negli strumenti che già usi",
+      "notizie": [
+       {
+        "titolo": "Nuova protezione antitruffa e contro lo spam su Google Messages",
+        "strumento": "Google Android",
+        "riassunto": "Google ha introdotto un sistema di protezione avanzata basato su cloud per bloccare chiamate truffa, link di phishing e furti di codici OTP direttamente sullo smartphone.",
+        "come_provarla": "",
+        "disponibilita": "Disponibile ora",
+        "fonti": [
+         "u1a34",
+         "u1a36"
+        ],
+        "affidabilita": "Una fonte",
+        "solo_titoli": true
+       }
+      ]
+     }
+    ],
+    "formato": 2
+   }
+  }
+ ]
+}

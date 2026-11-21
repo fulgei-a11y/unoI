@@ -1,0 +1,1143 @@
+{
+ "giorno": "2026-11-18",
+ "generato": "2026-11-17T23:52:14+00:00",
+ "modello": "gemini-3.5-flash-lite",
+ "testi_completi": 36,
+ "riassunto": {
+  "titolo_giorno": "Google rende gratuiti gli agenti AI di Gemini Tasks in Italia e nel mondo",
+  "in_breve": "Google sblocca le funzioni avanzate di automazione e assistente personale con il nuovo modello Gemini 4 Hydrogen, rendendo accessibili a tutti gli utenti strumenti prima riservati agli abbonati. Nel frattempo, l'ecosistema degli strumenti di produttività e delle alternative per la privacy su PC si arricchisce di nuove soluzioni locali.",
+  "citati": [
+   "Gemini Tasks",
+   "Lumo Desktop"
+  ],
+  "da_provare": [
+   {
+    "cosa": "Lumo Desktop",
+    "a_cosa_serve": "Un'applicazione per computer focalizzata sulla privacy che permette all'AI di interagire con file locali, cartelle e app di produttività per automatizzare compiti e ricerche senza tracciare l'utente.",
+    "per_chi": "Lavoro e tutti i giorni",
+    "ambito": "Organizzazione",
+    "come_iniziare": [
+     "Scarica l'applicazione desktop",
+     "Configura i permessi di accesso ai file",
+     "Collega i servizi desiderati"
+    ],
+    "costo": "Gratis",
+    "piattaforme": [
+     "Windows",
+     "Mac",
+     "Linux"
+    ],
+    "sul_dispositivo": true,
+    "come_sfruttarla": "Automatizzare la ricerca e l'organizzazione dei documenti personali sul computer senza inviare i dati aziendali o privati nel cloud.",
+    "italiano": "Non indicato",
+    "difficolta": "Facile",
+    "fonti": [
+     "a136"
+    ],
+    "temi": [
+     "Privacy e sicurezza",
+     "AI sul dispositivo",
+     "Open source e self-hosting"
+    ],
+    "affidabilita": "Una fonte",
+    "prova": ""
+   }
+  ],
+  "osint": [],
+  "gemme": [
+   {
+    "cosa": "Alloy CSS",
+    "a_cosa_serve": "Una libreria CSS per creare interfacce web, moduli, menu e tabelle che funzionano perfettamente anche quando JavaScript è disattivato sul browser.",
+    "perche_gemma": "Permette di realizzare pagine web pulite, veloci e accessibili senza dipendere da script complessi.",
+    "con_ai": "Ottimo per testare la generazione rapida di interfacce HTML pulite tramite assistenti di codice.",
+    "piattaforme": [
+     "Browser"
+    ],
+    "self_hosted": false,
+    "costo": "Gratis",
+    "difficolta": "Facile",
+    "temi": [
+     "Open source e self-hosting",
+     "Programmare senza codice"
+    ],
+    "fonti": [
+     "a61"
+    ],
+    "affidabilita": "Appena lanciato",
+    "come_iniziare": [],
+    "sul_dispositivo": false,
+    "come_sfruttarla": "",
+    "prova": "https://alloyhtml.com/example.html"
+   }
+  ],
+  "sezioni": [
+   {
+    "titolo": "Novità negli strumenti che già usi",
+    "notizie": [
+     {
+      "titolo": "Gemini Tasks arriva gratis per tutti con il modello Gemini 4 Hydrogen",
+      "strumento": "Gemini Tasks",
+      "riassunto": "La funzione basata sul vecchio agente Spark viene ribattezzata in Tasks e resa gratuita per centinaia di milioni di utenti. Permette di delegare compiti complessi come chiamare aziende, gestire il calendario, confrontare preventivi e organizzare promemoria direttamente dall'app.",
+      "come_provarla": "Apri l'app Gemini sul telefono o sul browser e sposta la levetta della home page da Chat a Tasks.",
+      "disponibilita": "Disponibile ora",
+      "fonti": [
+       "a118",
+       "a132"
+      ],
+      "temi": [
+       "Agenti AI",
+       "Assistenti e chatbot",
+       "Ricerca e informazioni"
+      ],
+      "affidabilita": "Confermata",
+      "solo_titoli": false
+     },
+     {
+      "titolo": "OpenAI lancia i nuovi modelli GPT-6.2 Astra e Sol",
+      "strumento": "OpenAI",
+      "riassunto": "Arrivano due nuovi modelli avanzati pensati per offrire maggiore efficienza nei costi, capacità di programmazione e uso del computer, posizionandosi tra le soluzioni più avanzate per i professionisti.",
+      "come_provarla": "Usa i nuovi identificativi tramite le API di OpenAI o le piattaforme integrate compatibili.",
+      "disponibilita": "Disponibile ora",
+      "fonti": [
+       "a70",
+       "a196"
+      ],
+      "temi": [
+       "Agenti AI",
+       "Assistenti e chatbot",
+       "Scrittura e documenti"
+      ],
+      "affidabilita": "Fonte ufficiale",
+      "solo_titoli": false
+     }
+    ]
+   }
+  ],
+  "formato": 2,
+  "controllo_siti": [
+   {
+    "cosa": "Lumo Desktop",
+    "esito": "nessun sito da aprire"
+   },
+   {
+    "cosa": "Alloy CSS",
+    "sito": "https://alloyhtml.com/example.html",
+    "pagina": 60641,
+    "trovate": []
+   }
+  ]
+ },
+ "articoli": {
+  "a118": {
+   "titolo": "Google’s Spark AI agent becomes ‘Tasks’ — and now it’s free",
+   "link": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free",
+   "sito": "",
+   "data": "2026-11-17T13:58:01-05:00",
+   "testo": "Google is rebranding its Spark AI agent as “Tasks” and making it free to use. The feature, which is powered by Google’s new Gemini 4 Hydrogen AI model, can do things like create meal plans, manage your calendar, and dig through your emails to find recurring expenses you might not need. Google’s Spark AI agent becomes ‘Tasks’ — and now it’s free Tasks in Gemini allows the AI agent to call businesses on your behalf, purchase items with Google Pay, and more. Users in the US will get access to a few other features, including the ability for the AI agent to call businesses to compare product pricing and check inventory, purchase items with Google Pay, and sign into accounts that support Google Password Manager. US users can also assign Gemini tasks by emailing gemini@google.com or texting it. Google first introduced its Spark AI agent in May, but it was only available to Google AI Pro and Ultra subscribers. The launch of tasks in Gemini brings Spark’s capabilities to all users in the US, Canada, Japan, Korea, Australia, and India. You can find tasks by opening Gemini and changing the toggle on the homepage from “Chat” to “Tasks.” Tasks in Gemini is just one of the many agentic AI features that have emerged over the past year, including Claude Duet, OpenAI’s Dots, and Meta’s Muse. Google says Gemini will perform tasks in a “hardware-isolated virtual machine that’s dedicated to your account and never shared with other users.” You can also provide instructions for Gemini while it completes tasks. When performing more sensitive tasks, like purchasing an item, it will stop working and ask for your permission before following through.",
+   "fonte": "The Verge",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Testate tech",
+   "id": "a118",
+   "testo_completo": true
+  },
+  "a70": {
+   "titolo": "Introducing GPT-6.2 Astra and Sol",
+   "link": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+   "data": "2026-11-17T17:45:00+00:00",
+   "testo": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
+   "fonte": "OpenAI",
+   "tipo": "ufficiale",
+   "solo_titolo": false,
+   "categoria": "Laboratori",
+   "id": "a70"
+  },
+  "a61": {
+   "titolo": "Alloy CSS, dialogs, menus and tabs that work with JavaScript off",
+   "link": "https://alloyhtml.com/example.html",
+   "data": "2026-11-17T15:07:09+00:00",
+   "testo": "Invoices 24 invoices in the last 90 days INV-0149 for Okafor Legal and INV-0148 for Tidewater Coffee, $2,200.00 together. Top clients Last 90 days Recent activity - check Okafor Legal paid INV-0145$3,600.00 by card Nov 11 - visibility Brightline Studio opened INV-0146Twice, from an email Nov 12 - send You sent INV-0147 to Lumen Architects$4,800.00, due Nov 26 Nov 12 - schedule INV-0144 is overdueHarbor & Pine, $1,980.00 Nov 12 Questions Can a client pay part of an invoice? expand_more Yes. The invoice stays open, showing what's left, until the rest arrives. Ledger is a made-up app. This page is one HTML file with Alloy CSS and no JavaScript. See its source.",
+   "sito": "https://alloyhtml.com/example.html",
+   "fonte": "Show HN – progetti utili (gemme)",
+   "tipo": "vetrina",
+   "solo_titolo": false,
+   "categoria": "Gemme",
+   "id": "a61",
+   "testo_completo": true
+  },
+  "a136": {
+   "titolo": "Proton’s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop",
+   "link": "https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/",
+   "data": "2026-11-17T17:32:25+00:00",
+   "testo": "Proton, the privacy-focused tech company offering alternatives to Google’s and Microsoft’s tools for email, productivity apps, password management, cloud storage, and more, is now bringing its AI app Lumo to personal computers. On Tuesday, the company launched Lumo Desktop for Windows, macOS, and Linux, allowing users to leverage its AI to carry out local tasks on their computer involving connected apps, personal files, and other automations. The app is designed to offer users more control over their personal data, as consumer AI technology becomes focused more on AI agents that can perform tasks on users’ behalf, rather than just answering questions. Already, the major model makers, including OpenAI, Anthropic, Meta, and others, offer desktop tools for working with their AI technologies, but doing so invites increased risk to users’ personal data. Only this week, for instance, Apple announced it was addressing those privacy concerns with tightened security settings for apps that request Full Disk Access, as the AI desktop apps do. Proton’s idea is to offer a set of tools that let its AI access connected apps, files, and folders and automate tasks, but with more personalization over how much access the AI has. The company says users can choose which actions the AI agent takes that will need to request their approval, and it vows that the conversations and information from connected apps and files are never used to serve personalized ads or train AI models. The new app includes a variety of connectors that support local tools, like file-system access, shell execution, and browser content fetching, as well as Proton’s email app and other third-party services, including Confluence, Dropbox, and Jira. The connectors also support local and remote MCP (Model Context Protocol…",
+   "fonte": "TechCrunch",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Testate tech",
+   "id": "a136",
+   "testo_completo": true
+  },
+  "a132": {
+   "titolo": "Google expands access to Gemini Tasks, which can help with calls, purchases",
+   "link": "https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/",
+   "data": "2026-11-17T19:02:20+00:00",
+   "testo": "Google is expanding the rollout of Tasks, a toggle in Gemini that converts the chatbot into a more active helper. Unlike Gemini’s Chat, which merely allows users to talk to Google’s AI assistant for informational purposes, Tasks empowers the app to complete basic secretarial functions, deputizing it as a kind of personal assistant. How, specifically, can you use it? Google says that the app can call businesses and book appointments on users’ behalf; it can also complete purchases for them via Google Pay, and even sign into websites securely if prompted to do so. In a blog post, Josh Woodword, VP of Gemini, claims to have recently used the feature to call local car dealerships to schedule a service appointment for his family’s minivan. He says he also used it to analyze his electrical bill. Tasks was initially launched to select testers back in May as Gemini Spark, a 24/7 agentic helper, and was expanded to U.S. subscribers of its Google AI Ultra tier. Gemini Spark eventually became “Task Mode.” Google is now making the feature available for free to hundreds of millions of people who are using the company’s new Gemini 4 Hydrogen model. Getting the function up and running is easy. Users merely flip a toggle within the app from Chat to Tasks, which enables the feature. Users can also send texts to Gemini or call the app to give it commands.",
+   "fonte": "TechCrunch",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Testate tech",
+   "id": "a132",
+   "testo_completo": true
+  },
+  "a196": {
+   "titolo": "GPT‑6.2 Astra and GPT‑6.2 Sol",
+   "link": "https://simonwillison.net/2026/Nov/17/gpt62-astra-and-sol/",
+   "sito": "",
+   "data": "2026-11-17T22:38:52+00:00",
+   "testo": "GPT‑6.2 Astra and GPT‑6.2 Sol OpenAI: We’re introducing GPT‑6.2 Astra, our new frontier model for your hardest projects, and GPT‑6.2 Sol, our efficient, versatile model for everyday work. They're available in the API as gpt-6.2-astra and gpt-6.2-sol . I shipped LLM 0.38 with support for the new models. 6.2 Astra is 80% of the price of 6 Astra - $8/MTok input and $40/MTok output, the same price as…",
+   "fonte": "Simon Willison (prove pratiche di strumenti AI)",
+   "tipo": "community",
+   "solo_titolo": false,
+   "categoria": "Community",
+   "id": "a196"
+  },
+  "u1a131": {
+   "titolo": "Copilot is \"the new OS for work,\" and now Office runs inside of it",
+   "link": "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/",
+   "data": "2026-11-18T00:27:29+00:00",
+   "testo": "Opening the keynote at its Ignite event, Microsoft CEO Satya Nadella outlined the company’s vision for its new “frontier ecosystem,” announcing Tuesday the general availability of Word, Excel, and PowerPoint inside Copilot, which he described as “the new OS for work.” The announcement is a striking inversion of how we’ve traditionally used software. Rather than an app like Word being the attraction and Clippy the assistant to help you use it, Microsoft envisions the new Copilot integrations will see agents driving things, with the software packages riding shotgun. Applications will become plugin components of the agent’s work, backed by an organizational knowledge layer that draws context from emails, meetings, calendars, chats, and files. Users will now be able to create documents, spreadsheets, and presentations directly in Copilot, with the resulting files remaining editable in their respective Office applications. The rollout marks a major step toward the Copilot redesign the company first announced in September. Parts of that vision are now becoming “generally available,” as Nadella puts it, with autonomous agents and new governance tools arriving alongside them. All about agents Copilot Autopilot (not to be confused with Windows Autopilot) is a “persistent, proactive agent for personal productivity” according to Microsoft. In a nutshell, Autopilot is a cloud-based autonomous AI agent that users can delegate responsibilities to, not just single tasks. Autopilot can be authorized to work across services like email and calendars and complete tasks assigned to it as part of its role. Autopilot will use usage-based billing via Copilot Credits, but final pricing has not been announced ahead of general availability. Also announced as generally available at the keynote s…",
+   "fonte": "Ars Technica",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Testate tech",
+   "id": "u1a131",
+   "testo_completo": true
+  },
+  "u1a100": {
+   "titolo": "Ignite 2026: Microsoft Makes Copilot the Center of the Office Experience",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE81d0Q1UEtUb1VtVnQ1cUcxOExzUGpkYktOdlU4SVZNQlRwa3k5bkJGbkpOQ3dja1J1VkxwQTF2Y3A5U3lnanhrTXpNTnRQT0hYZ1NEQVZ2VFY4UU80bFI5VW9Vcw?oc=5",
+   "data": "2026-11-17T19:17:59+00:00",
+   "testo": "",
+   "fonte": "Petri IT Knowledgebase",
+   "tipo": "minore",
+   "solo_titolo": true,
+   "categoria": "Laboratori",
+   "id": "u1a100"
+  },
+  "u2a113": {
+   "titolo": "Suno now lets you make AI videos for your AI music",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1036415/suno-visuals-ai-generated-video-images-feature",
+   "sito": "",
+   "data": "2026-11-18T06:16:53-05:00",
+   "testo": "Suno has introduced image and video generation in its latest effort to expand beyond being an AI music platform. The new feature, called “Visuals,” allows users to turn Suno songs into AI-generated video clips that automatically lipsync to lyrics, or make images via prompt descriptions that can be used as thumbnails and album artwork. Suno now lets you make AI videos for your AI music The new Visuals feature generates images and 15-second videos that automatically sync with Suno songs. Visuals is available on web, iOS, and Android. The exact layout differs across Suno’s desktop and mobile interfaces, but users will find a new Visuals tab under Create mode on each version. Web users can also access Visuals by selecting the three dot menu on a song in their library. From there, users can select which section of the track to use, up to a maximum of 15 seconds, and select a reference image to build the generated video clip. There are three options available for the starting image reference: selecting one of the original character presets provided by Suno, uploading your own photo or artwork, or generating the image directly on Suno using descriptive prompts. The image generation capabilities also allow users to select specific aspect ratios, optimizing results for landscape or portrait modes and online platforms. For video generation, users can select whether the reference image is used as the start or end frame, making it easier to edit the 15-second clips together. There’s a toggle to automatically lipsync vocals to the generated video, and tools for adjusting aspect ratio and clip length. Visuals also includes a dedicated video editing timeline for assembling clips into longer videos, and adding customizable song lyric text. The H3 Move AI model is being used to power V…",
+   "fonte": "The Verge",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Testate tech",
+   "id": "u2a113",
+   "testo_completo": true
+  },
+  "u2a68": {
+   "titolo": "n8n stable",
+   "link": "https://github.com/n8n-io/n8n/releases/tag/stable",
+   "sito": "",
+   "data": "2026-11-18T08:51:54+00:00",
+   "testo": "2.48.5 (2026-11-18) Bug Fixes AI Agent Node: Keep tool-call history separate for each input item ( #44044 ) ( 4f16701 ) AI Agent Node: Stop adding newlines between streamed text chunks ( #43822 ) ( 19d9fa4 ) core: Give fresh installs a random instance ID ( #44276 ) ( 1f15447 ) core: Hand dollar property reads to the expression engine ( #43809 ) ( 6fb7219 ) core: Keep small objects inside an Error…",
+   "fonte": "n8n (nuove versioni)",
+   "tipo": "ufficiale",
+   "solo_titolo": false,
+   "categoria": "Gemme",
+   "id": "u2a68"
+  },
+  "u2a141": {
+   "titolo": "Suno's new Visuals feature pairs AI-generated music with AI-generated video",
+   "link": "https://the-decoder.com/sunos-new-visuals-feature-pairs-ai-generated-music-with-ai-generated-video/",
+   "data": "2026-11-18T10:22:45+00:00",
+   "testo": "Suno's new Visuals feature pairs AI-generated music with AI-generated video AI music generator Suno can now create images and video clips to go with its songs, thanks to a new feature called Visuals. The feature runs on H3 Move, a customized and safety-filtered version of MiniMax's video model H3. The clips run up to 15 seconds, follow the song's structure, pick up on lyrics, and support lip sync. Users can start from a reference photo, a prompt, or one of Suno's preset characters. Lyric videos let you tweak fonts and colors, extend clips on a timeline, and pick the length and aspect ratio. Two quality tiers are available, \"Fast\" and \"Standard.\" Filters block prompts and uploads that reference specific artists, celebrities, or copyrighted works. Before sharing content outside Suno, the platform adds an embedded watermark. Visuals works on the web, iOS, and Android, and requires its own credits. Pro and Premier subscribers get a temporary allotment to try it out. In late July, the Munich Regional Court I ruled against Suno in a lawsuit filed by GEMA, Germany's music rights organization, finding copyright infringement. Shortly after, Suno announced tools to label Suno-made songs as AI-generated on other platforms. The company has reached a deal with Warner Music, but Universal and Sony are still pursuing litigation. AI News Without the Hype – Curated by Humans Subscribe to THE DECODER for ad-free reading, a weekly AI newsletter, our exclusive \"AI Radar\" frontier report six times a year, full archive access, and access to our comment section. Subscribe now",
+   "fonte": "The Decoder",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Testate tech",
+   "id": "u2a141",
+   "testo_completo": true
+  },
+  "u2a158": {
+   "titolo": "Microsoft annuncia sette modelli AI: cyber, coding e immagini",
+   "link": "https://www.punto-informatico.it/microsoft-annuncia-sette-modelli-ai-cyber-coding-immagini/",
+   "data": "2026-11-18T11:57:10+00:00",
+   "testo": "Anthropic, Google e OpenAI sfornano nuovi modelli AI a cadenza mensile o meno. Microsoft è nota principalmente per Windows e altri software, ma può competere ad armi pari, grazie alla divisione guidata da Mustafa Suleyman. Durante la conferenza Ignite 2026 di ieri sera, l’azienda di Redmond ha annunciato sette nuovi modelli AI che possono essere utilizzati per diverse attività. Modelli con capacità cyber e programmazione Il primo modello è MAI Cyber 2 Flash. Grazie all’addestramento con dati di sicurezza proprietari permette di trovare vulnerabilità nei software e scrivere il codice delle patch. In base ai risultati del benchmark CyberGym offre prestazioni superiori a GPT-6 Astra e GPT-5.6 Cyber di OpenAI. Completa le attività usando meno token, quindi il costo è molto più bassa rispetto a quello di GPT-6 Astra. Sarà disponibile solo nei prodotti Microsoft, tra cui MDASH (Multi-Model Agentic Scanning Harness). I modelli per la programmazione sono MAI Code 2 e MAI Code 2 Flash. Il primo è più potente, mentre il secondo è più veloce. In base ai risultati dei benchmark pubblicati da Microsoft, MAI Code 2 offre prestazioni molti simili a quelle di GPT-6.1 Sol e Claude Opus 5.5 al 40% e al 5% del costo. MAI Code 2 Flash offre invece prestazioni superiori a quelle di GPT-6 Luna e Claude Haiku 5.5 al 65% e al 20% del costo. Sono accessibili tramite GitHub Copilot. Modelli per generare immagini e trascrizioni MAI Image 2.7 è il modello specializzato nella generazione e modifica delle immagini (c’è anche la variante Flash). Può essere utilizzato per eseguire diverse operazioni di editing, come cambiare colore, materiale e posizione degli oggetti, senza alterare il resto dell’immagine. Le prestazioni sono superiori a quelle di GPT Image 2.6. MAI Image 2.7 è ora il modello predef…",
+   "fonte": "Punto Informatico",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Italia",
+   "id": "u2a158",
+   "testo_completo": true
+  }
+ },
+ "fonti": [
+  {
+   "nome": "Product Hunt (AI)",
+   "ok": true,
+   "presi": 15
+  },
+  {
+   "nome": "Show HN (nuovi progetti)",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "Nuove app AI (internazionale)",
+   "ok": true,
+   "presi": 10
+  },
+  {
+   "nome": "Nuove app AI (Italia)",
+   "ok": true,
+   "presi": 8
+  },
+  {
+   "nome": "Novità AI da provare (Italia)",
+   "ok": true,
+   "presi": 8
+  },
+  {
+   "nome": "AI sul dispositivo (internazionale)",
+   "ok": true,
+   "presi": 8
+  },
+  {
+   "nome": "AI sul dispositivo (Italia)",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "Android Police (AI su Android)",
+   "ok": true,
+   "presi": 4
+  },
+  {
+   "nome": "Windows Central (AI su Windows)",
+   "ok": true,
+   "presi": 2
+  },
+  {
+   "nome": "Ollama (nuove versioni)",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "Open WebUI (nuove versioni)",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "Show HN – progetti utili (gemme)",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "Reddit r/selfhosted",
+   "ok": false,
+   "errore": "HTTP Error 404: Not Found",
+   "presi": 0
+  },
+  {
+   "nome": "Reddit r/opensource",
+   "ok": false,
+   "errore": "HTTP Error 404: Not Found",
+   "presi": 0
+  },
+  {
+   "nome": "Alternative open source (Google News)",
+   "ok": true,
+   "presi": 6
+  },
+  {
+   "nome": "n8n (nuove versioni)",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "Immich (nuove versioni)",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "OpenAI",
+   "ok": true,
+   "presi": 6
+  },
+  {
+   "nome": "Google (blog ufficiale)",
+   "ok": true,
+   "presi": 8
+  },
+  {
+   "nome": "Google Gemini (blog)",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "Nuove funzioni AI (Google News)",
+   "ok": true,
+   "presi": 12
+  },
+  {
+   "nome": "Anthropic / Claude",
+   "ok": true,
+   "presi": 6
+  },
+  {
+   "nome": "Microsoft Copilot",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "Altri assistenti AI (Perplexity, Mistral, Meta AI…)",
+   "ok": true,
+   "presi": 8
+  },
+  {
+   "nome": "Hugging Face (modelli e strumenti aperti)",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "Mistral AI",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "The Verge",
+   "ok": true,
+   "presi": 10
+  },
+  {
+   "nome": "TechCrunch",
+   "ok": true,
+   "presi": 12
+  },
+  {
+   "nome": "Ars Technica",
+   "ok": true,
+   "presi": 6
+  },
+  {
+   "nome": "MIT Technology Review",
+   "ok": true,
+   "presi": 4
+  },
+  {
+   "nome": "The Decoder",
+   "ok": true,
+   "presi": 10
+  },
+  {
+   "nome": "TLDR AI (newsletter)",
+   "ok": true,
+   "presi": 2
+  },
+  {
+   "nome": "ANSA",
+   "ok": true,
+   "presi": 6
+  },
+  {
+   "nome": "Wired Italia",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "Il Sole 24 Ore Tecnologia",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "Punto Informatico",
+   "ok": true,
+   "presi": 11
+  },
+  {
+   "nome": "HDblog",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "AI4Business",
+   "ok": true,
+   "presi": 4
+  },
+  {
+   "nome": "Agenda Digitale (AI)",
+   "ok": true,
+   "presi": 3
+  },
+  {
+   "nome": "Garante Privacy e AI",
+   "ok": true,
+   "presi": 3
+  },
+  {
+   "nome": "Malwarebytes (app e truffe AI)",
+   "ok": true,
+   "presi": 2
+  },
+  {
+   "nome": "Reddit",
+   "ok": false,
+   "errore": "HTTP Error 404: Not Found",
+   "presi": 0
+  },
+  {
+   "nome": "Reddit (AI locale)",
+   "ok": false,
+   "errore": "HTTP Error 404: Not Found",
+   "presi": 0
+  },
+  {
+   "nome": "Simon Willison (prove pratiche di strumenti AI)",
+   "ok": true,
+   "presi": 4
+  },
+  {
+   "nome": "Bellingcat (guide e strumenti)",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "GIJN (guide per giornalisti investigativi, via Google News)",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "OSINT – verifica e fact-checking (internazionale)",
+   "ok": true,
+   "presi": 3
+  },
+  {
+   "nome": "OSINT – nuovi strumenti (internazionale)",
+   "ok": true,
+   "presi": 6
+  },
+  {
+   "nome": "OSINT – strumenti (Italia)",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "Facta (fact-checking, contenuti falsi e AI)",
+   "ok": true,
+   "presi": 3
+  },
+  {
+   "nome": "Week in OSINT (Sector035)",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "The OSINT Newsletter",
+   "ok": true,
+   "presi": 2
+  },
+  {
+   "nome": "IDMO (osservatorio italiano sulla disinformazione)",
+   "ok": true,
+   "presi": 2
+  },
+  {
+   "nome": "EU DisinfoLab",
+   "ok": true,
+   "presi": 2
+  },
+  {
+   "nome": "Reddit (OSINT)",
+   "ok": false,
+   "errore": "HTTP Error 404: Not Found",
+   "presi": 0
+  },
+  {
+   "nome": "Hacker News (OSINT)",
+   "ok": true,
+   "presi": 0
+  }
+ ],
+ "visti": [
+  "liquidd12",
+  "agentsapibyrecallai",
+  "pinecall",
+  "superhands",
+  "vinc",
+  "wispos",
+  "gatherhqagentresearch",
+  "basestudio",
+  "infaiw",
+  "awsemulator",
+  "ballet",
+  "uisdkbyvercel",
+  "bytevoice",
+  "lexicad",
+  "glifa",
+  "danillilaunchesanaiapptoaskshopbuildwebsitesandstartabusiness",
+  "linarclaunchesliaaiassistanttoautomateconstructiondocumentmanagement",
+  "googleexpandsgeminiaiassistantwithfreetasksinsixcountries",
+  "klarnalaunchesaiassistantforshoppingandbookingsonwaitlist",
+  "creatormarketingplatformnutcakelaunchesaitoolthatanalyzeswhatappearsinsidecreato",
+  "klarnagrouplaunchesaiassistant",
+  "benchmedialaunchesaiassistanttomediaintelligenceplatform",
+  "dinggolaunchesfreeaitooltohelpaustraliandriversdecidewhethertoclaimorpayforcarre",
+  "fromreturnstorestaurantbookingsklarnasaiassistantfinds",
+  "aitoolfromiffcutsdevelopmenttimeforproductconcepts",
+  "lineeguidaagidsullintelligenzaartificialechecosacambiaperiltitolarepubblicoeperi",
+  "favaraguardaalfuturoconsofiaarrivainpiazzacavouriltotemdigitaleconintelligenzaar",
+  "applelanciaappperstudiarelusodellintelligenzaartificialenellasalute",
+  "intelligenzaartificialelavoroepartecipazioneassolombardaesindacatifirmanounanuov",
+  "consumodiacquadeidatacenterriusoenuoveregole",
+  "notiziedallagiunta",
+  "marinadiravennaarrivascoprimarinalintelligenzaartificialeguidaturistieresidenti",
+  "geminigratisoprodifferenzelimitieprezzideipianispiegati",
+  "comeusarechatgptegeminipertrovaregliscontidelblackfriday2026",
+  "ampliarelaccessoalliapergliscienziati",
+  "googlegeminiorabastaunafrasepercreareunsitowebeccocomefunziona",
+  "googlegeminiarrivasuapplecarplaysirihaunnuovorivaleinauto",
+  "chiediamapsarrivaineuropapreparaitineraricompletiecercatraipostichehaisalvato",
+  "cosèchatgptwalletecomefunzionaperpagarecongliagentiai",
+  "arrivageminitasksgratisinseipaesitelefonaepagasolonegliusa",
+  "geminigooglewalletechatgptlaianalizzalespese",
+  "neolensdevelopsofflineaiassistantforandroidtosupportmilitaryequipmentrepairs",
+  "gigabytelaunchescompactaitopaerodesktopforlocalai",
+  "ijustreplacedduolingowithalocalllmthattooktwominutestosetuponmyandroidphonehowto",
+  "applelaunchesprivateaihealthstudyappfirstofitskindbetaopensto200000testersbutyou",
+  "flagstarbankbuildsasecuremanageablefoundationforaiwithwindows11",
+  "ovhcloudlaunchesolalaminianopenmodelthatrunson8gbofgpumemory",
+  "gehealthcaresaitoolcutsfeedingtubeerrors",
+  "buildingaprivateaidocumentassistantonan8gbgpuusingragandllamacpp",
+  "ryzenaihalodiamdconvienedavverocomprarloperlailocale",
+  "appleconfermaproblemipericloudappstoreeapplemusiclaziendaaffermacheleinterruzion",
+  "liaarrivasuinostripcmachicontrollaciòchepuòvedere",
+  "redmipotrebbepreparareunosmartphonecompattocondisplayltpoda63pollici",
+  "grapheneossenzagooglecosacambianellusoquotidiano",
+  "iintegratedgooglegeminiacrossdocskeeptasksandsheetstostreamlinemydailyworkflow",
+  "gemininotebookmadeyourstudynotesintosomethingyoucanexplore",
+  "geminiinandroidautocouldfinallykeepmyhandsoffmyphoneatredlights",
+  "googledocsandgemininotebookreplacedmyobsidianvaultforgood",
+  "copilotisabouttobecomewindows11saitechsupportandicanseetheappeal",
+  "dissectingmicrosoftsbigserviceoutageandnvidiaceoscandalpodcast",
+  "alloycssdialogsmenusandtabsthatworkwithjavascriptoff",
+  "irefusedtopayasubscriptionjusttotrackmysubscriptionssoiselfhostedthisopensourced",
+  "kist20aselfhostedlibraryformediaandeaglecadfiles",
+  "whatisthebestuidesigntool8toolscomparedbythejobtheydo2026",
+  "withcoralreleasescoralanopensourcegatewayforcontrolledagenttooluse",
+  "iomovov2letsteamsbuildtheirownaiagentsandchoosethemodelsbehindthem",
+  "liberntaimstorecreatewindows11withoutmicrosoftofferinganopensourcealternativetha",
+  "n8nn8n330",
+  "immichv340",
+  "introducinggpt62astraandsol",
+  "strengtheningnatoandalliedcyberdefenseswithai",
+  "introducingchatgptforsales",
+  "astraforlawleadsinlegalintelligence",
+  "introducingopenaiforchile",
+  "broadeningaccesstoaiforscientists",
+  "howgenomemappingcanhelpresearchersbetterunderstanddisease",
+  "seewhat5buildersaremakingwithgemini4carbon",
+  "putgeminitoworkforyou",
+  "10statesteamupwithgoogleonfreeaitraining",
+  "temporarythreadsarenowavailableinaimodeinsearch",
+  "fromeasierentrytosmartersavingshereswhatsnewingooglehome",
+  "regionalvoicesarerollingoutinthegeminiapp",
+  "outpaceautomatedcyberthreatswithsecuritybuiltfornonstopdefense",
+  "openaisgpt62astraandgpt62solnowavailable",
+  "coinbasebringsbitcointradingtochatgptwithnewplugin",
+  "ignite2026microsoftcopilotsdk20isnowavailable",
+  "openailauncheschatgptforsalesacrossthedealcycle",
+  "openailauncheschatgptforsalestocutbusyworkfordealteams",
+  "essentiallyunusableopenailaunchesgpt62astraandsoltonegativereceptionfromaipoweru",
+  "microsoftlaunchesautopilotapersonalagentforcopilot",
+  "amwinsrollsoutclaudeto8000employees",
+  "campaigntracklylauncheschatgptutmbuilderforcleanmarketingcampaignlinks",
+  "coinbaselauncheschatgpttradingpluginwithapprovalforeveryorder",
+  "zoominfolaunchesachatgptsalespluginforprospecting",
+  "zoominfolaunchessalespluginextensionsforchatgptthroughgtmai",
+  "anthropicipohowcanibuysharesandisitworthit",
+  "anthropicannouncesclaudefable52andmythos52theyealreadysolvedblackholephysicsprob",
+  "anthropicsiposetforblastoffthisweekinkeytestforaiboom",
+  "anthropicsaidtoguideipopricetotopofrangeorabove",
+  "microsoftjabsatopenaiandanthropictoutingcheapercustomizableaimodelsofitsown",
+  "openaiundercutsclaudeby95withgpt62astrainanthropicsipoweek",
+  "microsoftandsalesforceannouncecopilotforcebringingtrustedcustomercontextandactio",
+  "salesforceandmicrosoftannouncecopilotforce",
+  "reminderfreeroletargetedmicrosoftcopilottrainingisavailableforucstaff",
+  "copilotatmicrosoftigniteexpandingwhatspossiblewithintelligencebuiltforwork",
+  "githubcopilotcliaddsmicrosoftentrasigninasapreview",
+  "perplexitylaunchesmultiagenttocoordinatefrontieraimodels",
+  "perplexitylaunchesorchestratorapiforflexiblemodelselection",
+  "perplexitylaunchesamonitorapithatwatchestopicsandwebpagesandpushesupdatesviawebh",
+  "ios273sredesignedapplehealthapprequiresneweriphonemodel",
+  "perplexityteammatesarriveinthemacappformax",
+  "itestedappleintelligenceonatopnewsecuritycameratofinditslimits",
+  "grokbotcanuseclaudebutuserscantpickmodels",
+  "grokbotagentsmade31unapprovedaccessattemptsxaisaidactionswereintentional",
+  "huggingfaceandopenrouterjoinforcestomakeopenweightmodelseasytorun",
+  "nvidiasq3earningshitthemarkwithoutmentioningthewholejensenhuangthing",
+  "notevensamaltmanissafefromaideepfakesoninstagram",
+  "googlessparkaiagentbecomestasksandnowitsfree",
+  "thedojsaysitsinvestigatingmegaspeed",
+  "jensenhuangsaysheswillingtoreturnasnvidiaceo",
+  "techleadersareconvincedthatjensenhuangsexitwasaplotagainsthim",
+  "californiasuesopenaioverrogueaihackingincidents",
+  "samaltmansayshewantseveryonetohavealotofram",
+  "bignuclearisntworriedaboutthedemocratsstoppingdatacenters",
+  "usdatacentersnowburnmoreelectricitythanamidsizedcountry",
+  "nvidiasaysitsopensourceaistrategyremainsintactafterjensenhuangsexit",
+  "nvidiasaysitdoesntplantoreappointjensenhuangasceo",
+  "amazonandgooglewilltogetherownnearly30ofanthropicafteritsipo",
+  "secreportedlyinvestigatingnvidiaamidhuangexit",
+  "googlejoinsthetechoutagetrendbyannouncingitsnothavingone",
+  "modelmlraises250mtoautomateinvestmentbankinggruntwork",
+  "googleexpandsaccesstogeminitaskswhichcanhelpwithcallspurchases",
+  "googletokeepgeminichatsfor2monthsupfrom72hoursevenwithhistoryoff",
+  "asdecisionmodeluseskyrocketsiscustomizationthenextfrontier",
+  "pedestalairaises47milliontoagentifythesupplychain",
+  "protonslumoaprivacyfocusedalternativetochatgptandclaudearrivesondesktop",
+  "aimodelscanbetrickedintoidentifyingciviliansasmilitarytargetsbytellingthemitsaga",
+  "trumpwasinbedwithjensencriticsbalkathuangswishtoreturntonvidia",
+  "googlemakesiteasiertousegeminiwithouttrainingaionyourdata",
+  "arslivewhatdodronestrikesondatacentersmeanforthefuturetalkat1pmesttoday",
+  "grokbottookunapprovedactionsignoredorderstostopandthendeniedit",
+  "robosoldierstartupbackedbyerictrumpmissespayrollmaycollapse",
+  "usmovestocutchinasremoteaccesstoaichips",
+  "researchreports",
+  "theopensourcemovementwantsjensenhuangback",
+  "buildingtrustworthyaibyfencingitinnotpredictingit",
+  "buildingaithatcanworkacrosstheenterprise",
+  "openailaunchesgpt62astraandsolwithlowerapipricesandsomebenchmarkgains",
+  "aiagentsarestartingtofilloutmedicalformsandfileinsurancerequestsinplaceofhumanst",
+  "theuswantstoblockchinafromrentingaipowerabroadbutchinaalreadybuiltaparallelsuppl",
+  "openaiopensitscybersecuritytooldaybreaktonatoandeuropeangovernments",
+  "reportsofaigeneratedchildsexualabusematerialhavesurgedmorethan8400percentintwoye",
+  "isomorphiclabsraises5billioninitssecondmegaroundwithinsixmonths",
+  "californiasattorneygeneralsuesopenaioverrogueaimodelsthatattackedhuggingface",
+  "googlewarnsthatfullyautomatedcyberattackshavearrivedandwillgetworsefast",
+  "openaisgpt6astratacklesthestandardmodelstoughestmathproblemonalattice",
+  "moonshotaipivotskimimodelsfromcodingtoscienceasbenchmarkgainsflatten",
+  "perplexityresearchnvidiarubinhpcopenaisafetyassessments",
+  "chatgptwalletdevinappsalwaysonagents",
+  "ivaccinidelfuturospintidallintelligenzaartificialediretta",
+  "lintelligenzaartificialenondevediventareumanasiamonoichedobbiamorestarlo",
+  "intelligenzaartificialeascuola27alunniraccontanoilterritorioaquilano",
+  "accordoassolombardasindacatisuintelligenzaartificialelavoroepartecipazione",
+  "chigovernalintelligenzaartificialeconvegnodellanormaleafirenze",
+  "aromailconvegnoditelefonoazzurroproteggereibambininelleradellintelligenzaartific",
+  "openaiapreunblogscientificoilfisicoproponelaidimostra",
+  "jensenhuangèprontoperricoprirelacaricadiceodinvidia",
+  "7modiperusareclaudecodenellapropriaattività",
+  "dettaglisullevulnerabilitàdopo30giornipercolpadellai",
+  "nvidiacomitatoperilcontrollodelleesportazioni",
+  "agentigemini4argonpossonoaggirarelerestrizioni",
+  "attacchidegliagentiaidenunciaperopenaiincalifornia",
+  "hackerinferieoragliattacchililancialaidasolaavvertegoogle",
+  "instagramintegrailinkaffiliatiamazoninreelepost",
+  "audiblelanciaaudiodiscoverylaipresentagliaudiolibri",
+  "agentiaiappleaggiornaicontrolliperlaccessoaldisco",
+  "gemininotebookcreasitiinterattividallepropriefonticomefunziona",
+  "samsungoneui95dailybriefingindividueràscadenzeeappuntamentiinautomatico",
+  "gpt62astraesolufficialieccolenovitàintrodottedaopenai",
+  "jensenhuangvuoletornareallaguidadinvidiadecideràilconsiglio",
+  "aieconsumatoriperchélafiduciapassaancoradallepersone",
+  "nvidiarubinhpcoltre50000cudacoreperlaricerca",
+  "chatgptwalletgliagentiaiarrivanoalpagamentoonline",
+  "qualitàdeidatiperlaiperchéiprogettiaziendalifalliscono",
+  "nvidiailritornodihuangchepuòsuccedere",
+  "aisullavoroqualiregoledevonoseguireleaziendeitaliane",
+  "laihaunproblemaconleinformazionieccoperchéservonoifilosofi",
+  "aiecybersecuritygliattacchiabilitatidallaicostano6milioni",
+  "canoneunicopatrimonialeperletlccomerispondereaicomuni",
+  "intelligenzaartificialeascuolavialiberadelgaranteprivacyaccessipseudonimizzatien",
+  "intelligenzaartificialeascuolaarrivailsìdelgarantequaliregoledevonoseguiregliist",
+  "scontridimilanoperilgaranteprivacyildirittodicronacanongiustificalidentificazion",
+  "criminalsareusingartexaiagentstospeedupcyberattacksfbiwarns",
+  "musesleepbanduserswerenttoldtheirbraindatawastrainingai",
+  "externalsandboxesforcodingagents",
+  "gpt62astraandgpt62sol",
+  "llm0373",
+  "datasettemaplibre01a0",
+  "usingthesafeboxnetworktoprotectstorieslaurentrichard",
+  "digitalsecuritybasicsforinvestigativejournalistsluisassardo",
+  "জআইজএনরপরভবgijnimpact",
+  "visualstorytellingforinvestigationstipsandtools",
+  "reportersnotebookwhattodowhenyourinvestigationgetsspiked",
+  "howtocheckaphotoscontextwithreverseimagesearch",
+  "factfilepropalestinianrallyonparliamenthillnotfromremembranceday",
+  "samsungelectronicspicksyestforhpatooltrialin1ddrampush",
+  "seeristawardedpositiononfbispecializedosinttoolsidiqforterrorismrelatedinformati",
+  "artectechnologiesaga6tsecuresfirstpoliceosintcontract",
+  "osintwhenpublicinformationbecomesaweaponhaezreenabegumabdulhamid",
+  "attackoncrimeanbridgethrougheyesofflamingofirepointcofounderhintsatuseofukrainia",
+  "satelliteimagepointstopossibleil76hitinukrainianstrikeonrussianairfield",
+  "artectechnologiesistappingintoanewbusinesssectorwithinpoliceforceswithitsaibased",
+  "securitymanageranalistagiuristafilosofotecnicoocomunicatore",
+  "loscambiosocialincuimuskdiceabillgatesdinoncostringerloacompraremicrosoftèfalso",
+  "noquestononèlattentatoredicracoviachepartecipaaunamanifestazioneantirazzista",
+  "inuoviagentiaisonotroppocariniperessereinnocui",
+  "theosintnewsletterissue130",
+  "theosintnewsletterissue129",
+  "alviaprimacollaborazionedelcentrouecontrolefakenewsconongefactchecker",
+  "mattarelladifendeivaccinimaggioranzadivisasuimedicinovax",
+  "disinfoupdate4112026",
+  "europesmissingwatchdogshowboththedsaandtheaiactarefailingonenforcement",
+  "stateweave",
+  "trnrtanopensourcellminferenceengineforawstrainium",
+  "bestaiappbuilderin202612toolscomparedforbusinessbuyers",
+  "scotiabankbnslaunchesaitooltargetsonemonthofstafftimesavedbyend2027",
+  "yournewmusemetalaunchesaipersonalassistantinaustralia",
+  "dirigentiscolasticineoassunti75orediformazioneeprovaarrivalafiguradelmentore",
+  "cuoabusinessschoolesploraleradellintelligenzaartificialeconildigitalday2026",
+  "applelanciaunapppertestarelaisullasalutechipuòpartecipar",
+  "islandquestaapptrasformalaschermatadibloccoinungiocochetiaiutaanonguardarelosche",
+  "geminilivesipreparaaintrodurreeffettispecialiconpikachueuntemadedicatoalringrazi",
+  "gemininotebooktrasformaappuntiefontiinsitiwebinterattividallachat",
+  "macstudiom5ultravsrtxsparksave29002026",
+  "agatintroducespragatixprivateagentsuitetobuildandrunprivateaiagentssecurelyiniso",
+  "wiciinferruns800baimodelslocallywithoutmoreram",
+  "ondeviceaimarketsizesharegrowthforecast2034",
+  "aiagentsforcustomerserviceascnaiprivateaidinner",
+  "ps4diventaunminiserverailocaleda9mlddiparametri39tokenalsecondo",
+  "pcloudsvelablackfridayscontifinoal60pianilifetimesufficientiper33cambidiiphone",
+  "iturnedmyphoneintoahandsfreeproductivitymachinewith4geminivoicecommands",
+  "ifoundgeminishiddenrecordofwhatitknowsaboutmethenfixedwhatitgotwrong",
+  "aiagentsgainbrowserinfrastructuretoolsforwebinteraction",
+  "logfileanalyticsvsbrowsereventswhateachlayeractuallymeasures",
+  "themailerselfhostedphishingplatformthatrunsonclaudeandchatgpt",
+  "openailauncheschatgptforsalesteamsupwithsalesforceandhubspottotargetsalesworkflo",
+  "openailauncheschatgptforsaleswithsalesforcehubspot",
+  "anthropicclaudedownwhyitsaiditwasunabletoauthenticatecode",
+  "anthropicfilesforipotoutingaisabilitytoimprovehowhumanslive",
+  "anthropicextendsfreeclaudeforteachersaccessforusk12educatorstojuly2028",
+  "microsoftaimstochallengeopenaianthropicwithcheaperspecializedaimodels",
+  "ignite2026microsoftmakescopilotthecenteroftheofficeexperience",
+  "perplexitylaunchesmultiagentlettingupto16aiscollaborateacrossdifferentmodels",
+  "glmvsclaudegptgeminigrokanddeepseekhowzhipusopenmodelcompares",
+  "appleistestingdailyusagelimitsformorecomplexsiriaiinteractions",
+  "openaiwantstostopdeepfakesfromoverwhelmingchildabusetiplines",
+  "nvidiasboardisreportedlynotconsideringhiringjensenhuangback",
+  "nvidiasstartupstakesballoonedto65bbuthuangsexitputsfuturedealsindoubt",
+  "nvidiapromisesthatrevenuewillkeepsoaringfornow",
+  "nvidiaisabandoningchinaafterjensenhuangsouster",
+  "copilotisthenewosforworkandnowofficerunsinsideofit",
+  "xiservemaggiorecooperazioneinternazionalesullintelligenzaartificiale",
+  "dairesialleprenotazionialristorantelassistentediintelligenzaartificialediklarnat",
+  "medicicolpagraveeailariformaarrivaalsenato",
+  "lineeguidaagidsullailachecklistoperativapericomuni",
+  "footageofaprecisionstrikeavideoofthespectacularcollapseofthecrimeanbridgehasbeen",
+  "whenpublicinformationbecomesaweapon",
+  "duskbot",
+  "linkbit",
+  "kadeepai",
+  "assemblyaistt37",
+  "incredibleagents",
+  "polylaneforci",
+  "maicyber2flash",
+  "aicanvas",
+  "tencenthy4flash",
+  "gpt62astraandsol",
+  "ox212",
+  "canfit",
+  "qwen4max",
+  "microsoftiq",
+  "uiverify",
+  "nutcakelaunchesaitoolforcreatordiscovery",
+  "10bestaiappsforiphonein2026testedranked",
+  "agodabeginslimitedpublicbetaofnewaiassistantfortravellers",
+  "intelligenzaartificialeunanuovarivoluzionenelrapportotrapersoneetecnologia",
+  "intelligenzaartificialelasfidadellepmidatrixlanciailsistemaoperativoperportarela",
+  "intelligenzaartificialesostenibileaserviziodelclimapattoacop31",
+  "universitàdigenovaarrivagedailassistenteiaperglistudenti",
+  "impreseesviluppatorisiincontranoperparlarediintelligenzaartificialearavennaarriv",
+  "commonwealthbankofaustralialanciaunostrumentodicybersicurezzabasatosullintellige",
+  "socialaiminoriarrivailsìdeigiovani6su10favorevolialdivietogeneraleepalettianchep",
+  "perchécreareunappconlintelligenzaartificialenonbastaarenderlaaffidabilesecondogl",
+  "falsositodelleentratearrivainitaliailmalwareandroidmirax",
+  "geminitaskssiapreatuttipuòchiamareaziendefissareappuntamentiefareacquisti",
+  "ristorazioneeaigestireilmenueleprenotazionidinataleecapodannoconclaudeewhatsapp",
+  "arrivaiphoneduonelsimulatorediclaudecodecontreposedaprovare",
+  "protonslumoisfinallyusefulandgivesushopeforarealprivateai",
+  "abodecam3brings2ksecurityvideoandbuiltinaiforsmarterhomemonitoring",
+  "macstudiom5ultravsrtxspark5499vs25992026",
+  "aiartyvideoenhancerofflineaidenoising4kupscalingandblackfridayoffer",
+  "falsoaggiornamentodellappioinstallailmalwaremirax",
+  "malwarearcticratcomeusagroksecondozimperium",
+  "dataroomnexusterzoreportdellosservatoriosulgiocoonlineillegalepartiretruccatepro",
+  "googleisgivingmillionsofgeminiusersafreepersonalaiagent",
+  "nextcloudandonlyofficebrokeupoveralicensemostselfhostershaveneverread",
+  "holyarrsholyarrsaselfhostedhubformediarequestsandlibraries",
+  "hardenrunnerbringsruntimesecurityinsidekataandnitrorunnerpods",
+  "n8nstable",
+  "legroupefigaroandopenaipartnertobringlefigarojournalismtochatgpt",
+  "waitlisterlaunchesconnectorforclaudetomanageproductwaitlistsbychat",
+  "copilotforcebringssalesforceintocopilotandteams",
+  "webuyglobalwbuywetripchinatourapplaunchesonchatgptfortravelleads",
+  "sanaisnowavailableinmicrosoftcopilotinearlyaccess",
+  "infobiplaunchesverifiedclaudeconnectorformultichannelmessaging",
+  "microsoftlaunchesinhousecodingandsecuritymodelsatigniterecastscopilotasanoperati",
+  "anthropichistorycontroversiesclaudeai",
+  "inforintegrateserpforthemanufacturingindustrywithanthropicsclaude",
+  "anthropicsblockbusteripocomesafterayearthatturnedaihypeintofear",
+  "anthropicapproachesfinalipohurdleaftertechstockschurn",
+  "themajoraliststarsetforbillionairestatusthankstoanthropicipo",
+  "anthropicrevenueandvaluationstatisticsnov2026",
+  "microsoftunveiledcopilotworkspacesatignite2026plusmoreaiworkplaceupdates",
+  "microsoftcopilotnoweditsandcoauthorsofficefilesinaichats",
+  "microsoftbringswordexcelandpowerpointintocopilot",
+  "grokvschatgptwhichaichatbotwinsin2026",
+  "sabretodebuttravelbookingpluginingrokbot",
+  "perplexitylaunchesmultiagentforcomputerandorchestratoranapiformodelsfromopenaian",
+  "arcticratmalwareandgrokzimperiumsfindings",
+  "nvidiaisntsellinganymoreaichipstochina",
+  "sunonowletsyoumakeaivideosforyouraimusic",
+  "satyanadellasayshesagipillednow",
+  "nvidiaclarifieswhenitwillandwontkeepfinancingneoclouds",
+  "felicisleads75mbetonunsiloedaitomakeenterprisedocumentsusablebyaiagents",
+  "indiashumynlabsraises47mtofeedusroboticscompaniesthedatatheyneed",
+  "thissmellstartupsaysitsainoseisasgoodasahumans",
+  "kpmgsprojectexponentialputaiagentsalongsidearealauditteamandfoundthebotsdugdeepe",
+  "secprobesnvidiaoverundisclosedchipsalestiedtochina",
+  "sunosnewvisualsfeaturepairsaigeneratedmusicwithaigeneratedvideo",
+  "anairobisidiscutediinnovazioneintelligenzaartificialeeoccupazionegiovanile",
+  "universitàdigenovalintelligenzaartificialealserviziodeglistudenti",
+  "ivaccinidelfuturospintidallintelligenzaartificiale",
+  "agentiaiinaziendaappianpresentaunacabinadiregiapercontrollarecostierisultati",
+  "microsoftannunciasettemodelliaicybercodingeimmagini",
+  "retidibancheusaensaofflinecolpadellepatch",
+  "geminitaskscosèecomefunzionalassistenteaigratuitodigoogle",
+  "nvidianessunritornodijensenhuangeaddioallacina",
+  "googlehomelevideocamerenestusanoanchelaudioperdescrivereglieventi",
+  "lgespandeloffertagamingaiedualmodeperinuovimonitorultragearoled",
+  "gliusaconfermanoleindaginisullasocietàpercuilavoravalamantedijensenhuang",
+  "iprimiauricolariaclipdixiaomiarrivanoinitaliaesonogiàinpromo",
+  "lapauradidiventareobsoletipuòfrenarelaiinaziendacosafare",
+  "laicambiailvaloredellaconsulenzavendereorenonbastapiù",
+  "intelligenzaartificialeascuolavialiberadelgaranteprivacy",
+  "holidayshoppinginaworldoffakeshowaiischangingthegame",
+  "taiwanscommonwealthmagazinedoublesdownondatadriveninvestigativejournalism",
+  "forensicinvestigationexposesfakexaccounttargetinginecchairmanamupitan",
+  "eudisinfolabsapproachtofundraising",
+  "worldinmotion",
+  "crossmintlaunchesmentathefirstpluginthatletsanyaiassistantshopanywhereworldwide",
+  "hymanslaunchesaitoolforthirdpartyadministration",
+  "cbafightsfraudwithnewaitoolasblamegamegripslendingindustry",
+  "protonlaunchesaprivacyfirstaiassistantforyourpc",
+  "catarattaarrivalachirurgiaguidatadallintelligenzaartificialelaserenuovetecnologi",
+  "claudeconcarplaycomeusarelamodalitàvocaleinauto",
+  "nvidiartxsparkcompactdesktopsoutnow",
+  "ibuiltmyownvoicenotepipelinetosortmyideasandtasksusinglocalaihowtogeek",
+  "insidethemsiedgemesanai5waystotakeadvantageofmsisnewestlocalaidesktop",
+  "nvidiartxsparkminipcperialocaleekitdgxspark",
+  "perplexityportablecomputerportalailocalesullegpunvidiartxprivacyepotenzasenzaclo",
+  "nvidiah200stopallespedizionideichipaiincina",
+  "itestednvidiasrtxsparkinanasusminipcandsawaiimagegenerationspeedupbynearly22buto",
+  "googlerollsoutfreetasksingeminiinsixcountries",
+  "sweetgreenlaunchesagenticorderingthroughclaudeandchatgpt",
+  "prooflauncheschatgptintegrationtosolvetheaiagenttrustgap",
+  "anthropics14trillionipohasretailinvestorsdividedoverwhethertobuyorwait",
+  "whowillscorebigfromanthropicsipo",
+  "anthropicapproachesfinalipohurdleaftertechstocksdecline",
+  "theworldembracedtheaiboomnowmanyarehavingregrets",
+  "thesevenanthropicfounderswhoareabouttobecomemultibillionaires",
+  "whatsnewforgenieinmicrosoftcopilotcoworkandchatmicrosoftteamsandexcel",
+  "copilotforcepartnershipputssalesforceinsidemicrosoftcopilot",
+  "microsoftignite2026buildingwindowsforthenexteraofwork",
+  "mistralplayscatchupwithvibedesktopasrivalsalreadycommandfulloperatingsystems",
+  "mistralvibelaunchesdesktopappformacosandwindows",
+  "perplexitylaunchesorchestratorapiwithsamemodelfailover",
+  "metaaiagentmusefacesprivacyscrutinyoverunpromptedmessagesandappaccess",
+  "timeseriesmodelsinthestreamhouseanewfrontierandusecases",
+  "rumble2flashanopen05bspeechmodelfor40languages",
+  "rememberthefrontieraipausechipcompaniesdonteither",
+  "willwrightsnextgameusesaitomapyourmemories",
+  "openaiceosamaltmansaysitshardtoimaginetheaiindustrywithoutjensen",
+  "theaihypeindexaiiseverywhere",
+  "pangramflags99percentofanawardwinningperuviannovelasaigeneratedbutthepublisherst",
+  "anthropicopenaiandgooglemodelsreadilymarkedmedicsjournalistsandsurrenderingsoldi",
+  "openaiopensitsaisystemstofourindependentonsiteauditorsforthefirsttime",
+  "huggingfacenowroutesmodelrequeststhroughopenrouterforthebestpriceorspeed",
+  "morethanhalftheelectricityfeedingamericaslargestdatacenterscomesfromgasandcoal",
+  "gpt62astramicrosoftssevenmodelsreplitmissions",
+  "copilotèilnuovosistemaoperativoperlavoro",
+  "nvidiafermalespedizionidichiph200versolacina",
+  "switchbotaiartframe2ildisplayeinkèilpuntodiforzamaildesignèlimitante",
+  "nvidiartxsparkarrivanoiminipcperlailocale",
+  "sunononsiaccontentadellamusicaaipotetegiàcrearevideoperivostribrani",
+  "gta6saràluiilgotyèincorsaperottopremiaithegameawards2026",
+  "satyanadellacredenellagimatemeilmonopoliodiunmodello",
+  "msiedgemesanaiundesktopcompattoconrtxsparkprogettatoperlailocaleegliagentisempre",
+  "microsoftcopilotcambiaofficeintegratopiùfunzioniperwindowsenuoviagentiai",
+  "nuovomotorea5cilindridaoltre240cvlasfidaitalianaaipropulsoritradizionali",
+  "quotingdanielstenberg",
+  "10вопросов"
+ ],
+ "audio": "audio/2026-11-18.mp3",
+ "durata": 162.2,
+ "aggiornamenti": [
+  {
+   "generato": "2026-11-18T05:38:49+00:00",
+   "modello": "gemini-3.8-flash",
+   "testi_completi": 6,
+   "riassunto": {
+    "titolo_giorno": "Microsoft Copilot integra Word, Excel e PowerPoint nella chat",
+    "in_breve": "La novità principale riguarda Microsoft Copilot, che integra direttamente la creazione e gestione di documenti Word, fogli Excel e presentazioni PowerPoint all'interno dell'interfaccia dell'assistente. Questo passo mostra la direzione degli agenti AI: il software tradizionale diventa un componente guidato dall'assistente anziché il punto di partenza dell'utente.",
+    "citati": [
+     "Microsoft Copilot"
+    ],
+    "da_provare": [],
+    "osint": [],
+    "gemme": [],
+    "sezioni": [
+     {
+      "titolo": "Novità negli strumenti che già usi",
+      "notizie": [
+       {
+        "titolo": "Word, Excel e PowerPoint funzionano direttamente all'interno di Copilot",
+        "strumento": "Microsoft Copilot",
+        "riassunto": "Microsoft ha avviato la disponibilità generale dell'integrazione di Word, Excel e PowerPoint dentro l'interfaccia di Copilot. Gli utenti possono creare documenti, fogli di calcolo e presentazioni partendo dalla conversazione con l'AI, mantenendo i file modificabili nei programmi Office tradizionali. Viene inoltre introdotto Copilot Autopilot, un agente autonomo progettato per completare attività coordinate tra email e calendari.",
+        "come_provarla": "",
+        "disponibilita": "Disponibile ora",
+        "fonti": [
+         "u1a131",
+         "u1a100"
+        ],
+        "temi": [
+         "Lavoro e produttività",
+         "Agenti AI",
+         "Assistenti e chatbot"
+        ],
+        "affidabilita": "Una fonte",
+        "solo_titoli": false
+       }
+      ]
+     }
+    ],
+    "formato": 2,
+    "controllo_siti": []
+   }
+  },
+  {
+   "generato": "2026-11-18T14:10:46+00:00",
+   "modello": "gemini-3.5-flash-lite",
+   "testi_completi": 14,
+   "riassunto": {
+    "titolo_giorno": "Suno introduce \"Visuals\" per creare video musicali con l'AI",
+    "in_breve": "La piattaforma di musica generativa Suno lancia la nuova funzione Visuals, che permette di abbinare ai brani musicali clip video e immagini generate dall'AI con sincronizzazione del labiale. Intanto Microsoft presenta sette nuovi modelli specializzati in sicurezza e programmazione.",
+    "citati": [
+     "Suno",
+     "MAI Cyber 2 Flash",
+     "MAI Code 2"
+    ],
+    "da_provare": [
+     {
+      "cosa": "Suno Visuals",
+      "a_cosa_serve": "Crea clip video e immagini sincronizzate con i brani musicali generati, con opzioni per la sincronizzazione del labiale e la gestione dei testi sullo schermo.",
+      "per_chi": "Tutti i giorni",
+      "ambito": "Video e immagini",
+      "come_iniziare": [
+       "Apri la modalità di creazione su Suno da browser o app mobile",
+       "Seleziona la scheda Visuals su un brano della tua libreria",
+       "Scegli un'immagine di partenza o usa i prompt per generarne una nuova",
+       "Avvia la generazione del clip video"
+      ],
+      "costo": "Prova gratuita",
+      "piattaforme": [
+       "Browser",
+       "Android",
+       "iPhone"
+      ],
+      "sul_dispositivo": false,
+      "come_sfruttarla": "Generare rapidamente video musicali brevi e contenuti visivi sincronizzati per i social network.",
+      "italiano": "Sì",
+      "difficolta": "Facile",
+      "fonti": [
+       "u2a113",
+       "u2a141"
+      ],
+      "temi": [
+       "Video",
+       "Foto e immagini",
+       "Scrittura e documenti"
+      ],
+      "affidabilita": "Confermata",
+      "prova": ""
+     }
+    ],
+    "osint": [],
+    "gemme": [
+     {
+      "cosa": "n8n stable",
+      "a_cosa_serve": "Piattaforma open source per creare flussi di lavoro automatizzati e collegare diverse applicazioni tra loro.",
+      "perche_gemma": "La versione 2.48.5 introduce correzioni e miglioramenti specifici per la gestione dei nodi dedicati agli agenti AI.",
+      "con_ai": "Permette di coordinare flussi di lavoro complessi e sessioni di chat con agenti intelligenti.",
+      "piattaforme": [
+       "Browser"
+      ],
+      "self_hosted": true,
+      "costo": "Gratis con limiti",
+      "difficolta": "Media",
+      "temi": [
+       "Open source e self-hosting",
+       "Lavoro e produttività",
+       "Agenti AI"
+      ],
+      "fonti": [
+       "u2a68"
+      ],
+      "affidabilita": "Fonte ufficiale",
+      "come_iniziare": [],
+      "sul_dispositivo": false,
+      "come_sfruttarla": "",
+      "prova": "https://github.com/n8n-io/n8n/releases/tag/stable"
+     }
+    ],
+    "sezioni": [
+     {
+      "titolo": "Novità negli strumenti che già usi",
+      "notizie": [
+       {
+        "titolo": "Microsoft lancia sette nuovi modelli AI per sicurezza e programmazione",
+        "strumento": "Microsoft",
+        "riassunto": "Microsoft ha presentato sette nuovi modelli, tra cui MAI Cyber 2 Flash per trovare vulnerabilità e scrivere patch di sicurezza, e i modelli MAI Code 2 per la programmazione integrati in GitHub Copilot.",
+        "come_provarla": "I modelli di programmazione sono accessibili tramite GitHub Copilot.",
+        "disponibilita": "Disponibile ora",
+        "fonti": [
+         "u2a158"
+        ],
+        "temi": [
+         "Assistenti e chatbot",
+         "Scrittura e documenti",
+         "Privacy e sicurezza"
+        ],
+        "affidabilita": "Una fonte",
+        "solo_titoli": false
+       }
+      ]
+     }
+    ],
+    "formato": 2,
+    "controllo_siti": [
+     {
+      "cosa": "Suno Visuals",
+      "esito": "nessun sito da aprire"
+     },
+     {
+      "cosa": "n8n stable",
+      "sito": "https://github.com/n8n-io/n8n/releases/tag/stable",
+      "pagina": 155102,
+      "trovate": []
+     }
+    ]
+   }
+  },
+  {
+   "generato": "2026-11-18T16:42:29+00:00",
+   "modello": "gemini-3.6-flash",
+   "testi_completi": 7,
+   "riassunto": null
+  }
+ ]
+}

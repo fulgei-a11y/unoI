@@ -1,0 +1,1004 @@
+{
+ "giorno": "2026-11-08",
+ "generato": "2026-11-08T05:25:04+00:00",
+ "modello": "gemini-3.8-flash",
+ "testi_completi": 17,
+ "riassunto": {
+  "titolo_giorno": "Google Health rileva la pressione dallo smartwatch e Netflix lancia Discover",
+  "in_breve": "Google Health integra un algoritmo AI capace di individuare i segnali di ipertensione direttamente dai sensori del proprio smartwatch, mostrando come l'AI sul dispositivo stia entrando nel monitoraggio quotidiano della salute. Al contempo Netflix lancia la funzione Discover, pensata per consigliare film e serie TV a chi cerca idee su cosa guardare.",
+  "citati": [
+   "Google Health",
+   "Netflix"
+  ],
+  "da_provare": [
+   {
+    "cosa": "MachineTranslation.com",
+    "a_cosa_serve": "Piattaforma di traduzione che introduce un piano condiviso per team, utile a gestire e armonizzare i flussi di lavoro su testi e documenti aziendali.",
+    "per_chi": "Lavoro",
+    "ambito": "Scrittura e documenti",
+    "come_iniziare": [],
+    "costo": "Non indicato",
+    "piattaforme": [
+     "Browser"
+    ],
+    "sul_dispositivo": false,
+    "come_sfruttarla": "Collaborare con colleghi alla revisione e traduzione di documenti di lavoro in uno spazio condiviso.",
+    "italiano": "Non indicato",
+    "difficolta": "Facile",
+    "temi": [
+     "Scrittura e documenti",
+     "Lavoro e produttività"
+    ],
+    "fonti": [
+     "a71"
+    ],
+    "affidabilita": "Da verificare",
+    "solo_titoli": true,
+    "prova": ""
+   },
+   {
+    "cosa": "Perplexity Portable Computer",
+    "a_cosa_serve": "Soluzione progettata per eseguire intelligenza artificiale locale su computer con schede video NVIDIA RTX, garantendo potenza di calcolo senza inviare dati al cloud.",
+    "per_chi": "Lavoro e tutti i giorni",
+    "ambito": "AI sul dispositivo",
+    "come_iniziare": [],
+    "costo": "Non indicato",
+    "piattaforme": [],
+    "sul_dispositivo": true,
+    "come_sfruttarla": "Elaborare testi e informazioni riservate sul proprio computer sfruttando la GPU dedicata senza connessione.",
+    "italiano": "Non indicato",
+    "difficolta": "Media",
+    "temi": [
+     "AI sul dispositivo",
+     "Privacy e sicurezza",
+     "Assistenti e chatbot"
+    ],
+    "fonti": [
+     "a36"
+    ],
+    "affidabilita": "Da verificare",
+    "solo_titoli": true,
+    "prova": ""
+   },
+   {
+    "cosa": "Core Studio",
+    "a_cosa_serve": "Piattaforma per la produzione video e multimediale basata su un ecosistema di 24 agenti AI dedicati a compiti specifici della creazione audiovisiva.",
+    "per_chi": "Lavoro",
+    "ambito": "Foto e video",
+    "come_iniziare": [],
+    "costo": "Non indicato",
+    "piattaforme": [],
+    "sul_dispositivo": false,
+    "come_sfruttarla": "Impostare e velocizzare la realizzazione di progetti video con l'ausilio di assistenti virtuali specializzati.",
+    "italiano": "Non indicato",
+    "difficolta": "Facile",
+    "temi": [
+     "Video",
+     "Agenti AI",
+     "Foto e immagini"
+    ],
+    "fonti": [
+     "a68"
+    ],
+    "affidabilita": "Da verificare",
+    "solo_titoli": true,
+    "prova": ""
+   }
+  ],
+  "osint": [],
+  "gemme": [],
+  "sezioni": [
+   {
+    "titolo": "Novità negli strumenti che già usi",
+    "notizie": [
+     {
+      "titolo": "Rilevazione della pressione alta tramite smartwatch senza manicotto",
+      "strumento": "Google Health",
+      "riassunto": "Google ha introdotto nell'app Google Health una funzione AI che riconosce i segnali di ipertensione sfruttando i normali sensori di battito e movimento degli smartwatch. Nei test preliminari ha mostrato un'accuratezza superiore rispetto a una misurazione convenzionale in ambulatorio, offrendo un controllo di supporto che non sostituisce la diagnosi medica.",
+      "come_provarla": "La funzione è già attiva all'interno dell'app Google Health.",
+      "disponibilita": "Disponibile ora",
+      "fonti": [
+       "a119"
+      ],
+      "temi": [
+       "AI sul dispositivo",
+       "Ricerca e informazioni"
+      ],
+      "affidabilita": "Una fonte",
+      "solo_titoli": false
+     },
+     {
+      "titolo": "Arriva «Discover» per consigliare nuovi contenuti con l'AI",
+      "strumento": "Netflix",
+      "riassunto": "Netflix introduce lo strumento Discover, che utilizza l'intelligenza artificiale per suggerire film e serie TV personalizzati agli utenti che non hanno le idee chiare sul catalogo da esplorare.",
+      "come_provarla": "",
+      "disponibilita": "Disponibile ora",
+      "fonti": [
+       "a24"
+      ],
+      "temi": [
+       "Ricerca e informazioni",
+       "Foto e immagini"
+      ],
+      "affidabilita": "Una fonte",
+      "solo_titoli": true
+     }
+    ]
+   }
+  ],
+  "formato": 2,
+  "controllo_siti": [
+   {
+    "cosa": "MachineTranslation.com",
+    "esito": "nessun sito da aprire"
+   },
+   {
+    "cosa": "Perplexity Portable Computer",
+    "esito": "nessun sito da aprire"
+   },
+   {
+    "cosa": "Core Studio",
+    "esito": "nessun sito da aprire"
+   }
+  ]
+ },
+ "articoli": {
+  "a119": {
+   "titolo": "Google's AI detects high blood pressure from a regular smartwatch without a cuff",
+   "link": "https://the-decoder.com/googles-ai-detects-high-blood-pressure-from-a-regular-smartwatch-without-a-cuff/",
+   "data": "2026-11-07T09:54:09+00:00",
+   "testo": "Google Research built an AI that spots signs of high blood pressure using only the pulse and motion sensors in a standard smartwatch, no cuff needed. In a 196-person study, its 65.8 percent detection rate beat the traditional in-office measurement. The method is already live in the Google Health app, though it doesn't replace a formal diagnosis. The article Google's AI detects high blood pressure…",
+   "fonte": "The Decoder",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Testate tech",
+   "id": "a119"
+  },
+  "a24": {
+   "titolo": "Netflix punta sull'AI e lancia «Discover», la funzione che ti suggerisce cosa guardare se non hai le idee chiare",
+   "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQTEhVcEprSG1DcXhwODU3X2ZCdy0wNW1oWEtRZzk0WGlwbjZxYTk5ZTQxc2NCanV6TDc0N01Mbk5JQUlMNGc1eGQyT09lU1N2RmNIU1NOT0tKTG9jZHJBeWRZd1JXbWZPTjlpTzBidHpQdlZRRDBSQllDS1cya2x2clB1OVRDX2F2YlV4R2Zkb2ZPaXJuLV84NURYYkRBUWZwSHQ4Q19QSVlYS2lBWUQ3UU1tUGh4VlpxUnRjanhqZHB4LW42N05lZG10T1FJM0FFa3JPUGcyQkhjdWYxZlpfTmVqZlFsZldKVTRZUng4RXc3X1EwNlZ0cFpjQlNkMzctQmhPSmFfblAyNVdUQmhKZndqSzBiLWNTOGpYcllpWDZvS19CYjhFYTFR0gGvAkFVX3lxTE83cWxYWjhnQ0FFRG1TeFhpdnBoTlZYVTVvTmZnaGVwSGN2RHhaQlRTQW95d1ZFRzdNOXZTNHcyTEF1Yk5KSlVrSG51TXNHR2tIam5WUHNsV0xxMVNLNWd1RTVfMzNtdm8zZTBMUUVadWFRcmxHd2JhUnFzU2RzdFAyM1ZMV0xoTWtxV0YtZWh5aW9VQU1mdnFZczZDbkIwTXRMaXFTT05QdHdrb1pQbUctSmtYdkJkakZQUUFFNjlNdmpEMjBveUNIZFhTZWR3LU1sWGoxMFF3UkdGQUpMazlXeDZfX2ktTU44WDJac3RWeE51c21wcG9Fcll0V3kwczBEYnJTMVlENE5hV0dhSjRiNVpPdG5ZY01odi05cHctU3pQY3NBTDJQVjR6eEk4bw?oc=5",
+   "data": "2026-11-07T14:50:57+00:00",
+   "testo": "",
+   "fonte": "Corriere della Sera",
+   "tipo": "testata",
+   "solo_titolo": true,
+   "categoria": "Strumenti",
+   "id": "a24"
+  },
+  "a36": {
+   "titolo": "Perplexity Portable Computer porta l'AI Locale sulle GPU NVIDIA RTX: Privacy e Potenza senza Cloud",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSzNTckdBenVMMGZ4YVVmb3hiUk5yQkZiT21ZUGlmWE81RllSaWVFd2FmaEVNdzZ3YXJwLVQzZzV1Q29jbkpFdDRnTEEwRk81eVNtMFQzSVpJZF9PX1F3R3dFckJSVU5iRm5oaFZYVEVfZ3N2Ylp2NjRydDYzQWt0Z1NVQmhraWhnWDJxNFlON3ExUDloZWFpRUQ4dDh0dFQ0bXpLRTVhbnFJbHZuWXdBZmhMMWI4M3JRdjRJbmk0WmZmNUU?oc=5",
+   "data": "2026-11-07T12:50:31+00:00",
+   "testo": "",
+   "fonte": "CorriereNerd.it",
+   "tipo": "minore",
+   "solo_titolo": true,
+   "categoria": "Strumenti",
+   "id": "a36"
+  },
+  "a71": {
+   "titolo": "MachineTranslation.com Rolls Out Team Plan as Translation Becomes a Shared Workflow - 24-7PressRelease.com",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNT29PUWs1ckFTUEUwaUJneVc4RVhPNXN4ZWVrTmhvSzVZaWRQOVVmUkduNDV2d2Y4NWVkX05TQWlJdmdnOF8tRnlDa1ZEYzlzSkJWdmRfcEtwbEI3NF80c2hmdkFrb0dYUTItSnBEWWhrNzlfa2hsWGc3U1puejF1d1Nkc1luNjNBSHVTek1LcTVpR3JJY2RWdW1laDdsc29Rb1YzUjRpU25DTExpQmp2SHFiakZoRk0xYWhqSmxNMTJHT1BTSVVHcjNKdGNaZS03VVE?oc=5",
+   "data": "2026-11-07T07:04:58+00:00",
+   "testo": "",
+   "fonte": "Nuove funzioni AI (Google News)",
+   "tipo": "aggregatore",
+   "solo_titolo": true,
+   "categoria": "Laboratori",
+   "id": "a71"
+  },
+  "a68": {
+   "titolo": "AI Filmmaking Platform Core Studio Launches at Taiwan Creative Content Fest With 24 Specialized Agents",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTk1DLWVmVnp2cUhQbE4wbTNNNkxYb2VBV1VNdExRcVBjVnJ5SUZ3bzVkU1oxQUpCVlNROUtxQjBqTGlKSzZtS1k3U04yQVdvUnVZcERLTTB6VjhBQjNmOGNzVWdYTzN2bERLd1g4ZmlWSUZoVjhaUmF2SG5aRlh4VmRCNkUyaldNdnpZb2dHam9YZ1djanRB?oc=5",
+   "data": "2026-11-07T08:19:35+00:00",
+   "testo": "",
+   "fonte": "Yahoo Tech",
+   "tipo": "minore",
+   "solo_titolo": true,
+   "categoria": "Laboratori",
+   "id": "a68"
+  },
+  "u1a126": {
+   "titolo": "Amazon: l'AI analizza i tuoi acquisti e arriva a conclusioni inaspettate",
+   "link": "https://www.hdblog.it/amazon/articoli/n675899/amazon-about-you-profilo-cliente/",
+   "data": "2026-11-08T08:55:00+02:00",
+   "testo": "La sezione About You raccoglie informazioni durante gli acquisti.",
+   "fonte": "HDblog",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Italia",
+   "id": "u1a126"
+  },
+  "u1a2": {
+   "titolo": "Frameboy by World Labs",
+   "link": "https://www.producthunt.com/products/marble-by-world-labs",
+   "sito": "https://www.producthunt.com/r/p/1306206?app_id=339",
+   "data": "2026-11-05T21:06:31-08:00",
+   "testo": "Interactive world exploration with Atlas",
+   "fonte": "Product Hunt (AI)",
+   "tipo": "vetrina",
+   "solo_titolo": false,
+   "categoria": "Strumenti",
+   "id": "u1a2"
+  },
+  "u2a30": {
+   "titolo": "Andrej Karpathy built a curated video platform in a weekend using Claude and 20 years of Hacker News",
+   "link": "https://the-decoder.com/andrej-karpathy-built-a-curated-video-platform-in-a-weekend-using-claude-and-20-years-of-hacker-news/",
+   "data": "2026-11-08T14:23:00+00:00",
+   "testo": "Andrej Karpathy built a curated video platform in a weekend using Claude and 20 years of Hacker News Andrej Karpathy, OpenAI co-founder and current Anthropic AI researcher, built HackerTube over a weekend using Claude's Opus 5.5 model. Claude filtered 43 million comments from 20 years of Hacker News and distilled them into 6,454 videos that keep getting recommended there. The result is a \"significantly better viewing experience\" than YouTube's own recommendations, Karpathy writes on X. The site needs no login, shows a single mid-video frame instead of optimized thumbnails, and stores state locally in the browser. Right after, Karpathy built TristanTube, \"one-shotted with Claude Code in 3 minutes,\" with 47,000 videos drawn from a YouTube channel list by Tristan Hume. Karpathy says he let Claude Code handle nearly all the work, from data analysis to server setup. His only manual steps were a Google Cloud API key, a rented server, and buying the domain. Projects that used to take weeks can now be done in a few hours, Karpathy says. AI News Without the Hype – Curated by Humans Subscribe to THE DECODER for ad-free reading, a weekly AI newsletter, our exclusive \"AI Radar\" frontier report six times a year, full archive access, and access to our comment section. Subscribe now",
+   "fonte": "The Decoder",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Testate tech",
+   "id": "u2a30",
+   "testo_completo": true
+  },
+  "u3a101": {
+   "titolo": "Apple is racing to make Siri more agentic",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
+   "sito": "",
+   "data": "2026-11-08T14:18:19-05:00",
+   "testo": "Bloomberg’s Mark Gurman says CEO John Ternus is pressuring AI czar Craig Federighi to accelerate the Siri roadmap and deliver a powerful AI agent that can compete with OpenAI’s Dots or Meta’s Muse. While Federighi has delivered a functional version of Siri AI on an incredibly short timeline, the company has no illusions that it’s keeping pace with its rivals. Apple is racing to make Siri more agentic Future versions of Siri will be able to control third-party apps and perform more complex tasks. Two significant improvements are expected to be made to Siri in the coming months. One will give the assistant fine-grained control over Apple’s first-party apps, allowing it to do things like rotate and crop images in Photos and organize Safari tabs. Those capabilities are expected to land with iOS 27.3. The bigger change, integration with third-party apps, is likely to land later, in the Spring, according to Gurman. That would let Siri place an order through Grubhub or book a dinner reservation through OpenTable, for example. But that’s just the start. Apple is expected to push Siri to become more agentic and enable features that will allow it to perform ongoing tasks, not just one-offs. Gurman says: Dots, Muse and Grok can keep track of goals, determine what needs to happen next and continue pursuing objectives without the user initiating every individual step. Apple ultimately wants to go in this direction, I’m told, and I believe the company could make Siri more like an agent as early as next year — not that it has much of a choice, given current consumer and market demands.",
+   "fonte": "The Verge",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Testate tech",
+   "id": "u3a101",
+   "testo_completo": true
+  }
+ },
+ "fonti": [
+  {
+   "nome": "Product Hunt (AI)",
+   "ok": true,
+   "presi": 6
+  },
+  {
+   "nome": "Show HN (nuovi progetti)",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "Nuove app AI (internazionale)",
+   "ok": true,
+   "presi": 10
+  },
+  {
+   "nome": "Nuove app AI (Italia)",
+   "ok": true,
+   "presi": 8
+  },
+  {
+   "nome": "Novità AI da provare (Italia)",
+   "ok": true,
+   "presi": 3
+  },
+  {
+   "nome": "AI sul dispositivo (internazionale)",
+   "ok": true,
+   "presi": 8
+  },
+  {
+   "nome": "AI sul dispositivo (Italia)",
+   "ok": true,
+   "presi": 4
+  },
+  {
+   "nome": "Android Police (AI su Android)",
+   "ok": true,
+   "presi": 2
+  },
+  {
+   "nome": "Windows Central (AI su Windows)",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "Ollama (nuove versioni)",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "Open WebUI (nuove versioni)",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "Show HN – progetti utili (gemme)",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "Reddit r/selfhosted",
+   "ok": true,
+   "presi": 6
+  },
+  {
+   "nome": "Reddit r/opensource",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "Alternative open source (Google News)",
+   "ok": true,
+   "presi": 6
+  },
+  {
+   "nome": "n8n (nuove versioni)",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "Immich (nuove versioni)",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "OpenAI",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "Google (blog ufficiale)",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "Google Gemini (blog)",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "Nuove funzioni AI (Google News)",
+   "ok": true,
+   "presi": 12
+  },
+  {
+   "nome": "Anthropic / Claude",
+   "ok": true,
+   "presi": 6
+  },
+  {
+   "nome": "Microsoft Copilot",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "Altri assistenti AI (Perplexity, Mistral, Meta AI…)",
+   "ok": true,
+   "presi": 8
+  },
+  {
+   "nome": "Hugging Face (modelli e strumenti aperti)",
+   "ok": true,
+   "presi": 3
+  },
+  {
+   "nome": "Mistral AI",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "The Verge",
+   "ok": true,
+   "presi": 7
+  },
+  {
+   "nome": "TechCrunch",
+   "ok": true,
+   "presi": 8
+  },
+  {
+   "nome": "Ars Technica",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "MIT Technology Review",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "The Decoder",
+   "ok": true,
+   "presi": 9
+  },
+  {
+   "nome": "TLDR AI (newsletter)",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "ANSA",
+   "ok": true,
+   "presi": 6
+  },
+  {
+   "nome": "Wired Italia",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "Il Sole 24 Ore Tecnologia",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "Punto Informatico",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "HDblog",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "AI4Business",
+   "ok": true,
+   "presi": 4
+  },
+  {
+   "nome": "Agenda Digitale (AI)",
+   "ok": true,
+   "presi": 3
+  },
+  {
+   "nome": "Garante Privacy e AI",
+   "ok": true,
+   "presi": 3
+  },
+  {
+   "nome": "Malwarebytes (app e truffe AI)",
+   "ok": true,
+   "presi": 2
+  },
+  {
+   "nome": "Reddit",
+   "ok": true,
+   "presi": 8
+  },
+  {
+   "nome": "Reddit (AI locale)",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "Simon Willison (prove pratiche di strumenti AI)",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "Bellingcat (guide e strumenti)",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "GIJN (guide per giornalisti investigativi, via Google News)",
+   "ok": true,
+   "presi": 4
+  },
+  {
+   "nome": "OSINT – verifica e fact-checking (internazionale)",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "OSINT – nuovi strumenti (internazionale)",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "OSINT – strumenti (Italia)",
+   "ok": true,
+   "presi": 4
+  },
+  {
+   "nome": "Facta (fact-checking, contenuti falsi e AI)",
+   "ok": true,
+   "presi": 3
+  },
+  {
+   "nome": "Week in OSINT (Sector035)",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "The OSINT Newsletter",
+   "ok": true,
+   "presi": 2
+  },
+  {
+   "nome": "IDMO (osservatorio italiano sulla disinformazione)",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "EU DisinfoLab",
+   "ok": true,
+   "presi": 2
+  },
+  {
+   "nome": "Reddit (OSINT)",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "Hacker News (OSINT)",
+   "ok": true,
+   "presi": 1
+  }
+ ],
+ "visti": [
+  "muserealtimeavatar",
+  "instagrameditsfordesktop",
+  "tracebycontextdev",
+  "plainmail",
+  "kivo",
+  "cloptima",
+  "nytcookingsaiassistantsavedmyweeknightchickenbutalmostruinedmycake",
+  "aipoweredcoffeerunsandservicevisitsarecomingtoriviansin2027",
+  "phishinghasanewtargettheaiassistantreadingyouremail",
+  "thenextplatformwarisaboutwhoaichooses",
+  "theresonelessaiassistantinvadingyourtvaftermicrosoftschange",
+  "gartnerseessoftwaregrowing146to168trillionin2027modelsat117aiappplatformsat39and",
+  "nytcookingaiassistantadaptsrecipesbutcakeadvicestumbles",
+  "nytcookingaigets3eggbutterswapswrong2026",
+  "godaddywebsitebuilderreviewuk2026",
+  "nytcookingsaiassistantsavedmyweeknightchickenbutnearlyspoiledmycake",
+  "ilradiologononleggepiùsoltantogliesamiorapuòcambiareancheilmodoincuiveniamocurat",
+  "geminioraconosceletueabitudinielesfruttaquandoguidi",
+  "lacoreadelsudlanciaunappbasatasullintelligenzaartificialepersupportarelagestione",
+  "intelligenzaartificialenellapadabruxellesarrivalaitoolboxperlatransizionedigital",
+  "airbnbagenteaicomefunzioneràequandoarriva",
+  "googlestapreparandoalcunenovitàpermigliorarepannellolateraleeoverlaydigemini",
+  "gulliverdaisoftwareairobotlintelligenzaartificialeincontrailmondofisico",
+  "netflixpuntasullaielanciadiscoverlafunzionechetisuggeriscecosaguardaresenonhaile",
+  "comeusarechatgptpertrasformarelefotoingifanimategratis",
+  "githubcopiloteagenticengineeringlaguida",
+  "comecreareunprogettoinclaudepertenereinsiemefileechat",
+  "itriedlocalaionhpsomnibookultraitsaprivatepowerfulbeastwithzerotokenfees",
+  "4jobsmylocalaihandlesforfreethatiwouldnevertrustwithacloudmodel",
+  "googlebookupdatefreesupramfromondeviceai",
+  "googlebookupdatefreesupto6gboframbyreducingondeviceaimemoryusage",
+  "googlepixel11rollsoutgemininano4developerpreview",
+  "mylocalllmturnsmyvoicenotesintotodoitemsautomaticallyandnothingfallsthroughthecr",
+  "asusproartp14s32gbramlimitconstrainslocalaiuseofrtxsparkn1x",
+  "5ofmyfavoritelinuxdistrosforaiandwhy",
+  "perplexityportablecomputerportalailocalesullegpunvidiartxprivacyepotenzasenzaclo",
+  "hovissutotregiorniinconventosenzatelefonoesenzainternetconlemonachehopiantolavve",
+  "bleachbitlappgratuitacheaiutaadeliminareifilesuperfluisulpc",
+  "dovevedereparmabolognaoggi7novembre2026orariotvestreamingdellaseriea",
+  "itriedgeminigrokandclaudeforamonthonandroidoneclearlydominated",
+  "itriedchatgptandclaudeasmyandroidassistanthereshowtheycomparetogemini",
+  "openwebuiv0130",
+  "coldframeahoneypotthatposesasasupermarketfridgecontroller",
+  "psaimmichdefaultstoafullfilechecksumintegritycheckofallimageseverynight",
+  "selfhostingbeersnlupdate",
+  "gmailreplacementcautiouswithnewerprojects",
+  "anygoodselfhostedfamilytrackingapp",
+  "homelabimprovementsoptimizationsreplacements",
+  "isthereadevicethatcanplayblueraydiscsandcanalsoplayjellyfinfrommyhomeserver",
+  "synapticsappearstouselegalthreatstoblockopensourcedisplaylinkdriver",
+  "amaintainersadviceoncontributingtoopensourcein2026",
+  "project2027anrfctorebuildpublictechusingtheeconomicsofopensource",
+  "soanyprogressonnewadjustments",
+  "lookingforopensourcevaccum",
+  "forgettheplaystoreibuiltaselfhostedappupdateronandroid",
+  "selfhostedlangsmithalternatives4toolstestedononetypescriptagent",
+  "setupn8nontheraspberrypi",
+  "enthusiastabandonsselfhostedmicrosoftexchangeafter27yearsmovingmailboxestomicros",
+  "squarespacevswordpressaplainukcomparison",
+  "ollamacloudpricingvsvllm20provsyourgpu2026",
+  "n8nstable",
+  "claudepersonalfinancevschatgptfinanceswhatsetsthemapart",
+  "openailauncheschatgptforfinancialservicesinpartnershipwithtopbrokeragesresearchf",
+  "websearchprofessionalslaunchesfreeinstantwebsiteauditwithpersonalized30dayimprov",
+  "nvidiaceohadcloserelationshipwithchinesespyusofficialsbelieve",
+  "tessllaunchessoftwarefactoryplatformforaicodingagents",
+  "claudecodecloudlaunchesautomaticdependencyandapikeysetup",
+  "aifilmmakingplatformcorestudiolaunchesattaiwancreativecontentfestwith24specializ",
+  "startupceoaccusesanthropicofcopyingappsaystheycantbeat10personteamtheyhadtosellt",
+  "psiannouncesaproofoftheaaronsonambainisconjectureusingananthropicmodel",
+  "machinetranslationcomrollsoutteamplanastranslationbecomesasharedworkflow247press",
+  "november7technewsroundupealaunches25classicpcgameselderscrollsvigetsanameopenair",
+  "torbrowser16launcheswithanoptiontohidewindowtitles",
+  "anthropicengineers3habitsvscognitivesurrender2026",
+  "claudeduetwhatanthropicsproactiveagentdoeswhocangetitandwhatitcosts",
+  "judgeletsclaudemax20xmoreusageadclaimsgoahead",
+  "claudecodesdontaskagainoptionleftpasswordsinpublicgithubfiles",
+  "anthropicplantssecretsaboteuraiagentsinevefrontiertotestclaude",
+  "keyfactsanthropicfiless1163brevenueclaude354binders",
+  "statefarmscalesgovernedaitodeliverenterprisebusinessvaluewithmicrosoftcopilotstu",
+  "eloandmicrosoftannounceaiagentsolutiontoautomatecorporatepaymentswithinexcel",
+  "bestaichatbots5hourvsweeklylimits2026techinsiderorg",
+  "fromclientzerotovaluefrontierfirmtransformationwitheyandmicrosoft",
+  "microsoftstockforecastisspending190billiononaiinfrastructurein2026ismsftabuyat45",
+  "whoownsdeepseekthechineseaicompany",
+  "howtosetupspacexaisgrokingoogleworkspaceandwhatitcando",
+  "bestaichatbotsbybudget8grokto500chatgpt2026httpstechinsiderorg",
+  "thebuiltiniphoneappforcreativityyoumaybeignoringbutshouldnt",
+  "aiweekinreview261107",
+  "glm55whyitnevershippedandwhatcomesnext",
+  "thesamsungphonevoicerecorderappisbetterthanyoumightthinkhereswhy",
+  "whatsappcouldsoonletyouexpandphotoswithmetaaionyouriphone",
+  "toyblocksacontrolledworldforrobotlearningandevaluation",
+  "egyptianandnigerianenglishjointheopenasrleaderboard",
+  "newnvidiacosmos3openmodelsforinteractiveworldsimulation",
+  "lechonkbringsthebrainsstudioputsittowork",
+  "theusletnvidiasellchipstoanemptyofficeinchina",
+  "aibrokethecybersecurityworldwhatsnext",
+  "whyanewreportonanthropicautomatingaidevelopmentisalarmingresearchers",
+  "openaivaluedat125trillionasrivalanthropicnearsitsipo",
+  "chinareportedlyrecruitedaiexectospyonjensenhuang",
+  "allthelatestupdatesonaidatacenters",
+  "metasmuseaicancreatecustomspacesfortheversionoftheappyouneedrightnow",
+  "afterthemidtermsthingsarelookingrockyforelonmuskanddatacenters",
+  "megaspeedexecwasrecruitedtospyonnvidiaceoaccordingtousintelligencememo",
+  "crusoesellstroubledwyomingdatacenterprojecttogoogle",
+  "openaireportedlyraisesanadditional11billionata125trillionvaluation",
+  "hundredsofartexaihackingtoolsfoundpubliclyexposedtotheweb",
+  "metaintroducesspacesanewwaytocollaboratewithyourmuseagent",
+  "howabluewavemidtermmightreshapetheaiindustry",
+  "afterthemidtermsistheaiindustryinforaroughtwoyears",
+  "doesmetathinkwecantreadmetaabandonssketchycommercialtermsupdate",
+  "anthropicpushesaheadwithprethanksgivingipodespitetechselloffacceptslowervaluatio",
+  "aiauditorscatchmostagentmisbehaviorbutfloodreviewerswithfalsealarmsnewstudyfinds",
+  "thinkingmachinesinkling2smalldrops316fbombsacrossbenchmarkruns",
+  "thegapbetweenopenandclosedaimodelsincybercapabilitieskeepsshrinking",
+  "statepropagandainsomechineseaimodelsisonlyathinlayerthatfinetuningcanstripaway",
+  "nineaiagentstriedautonomousresearchonopenquestionsfromusnationallabsandnonepasse",
+  "googlesaidetectshighbloodpressurefromaregularsmartwatchwithoutacuff",
+  "openailandsan11billionfundingroundbuthastocourtdentistsformorecapital",
+  "ripple65bpreviewdeliversstrongagenticcodingresultsasafullyapache20openusmodel",
+  "intelligenzaartificialetraeticaedirittoundibattitoapotenza",
+  "aromaglistatigeneralidellospettacoloentrainscenalincognitaia",
+  "vescovialpapainuruguaypovertàesolitudineferisconolasocietà",
+  "iaelavoroilrischiodiunnuovodivariodigenereawomenthecity",
+  "nasceinnovationhubaterminiimereseiaeroboticaaserviziodelleimprese",
+  "notiziarioansamed",
+  "bigtechusanelmirinodeidemocraticipossibiliindagini",
+  "smartphoneefiglicomedareilprimotelefonoainostribambini",
+  "djimatrice5tilnuovodronevedeanchealbuio",
+  "openairaccogliealtri10miliardimagliinvestitorifrenano",
+  "nvidianuovidriver62114arrivadlss5suhogwartslegacy",
+  "occhialiandroidxrcongeminiconfermatoillancioadicembre",
+  "farmaciprogettaticonlaiachepuntosono",
+  "strategiaaidimpresaperchélasceltadelmodellononbasta",
+  "aiolympicsaiagenticaeagentiverticaliingara",
+  "aidecisionaleeanalisicontrofattualedellescelte",
+  "musicaeaigenerativalequattrofasidellanuovaindustria",
+  "intelligenzaartificialeelavorocomèmessalitaliaineuropa",
+  "filigraneaiilvuotodellaiactchefavoriscechilerimuove",
+  "violazionedatipersonaliscuolagaranteammonisceperemailalconiuge",
+  "addestramentoeusodelliaperlattivitàamministrativapareregaranteprivacydb",
+  "intelligenzaartificialenellapailgarantedellaprivacydettalenuoveregole",
+  "scammersuseaigeneratedimagesofmissingpetstoextortowners",
+  "possiblefalsepositivewavelinkproexemalwareai1879801883",
+  "ajudgesaysclaudemaxs20xmoreusagepromisecouldmisleadpayingsubscribers",
+  "ithinksamaltmanstolemyramchatgptknowstoomuch",
+  "refusalstodoworkaregoingwaytoofar",
+  "multipleemailsallowednow",
+  "asagptuseriusedopus55onceandifeelincrediblyliedtobybenchmarks",
+  "googleaistudioiconkeepsgettingsmalldaybyday",
+  "didanthropicgethacked",
+  "professorreturnsfromlunchtofindaideletedyearsworthoflecturenotes",
+  "llama_moe_cacherunmissedexpertsoncpuaddtuningscriptbyam17anpullrequest30966ggmlo",
+  "opus55wroteitsownquantiserforqwen3508bnollamaquantizenoimatrix59betterthanunslot",
+  "thestylomebotisuselessspamandshouldberemoved",
+  "doesanyoneusenonereasoninglevelforanythingever",
+  "anyonerunninglocalaion16gbvram",
+  "artículos",
+  "howgijc27cohostvvojpacksaregionalpunchingrowinginvestigativejournalism",
+  "2026doubleexposurefestivalinvestigatingkillerslandgrabsandinspirationalcouragein",
+  "bluetsunamisweepsusmidtermsongoingdisplacementinlebanonmappingeuropeanprotests",
+  "germanytoinvest50millioninaipoweredosintintelligence",
+  "russiansabotageineuropeandrisingattacksinsiderussia",
+  "inrussiasoryolreportssayamissilestrikehittheprotonmilitaryplant",
+  "russianplantproducingiskandermissilecomponentshitmassivefirebreaksoutrbcukraine",
+  "inorelmissilesstrucktheprotonfactorywhichmanufacturescomponentsforiskandermissil",
+  "ilrumoredegliaereisveladovehaigiratounvideofinoa100metri",
+  "dueaereiquasiimpercettibilinellaudiocosìunoyoutuberhageolocalizzatoilframmentodi",
+  "latecnologiaildigitalelaiilgiornalismomodernoemoltoaltroalviailminidigitalfestiv",
+  "lerisorsecondivisedelmercosursovranitàfluvialepescaecooperazioneambientaletrapar",
+  "quantisonodavveroifemminicidiinitalia",
+  "netanyahustadelegittimandoilvotoaraboconaccusediinterferenzestraniereecomplottis",
+  "falsigiornalilocalieslopagandacosèsuccessonellacampagnaelettoraleperlemidterm",
+  "theosintnewsletterissue129",
+  "episode25discgolfappstrackingaircraftandsearchingwithfofa",
+  "raieidmocrescelimpegnocontroladisinformazioneo",
+  "disinfoupdate4112026",
+  "eudisinfolabsapproachtofundraising",
+  "acousticgeolocation",
+  "criminalarrestwarrantforosinttrolljessenickles",
+  "agentclan",
+  "frameboybyworldlabs",
+  "inkling2small",
+  "faatoretirefloppydisksinairtrafficcontrol",
+  "afarmersmangosaplingsweredyingheuploadedaphotofoundasolutioninseconds",
+  "bestaimarketingtoolsforsolofounders8picks2026",
+  "netflixaumentaiprezziinitaliaabbonamentifinoa2199euroeintantoarrivalaipersceglie",
+  "androidmcpelinuxsusnapdragonlasfidaadapplehomeview",
+  "chiarapancirolieducarealpensierocriticosir",
+  "solidworldgrouppresentasolidworks2027liaalserviziodellaprogettazioneindustriale",
+  "gemininotebookaggiungelibriditestogratisperstudiareconlai",
+  "comeusaregeminiliveconlafotocameraperfartiguidare",
+  "asusexpertbooka7arrivainitaliachassisinalluminiodisplayoled3k",
+  "moorethreadsupdatesaicubewithsmarthomecontrolandlocalainasmanagement",
+  "proartp16rtxsparkreviewscreenandaitests",
+  "ondeviceaiassistants",
+  "gliiphoneperdonodecinedigbdispaziodiarchiviazioneacausadiunafunzionalitàchepassa",
+  "reteinternetsusmartphoneassenteanchecontutteletaccheeccoilmotivo",
+  "bubbleupnptrasformailvecchioandroidinunalibreriamusicale",
+  "githubasvpnauthprovider",
+  "howdoyouhandlesecretsacrossyourselfhostedstuff",
+  "amneziavpnupdate202615favoriteslocationsort",
+  "isponsorblocktvskipssponsorsegmentsacrossyoutubetvclients",
+  "umlaunchesmontanasfirsthumancenteredaicareercertificate",
+  "deepmindrevealstwoflawsin1024bitrsa2048bitkeysstaysafe",
+  "deathasachoiceopenaisbrockmanreveals18monthmedicalforecast",
+  "nousresearchlaunchesarete27bandcutsqwenspropagandaratefrom22to1",
+  "whatyouneedtoknowaboutclaudesmakeranthropicipo",
+  "anthropicipoantticker163brevenuecontrol2026techinsiderorg",
+  "anthropics1lossnarrowsto13bfrom52b2026",
+  "anthropicclaudemdrulesarerequestshooksareenforced",
+  "anthropicsaysclaudewroteabout90ofclaudecodescodedisclosessixlayerreviewsystem",
+  "judgetsesaysanthropicsclaudemaxmarketingisplausiblymisleading",
+  "largelanguagemodelssurpasspassingthresholdonobgyncertificationexams",
+  "aichatbotlimits2026which20planlastslongesttechinsiderorg",
+  "mistrallarge4lechonkopenweightslicensepriceandbenchmarks",
+  "appleannouncessiriaiandmoreattimcookslastworldwidedevelopersconferenceabcnews",
+  "francesmistrallaunchesaimodelitsaysoutperformssomechineserivals",
+  "applesbudgetipad12leaka19chipappleintelligenceanda549pricetag",
+  "aideals2026everywaytosaveonaitoolsthatworks",
+  "theinventorofthebitterlessonhasabitterlessonforllmscalingenthusiasts",
+  "aicodingagentsstillneedhumancleanuponnearlythreeoutoffourtasksinarealworldtest",
+  "peronaciasanfranciscoeseattlenuoveopportunitàdicooperazioneconlitalia",
+  "parteilcantieredelprogrammaprogressistaunmeseperchiudere",
+  "guerraibridaattaccoaltunneldelbrenneroesmartbox",
+  "comedelegaremetàdellavoroaclaude5strategieconcrete",
+  "problemiconildigitaleterrestrepassaaicanalisatellitari",
+  "untelefonovintagediventaunassistenteaigrazieagemini",
+  "amazonlaianalizzaituoiacquistiearrivaaconclusioniinaspettate",
+  "ainelriskmanagementquattrocriteriperunagovernanceefficace",
+  "laicorrepiùvelocedellasuaaffidabilitàildivariochepreoccupa",
+  "garanteprivacyprotocollatalistanzadiaccessoagliattidiagenparlrichiestiidocumenti",
+  "robertoburioniammonimentodagaranteprivacycosaèsuccesso",
+  "ibuiltaninfiniteselfevolvingbackroomswithopus55evenidontknowwhatsinitanymore",
+  "claudism",
+  "opus55goesuponbenchmaxxingbench",
+  "crowdv1thecollaborativellm",
+  "oldunrelatedvisualsfalselysharedtoshowbhutansglaciallakeoutburst",
+  "fileruncanceledmylifetimelicenseafterirequestedareceipt",
+  "selfhosteddoorpanelepaperintercomintegrationandsonoschime",
+  "domainstructurehomeexamplecomorexamplecom",
+  "andrejkarpathybuiltacuratedvideoplatforminaweekendusingclaudeand20yearsofhackern",
+  "thebrainascomputermetaphorshapedmodernaibutmaybemisleadingtheconsciousnessdebate",
+  "dipendenzasocialgooglemetaetiktokcontrolacalifornia",
+  "ibuiltmyrestaurantswholeopsplatformwithclaudecodeinsteadofpayingforfivedifferent",
+  "gotauniquerecruitingemailtoday",
+  "chatgptknowsball",
+  "deargoditshappeningagain",
+  "probablyoldnewsbutanywebsiteyouhaveopencanreachyourlocalllmserverwhileyoubrowse",
+  "usershavestartedbuyingrtx5060ti16gbgraphicscardsenmasseforthesakeofai",
+  "doescensorshipexistincountryaccordingtovariousllms",
+  "5unexpectedusesforyouroldsmartwatch",
+  "bonusfeaturesnovember8202648ofamericanshaveusedaitoreviewtheirhealthinsuranceopt",
+  "salesforceunveilsenhancedcoworkeraitoolforseamlessteamcollaboration",
+  "sghsaitoolwinsinternationalawardforimprovingantibioticuse",
+  "ouchywouchyelonmusksaitoolroastshimfollowingmidtermsmoneyfloponsnl",
+  "faawillretirefloppydisksfromairtrafficcontrolbyendof2028",
+  "chaosreleasesvray75for3dsmaxwithnewaifeatures",
+  "volvolintelligenzaartificialeèpropedeuticaalfattodievitareincidenti",
+  "osservatoriocivicomilanodeliberespiegateconiamitomorrow",
+  "qualcunohaclonatosetteappadobeinunasettimanalastoriadellecraftingapps",
+  "lanuovacorsatraibrowserbasatisullintelligenzaartificialechatgptatlasgemini25elar",
+  "progettioskill",
+  "gpt6cyber948exploitlinuxaccessolimitato2026techinsiderorg",
+  "claudepersonalfinancecontiecartecollegatimasoloneglistatiuniti",
+  "ireplacedgeminiandchatgptonmyphonewithmygamingpcs26bmodelandtheappthatdoesitisfr",
+  "nvidiaanditspartnersareusheringinaneweraofondeviceairootnationcom",
+  "iusegeminiwithouttypingasinglewordigetwaymoredonenow",
+  "whathappenedtosharex",
+  "anyoneelsecompletelydonewithsmartphonesbeingantiprivacyblackboxeswhydidweletthep",
+  "revolutcutsaicodingcosts10xwithglm532026",
+  "geminisnewfeaturebuiltmytravelitinerarywithoutstartingoverhowtogeek",
+  "googlelaunchesgeminiomni12flashwith15secondaivideogenerationand30lowerpricing",
+  "hongkonglaunchesfreeairetinascreeningfordementia",
+  "anthropiclaunchespersonalfinanceinclaudetoconnectbankaccountsandanalyzespending",
+  "keychronlaunchesfourkeykeypadforaiassistants",
+  "anthropiclaunchesclaudedesignaithatcreatesprototypesandpresentationsattheclickof",
+  "anthropicsecures34billiongeneratordealforaidatacentersftreports",
+  "claudecannowreadyourbanktransactionsbutdisconnectingtheaccountleavesatrail",
+  "anthropicsaysclaudegenerated35000designsinallergydrugresearch",
+  "anthropicipoantticker163brevenuecontrol2026httpstechinsiderorg",
+  "billgatesmicrosoftcopilotaipredictsadogepriceexplosion",
+  "oraclefalls4asmicrosoftreportedlyendsaideal2026techinsiderorg",
+  "microsoftpatentapplicationdescribesaithateditslivespeech",
+  "exclusivesamsungistestingagalaxyaipremiumsubscription",
+  "interactivemetanowalertsparentswhenteenssearchforselfharmcontent",
+  "deepseeksaysitsharnessagentapphas154milliondailyusersandplansapluginmarketplace",
+  "perplexitylaunchesteammatesaiagentstomanagecomplexprojectsandautomateongoingbusi",
+  "snlmakesgrokdoanepicvulgarroastofelonmuskonweekendupdatetheworstthingsouthafrica",
+  "deepseeksaiagentplatformhits154milliondailyusers",
+  "3democratbigtechprobesapplemetamusk2026httpstechinsiderorg",
+  "nvidiaisinvestigatingjensenhuangsrelationshipwithachinesespy",
+  "appleisracingtomakesirimoreagentic",
+  "elvisandeminemrightsholdersaresuingsuno",
+  "pieraccionilintelligenzaartificialecistacominciandoainvidiare",
+  "daicolossidelwebunimpegnoaregolareloscrapingdelliadaisiti",
+  "wireditalia",
+  "revolutsceglielaicineseperchéleaziendecercanomodellimenocari",
+  "idatiditajanisuldarkwebgaranteprivacymonitoraimediaevietadiffusione",
+  "notai35milaeurodimulteeaiatrentosottoesame",
+  "usedchatgpttorecreateadamagedbarcode",
+  "whatstheonepromptyoukeepcomingbackto",
+  "gpt55datasetacrossmyused25billiontokens",
+  "factcheckdoesthisviralvideoshowindiasfirstbullettrainsno",
+  "lagermaniainveste50milionidieuronellosviluppodellintelligenzaartificiale"
+ ],
+ "audio": "audio/2026-11-08.mp3",
+ "durata": 167.6,
+ "aggiornamenti": [
+  {
+   "generato": "2026-11-08T12:10:45+00:00",
+   "modello": "gemini-3.6-flash",
+   "testi_completi": 3,
+   "riassunto": {
+    "titolo_giorno": "Esplorazione di mondi 3D con Frameboy e l'analisi degli acquisti su Amazon",
+    "in_breve": "L'aggiornamento serale propone Frameboy, uno strumento che permette di esplorare ambienti virtuali interattivi. Tra i servizi di uso quotidiano, Amazon integra l'AI per analizzare le abitudini d'acquisto nella sezione About You.",
+    "citati": [
+     "Frameboy",
+     "Amazon"
+    ],
+    "da_provare": [
+     {
+      "cosa": "Frameboy",
+      "a_cosa_serve": "Consente di esplorare in modo interattivo mondi e ambienti virtuali 3D generati dall'AI tramite il sistema Atlas.",
+      "per_chi": "Tutti i giorni",
+      "ambito": "Creatività e 3D",
+      "come_iniziare": [],
+      "costo": "Non indicato",
+      "piattaforme": [
+       "Browser"
+      ],
+      "sul_dispositivo": false,
+      "come_sfruttarla": "",
+      "italiano": "Non indicato",
+      "difficolta": "Facile",
+      "temi": [
+       "Foto e immagini",
+       "Video"
+      ],
+      "fonti": [
+       "u1a2"
+      ],
+      "affidabilita": "Appena lanciato",
+      "prova": "https://www.producthunt.com/products/marble-by-world-labs"
+     }
+    ],
+    "osint": [],
+    "gemme": [],
+    "sezioni": [
+     {
+      "titolo": "Novità negli strumenti che già usi",
+      "notizie": [
+       {
+        "titolo": "Analisi degli acquisti con l'AI nella sezione About You",
+        "strumento": "Amazon",
+        "riassunto": "Amazon utilizza l'intelligenza artificiale per esaminare lo storico degli acquisti degli utenti all'interno della sezione About You, ricavando informazioni e sintesi sulle preferenze personali.",
+        "come_provarla": "",
+        "disponibilita": "Non indicato",
+        "fonti": [
+         "u1a126"
+        ],
+        "temi": [
+         "Ricerca e informazioni"
+        ],
+        "affidabilita": "Una fonte",
+        "solo_titoli": false
+       }
+      ]
+     }
+    ],
+    "formato": 2,
+    "controllo_siti": [
+     {
+      "cosa": "Frameboy",
+      "sito": "https://www.producthunt.com/r/p/1306206?app_id=339",
+      "esito": "errore: HTTP Error 403: Forbidden"
+     }
+    ]
+   }
+  },
+  {
+   "generato": "2026-11-08T17:00:30+00:00",
+   "modello": "gemini-3.6-flash",
+   "testi_completi": 2,
+   "riassunto": {
+    "titolo_giorno": "HackerTube: la piattaforma per guardare video curati dall'AI senza miniature acchiappaclick",
+    "in_breve": "Andrej Karpathy ha realizzato HackerTube, un servizio che seleziona i migliori video partendo da anni di discussioni online ed eliminando le copertine ingannevoli di YouTube. L'iniziativa mostra come i nuovi modelli di intelligenza artificiale permettano di creare in pochissimo tempo strumenti di fruizione dei contenuti personalizzati e puliti.",
+    "citati": [
+     "HackerTube"
+    ],
+    "da_provare": [
+     {
+      "cosa": "HackerTube",
+      "a_cosa_serve": "Una piattaforma web gratuita che seleziona e propone video di qualità analizzando le discussioni storiche della rete, sostituendo le miniature acchiappaclick con fotogrammi reali del filmato e senza richiedere alcuna registrazione.",
+      "per_chi": "Tutti i giorni",
+      "ambito": "Foto e video",
+      "come_iniziare": [],
+      "costo": "Gratis",
+      "piattaforme": [
+       "Browser"
+      ],
+      "sul_dispositivo": false,
+      "come_sfruttarla": "Trovare filmati informativi e di approfondimento evitando gli algoritmi tradizionali e le copertine ingannevoli di YouTube.",
+      "italiano": "Non indicato",
+      "difficolta": "Facile",
+      "temi": [
+       "Ricerca e informazioni",
+       "Foto e immagini",
+       "Video"
+      ],
+      "fonti": [
+       "u2a30"
+      ],
+      "affidabilita": "Una fonte",
+      "prova": ""
+     }
+    ],
+    "osint": [],
+    "gemme": [],
+    "sezioni": [],
+    "formato": 2,
+    "controllo_siti": [
+     {
+      "cosa": "HackerTube",
+      "esito": "nessun sito da aprire"
+     }
+    ]
+   }
+  },
+  {
+   "generato": "2026-11-08T20:45:20+00:00",
+   "modello": "gemini-3.5-flash-lite",
+   "testi_completi": 2,
+   "riassunto": {
+    "titolo_giorno": "Apple accelera sui nuovi agenti AI per Siri in arrivo su iOS",
+    "in_breve": "Apple sta accelerando lo sviluppo delle prossime funzioni avanzate di Siri per competere con i principali assistenti sul mercato. La roadmap prevede l'arrivo di comandi evoluti per controllare app e gestire compiti complessi.",
+    "citati": [
+     "Siri"
+    ],
+    "da_provare": [],
+    "osint": [],
+    "gemme": [],
+    "sezioni": [
+     {
+      "titolo": "Novità negli strumenti che già usi",
+      "notizie": [
+       {
+        "titolo": "Apple accelera lo sviluppo dei nuovi agenti AI per Siri",
+        "strumento": "Siri",
+        "riassunto": "Apple sta lavorando per rendere Siri un assistente sempre più orientato all'azione e in grado di gestire compiti complessi. Nelle prossime versioni del sistema operativo sono attesi miglioramenti per il controllo diretto delle app e l'esecuzione di operazioni in sequenza.",
+        "come_provarla": "Le nuove funzioni saranno integrate nei prossimi aggiornamenti di iOS.",
+        "disponibilita": "In arrivo",
+        "fonti": [
+         "u3a101"
+        ],
+        "temi": [
+         "Agenti AI",
+         "Assistenti e chatbot"
+        ],
+        "affidabilita": "Una fonte",
+        "solo_titoli": false
+       }
+      ]
+     }
+    ],
+    "formato": 2,
+    "controllo_siti": []
+   }
+  }
+ ]
+}

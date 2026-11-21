@@ -1,0 +1,110 @@
+{
+ "giorno": "2026-11-08",
+ "formato": 2,
+ "titolo": "Dagli schizzi su carta alle GIF: l'AI diventa più pratica",
+ "in_breve": "Questa settimana ChatGPT introduce la creazione diretta di GIF animate e unifica l'area di lavoro con Codex, mentre Claude impara a gestire il bilancio personale collegandosi ai conti bancari. Gemini stupisce permettendo di trasformare un disegno su carta in una mini app interattiva senza scrivere codice.",
+ "notizie": [
+  {
+   "titolo": "ChatGPT unifica le schede Chat e Work",
+   "racconto": "OpenAI unisce le sezioni Chat e Work in un unico ambiente per consentire agli utenti di passare dalla conversazione alla stesura dei documenti senza cambiare finestra. Il plafond di token viene condiviso tra il chatbot e Codex, richiedendo attenzione ai limiti di utilizzo per gli account a pagamento.",
+   "perche_conta": "Permette di completare progetti complessi nello stesso spazio di lavoro, tenendo però conto dei consumi condivisi del proprio piano.",
+   "rif": [
+    [
+     "2026-11-02",
+     "u1n1"
+    ],
+    [
+     "2026-11-03",
+     1
+    ]
+   ]
+  },
+  {
+   "titolo": "ChatGPT genera GIF animate e crea immagini più veloci",
+   "racconto": "Grazie al modello Images 2.6, ChatGPT permette di realizzare GIF animate partendo da un semplice testo descrittivo o da una foto. La nuova versione velocizza inoltre del 50% la generazione delle immagini tradizionali e permette di riutilizzare immagini come riferimento visivo.",
+   "perche_conta": "Consente di creare brevi animazioni personalizzate in pochi secondi per social e presentazioni senza software grafici aggiuntivi.",
+   "rif": [
+    [
+     "2026-11-04",
+     "u1n1"
+    ],
+    [
+     "2026-11-05",
+     1
+    ]
+   ]
+  },
+  {
+   "titolo": "Claude accelera le conversazioni lunghe con i Message Threads",
+   "racconto": "Anthropic ha introdotto i Message Threads per gestire al meglio le chat più corpose. Anziché ricaricare l'intera cronologia a ogni richiesta, il sistema invia solo le parti modificate, diminuendo i tempi di attesa del 35% nei dialoghi estesi.",
+   "perche_conta": "Rende le risposte molto più rapide quando si lavora su testi complessi o si portano avanti conversazioni prolungate.",
+   "rif": [
+    [
+     "2026-11-04",
+     1
+    ]
+   ]
+  },
+  {
+   "titolo": "Claude analizza conti e spese con Personal Finance",
+   "racconto": "Claude abilita la connessione in sola lettura ai conti correnti e alle carte di credito tramite Plaid per monitorare le proprie finanze personali. È possibile chiedere all'assistente un resoconto delle uscite mensili, suddividere i costi in categorie e tenere d'occhio le scadenze delle bollette.",
+   "perche_conta": "Offre una panoramica immediata e automatizzata sul proprio bilancio familiare senza dover compilare tabelle a mano.",
+   "rif": [
+    [
+     "2026-11-06",
+     1
+    ],
+    [
+     "2026-11-06",
+     "u1n1"
+    ]
+   ]
+  },
+  {
+   "titolo": "Gemini trasforma uno schizzo su carta in un'applicazione",
+   "racconto": "Fotografando il bozzetto di un'idea disegnata a penna, come una scheda per tracciare abitudini, la modalità Canvas di Gemini elabora l'immagine e scrive il codice necessario. L'utente riceve immediatamente un'anteprima interattiva e funzionante che può testare e personalizzare.",
+   "perche_conta": "Permette a chiunque di realizzare piccoli strumenti digitali su misura partendo da un semplice disegno su un foglio.",
+   "rif": [
+    [
+     "2026-11-07",
+     1
+    ]
+   ]
+  }
+ ],
+ "da_provare": [
+  {
+   "cosa": "Woof di Underdog",
+   "a_cosa_serve": "Trasforma il testo scritto in audio parlato direttamente nel browser, funzionando in locale sul proprio dispositivo senza inviare dati all'esterno.",
+   "rif": "2026-11-06#u2provare-1",
+   "giorno": "2026-11-06"
+  },
+  {
+   "cosa": "Stroq",
+   "a_cosa_serve": "Piattaforma gratuita di sicurezza per PC Windows che supervisiona i comandi eseguiti dagli agenti AI, bloccando la fuga di file e chiavi personali.",
+   "rif": "2026-11-06#provare-1",
+   "giorno": "2026-11-06"
+  },
+  {
+   "cosa": "Hira",
+   "a_cosa_serve": "Un assistente personale gratuito via web pensato per supportarti passo dopo passo nella ricerca di nuove opportunità di lavoro.",
+   "rif": "2026-11-04#u1provare-2",
+   "giorno": "2026-11-04"
+  },
+  {
+   "cosa": "Xmind 2027",
+   "a_cosa_serve": "Applicazione per mappe mentali utilizzabile su browser e Windows che collega e sviluppa concetti in modo automatico per organizzare il pensiero.",
+   "rif": "2026-11-03#provare-1",
+   "giorno": "2026-11-03"
+  },
+  {
+   "cosa": "Uncracked City",
+   "a_cosa_serve": "Gioco investigativo per smartphone Android in cui si esplorano città reali interrogando sospettati guidati da AI capaci di mentire.",
+   "rif": "2026-11-04#u2provare-1",
+   "giorno": "2026-11-04"
+  }
+ ],
+ "modello": "gemini-3.8-flash",
+ "tendenze": "I dati del RADAR evidenziano una netta crescita per le aree Ricerca e informazioni (salita a 17 segnalazioni) e Privacy e sicurezza (a quota 15), insieme al tema Regole e leggi (salito a 8). Questo cambio di passo è testimoniato dalle nuove restrizioni normative della settimana, come il blocco di Apple ai minori di 18 anni per i chatbot di compagnia.",
+ "generato": "2026-11-08T05:27:36+00:00"
+}
