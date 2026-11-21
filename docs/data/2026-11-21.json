@@ -541,6 +541,28 @@
    "solo_titolo": false,
    "categoria": "Strumenti",
    "id": "u1a14"
+  },
+  "u2a79": {
+   "titolo": "OpenAI opens up Dots access to some Plus subscribers",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1zMWJnUE5XTFlCcU9UdzlMZVpydHY1eTlIaE83N1dFU1BWZzdobWFEVkF4ZkFYdTBPajJUQzA4MGVLRTJyRzFwenhmREJHSnRmRExmZTdNY0pPMFE?oc=5",
+   "data": "2026-11-20T20:21:43+00:00",
+   "testo": "",
+   "fonte": "Mashable",
+   "tipo": "testata",
+   "solo_titolo": true,
+   "categoria": "Laboratori",
+   "id": "u2a79"
+  },
+  "u2a90": {
+   "titolo": "Microsoft is making Copilot more useful by helping you manage files and PC problems",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQ0ZvRkNtbWxUaWliY3F1cnB6bzhFRHRvLU5zbVB3LVBUTG5IdEtKY3R1Z0lTV0JQanpZN3Q1RHJrWGlMQVVNTUpUdXREWGtGaVNULThYdHRVOFVYazJxeUFBaTFOS0JMM1Z3Z0FqeTJNNVBlMTA1WTBENEo3dUFFXzlnU3NRblJsd09PV1JqNkZpMmZheWJNTnlB?oc=5",
+   "data": "2026-11-21T13:30:06+00:00",
+   "testo": "",
+   "fonte": "Yahoo Tech",
+   "tipo": "minore",
+   "solo_titolo": true,
+   "categoria": "Laboratori",
+   "id": "u2a90"
   }
  },
  "fonti": [
@@ -1091,10 +1113,38 @@
   "aigeneratedimagefalselysharedasseveredcrimeabridge",
   "2024myanmarworkerprotestimagefalselylinkedto2026700bahtwagedemandprotest",
   "fidanwarnstürkiyeeutiesmustnotbeheldhostagebygreekcyprusdailysabah",
-  "daelsalvadorahaitibukelestatrasformandolasicurezzainunostrumentodipotereregional"
+  "daelsalvadorahaitibukelestatrasformandolasicurezzainunostrumentodipotereregional",
+  "publicaiappdataexposure7stepstotake",
+  "universityofrichmonddistantviewinglabreleasesdatareelaifilmresearchtool",
+  "backinlowercourtamazonwantstocontinuesuitagainstaiassistant",
+  "cairnagentiiatrovanounozerodayinmonailabel",
+  "tetherlaunchesqvacaistackenablinglocalaimodelsandintegratedcryptopaymentsondevic",
+  "asusannouncesproartgr1xwithnvidiartxsparkforprivateondeviceaicomputing",
+  "paolohovissutoinmalesiasenzainternetedèdiventatalamiasecondacasa",
+  "ihadgeminiandclaudebuildmeatrackerapponlyonemadeittomyandroidhomescreen",
+  "iletgeminibuild5widgetsformypixelhomescreentheresultssurprisedme",
+  "claudecode21329warnsaboutfolderhooksandfixesdozensofbugs",
+  "openaiopensupdotsaccesstosomeplussubscribers",
+  "hissonsnaggedaseized325millionsuperyachtfromtheusata138milliondiscountyetdubaibi",
+  "openailaunchesgpt6astraclaimsagierawithnewarchitecture",
+  "anthropicworkerclaimstohavesolvedriemannhypothesiswithhelpfromclaude",
+  "anthropicsrecordipocollideswithtechsworstweekonwallstreetsince2020",
+  "anthropicclaudeaipredictsawildchainlinkcrashfor2027",
+  "microsoftismakingcopilotmoreusefulbyhelpingyoumanagefilesandpcproblems",
+  "nomorefoxguardingthehenhousemicrosoftjoinsadobemastercardandkpmgtolaunchaitransp",
+  "gavinnewsomsbigplanforaisafetyhasasinisteredge",
+  "cananthropicaffordtoputsafetyfirst",
+  "chesscomsnextmoveisanewhubforclassicgamesfrommahjongtosudoku",
+  "issellinganaiversionofyourfacetothismicrodramastartupthefutureofhollywood",
+  "siliconvalleysgrowingobsessionwithaidoomsdayisturningpartsofthetechindustrytowar",
+  "openaisharesnewpromptingtipsforgpt62astraandsoltofixbriefanswersandunnecessaryqu",
+  "arendereimprevedibilileiaèunaquestionedimatematica",
+  "wireditalia",
+  "factcheckfakephotooftrumpputinandxiresemblesfakepictureofhitlermussoliniandhiroh",
+  "erdoğanstressesequaljusticeasgaziosmanpaşacourthouseopensdailysabah"
  ],
  "audio": "audio/2026-11-21.mp3",
- "durata": 197.8,
+ "durata": 225.0,
  "aggiornamenti": [
   {
    "generato": "2026-11-21T13:38:02+00:00",
@@ -1166,6 +1216,64 @@
       "esito": "errore: HTTP Error 403: Forbidden"
      }
     ]
+   }
+  },
+  {
+   "generato": "2026-11-21T16:24:57+00:00",
+   "modello": "gemini-3.6-flash",
+   "testi_completi": 2,
+   "riassunto": {
+    "titolo_giorno": "Copilot aiuta a gestire i file del PC e ChatGPT apre la funzione Dots agli utenti Plus",
+    "in_breve": "Microsoft aggiorna Copilot per assistere gli utenti nella gestione dei file e nella risoluzione dei problemi del computer. Nel frattempo, OpenAI comincia a rilasciare l'accesso alla scheda Dots ad alcuni abbonati a ChatGPT Plus.",
+    "citati": [
+     "Copilot",
+     "ChatGPT"
+    ],
+    "da_provare": [],
+    "osint": [],
+    "gemme": [],
+    "sezioni": [
+     {
+      "titolo": "Novità negli strumenti che già usi",
+      "notizie": [
+       {
+        "titolo": "Gestione dei file e risoluzione dei problemi del PC",
+        "strumento": "Copilot",
+        "riassunto": "Microsoft sta aggiornando Copilot per aiutare gli utenti a gestire i file sul computer e a individuare soluzioni per i problemi tecnici del PC.",
+        "come_provarla": "",
+        "disponibilita": "Non indicato",
+        "fonti": [
+         "u2a90"
+        ],
+        "temi": [
+         "Assistenti e chatbot",
+         "Lavoro e produttività",
+         "AI sul dispositivo"
+        ],
+        "affidabilita": "Da verificare",
+        "solo_titoli": true
+       },
+       {
+        "titolo": "Aperto l'accesso a Dots per alcuni abbonati Plus",
+        "strumento": "ChatGPT",
+        "riassunto": "OpenAI ha iniziato ad aprire l'accesso alla nuova funzione Dots per una parte degli utenti abbonati al piano Plus.",
+        "come_provarla": "",
+        "disponibilita": "Disponibile ora",
+        "fonti": [
+         "u2a79"
+        ],
+        "temi": [
+         "Assistenti e chatbot",
+         "Lavoro e produttività"
+        ],
+        "affidabilita": "Una fonte",
+        "solo_titoli": true
+       }
+      ]
+     }
+    ],
+    "formato": 2,
+    "controllo_siti": []
    }
   }
  ]
