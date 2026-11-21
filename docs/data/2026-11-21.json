@@ -1,0 +1,1022 @@
+{
+ "giorno": "2026-11-21",
+ "generato": "2026-11-21T05:33:08+00:00",
+ "modello": "gemini-3.6-flash",
+ "testi_completi": 32,
+ "riassunto": {
+  "titolo_giorno": "ChatGPT introduce la trascrizione vocale in tempo reale e Gemini impara a controllare il Mac",
+  "in_breve": "La nuova funzione Live Dictation di ChatGPT permette di trascrivere la voce all'istante, mentre Gemini su Mac ottiene la capacità di gestire le applicazioni dello schermo in background. Nel frattempo, spuntano nuovi strumenti pratici come Baby's Day In per trasformare due telefoni in un monitor per neonati.",
+  "citati": [
+   "ChatGPT",
+   "Gemini",
+   "Baby's Day In"
+  ],
+  "da_provare": [
+   {
+    "cosa": "Baby's Day In",
+    "a_cosa_serve": "Trasforma due telefoni cellulari in un sistema di monitoraggio per neonati.",
+    "per_chi": "Tutti i giorni",
+    "ambito": "Casa",
+    "come_iniziare": [],
+    "costo": "Non indicato",
+    "piattaforme": [],
+    "sul_dispositivo": false,
+    "come_sfruttarla": "Riutilizzare un vecchio telefono per controllare i bambini in un'altra stanza.",
+    "italiano": "Non indicato",
+    "difficolta": "Facile",
+    "temi": [
+     "Assistenti e chatbot"
+    ],
+    "fonti": [
+     "a11"
+    ],
+    "affidabilita": "Appena lanciato",
+    "prova": "https://www.producthunt.com/products/baby-s-day-in"
+   },
+   {
+    "cosa": "Interview Coach",
+    "a_cosa_serve": "Permette di esercitarsi ad alta voce per i colloqui di lavoro con simulazioni guidate.",
+    "per_chi": "Lavoro",
+    "ambito": "Lavoro",
+    "come_iniziare": [],
+    "costo": "Non indicato",
+    "piattaforme": [],
+    "sul_dispositivo": false,
+    "come_sfruttarla": "Prepararsi a un colloquio di lavoro rispondendo a voce alle domande e ricevendo riscontri.",
+    "italiano": "Non indicato",
+    "difficolta": "Facile",
+    "temi": [
+     "Voce e audio",
+     "Lavoro e produttività"
+    ],
+    "fonti": [
+     "a7"
+    ],
+    "affidabilita": "Appena lanciato",
+    "prova": "https://www.producthunt.com/products/interview-coach-3"
+   },
+   {
+    "cosa": "Nova by Vybe",
+    "a_cosa_serve": "Esegue un'analisi gratuita del proprio sito web e corregge automaticamente i problemi identificati.",
+    "per_chi": "Lavoro",
+    "ambito": "Lavoro",
+    "come_iniziare": [],
+    "costo": "Gratis",
+    "piattaforme": [],
+    "sul_dispositivo": false,
+    "come_sfruttarla": "Controllare e sistemare automaticamente gli errori di funzionamento del sito internet aziendale.",
+    "italiano": "Non indicato",
+    "difficolta": "Facile",
+    "temi": [
+     "Agenti AI",
+     "Lavoro e produttività"
+    ],
+    "fonti": [
+     "a3"
+    ],
+    "affidabilita": "Appena lanciato",
+    "prova": "https://www.producthunt.com/products/vybe-4"
+   },
+   {
+    "cosa": "MakePixel",
+    "a_cosa_serve": "Editor grafico specializzato nella creazione e modifica di pixel art per grafiche e videogiochi.",
+    "per_chi": "Tutti i giorni",
+    "ambito": "Foto e video",
+    "come_iniziare": [],
+    "costo": "Non indicato",
+    "piattaforme": [],
+    "sul_dispositivo": false,
+    "come_sfruttarla": "Disegnare elementi grafici in stile retrò o icone in formato pixel art.",
+    "italiano": "Non indicato",
+    "difficolta": "Facile",
+    "temi": [
+     "Foto e immagini",
+     "Video"
+    ],
+    "fonti": [
+     "a15"
+    ],
+    "affidabilita": "Appena lanciato",
+    "prova": "https://www.producthunt.com/products/makepixel"
+   },
+   {
+    "cosa": "Stormi",
+    "a_cosa_serve": "Mette a disposizione una squadra di assistenti AI su iPhone per svolgere compiti complessi.",
+    "per_chi": "Lavoro e tutti i giorni",
+    "ambito": "Organizzazione",
+    "come_iniziare": [],
+    "costo": "Non indicato",
+    "piattaforme": [
+     "iPhone"
+    ],
+    "sul_dispositivo": false,
+    "come_sfruttarla": "Delegare più attività contemporaneamente a un gruppo di agenti virtuali sullo smartphone.",
+    "italiano": "Non indicato",
+    "difficolta": "Facile",
+    "temi": [
+     "Agenti AI",
+     "Assistenti e chatbot"
+    ],
+    "fonti": [
+     "a13"
+    ],
+    "affidabilita": "Appena lanciato",
+    "prova": "https://www.producthunt.com/products/stormi"
+   }
+  ],
+  "osint": [
+   {
+    "cosa": "TikTok Strumento di Verifica Video",
+    "a_cosa_serve": "Permette di verificare se un video presente sulla piattaforma è stato generato o manipolato con l'intelligenza artificiale.",
+    "uso": "Verifica video",
+    "piattaforme": [],
+    "costo": "Costo non indicato",
+    "difficolta": "Facile",
+    "come_sfruttarla": "Controllare se un video virale su TikTok è reale oppure un deepfake creato con l'AI.",
+    "temi": [
+     "OSINT e verifica",
+     "Privacy e sicurezza",
+     "Video"
+    ],
+    "fonti": [
+     "a27",
+     "a33"
+    ],
+    "affidabilita": "Una fonte",
+    "solo_titoli": true,
+    "italiano": "Non indicato",
+    "sul_dispositivo": false,
+    "come_iniziare": [],
+    "prova": ""
+   }
+  ],
+  "gemme": [],
+  "sezioni": [
+   {
+    "titolo": "Novità negli strumenti che già usi",
+    "notizie": [
+     {
+      "titolo": "Trascrizione vocale in tempo reale con Live Dictation",
+      "strumento": "ChatGPT",
+      "riassunto": "ChatGPT introduce la funzione Live Dictation, che consente di trascrivere il parlato direttamente in testo mentre si parla, facilitando la dettatura di appunti e documenti.",
+      "come_provarla": "",
+      "disponibilita": "Disponibile ora",
+      "fonti": [
+       "a34"
+      ],
+      "temi": [
+       "Voce e audio",
+       "Scrittura e documenti",
+       "Assistenti e chatbot"
+      ],
+      "affidabilita": "Una fonte",
+      "solo_titoli": true
+     },
+     {
+      "titolo": "Controllo del computer in background su Mac",
+      "strumento": "Gemini",
+      "riassunto": "L'applicazione Mac di Gemini include ora la funzione Computer Use, che permette all'AI di eseguire operazioni tra le app del computer, compilare moduli o ritoccare foto in background senza occupare lo schermo.",
+      "come_provarla": "Scaricare l'applicazione di Gemini per Mac e attivare la funzione Computer Use nelle impostazioni.",
+      "disponibilita": "Disponibile ora",
+      "fonti": [
+       "a141",
+       "a87",
+       "a171"
+      ],
+      "temi": [
+       "Agenti AI",
+       "Lavoro e produttività",
+       "Assistenti e chatbot"
+      ],
+      "affidabilita": "Una fonte",
+      "solo_titoli": false
+     },
+     {
+      "titolo": "Blocco degli screenshot per fermare gli agenti AI",
+      "strumento": "Signal",
+      "riassunto": "Signal disattiva la possibilità di effettuare screenshot sull'app per impedire agli assistenti AI di sistema (come Gemini e Siri) di leggere il contenuto delle chat private attraverso lo schermo.",
+      "come_provarla": "",
+      "disponibilita": "Disponibile ora",
+      "fonti": [
+       "a140",
+       "a160"
+      ],
+      "temi": [
+       "Privacy e sicurezza",
+       "Agenti AI",
+       "Assistenti e chatbot"
+      ],
+      "affidabilita": "Confermata",
+      "solo_titoli": false
+     },
+     {
+      "titolo": "Nuova opzione per disattivare le funzioni AI",
+      "strumento": "Canva",
+      "riassunto": "Canva permette agli utenti, anche con piano gratuito, di disattivare la generazione automatica di contenuti e gli strumenti di intelligenza artificiale integrati nell'editor.",
+      "come_provarla": "",
+      "disponibilita": "Disponibile ora",
+      "fonti": [
+       "a162"
+      ],
+      "temi": [
+       "Foto e immagini",
+       "Lavoro e produttività"
+      ],
+      "affidabilita": "Una fonte",
+      "solo_titoli": false
+     },
+     {
+      "titolo": "Pannello laterale per riprendere le conversazioni AI",
+      "strumento": "Google Ricerca",
+      "riassunto": "Sulla pagina principale di Google arriva un pannello laterale a comparsa che mostra la cronologia delle ricerche effettuate in modalità AI, per riprendere le discussioni dove si erano interrotte.",
+      "come_provarla": "Aprire la home page di Google da computer e fare clic sulla barra laterale a sinistra.",
+      "disponibilita": "Disponibile ora",
+      "fonti": [
+       "a58",
+       "a120"
+      ],
+      "temi": [
+       "Ricerca e informazioni",
+       "Assistenti e chatbot"
+      ],
+      "affidabilita": "Confermata",
+      "solo_titoli": false
+     }
+    ]
+   },
+   {
+    "titolo": "In breve",
+    "breve": true,
+    "notizie": [
+     {
+      "titolo": "Trasparenza sulle richieste di backdoor nel Regno Unito",
+      "riassunto": "L'Investigatory Powers Tribunal ha stabilito che il governo britannico deve rendere pubblici gli ordini di accesso ai dati inviati alle aziende tecnologiche come Apple, vietando le richieste segrete.",
+      "fonti": [
+       "a156"
+      ],
+      "temi": [
+       "Privacy e sicurezza",
+       "Regole e leggi"
+      ],
+      "affidabilita": "Una fonte",
+      "solo_titoli": false
+     },
+     {
+      "titolo": "Errore di un sistema AI scolastico scambia patatine per una pistola",
+      "riassunto": "Negli Stati Uniti, un software AI per il rilevamento di armi ha scambiato un sacchetto di patatine per una pistola, provocando un ingiustificato intervento della polizia contro quattro studenti.",
+      "fonti": [
+       "a137"
+      ],
+      "temi": [
+       "Privacy e sicurezza",
+       "Regole e leggi"
+      ],
+      "affidabilita": "Una fonte",
+      "solo_titoli": false
+     }
+    ]
+   }
+  ],
+  "formato": 2,
+  "controllo_siti": [
+   {
+    "cosa": "TikTok Strumento di Verifica Video",
+    "esito": "nessun sito da aprire"
+   },
+   {
+    "cosa": "Baby's Day In",
+    "sito": "https://www.producthunt.com/r/p/1322700?app_id=339",
+    "esito": "errore: HTTP Error 403: Forbidden"
+   },
+   {
+    "cosa": "Interview Coach",
+    "sito": "https://www.producthunt.com/r/p/1323740?app_id=339",
+    "esito": "errore: HTTP Error 403: Forbidden"
+   },
+   {
+    "cosa": "MakePixel",
+    "sito": "https://www.producthunt.com/r/p/1322788?app_id=339",
+    "esito": "errore: HTTP Error 403: Forbidden"
+   },
+   {
+    "cosa": "Stormi",
+    "sito": "https://www.producthunt.com/r/p/1322985?app_id=339",
+    "esito": "errore: HTTP Error 403: Forbidden"
+   },
+   {
+    "cosa": "Nova by Vybe",
+    "sito": "https://www.producthunt.com/r/p/1323414?app_id=339",
+    "esito": "errore: HTTP Error 403: Forbidden"
+   }
+  ]
+ },
+ "articoli": {
+  "a141": {
+   "titolo": "Google's Gemini can now run Mac apps and finish desktop chores in the background while you keep working",
+   "link": "https://the-decoder.com/googles-gemini-can-now-run-mac-apps-and-finish-desktop-chores-in-the-background-while-you-keep-working/",
+   "data": "2026-11-20T18:50:31+00:00",
+   "testo": "Google's Gemini can now run Mac apps and finish desktop chores in the background while you keep working Google now lets Gemini handle Mac tasks in the background. The new \"Computer Use\" feature in the Gemini Mac app completes multistep tasks across local files, desktop apps, and websites. Google says users simply describe a goal, and Gemini clicks, types, and navigates menus and forms. Everything runs in an isolated background window with a live chat preview, keeping the screen and cursor free for uninterrupted work. Users choose which apps Gemini can access, watch every step live, pause anytime, and approve key actions beforehand. Google's examples include batch-editing photos and 3D scenes, filling out shipping forms from local PDFs, and building presentations. Computer Use rolls out in English in the US today, and the Gemini Mac app is available to download. OpenAI has also focused on Computer Use recently, pulling well ahead with its Astra model. THE DECODER+ AI News Without the Hype – Curated by Humans - Every Plus article and the full archive - No ad banners - Frontier Radar: 6 deep dives a year What is included Already a subscriber? Sign in",
+   "fonte": "The Decoder",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Testate tech",
+   "id": "a141",
+   "testo_completo": true
+  },
+  "a27": {
+   "titolo": "TikTok, ora si può verificare se un video è stato creato con l'IA: ecco come",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNXy04TWVaZExBYkY3ME5kdkFEeGVnN29sUVpVdmtrUm03NWRlcVVybkFLYlF5YmJPY1NRN0Q3VUg2LTdPbUFFLXJVaTRkRm01RkUxTk5oRzlXQTlOQTRYaVhwTzhoTzZ1TjREbmlMTUtHWWwzZFpfdnphZzYyLW1ENDBTbTBtNUVhRFRNdllZU25DTVRiNDZZSTJrcndZSWVnbGpmadIBqgFBVV95cUxNYWYtVUNwSHp6bWVabnNMMk16TUxIM2tTOXB1d0hZVWJ4Z0gySFBUbklnNzA2elRldmdSdktFRXRxX0hhZHNnekNNbUdxRVpvNkkxTFZodUUzcjlNMEVGSDdGWjA3V1pXby1ham1oOGdrN1lZdENMc29CU0VjZlNpSVh0MUhnNktvZUdtcVNiSkFyOWwxdENaZ1UwQ1B1LWdFcmx5UGpOWXhhUQ?oc=5",
+   "data": "2026-11-20T17:16:16+00:00",
+   "testo": "",
+   "fonte": "Il Messaggero",
+   "tipo": "testata",
+   "solo_titolo": true,
+   "categoria": "Strumenti",
+   "id": "a27"
+  },
+  "a3": {
+   "titolo": "Nova by Vybe",
+   "link": "https://www.producthunt.com/products/vybe-4",
+   "sito": "https://www.producthunt.com/r/p/1323414?app_id=339",
+   "data": "2026-11-19T11:54:06-08:00",
+   "testo": "Nova audits your website free, then fixes what it finds",
+   "fonte": "Product Hunt (AI)",
+   "tipo": "vetrina",
+   "solo_titolo": false,
+   "categoria": "Strumenti",
+   "id": "a3"
+  },
+  "a33": {
+   "titolo": "TikTok lancia uno strumento per il rilevamento dei deepfake.",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5lbG91YmZodU1pUVlnek1PZ3J0eHVJSGhOUjJLZXctaEgtcXNwRkY4QWlJVm02YVh3aktZQkNGRFhWRzBKNTJzcVFvdVpZMzlZVC1ZZlhQUmIwZzVOV1hLb2VfRXUtZ2VJQnRzM293bGgxSHIx?oc=5",
+   "data": "2026-11-21T05:00:05+00:00",
+   "testo": "",
+   "fonte": "Vietnam.vn",
+   "tipo": "minore",
+   "solo_titolo": true,
+   "categoria": "Strumenti",
+   "id": "a33"
+  },
+  "a87": {
+   "titolo": "Google Launches Computer Use in Gemini for Mac, Running Tasks in the Background",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNc3kwaHA1WTNCSjZjSUg0Q3NBZXZUbVJXSWlFVWVjN0R1WmhnSUJVQTFta3ZXZ1hIbEc0MWdyWE5lM2JCdGN5bFE5RVplR2dQNzNrZFZOa3JIUHVabDF1X0tnUmVUZzZBNTMzUDVHYXcxZ0NWVEZqZ2MwbEZJaUVWVHhTbGFqbTJuMEtjOXlQb2kwRTl1X2NvOUtSQ3FVX1k?oc=5",
+   "data": "2026-11-20T16:32:57+00:00",
+   "testo": "",
+   "fonte": "Pasquale Pillitteri",
+   "tipo": "minore",
+   "solo_titolo": true,
+   "categoria": "Laboratori",
+   "id": "a87"
+  },
+  "a140": {
+   "titolo": "Signal blocks screenshots on iOS 27 and Android to stop AI agents from reading private chats",
+   "link": "https://the-decoder.com/signal-blocks-screenshots-on-ios-27-and-android-to-stop-ai-agents-from-reading-private-chats/",
+   "data": "2026-11-20T19:50:27+00:00",
+   "testo": "Signal is blocking screenshots to stop AI agents like Apple's Siri AI, Google's Gemini Intelligence, and Meta's Muse from reading private chats. The app calls it an \"existential threat\" to privacy, but admits its protections remain incomplete, including on macOS. Apple, Google, and Microsoft should follow suit. The article Signal blocks screenshots on iOS 27 and Android to stop AI agents from rea…",
+   "fonte": "The Decoder",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Testate tech",
+   "id": "a140"
+  },
+  "a137": {
+   "titolo": "Traumatized teens sue school, cops after Doritos bag triggers AI gun alert",
+   "link": "https://arstechnica.com/tech-policy/2026/11/traumatized-teens-sue-school-cops-after-doritos-bag-triggers-ai-gun-alert/",
+   "data": "2026-11-19T20:19:28+00:00",
+   "testo": "In October 2025, four Black high school students were sharing Cool Ranch Doritos after football practice, winding down and waiting for their rides home. It was then, in the lull of a moment any teen with after-school activities knows well, that the school’s AI gun detection system suddenly flagged one teen holding a bag of chips as a potential gunman. Within two minutes, Baltimore County Public Schools officials who reviewed security camera footage linked to the alert determined there was no actual threat. They recognized the Doritos bag and canceled the alert, which notified not only other school officials but also the Baltimore County Police Department that no response was needed. The false alert could have ended there—before a traumatizing campus clash with police—but it didn’t. According to a lawsuit filed by the current and former students, Taki Allen, Yui-Osa Ogbeide, Devon Thompson Jr., and Keith Winfield III, due to “both technological and human errors,” school officials called police to the scene anyway, and the cops responded with force. At least six patrol cars arrived with lights flashing, and some cops emerged with guns drawn. The teens froze and cooperated, confused and scared for their lives, their lawsuit said. “No one told the students what they were suspected of,” the lawsuit said. “Officers separated the students, ordered them to their knees on the concrete, handcuffed them, and searched their persons and property.” Only after the cops failed to find a gun did students learn that it was the school’s AI gun detection system, Omnilert, that triggered the police response. Allegedly, one of the responding officers muttered, “stupid AI cameras” and “fucking Omnilerts,” while another told the students that “AI is not the best.” Finally releasing the studen…",
+   "fonte": "Ars Technica",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Testate tech",
+   "id": "a137",
+   "testo_completo": true
+  },
+  "a160": {
+   "titolo": "Signal disattiva gli screenshot per bloccare Gemini e Siri AI",
+   "link": "https://www.punto-informatico.it/signal-disattiva-screenshot-boccare-gemini-siri-ai/",
+   "data": "2026-11-20T14:26:28+00:00",
+   "testo": "Signal ha sviluppato una funzionalità che impedisce a Gemini e Siri AI di leggere lo schermo, ma deve essere disattivata la cattura degli screenshot. The post Signal disattiva gli screenshot per bloccare Gemini e Siri AI appeared first on Punto Informatico .",
+   "fonte": "Punto Informatico",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Italia",
+   "id": "a160"
+  },
+  "a11": {
+   "titolo": "Baby's Day In",
+   "link": "https://www.producthunt.com/products/baby-s-day-in",
+   "sito": "https://www.producthunt.com/r/p/1322700?app_id=339",
+   "data": "2026-11-19T00:50:55-08:00",
+   "testo": "Turn two phones into a baby monitor",
+   "fonte": "Product Hunt (AI)",
+   "tipo": "vetrina",
+   "solo_titolo": false,
+   "categoria": "Strumenti",
+   "id": "a11"
+  },
+  "a13": {
+   "titolo": "Stormi",
+   "link": "https://www.producthunt.com/products/stormi",
+   "sito": "https://www.producthunt.com/r/p/1322985?app_id=339",
+   "data": "2026-11-19T04:24:03-08:00",
+   "testo": "An AI team on your iPhone that does real work",
+   "fonte": "Product Hunt (AI)",
+   "tipo": "vetrina",
+   "solo_titolo": false,
+   "categoria": "Strumenti",
+   "id": "a13"
+  },
+  "a156": {
+   "titolo": "Vittoria di Apple: gli ordini di backdoor devono essere pubblici",
+   "link": "https://www.punto-informatico.it/vittoria-apple-ordini-backdoor-pubblici/",
+   "data": "2026-11-20T18:22:19+00:00",
+   "testo": "L’Investigatory Powers Tribunal del Regno Unito ha stabilito che il governo deve rendere pubblici gli ordini di accesso ai dati. Questa è l’ultima “puntata” della vicenda iniziata quasi due anni fa, quando il governo aveva in pratica chiesto ad Apple di creare una backdoor. Durante l’udienza, il Dipartimento dell’Interno (Home Office) ha confermato l’invio di un secondo ordine. Niente più ordini segreti Da circa quattro anni è disponibile la funzionalità Advanced Data Protection (ADP) che protegge i dati caricati su iCloud con la crittografia end-to-end (deve essere attivata dagli utenti). All’inizio del 2025, il governo britannico ha ordinato ad Apple di creare una backdoor per consentire l’accesso a tali dati in caso di indagini. Questa backdoor potrebbe essere sfruttata anche dai cybercriminali. L’azienda di Cupertino ha rimosso la funzionalità solo nel Regno Unito e presentato ricorso all’Investigatory Powers Tribunal. Il governo britannico ha successivamente ritirato la richiesta in seguito all’intervento dell’amministrazione Trump. La notizia relativa all’ordine era trapelata online. La legge (Investigatory Powers Act del 2016) vieta di confermare pubblicamente la ricezione degli ordini, denominati “technical capability notice” (TCN), per motivi di sicurezza nazionale. Il tribunale ha stabilito che gli ordini devono essere pubblici. In pratica, Apple (e altre aziende) possono comunicare a tutti che il governo britannico chiede di creare una backdoor per accedere ai dati degli utenti. Il governo ha dovuto ammettere di aver inviato un secondo ordine, stavolta limitato agli utenti del Regno Unito. Apple ha presentato un secondo ricorso che verrà esaminato nel 2027.",
+   "fonte": "Punto Informatico",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Italia",
+   "id": "a156",
+   "testo_completo": true
+  },
+  "a120": {
+   "titolo": "Google is putting AI chats right on the homepage",
+   "link": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats",
+   "sito": "",
+   "data": "2026-11-19T15:05:06-05:00",
+   "testo": "Google is updating its homepage to include AI searches. In a post on X, Google’s vice president of product, Robby Stein, shows how you can now open a collapsible sidebar to view and continue your AI chats. Google is putting AI chats right on the homepage You can now view your recent AI searches by opening the sidebar on Google’s homepage. Based on the GIF shared by Stein, it looks like you can open the sidebar by clicking the gray bar that appears on the left side of your screen. From there, Google will show a list of the searches you’ve made using AI Mode, along with the ability to start a new thread, search your threads, or connect a Gemini Notebook. It’s yet another big change for Google’s homepage, which has long presented you with a single bar to kick off your web search. The company brought its AI Mode button to its search bar last year, which opens up a chatbot-like search experience within Google. In May, Google updated its search box to accommodate longer queries and added AI-powered autocomplete. Stein says Google is rolling out the option because “people are coming to Search with more questions that aren’t just one and done,” adding that “in testing, this sidebar made a big difference for making progress & continuing to explore the web.” The new homepage is rolling out globally on desktop.",
+   "fonte": "The Verge",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Testate tech",
+   "id": "a120",
+   "testo_completo": true
+  },
+  "a58": {
+   "titolo": "Google's homepage just got its biggest change in years, and it's all about AI",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQamVLeTVBMlM2elVhWjYxX0E2eEJxSkpqckJkbzVKcnZENXI0V2dPekpNaHZIbEdiNHB0VDZadERXZzU5LUNlRXlwV1FvaklOXzlzTmhqVnpDRDJLbFBVdkpra3hGV0JqMlZyQ1p0VDZMS1YtMkdmS096aEtfaTNBMkxHdEloalBJbGJV?oc=5",
+   "data": "2026-11-20T00:49:00+00:00",
+   "testo": "",
+   "fonte": "Android Police",
+   "tipo": "testata",
+   "solo_titolo": true,
+   "categoria": "Strumenti",
+   "id": "a58"
+  },
+  "a162": {
+   "titolo": "Canva fa un passo indietro sull’AI: ora puoi disattivarla (più o meno)",
+   "link": "https://www.punto-informatico.it/canva-passo-indietro-ai-puoi-disattivarla/",
+   "data": "2026-11-20T13:11:11+00:00",
+   "testo": "Le nuove opzioni di Canva disattivano l'AI generativa e i contenuti artificiali, anche con un account gratuito, ma alcuni tool rimarranno. The post Canva fa un passo indietro sull’AI: ora puoi disattivarla (più o meno) appeared first on Punto Informatico .",
+   "fonte": "Punto Informatico",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Italia",
+   "id": "a162"
+  },
+  "a171": {
+   "titolo": "Google Gemini su Mac: Computer Use controlla applicazioni e file",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNXBES2VqN3ltVXp1QVZlT3l0RUV5djNjVlNJeXhGVmg1Qy0tT2h5NnFWVHdnSDl6b2w4cnFKQ0stRmNwaE1EMXM2aTI4Mi0tMzRkM2RXejd3SUZSX0hfdWNoMnhTSHhFeHpYeW1pcDhMYWVPQm5mQk1uTXNvVEF0Z0RDdEZKbXRVT19zVGJadzZxSmpsM3ZTNGNPd1BqcmFrT1hXZHdoeEJ5M1dBbjJ5R0R5SzJfdXcxVzc4Qjg2V2U?oc=5",
+   "data": "2026-11-20T21:51:32+00:00",
+   "testo": "",
+   "fonte": "AI4Business",
+   "tipo": "minore",
+   "solo_titolo": true,
+   "categoria": "Italia",
+   "id": "a171"
+  },
+  "a7": {
+   "titolo": "Interview Coach",
+   "link": "https://www.producthunt.com/products/interview-coach-3",
+   "sito": "https://www.producthunt.com/r/p/1323740?app_id=339",
+   "data": "2026-11-19T19:48:51-08:00",
+   "testo": "Practice job interviews out loud",
+   "fonte": "Product Hunt (AI)",
+   "tipo": "vetrina",
+   "solo_titolo": false,
+   "categoria": "Strumenti",
+   "id": "a7"
+  },
+  "a15": {
+   "titolo": "MakePixel",
+   "link": "https://www.producthunt.com/products/makepixel",
+   "sito": "https://www.producthunt.com/r/p/1322788?app_id=339",
+   "data": "2026-11-19T01:56:32-08:00",
+   "testo": "Pixel art editor for game sprites, tilesets and maps",
+   "fonte": "Product Hunt (AI)",
+   "tipo": "vetrina",
+   "solo_titolo": false,
+   "categoria": "Strumenti",
+   "id": "a15"
+  },
+  "a34": {
+   "titolo": "ChatGPT trascrive la voce in tempo reale con la nuova funzione Live Dictation",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNN0VEOHhhZ1dadm0zb05MWmZrY2I5STBiT3BWSGJnSzN3SUFmZ3MzRTY5Q1FFaHAzTWNHdUU2MURTSXVweXZzNWpveFdUWGxGV0RzZy1DaENDR0gzM3JhLWh4RUI2X1FMVURyTk1fRENIaHNJbHJvSnFLb3RmYjNveXJyc1VvajJPejBaZmctRUIzVUdqS21qYUQzQlktRndJMzZ2MmJRc0dud0YtQUxPS09pQ3ZYOXNYeEswQkF0UEI?oc=5",
+   "data": "2026-11-20T08:21:01+00:00",
+   "testo": "",
+   "fonte": "Hardware Upgrade",
+   "tipo": "testata",
+   "solo_titolo": true,
+   "categoria": "Strumenti",
+   "id": "a34"
+  }
+ },
+ "fonti": [
+  {
+   "nome": "Product Hunt (AI)",
+   "ok": true,
+   "presi": 15
+  },
+  {
+   "nome": "Show HN (nuovi progetti)",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "Nuove app AI (internazionale)",
+   "ok": true,
+   "presi": 10
+  },
+  {
+   "nome": "Nuove app AI (Italia)",
+   "ok": true,
+   "presi": 8
+  },
+  {
+   "nome": "Novità AI da provare (Italia)",
+   "ok": true,
+   "presi": 8
+  },
+  {
+   "nome": "AI sul dispositivo (internazionale)",
+   "ok": true,
+   "presi": 8
+  },
+  {
+   "nome": "AI sul dispositivo (Italia)",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "Android Police (AI su Android)",
+   "ok": true,
+   "presi": 4
+  },
+  {
+   "nome": "Windows Central (AI su Windows)",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "Ollama (nuove versioni)",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "Open WebUI (nuove versioni)",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "Show HN – progetti utili (gemme)",
+   "ok": true,
+   "presi": 4
+  },
+  {
+   "nome": "Reddit r/selfhosted",
+   "ok": false,
+   "errore": "HTTP Error 404: Not Found",
+   "presi": 0
+  },
+  {
+   "nome": "Reddit r/opensource",
+   "ok": false,
+   "errore": "HTTP Error 404: Not Found",
+   "presi": 0
+  },
+  {
+   "nome": "Alternative open source (Google News)",
+   "ok": true,
+   "presi": 6
+  },
+  {
+   "nome": "n8n (nuove versioni)",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "Immich (nuove versioni)",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "OpenAI",
+   "ok": true,
+   "presi": 2
+  },
+  {
+   "nome": "Google (blog ufficiale)",
+   "ok": true,
+   "presi": 4
+  },
+  {
+   "nome": "Google Gemini (blog)",
+   "ok": true,
+   "presi": 2
+  },
+  {
+   "nome": "Nuove funzioni AI (Google News)",
+   "ok": true,
+   "presi": 12
+  },
+  {
+   "nome": "Anthropic / Claude",
+   "ok": true,
+   "presi": 6
+  },
+  {
+   "nome": "Microsoft Copilot",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "Altri assistenti AI (Perplexity, Mistral, Meta AI…)",
+   "ok": true,
+   "presi": 8
+  },
+  {
+   "nome": "Hugging Face (modelli e strumenti aperti)",
+   "ok": true,
+   "presi": 3
+  },
+  {
+   "nome": "Mistral AI",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "The Verge",
+   "ok": true,
+   "presi": 9
+  },
+  {
+   "nome": "TechCrunch",
+   "ok": true,
+   "presi": 12
+  },
+  {
+   "nome": "Ars Technica",
+   "ok": true,
+   "presi": 4
+  },
+  {
+   "nome": "MIT Technology Review",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "The Decoder",
+   "ok": true,
+   "presi": 10
+  },
+  {
+   "nome": "TLDR AI (newsletter)",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "ANSA",
+   "ok": true,
+   "presi": 6
+  },
+  {
+   "nome": "Wired Italia",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "Il Sole 24 Ore Tecnologia",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "Punto Informatico",
+   "ok": true,
+   "presi": 10
+  },
+  {
+   "nome": "HDblog",
+   "ok": true,
+   "presi": 3
+  },
+  {
+   "nome": "AI4Business",
+   "ok": true,
+   "presi": 4
+  },
+  {
+   "nome": "Agenda Digitale (AI)",
+   "ok": true,
+   "presi": 3
+  },
+  {
+   "nome": "Garante Privacy e AI",
+   "ok": true,
+   "presi": 3
+  },
+  {
+   "nome": "Malwarebytes (app e truffe AI)",
+   "ok": true,
+   "presi": 2
+  },
+  {
+   "nome": "Reddit",
+   "ok": false,
+   "errore": "HTTP Error 404: Not Found",
+   "presi": 0
+  },
+  {
+   "nome": "Reddit (AI locale)",
+   "ok": false,
+   "errore": "HTTP Error 404: Not Found",
+   "presi": 0
+  },
+  {
+   "nome": "Simon Willison (prove pratiche di strumenti AI)",
+   "ok": true,
+   "presi": 2
+  },
+  {
+   "nome": "Bellingcat (guide e strumenti)",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "GIJN (guide per giornalisti investigativi, via Google News)",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "OSINT – verifica e fact-checking (internazionale)",
+   "ok": true,
+   "presi": 5
+  },
+  {
+   "nome": "OSINT – nuovi strumenti (internazionale)",
+   "ok": true,
+   "presi": 6
+  },
+  {
+   "nome": "OSINT – strumenti (Italia)",
+   "ok": true,
+   "presi": 1
+  },
+  {
+   "nome": "Facta (fact-checking, contenuti falsi e AI)",
+   "ok": true,
+   "presi": 3
+  },
+  {
+   "nome": "Week in OSINT (Sector035)",
+   "ok": true,
+   "presi": 0
+  },
+  {
+   "nome": "The OSINT Newsletter",
+   "ok": true,
+   "presi": 2
+  },
+  {
+   "nome": "IDMO (osservatorio italiano sulla disinformazione)",
+   "ok": true,
+   "presi": 2
+  },
+  {
+   "nome": "EU DisinfoLab",
+   "ok": true,
+   "presi": 2
+  },
+  {
+   "nome": "Reddit (OSINT)",
+   "ok": false,
+   "errore": "HTTP Error 404: Not Found",
+   "presi": 0
+  },
+  {
+   "nome": "Hacker News (OSINT)",
+   "ok": true,
+   "presi": 0
+  }
+ ],
+ "visti": [
+  "groundwork",
+  "fackd",
+  "novabyvybe",
+  "volcano",
+  "mailpipe",
+  "undoguard",
+  "interviewcoach",
+  "tamekoshi",
+  "zethos",
+  "greataireview",
+  "babysdayin",
+  "threadlore",
+  "stormi",
+  "docker",
+  "makepixel",
+  "sponsorunitedlaunchessurfaceaitoolatsbjevent",
+  "nacfelaunchesasknacfeanaitoolfortruckingquestions",
+  "finmossidekicktheaiassistantthatknowsyourdeals",
+  "labthreadsmcpserverletsscientistsasktheirownaiassistantaboutlabrecords",
+  "metasmuseaiassistantlaunchesinaustralia",
+  "protonbringsitsprivacyfocusedaiassistanttowindowsmacandlinux",
+  "googlessmartaiassistantbecomesfreebutswedenhastowait",
+  "enjilaunchesanaimarketingassistantthatknowswhatsworkingandwhatisnt",
+  "gentlemonsterunveilsintelligenteyewearcollectioninnewyorkvietnaminvestmentreview",
+  "googlegeminitakesadigatfictionalaiappchattyai",
+  "intelligenzaartificialegratisimiglioristrumentiaidausareonlinestartupnewsit",
+  "tiktokorasipuòverificareseunvideoèstatocreatoconliaeccocome",
+  "questaappprendeunatuafotoeticreaunalocandinadigta6personalizzatapuoifarloin2minu",
+  "intelligenzaartificialelavoroepartecipazioneassolombardaesindacatifirmanounanuov",
+  "intelligenzaartificialeemobilitàdalpolouniversitariodicarpiilbastoneintelligente",
+  "chigovernalintelligenzaartificialeneimuseilasfidaènellemanidelleistituzioni",
+  "intelligenzaartificialesonolestartupasurfarelanuovaondatainnovativaancheinitalia",
+  "tiktoklanciaunostrumentoperilrilevamentodeideepfake",
+  "chatgpttrascrivelavoceintemporealeconlanuovafunzionelivedictation",
+  "openaidotsintestpergliabbonatichatgptplus",
+  "comeusaregemini4hydrogenpercapiredovefinisconoisoldi",
+  "googlemapscomeusareaskmapscongeminipercercareneituoimessaggi",
+  "claudecodelaguidacompleta2026dallinstallazioneallusoavanzato",
+  "geminidigoogletrucchieconsigliperusarlomegliosecondolepagineufficiali",
+  "comefarsiaiutaredaunchatbotperacquistareduranteilblackfriday",
+  "bollettatroppoaltacomeusareliaperscopriredovesiconsumadipiùerisparmiare",
+  "asuslaunchesproartgr1xminipcforlocalaiworkloads",
+  "microsoftbringsrdmaoverusb4towindowsallowingmultiplepcstorunonelocalaimodel",
+  "nvidiamicrosoftunveilazureverarubinsystemsandondeviceaipushatignite",
+  "msisrtxsparkminipcbeatsstrixhaloatlocalaibutwindowsonarmholdsitbackhowtogeek",
+  "whatdoesanaipcactuallydoforyouwhatsnapdragonondeviceaicandooffline",
+  "hybridintelligenceonthewebintroducingaioninstructandpromptapiinmicrosoftedge",
+  "howtorunalocalllmforprivateanduncensoredai",
+  "microsoftaddscontrolsforthirdpartyandlocalaiagentsinagent365",
+  "facebookgarantesanzionametaper805milioniperaccessiallagalleriadelcellulare",
+  "nvidialanciaidesktoprtxsparkdiasusdellemsiperlailocale",
+  "windows11aprelefotoconlappsbagliataeccoirimedi",
+  "perplexityportablecomputerportalailocalesullegpunvidiartxprivacyepotenzasenzaclo",
+  "windows11girainlocalesuiphoneduograzieaunprogettosenzajailbreak",
+  "iletgeminichatgptandclaudesendmedailymorningbriefingsonlyonewasworthwakingupto",
+  "ireplacedendlessgmailscrollingwith5geminifeaturesthatsummarizethreadsanddraftrep",
+  "5precisesnapseedtoolsthatbeatgooglephotosaggressiveaiphotoeditor",
+  "googleshomepagejustgotitsbiggestchangeinyearsanditsallaboutai",
+  "opencomputeranopensourcealternativetodevin",
+  "cornholenewsahackernewsinspiredsitefornewsacrossthemidwest",
+  "fastdeterministicnaturallanguagesearchforopenstreetmapdata",
+  "foolscapawritingappthatreadsyourbookandneverwritesforyou",
+  "cutselfhostedllmcostandlatencywiththedistributedkvcachingagentskillamazonwebserv",
+  "theseselfhostedappsgotmoreusefulthemomentclaudecouldreadthem",
+  "amazonelasticachenowsupportsdistributedkvcachingforselfhostedllminference",
+  "claudecode21330addsenterprisesigninandcharts",
+  "qwenincidentsshowselfhostedaimodelsneedstrongersteering",
+  "ifinallyfoundthebestcrossplatformfilesharingsolutionwithoutinstallinganything",
+  "n8nstable",
+  "immichv340",
+  "combattingadversarialdistillation",
+  "canaihelpscientistsidentifypromisingdrugcandidates",
+  "howwatchdutyisusinggeminitogetwildfirealertsoutfaster",
+  "icymitransferyourhistoryfromotheraiappsintogemini",
+  "howwereputtingoneofquantummechanicsdeepestfeaturestothetestatscale",
+  "introducingtoolretrievalinthegeminiapi",
+  "getyouryearendtasksdonewithnewconnectedapps",
+  "letgeminitacklerepetitivechoresonyourmac",
+  "googlegemini4neonlauncheswithloweraicodingcosts",
+  "coinbaselauncheschatgptpluginforcryptoandstocktrading",
+  "synclaunchesitsaimatchmakerinclaudesotheaipeoplealreadyusecanfindthemadate",
+  "brophygeminipoweredglassesoutsourceattention",
+  "anthropiclaunchesclaudeformanufacturing",
+  "kukuriagentruleshublaunchesalibraryofinstructionsthatmakeaiagentsandchatgptworkt",
+  "croolaunchesaiagentmarketplaceaccessinclaudecodeandcodex",
+  "blacklineisnowavailableonanthropicsclaudemarketplace",
+  "googlelaunchescomputeruseingeminiformacrunningtasksinthebackground",
+  "crooskilllauncheslettingclaudecodeandcodexusersdirectlycallon4000aiagents",
+  "googlecloudaddsgeminiaitoolstopartnermarketingstudio",
+  "googlerollsoutnanobanana2afterviralsuccessofaiimagegenerationtool",
+  "anthropicmathematicianclaimstosolveriemannhypothesiswithhelpfromclaude",
+  "anthropicclaudedownwhyitsaiditwasunabletoauthenticatecode",
+  "anthropicresearchersaysheandclaudeprovedtheriemannhypothesisfirstposedin1859",
+  "anthropicmathematicianclaimsaihelpedsolvea167yearoldmathmystery",
+  "anthropicmathematiciansaysheusedaitosolvethebiggestprobleminmath",
+  "anthropicmathematicianclaimstoproveriemannhypothesismostfamousprobleminallofmath",
+  "arcadisscalesclientdeliverywithmicrosoftcopilotstudioandpowerplatform",
+  "microsoftscopilotstrategyofferspathtoenterpriseaigrowthsaysbankofamerica",
+  "microsoftbringsofficeintocopilotwhatchannelpartnerscandeploynow",
+  "howsapandmicrosoftinnovatetogethertodeliveraivaluefortheenterprise",
+  "microsoftcopilotforfinanceleadersanexecutivebriefing",
+  "ios273appleintelligencesiriaiusagelimitswhattoknow",
+  "markzuckerbergsmetaaipredictstheflippeninghowdoesadaflipxrp",
+  "itriedreplacingnotebooklmandperplexitywithoneopensourceresearchappanditdoesmoret",
+  "aideals2026everywaytosaveonaitoolsthatworks",
+  "hengdianfundgathers247mfromzhejiangfirmsfordeepseekstake",
+  "perplexitycomputercannowworkinsidechromeedgebraveandarc",
+  "didntgetenoughsleepthisnewfeatureinoneui95couldpreventacarcrash",
+  "tesla2026441turnsitsaicomputerintoansicomputer",
+  "welcomeinkling2minicuttingedgeperformanceforyourlocalsetup",
+  "introducingharnessadaptersadaptyourfavoritemodeltoyourharnesstoimproveperformanc",
+  "daisyrose27bpushingthefrontierofposttrainingefficiency",
+  "trumpthreatenstremendoustaxformovingaidatacentersoutsidetheus",
+  "anthropicmathematicianclaimstohavesolvedprestigiousmillenniumprizeproblemwithcla",
+  "theweekeverythingfellapart",
+  "signalisblockinggeminiandsiriaifromreadingyourscreen",
+  "appleishiringengineerstobuilditsownaiagent",
+  "abriefhistoryofnvidiasrecentstockfluctuations",
+  "metasmusecharmmightcost300",
+  "googleisputtingaichatsrightonthehomepage",
+  "geminionmaccannowuseyourcomputer",
+  "danielekbacksairesearchersfusionpowerstartuphereswhattheyrebuilding",
+  "aiclaimedasolutiontothe167yearoldriemannhypothesisandahumandidtoo",
+  "chipscansurvivethespaceenvironmentcantheirfinancing",
+  "thefalloutfromnvidiasjensenhuangscandalcontinues",
+  "sixaipoweredgadgetsthatcouldmakeyourhomeofficesmarter",
+  "applemaybedevelopingitsownaiagentthatrunsyourmac",
+  "anthropics7founderscashedoutnearly2binrecordbreakingipo",
+  "metasnewmusecharmdevicemaycost300",
+  "thesetechoutagesaregivingy2kaiagentstyle",
+  "theunfoldingjensenhuangscandalatimeline",
+  "anthropicsipocoulddeliver156btocharity",
+  "googlegivesgeminitheabilitytouseyourmacforyou",
+  "googlerollsoutnewsearchhomepagewithaichathistoryandnosearchbutton",
+  "metareconsiders2030netzerogoalamidrecordemissionsfromaidatacenters",
+  "researcherplants2mcanariesintotheaisupplychainaprivacydisastersurfaced",
+  "traumatizedteenssueschoolcopsafterdoritosbagtriggersaigunalert",
+  "themostmisunderstoodgraphinaijustgotamajorupdate",
+  "openaimakesitmuchharderforattackerstoextracthowitslatestaimodelsthink",
+  "signalblocksscreenshotsonios27andandroidtostopaiagentsfromreadingprivatechats",
+  "googlesgeminicannowrunmacappsandfinishdesktopchoresinthebackgroundwhileyoukeepwo",
+  "bloomberganalysisof10millionjobpostingsshowsaiexposedrolesinchinafell10percentag",
+  "applejoinstheraceforaiagentsthatcontrolyourdevicewhileraisingnewbarriersforcompe",
+  "nvidiabetsatleast500milliononinceptionsdiffusionmodelstostrengthenitsopensourcen",
+  "googleslatesthomepageupdatepushesitssearchenginefurthertowardanaianswerengine",
+  "hermesagentscollectivewisdomfeatureturnsoneemployeesaitrickintothewholeteamsskil",
+  "anopenaiagentassignedasimplewritingtaskdecidedonitsowntobuildasecretemailsurveil",
+  "aiindustrygrowthremainsstrongbutthepaceisslowing",
+  "geminitoolretrievalstripeevalsmethodsagentswarms",
+  "borsaleuropaincaloconitimoriperliatokyochiudea5",
+  "nascelafieradellintelligenzaartificialeguidatadalluomoadapriletornahumandrivenai",
+  "medicinaturismoerifiutilestartupperilpremioinnovationisland",
+  "anthropicfortedebuttoperlapiùgrandeipodisempremanoncancellaitimoriperlai",
+  "worldsummitofnobelpeacelaureateseventoil24dicembrearoma",
+  "anthropicvolaallesordioawallstreetvale2000miliardi",
+  "vittoriadiapplegliordinidibackdoordevonoesserepubblici",
+  "volocancellato7promptaiperavereunpianodiriservapronto",
+  "anthropiciporecordda935miliardididollari",
+  "blackfridayeraybanmetagrandeoffertasugliocchialismart",
+  "signaldisattivagliscreenshotperbloccaregeminiesiriai",
+  "daprimevideoèarrivatoilblackfridayscontisupersucanaliestore",
+  "canvafaunpassoindietrosullaiorapuoidisattivarlapiùomeno",
+  "applesviluppaunagenteaichepuòcontrollareilmac",
+  "blackfridaybitdefenderproteggituttalafamigliadalletruffeonlineconunamaxiofferta",
+  "chatgptcambiafacciasultelefonoedotshalasuascheda",
+  "googlelahomepagestapersubireuncambiamentoepocalevideo",
+  "chatgptdotsparteiltestpergliabbonatiplus",
+  "sanxingduiilprimofilmcinesefattoconlaifaflopalcinema",
+  "intelligenzaartificialeinitaliaperchéleimpresefrenano",
+  "aieblackoutinformaticiperchésatyanadellalancialallarme",
+  "googlegeminisumaccomputerusecontrollaapplicazioniefile",
+  "modelliaimicrosoftaignitelastrategiamaiperridurreicosti",
+  "cyberattacchieaicosachiedonolenormeuealleorganizzazioni",
+  "socialvietatiaiminoriinodigiuridicidelleproposteitaliane",
+  "vietareisocialairagazziilrischioèlasciareirrisoltoilproblemaeducativo",
+  "ilgaranteprivacysanzionametagalleriadegliutentiandroidusatasenzaconsensospecific",
+  "intelligenzaartificialeascuolavialiberadelgaranteprivacy",
+  "garanteprivacysanzionedi805milionidieuropermeta",
+  "openailostcontrolofaiagentsover80timescaliforniaalleges",
+  "criminalsareusingartexaiagentstospeedupcyberattacksfbiwarns",
+  "quotingleventalpöge",
+  "tokenfraudishereanditsbadyoutube",
+  "howaglobalsouthledreportingcollectivebroketheinsidedeutschebankmegaleak",
+  "digitalsecuritybasicsforinvestigativejournalistsluisassardo",
+  "centroderecursos",
+  "taiwanscommonwealthmagazinedoublesdownondatadriveninvestigativejournalism",
+  "nvidiastangledwebrisksofsmartphonetrackinginjapanbannedpesticidesinbrazilandfoxn",
+  "newincomeverificationtoolaimedatbettertrackingsnapeligibilityimplementedinmissis",
+  "newincomeverificationtoolforsnapeligibilityimplementedinmississippi",
+  "mississippiimplementsnewverificationtoolforsnapclients",
+  "mississippiaddsincomeverificationtoolforsnapapplications",
+  "aigeneratedpicturemisrepresentedasexnvidiaceoandhiswife",
+  "investigatingonlinelegallyfeecstudygainsrecognitionatnato",
+  "howdwfactchecksfakenews",
+  "oneofrussiaslargestchemicalplantswasattackedanenterpriselinkedtotheproductionofe",
+  "russianintelligenceidentifyingtargetsforstrikesukrainelaunchedmapofpotentiallyda",
+  "mapofconnectivitymadeineuropeormadewithtürkiyedailysabah",
+  "thedorogobuzhplantinrussiawasattackedbydroneswhatisknownabouttheexplosion",
+  "ancorafrigoriferisottoattaccoilregnounitomobilitaistituzioniericercatoriinitalia",
+  "questaimmaginedibambinipalestinesinelletendeallagateèfalsa",
+  "nochristinelagardenonhadettocheglianzianivivonotroppoesonounrischioperleconomiam",
+  "questovideodironaldoalpallonedoroconlabandieradellapalestinaèfalso",
+  "theosintnewsletterissue131",
+  "theosintnewsletterissue130",
+  "alviaprimacollaborazionedelcentrouecontrolefakenewsconongefactchecker",
+  "mattarelladifendeivaccinimaggioranzadivisasuimedicinovax",
+  "disinfoupdate18112026",
+  "europesmissingwatchdogshowboththedsaandtheaiactarefailingonenforcement"
+ ],
+ "audio": "audio/2026-11-21.mp3",
+ "durata": 164.8
+}
