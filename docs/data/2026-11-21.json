@@ -518,6 +518,29 @@
    "solo_titolo": true,
    "categoria": "Strumenti",
    "id": "a34"
+  },
+  "u1a148": {
+   "titolo": "ChatGPT, nuova app in arrivo: le funzioni preferite a portata di tocco",
+   "link": "https://www.hdblog.it/mobile/articoli/n677798/chatgpt-app-mobile-redesign-schede-dots-openai/",
+   "data": "2026-11-21T10:15:00+02:00",
+   "testo": "Dots avrà una scheda e si potranno fissare Codex, Progetti e Immagini nella barra.",
+   "fonte": "HDblog",
+   "tipo": "testata",
+   "solo_titolo": false,
+   "categoria": "Italia",
+   "id": "u1a148"
+  },
+  "u1a14": {
+   "titolo": "Conversaflex",
+   "link": "https://www.producthunt.com/products/conversaflex",
+   "sito": "https://www.producthunt.com/r/p/1323362?app_id=339",
+   "data": "2026-11-19T10:59:59-08:00",
+   "testo": "AI speaking practice for multilingual teams",
+   "fonte": "Product Hunt (AI)",
+   "tipo": "vetrina",
+   "solo_titolo": false,
+   "categoria": "Strumenti",
+   "id": "u1a14"
   }
  },
  "fonti": [
@@ -1015,8 +1038,135 @@
   "alviaprimacollaborazionedelcentrouecontrolefakenewsconongefactchecker",
   "mattarelladifendeivaccinimaggioranzadivisasuimedicinovax",
   "disinfoupdate18112026",
-  "europesmissingwatchdogshowboththedsaandtheaiactarefailingonenforcement"
+  "europesmissingwatchdogshowboththedsaandtheaiactarefailingonenforcement",
+  "stitchloop",
+  "conversaflex",
+  "faalaunchednewaiairtraffictoolthreedaysbeforenationalgroundstop",
+  "ckpoliceintroduceaitooltohelpwithnonemergencies",
+  "yourlifespathwinsthirdwileyplatinumawar",
+  "amazonsayschinesehackersusedcairnaitooltodiscoverapparentzerodayduringattackonun",
+  "gehealthcareunveilsimaging360aiassistantandaiassistedprotocoling",
+  "comemodificarefotoconlintelligenzaartificialestrumentigratis",
+  "tiktoklanciaunostrumentoperindividuareideepfake",
+  "tiktoklanciaunostrumentoperilrilevamentodeideepfakebloccandoilrischiodimanipolaz",
+  "geminisumaccomeusareleappconilcontrollodelloschermorequisitielimiti",
+  "gemininotebookexnotebooklm9funzionidariprovaredalcodicealsynccongemini",
+  "arrivainitaliateslafsdvialiberadelmite99euroalmese",
+  "thinkingmachinesreleasesinkling2miniforlocalai",
+  "inkling2miniarrivesforlocalaiwithitsmiddlelayersontripleduty",
+  "wiciinferletsphotographersrungiantaimodelslocallywithoutuploadingasingleimage",
+  "msiunveils13litredesktopforlocalaicomputing",
+  "montidaunitagliatifuoridalmondosenzatelefononéinternetpartelapetizionealprefetto",
+  "rakazoopensourcepersistentaiagents",
+  "aiagentbuildersvisualversuscodefirsttools",
+  "microsoftiskillingoffteamssupportforios17andipados17onlythreeyearsafteritwasrele",
+  "googlelaunchesgemini4neontakingonclaudeopus55andgpt62sol",
+  "googlelaunchesgemini4neonforenterpriseaitasks",
+  "googlecloudlatestnewsandannouncements",
+  "seatgeekclaimsfirstblendedprimaryandresaleticketingpresenceinchatgpt",
+  "replyiolaunchesopensourcejasonharnessforoutboundsales",
+  "gemini4neoncutsgooglescodingto3perinput",
+  "chatgptplusgetsaworkspacewithselfupdatingdocs",
+  "anthropicworkerclaimstohavesolvedaholygrailofmathproblemswiththehelpofai",
+  "anthropicresearchersaysheusedaitosolvemathsgreatestriddle",
+  "hoursafteranthropicclaimsaclaudeproofoftheriemannhypothesisstanfordreleasesanall",
+  "keyfactsanthropics472bazurepledgeintelchipsmsft1bstake",
+  "microsoftbeginsrollingoutautopilotitsalwaysonpersonalaiagent",
+  "mistrallaunchessporesciencehubtodoubleasiapacificworkforcethestraitstimesnewspap",
+  "metamuseaireadsignalchatsthroughandroidandmacpermissions",
+  "newopenmodelinkling2minithinksinloopstosolveproblemswithfewerwordsandstillrunson",
+  "ustechnologystockssuffertheirworstweeklylosssincethepandemicasaidoubtspileup",
+  "bytedancearguesmostaitrainingphasesareunnecessaryandbacksitupwithacompetitiveope",
+  "programmaricercaprotesicainail2026202836milioniper18progetti",
+  "matematicodianthropicannuncialadimostrazionedellipotesidiriemannconlia",
+  "nvidianuoveindaginidellacaliforniaedellasec",
+  "claudeelipotesidiriemannunmatematicoannunciaunaprovadaverificare",
+  "signalbloccheràgliscreenshotperteneregeminiesiriaifuoridallechat",
+  "chatgptnuovaappinarrivolefunzionipreferiteaportataditocco",
+  "milanoautoclassica2026unviaggiotraleleggendelemeravigliedanonperdere",
+  "metamusecharmilgadgetaipotrebbecostare300dollari",
+  "ipoanthropicilrecordnonbastaperchéwallstreettemelabollaai",
+  "databreachsistemicoerispostaglobaleilcasomicrosoft",
+  "holidayshoppinginaworldoffakeshowaiischangingthegame",
+  "aigeneratedimagefalselysharedasseveredcrimeabridge",
+  "2024myanmarworkerprotestimagefalselylinkedto2026700bahtwagedemandprotest",
+  "fidanwarnstürkiyeeutiesmustnotbeheldhostagebygreekcyprusdailysabah",
+  "daelsalvadorahaitibukelestatrasformandolasicurezzainunostrumentodipotereregional"
  ],
  "audio": "audio/2026-11-21.mp3",
- "durata": 164.8
+ "durata": 197.8,
+ "aggiornamenti": [
+  {
+   "generato": "2026-11-21T13:38:02+00:00",
+   "modello": "gemini-3.6-flash",
+   "testi_completi": 2,
+   "riassunto": {
+    "titolo_giorno": "Personalizzazione su ChatGPT e pratica vocale con Conversaflex",
+    "in_breve": "Gli sviluppi delle ultime ore puntano sulla personalizzazione dell'interfaccia e sull'apprendimento vocale. Con Conversaflex si declina l'AI nell'esercitazione parlata multilingue per il lavoro, mentre ChatGPT prepara la nuova scheda Dots per accedere più velocemente alle funzioni preferite.",
+    "citati": [
+     "Conversaflex",
+     "ChatGPT"
+    ],
+    "da_provare": [
+     {
+      "cosa": "Conversaflex",
+      "a_cosa_serve": "Offre uno strumento di esercitazione vocale guidato dall'intelligenza artificiale per fare pratica di conversazione parlata in contesti multilingue.",
+      "per_chi": "Lavoro",
+      "ambito": "Voce e lingue",
+      "come_iniziare": [],
+      "costo": "Non indicato",
+      "piattaforme": [],
+      "sul_dispositivo": false,
+      "come_sfruttarla": "Migliorare la propria fluidità nel parlare in una lingua straniera prima di una presentazione o riunione di lavoro.",
+      "italiano": "Non indicato",
+      "difficolta": "Facile",
+      "temi": [
+       "Voce e audio",
+       "Lavoro e produttività",
+       "Scrittura e documenti"
+      ],
+      "fonti": [
+       "u1a14"
+      ],
+      "affidabilita": "Appena lanciato",
+      "prova": "https://www.producthunt.com/products/conversaflex"
+     }
+    ],
+    "osint": [],
+    "gemme": [],
+    "sezioni": [
+     {
+      "titolo": "Novità negli strumenti che già usi",
+      "notizie": [
+       {
+        "titolo": "In arrivo la scheda Dots per organizzare le funzioni preferite",
+        "strumento": "ChatGPT",
+        "riassunto": "L'interfaccia si aggiorna con l'introduzione della scheda Dots, pensata per consentire agli utenti di personalizzare la barra di navigazione fissando al suo interno gli strumenti più usati, come la generazione di immagini, la gestione dei progetti e Codex.",
+        "come_provarla": "",
+        "disponibilita": "In arrivo",
+        "fonti": [
+         "u1a148"
+        ],
+        "temi": [
+         "Assistenti e chatbot",
+         "Lavoro e produttività",
+         "Foto e immagini"
+        ],
+        "affidabilita": "Una fonte",
+        "solo_titoli": false
+       }
+      ]
+     }
+    ],
+    "formato": 2,
+    "controllo_siti": [
+     {
+      "cosa": "Conversaflex",
+      "sito": "https://www.producthunt.com/r/p/1323362?app_id=339",
+      "esito": "errore: HTTP Error 403: Forbidden"
+     }
+    ]
+   }
+  }
+ ]
 }
