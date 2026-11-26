@@ -1,0 +1,115 @@
+name: Aggiornamento
+
+on:
+  schedule:
+    - cron: "17 5 * * *"
+    - cron: "17 16 * * *"
+  workflow_dispatch:
+    inputs:
+      settimana:
+        description: "Edizione settimanale (1 = sì)"
+        required: false
+        default: "0"
+
+permissions:
+  contents: write
+  actions: read
+
+defaults:
+  run:
+    shell: bash
+
+concurrency:
+  group: lavoro
+  cancel-in-progress: false
+
+jobs:
+  controlla:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 50
+    outputs:
+      fare: ${{ steps.c.outputs.fare }}
+    steps:
+      - id: c
+        env:
+          GH_TOKEN: ${{ github.token }}
+          EVENTO: ${{ github.event_name }}
+          ORARIO: ${{ github.event.schedule }}
+        run: |
+          if [ "$EVENTO" != "schedule" ]; then echo "fare=true" >> "$GITHUB_OUTPUT"; exit 0; fi
+          if [ "$ORARIO" = "17 5 * * *" ]; then
+            INIZIO=$(date -u +%Y-%m-%dT05:00:00Z)
+          elif [ "$(date -u +%H)" -lt 16 ]; then
+            INIZIO=$(date -u -d yesterday +%Y-%m-%dT16:00:00Z)
+          else
+            INIZIO=$(date -u +%Y-%m-%dT16:00:00Z)
+          fi
+          N=$(gh api -X GET "repos/$GITHUB_REPOSITORY/actions/workflows/ciclo.yml/runs" \
+                -f status=success -f "created=>=$INIZIO" --jq '.total_count' 2>/dev/null) || N=0
+          if [ "${N:-0}" -gt 0 ]; then echo "fare=false" >> "$GITHUB_OUTPUT"; exit 0; fi
+          echo "fare=true" >> "$GITHUB_OUTPUT"
+          sleep "$(shuf -i 0-2400 -n 1)"
+
+  lavoro:
+    needs: controlla
+    if: needs.controlla.outputs.fare == 'true'
+    runs-on: ubuntu-24.04
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@fbc6f3992d24b796d5a048ff273f7fcc4a7b6c09 # v5.1.0
+
+      - uses: actions/setup-python@ece7cb06caefa5fff74198d8649806c4678c61a1 # v6.3.0
+        with:
+          python-version: "3.12"
+
+      - id: m
+        run: echo "m=$(date -u +%Y-%m)" >> "$GITHUB_OUTPUT"
+
+      - uses: actions/cache@caa296126883cff596d87d8935842f9db880ef25 # v5.1.0
+        with:
+          path: ~/.cache/tts
+          key: t-${{ steps.m.outputs.m }}
+          restore-keys: t-
+
+      - name: Esegui
+        env:
+          SEGRETI: ${{ toJSON(secrets) }}
+          VARIABILI: ${{ toJSON(vars) }}
+          GH_TOKEN: ${{ github.token }}
+          SETTIMANA: ${{ github.event.inputs.settimana }}
+        run: |
+          CHIAVE=$(python3 -c 'import json,os;print(json.loads(os.environ["SEGRETI"]).get("CHIAVE",""))')
+          [ -n "$CHIAVE" ] || { echo "Manca il segreto CHIAVE."; exit 1; }
+          echo "::add-mask::$CHIAVE"
+          export CHIAVE
+          ORA=$(date -u +%Y-%m-%dT%H:%M:%S+0000)
+          export GIT_AUTHOR_DATE="$ORA" GIT_COMMITTER_DATE="$ORA"
+          git fetch -q --depth=1 origin dati || { echo "Branch dati non raggiungibile."; exit 1; }
+          git show FETCH_HEAD:dati.bin > dati.bin
+          mkdir -p w
+          openssl enc -d -aes-256-cbc -pbkdf2 -iter 200000 -md sha256 -pass env:CHIAVE -in dati.bin | tar -xz -C w \
+            || { echo "Decifratura non riuscita (chiave errata o dati corrotti)."; exit 1; }
+          cd w
+          bash tools/esegui.sh > uscita.txt 2>&1 && echo "Fatto." || { echo "Non riuscito."; exit 1; }
+
+      - name: Registro
+        if: always()
+        env:
+          CHIAVE: ${{ secrets.CHIAVE }}
+        run: |
+          [ -n "$CHIAVE" ] || exit 0
+          F=$(ls w/registro.txt w/uscita.txt 2>/dev/null) || true
+          [ -n "$F" ] || exit 0
+          cat $F | openssl enc -aes-256-cbc -pbkdf2 -iter 200000 -md sha256 -salt -pass env:CHIAVE -out r.bin
+
+      - uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4.6.2
+        if: always()
+        with:
+          name: r
+          path: r.bin
+          retention-days: 7
+          if-no-files-found: ignore
+
+      - name: Avvisi
+        run: |
+          if [ -s avvisi.txt ] || [ -s w/avvisi.txt ]; then echo "::error::Avvisi"; exit 1; fi
